@@ -4,7 +4,7 @@
   <title><![CDATA[aviav.github.io]]></title>
   <link href="http://aviav.github.io/atom.xml" rel="self"/>
   <link href="http://aviav.github.io/"/>
-  <updated>2015-09-20T21:59:17+02:00</updated>
+  <updated>2015-09-20T23:35:55+02:00</updated>
   <id>http://aviav.github.io/</id>
   <author>
     <name><![CDATA[aviav]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://aviav.github.io/blog/2015/09/20/test/"/>
+    <updated>2015-09-20T21:56:17+02:00</updated>
+    <id>http://aviav.github.io/blog/2015/09/20/test</id>
+    <content type="html"><![CDATA[<p>This is a test!</p>
+]]></content>
+  </entry>
   
 </feed>
