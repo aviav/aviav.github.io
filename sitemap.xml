@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://aviav.github.io/blog/2015/09/20/test/</loc>
-    <lastmod>2015-09-20T21:56:17+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://aviav.github.io/</loc>
+    <loc>http://aviav.github.io/blog/2015/09/21/how_to_build_a_rails_5_api_only_and_ember_application_from_scratch/</loc>
+    <lastmod>2015-09-21T10:10:49+02:00</lastmod>
   </url>
   <url>
     <loc>http://aviav.github.io/blog/archives/</loc>
+  </url>
+  <url>
+    <loc>http://aviav.github.io/</loc>
   </url>
 </urlset>

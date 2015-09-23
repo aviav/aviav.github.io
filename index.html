@@ -114,17 +114,291 @@
 
 
 
-<span class="glyphicon glyphicon-calendar"></span> <time datetime="2015-09-20T21:56:17+02:00"  data-updated="true" itemprop="datePublished dateCreated">ordinal</time>
+<span class="glyphicon glyphicon-calendar"></span> <time datetime="2015-09-21T10:10:49+02:00"  data-updated="true" itemprop="datePublished dateCreated">ordinal</time>
         
       </p>
     
     
-      <h2 class="entry-title" itemprop="name headline"><a href="/blog/2015/09/20/test/" itemprop="url">Test</a></h2>
+      <h2 class="entry-title" itemprop="name headline"><a href="/blog/2015/09/21/how_to_build_a_rails_5_api_only_and_ember_application_from_scratch/" itemprop="url">How to Build a Rails 5 API Only and Ember Application From Scratch</a></h2>
     
   </header>
 
 
-  <div class="entry-content clearfix" itemprop="articleBody description"><p>This is a test!</p>
+  <div class="entry-content clearfix" itemprop="articleBody description"><p><a href="https://github.com/rails/rails/pull/19832">Rails API has been merged into Rails master branch</a>.</p>
+
+<p>There is a
+<a href="http://wyeworks.com/blog/2015/6/30/how-to-build-a-rails-5-api-only-and-ember-application">how-to on building a Rails API app and integrating it with a simple Ember app</a>. There
+also is a redux from one year before the merge, which
+<a href="https://devmynd.com/blog/2014-7-rails-ember-js-with-the-ember-cli-redux-part-1-the-api-and-cms-with-ruby-on-rails">explains how an Ember and Rails API app could be built</a>
+before the Rails API merge.</p>
+
+<p>In this post, we are going to build a simple
+<a href="http://rubyonrails.org">Rails</a> API app and an
+<a href="http://emberjs.com">Ember</a> app from scratch and
+give the Ember app access to the Rails API. This consolidates the
+approaches described in the two posts linked above.</p>
+
+<h3>Build the Backend</h3>
+
+<p>For a more in-depth explanation of what is happening here, consult
+<a href="http://wyeworks.com/blog/2015/6/30/how-to-build-a-rails-5-api-only-and-ember-application">this post</a>.</p>
+
+<h4>Generate Rails API only application</h4>
+
+<p>Rails 5 at the time of writing requires Ruby 2.2.2 or newer. For
+instance, in case you are using <a href="https://rvm.io">rvm</a>, do <code>rvm install
+2.2.3</code>. To use this version as your system default, <code>rvm use 2.2.3
+--default</code>.</p>
+
+<p>Since Rails 5 is not yet released, we have to clone the Github
+repository and generate our application from the source code.</p>
+
+<pre><code>git clone git://github.com/rails/rails.git
+cd rails
+bundle
+bundle exec railties/exe/rails new ../my_api_app --api --edge
+</code></pre>
+
+<h4>Scaffold Users resource</h4>
+
+<p>We create a simple scaffold using <code>rails generate scaffold</code> and
+perform the migration:</p>
+
+<pre><code>cd ../my_api_app
+bin/rails g scaffold user name
+bin/rake db:migrate
+</code></pre>
+
+<h4>Adjust JSON serialization format</h4>
+
+<p>Ember&rsquo;s REST adapter requires that the root object&rsquo;s key is present in
+the JSON payload. This is achieved by setting the <code>json</code> adapter
+instead of Active Model Serializer&rsquo;s default <code>flatten_json</code> adapter.</p>
+
+<p>Create a new initializer file
+<code>config/initializers/ams_json_adapter.rb</code> including the following
+line:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="no">ActiveModel</span><span class="o">::</span><span class="no">Serializer</span><span class="o">.</span><span class="n">config</span><span class="o">.</span><span class="n">adapter</span> <span class="o">=</span> <span class="ss">:json</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h4>Test Rails API</h4>
+
+<p>To see if the API works as expected, start the server with <code>bin/rails
+s</code>. Let us try to create the first User using <code>curl</code>:</p>
+
+<pre><code>curl -H "Content-Type:application/json; charset=utf-8" \
+-d '{"user": {"name":"Hans"}}' http://localhost:3000/users
+</code></pre>
+
+<p>Looking at <a href="http://localhost:3000/users">localhost:3000/users</a>, we now expect
+to see the newly created user shown in the format we specified above.</p>
+
+<h4>Set up CORS</h4>
+
+<p>Since the Rails app and the Ember app will run in different domains,
+we have to configure Cross Origin Resource Sharing (CORS).</p>
+
+<p>We will test the backend in <code>localhost:3000</code> and the frontend in
+<code>localhost:4200</code>.</p>
+
+<p>In brief, we need to uncomment <code>rack-cors</code> in the Gemfile, run
+<code>bundle</code>, and put the following code in <code>config/initializers/cors.rb</code>:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="c1"># Avoid CORS issues when API is called from the frontend app</span>
+</span><span class='line'><span class="c1"># Handle Cross-Origin Resource Sharing (CORS) in order to accept cross-origin AJAX requests</span>
+</span><span class='line'>
+</span><span class='line'><span class="c1"># Read more: https://github.com/cyu/rack-cors</span>
+</span><span class='line'>
+</span><span class='line'> <span class="no">Rails</span><span class="o">.</span><span class="n">application</span><span class="o">.</span><span class="n">config</span><span class="o">.</span><span class="n">middleware</span><span class="o">.</span><span class="n">insert_before</span> <span class="mi">0</span><span class="p">,</span> <span class="s2">&quot;Rack::Cors&quot;</span> <span class="k">do</span>
+</span><span class='line'>   <span class="n">allow</span> <span class="k">do</span>
+</span><span class='line'>     <span class="n">origins</span> <span class="s1">&#39;localhost:4200&#39;</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="n">resource</span> <span class="s1">&#39;*&#39;</span><span class="p">,</span>
+</span><span class='line'>       <span class="ss">headers</span><span class="p">:</span> <span class="ss">:any</span><span class="p">,</span>
+</span><span class='line'>       <span class="nb">methods</span><span class="p">:</span> <span class="o">[</span><span class="ss">:get</span><span class="p">,</span> <span class="ss">:post</span><span class="p">,</span> <span class="ss">:put</span><span class="p">,</span> <span class="ss">:patch</span><span class="p">,</span> <span class="ss">:delete</span><span class="p">,</span> <span class="ss">:options</span><span class="p">,</span> <span class="ss">:head</span><span class="o">]</span>
+</span><span class='line'>   <span class="k">end</span>
+</span><span class='line'> <span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h3>Build the frontend</h3>
+
+<p>This instruction will enable the Ember app to use a simple Users
+resource it receives from the Rails API. It will present the API data
+as a Users index page. For additional detail (e.g. show User pages),
+we can refer to
+<a href="https://devmynd.com/blog/2014-7-rails-ember-js-with-the-ember-cli-redux-part-2-the-front-end-with-ember-and-the-ember-cli">the post this is based on</a>.</p>
+
+<h4>Install Ember CLI and create frontend</h4>
+
+<p>For installing the Ember CLI, we use <code>--no-optional</code>, since it is less
+error-prone:</p>
+
+<pre><code># npm install -g ember-cli --no-optional
+</code></pre>
+
+<p>Create the Ember.js app:</p>
+
+<pre><code>cd ..
+ember new my_ember_frontend
+cd my_ember_frontend
+</code></pre>
+
+<p>At the time of writing, this yields a reminder even with the current
+stable Node.js: <code>Future versions of Ember CLI will not support
+v4.1.0. Please update to Node 0.12 or io.js.</code> Do not worry: the fix
+for this misleading message has been <a href="https://github.com/ember-cli/ember-cli/issues/4814">announced and is likely to find
+its way into future versions of Ember CLI</a>.</p>
+
+<h4>Generate application adapter</h4>
+
+<p>To enable the Ember app to communicate with our Rails app, we generate
+an adapter:</p>
+
+<pre><code>ember generate adapter application
+</code></pre>
+
+<p>Now we adjust <code>app/adapters/application.js</code>:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="kr">import</span> <span class="nx">DS</span> <span class="nx">from</span> <span class="s1">&#39;ember-data&#39;</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'><span class="kr">export</span> <span class="k">default</span> <span class="nx">DS</span><span class="p">.</span><span class="nx">ActiveModelAdapter</span><span class="p">.</span><span class="nx">extend</span><span class="p">({</span>
+</span><span class='line'>  <span class="nx">host</span><span class="o">:</span> <span class="s1">&#39;http://localhost:3000&#39;</span>
+</span><span class='line'><span class="p">});</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h4>Add Users resource to router.js</h4>
+
+<p>Edit <code>app/router.js</code>:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="kr">import</span> <span class="nx">Ember</span> <span class="nx">from</span> <span class="s1">&#39;ember&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="kr">import</span> <span class="nx">config</span> <span class="nx">from</span> <span class="s1">&#39;./config/environment&#39;</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'><span class="kd">var</span> <span class="nx">Router</span> <span class="o">=</span> <span class="nx">Ember</span><span class="p">.</span><span class="nx">Router</span><span class="p">.</span><span class="nx">extend</span><span class="p">({</span>
+</span><span class='line'>  <span class="nx">location</span><span class="o">:</span> <span class="nx">config</span><span class="p">.</span><span class="nx">locationType</span>
+</span><span class='line'><span class="p">});</span>
+</span><span class='line'>
+</span><span class='line'><span class="nx">Router</span><span class="p">.</span><span class="nx">map</span><span class="p">(</span><span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+</span><span class='line'>  <span class="k">this</span><span class="p">.</span><span class="nx">resource</span><span class="p">(</span><span class="s1">&#39;users&#39;</span><span class="p">);</span>
+</span><span class='line'><span class="p">});</span>
+</span><span class='line'>
+</span><span class='line'><span class="kr">export</span> <span class="k">default</span> <span class="nx">Router</span><span class="p">;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h4>Generate User model</h4>
+
+<p>Firstly,</p>
+
+<pre><code>ember generate model user
+</code></pre>
+
+<p>Then edit <code>app/models/user.js</code>:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="kr">import</span> <span class="nx">DS</span> <span class="nx">from</span> <span class="s1">&#39;ember-data&#39;</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'><span class="kr">export</span> <span class="k">default</span> <span class="nx">DS</span><span class="p">.</span><span class="nx">Model</span><span class="p">.</span><span class="nx">extend</span><span class="p">({</span>
+</span><span class='line'>    <span class="nx">name</span><span class="o">:</span> <span class="nx">DS</span><span class="p">.</span><span class="nx">attr</span><span class="p">(</span><span class="s1">&#39;string&#39;</span><span class="p">)</span>
+</span><span class='line'><span class="p">});</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h4>Generate Users/index route</h4>
+
+<p>Now,</p>
+
+<pre><code>ember generate route users/index
+</code></pre>
+
+<p>Edit <code>app/routes/users/index.js</code>:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="kr">import</span> <span class="nx">Ember</span> <span class="nx">from</span> <span class="s1">&#39;ember&#39;</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'><span class="kr">export</span> <span class="k">default</span> <span class="nx">Ember</span><span class="p">.</span><span class="nx">Route</span><span class="p">.</span><span class="nx">extend</span><span class="p">({</span>
+</span><span class='line'>    <span class="nx">model</span><span class="o">:</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+</span><span class='line'>        <span class="k">return</span> <span class="k">this</span><span class="p">.</span><span class="nx">store</span><span class="p">.</span><span class="nx">findAll</span><span class="p">(</span><span class="s1">&#39;user&#39;</span><span class="p">);</span>
+</span><span class='line'>    <span class="p">}</span>
+</span><span class='line'><span class="p">});</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h4>Write Users/index template</h4>
+
+<p>Edit <code>app/templates/users/index.hbs</code>:</p>
+
+<pre><code>&lt;ul&gt;
+
+    {{#each model as |user|}}
+
+    &lt;li&gt; {{user.name}} &lt;/li&gt;
+
+    {{/each}}
+
+&lt;/ul&gt;
+{{outlet}}
+</code></pre>
+
+<h3>Test the application</h3>
+
+<p>To test the whole application, run from the Rails app&rsquo;s directory</p>
+
+<pre><code>bin/rails s
+</code></pre>
+
+<p>and from the Ember app&rsquo;s directory</p>
+
+<pre><code>ember serve
+</code></pre>
+
+<p>Browse to <a href="http://localhost:4200/users">localhost:4200/users</a> to try it out!
+) to try it out!</p>
 </div>
   
   
@@ -155,7 +429,7 @@
   
   <div id="recent_posts" class="list-group">
     
-    <a class="list-group-item " href="/blog/2015/09/20/test/">Test</a>
+    <a class="list-group-item " href="/blog/2015/09/21/how_to_build_a_rails_5_api_only_and_ember_application_from_scratch/">How to Build a Rails 5 API Only and Ember Application From Scratch</a>
     
   </div>
 </section>
