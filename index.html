@@ -198,13 +198,13 @@ to see the newly created user shown in the format we specified above.</p>
 
 <h4>Set up CORS</h4>
 
-<p>Since the Rails app and the Ember app will run in different domains,
-we have to configure Cross Origin Resource Sharing (CORS).</p>
+<p>Whenever the Rails app and the Ember app have different origins, we
+need to configure Cross Origin Resource Sharing (CORS).</p>
 
 <p>We will test the backend in <code>localhost:3000</code> and the frontend in
 <code>localhost:4200</code>.</p>
 
-<p>In brief, we need to uncomment <code>rack-cors</code> in the Gemfile, run
+<p>In brief, we have to uncomment <code>rack-cors</code> in the Gemfile, run
 <code>bundle</code>, and put the following code in <code>config/initializers/cors.rb</code>:</p>
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
@@ -249,9 +249,10 @@ we can refer to
 <h4>Install Ember CLI and create frontend</h4>
 
 <p>For installing the Ember CLI, we use <code>--no-optional</code>, since it is less
-error-prone:</p>
+error-prone. Using <a href="https://github.com/creationix/nvm">nvm</a>, we do not
+need to run npm as root, thus avoiding possible permission problems:</p>
 
-<pre><code># npm install -g ember-cli --no-optional
+<pre><code>npm install -g ember-cli --no-optional
 </code></pre>
 
 <p>Create the Ember.js app:</p>
