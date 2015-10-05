@@ -4,7 +4,7 @@
   <title><![CDATA[aviav.github.io]]></title>
   <link href="http://aviav.github.io/atom.xml" rel="self"/>
   <link href="http://aviav.github.io/"/>
-  <updated>2015-10-05T20:53:18+02:00</updated>
+  <updated>2015-10-05T21:23:21+02:00</updated>
   <id>http://aviav.github.io/</id>
   <author>
     <name><![CDATA[aviav]]></name>
@@ -293,6 +293,8 @@ an adapter:</p>
 </code></pre>
 
 <p>Browse to <a href="http://localhost:4200/users">localhost:4200/users</a> to try it out!</p>
+
+<p>Many thanks go out to <a href="http://moritz-breit.de">Moritz Breit</a> for proofreading this post!</p>
 ]]></content>
   </entry>
   
