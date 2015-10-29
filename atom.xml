@@ -4,7 +4,7 @@
   <title><![CDATA[aviav.github.io]]></title>
   <link href="http://aviav.github.io/atom.xml" rel="self"/>
   <link href="http://aviav.github.io/"/>
-  <updated>2015-10-29T16:41:46+01:00</updated>
+  <updated>2015-10-29T16:41:33+01:00</updated>
   <id>http://aviav.github.io/</id>
   <author>
     <name><![CDATA[aviav]]></name>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Test Post]]></title>
-    <link href="http://aviav.github.io/blog/2015/10/29/test_post/"/>
-    <updated>2015-10-29T16:35:55+01:00</updated>
-    <id>http://aviav.github.io/blog/2015/10/29/test_post</id>
-    <content type="html"><![CDATA[<p>Hello World!</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[How to Build a Rails 5 API Only and Ember Application From Scratch]]></title>
