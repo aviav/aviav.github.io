@@ -4,7 +4,7 @@
   <title><![CDATA[aviav.github.io]]></title>
   <link href="http://aviav.github.io/atom.xml" rel="self"/>
   <link href="http://aviav.github.io/"/>
-  <updated>2015-10-29T16:41:33+01:00</updated>
+  <updated>2015-10-30T18:48:22+01:00</updated>
   <id>http://aviav.github.io/</id>
   <author>
     <name><![CDATA[aviav]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How to Find and Use Current Stable Ember Versions Working With Ember CLI]]></title>
+    <link href="http://aviav.github.io/blog/2015/10/30/how_to_find_and_use_current_stable_ember_versions_working_with_ember_cli/"/>
+    <updated>2015-10-30T18:07:30+01:00</updated>
+    <id>http://aviav.github.io/blog/2015/10/30/how_to_find_and_use_current_stable_ember_versions_working_with_ember_cli</id>
+    <content type="html"><![CDATA[<p>At the time of writing, <a href="http://www.ember-cli.com">Ember CLI</a> <a href="https://github.com/ember-cli/ember-cli/issues/4671">requires the user to adjust entries in bower.json and node.json</a> if they would like to use more current stable Ember versions than <a href="http://emberjs.com">Ember.js</a> 1.13.8.</p>
+
+<p><a href="https://github.com/ember-cli/ember-cli/issues/4671#issuecomment-145947330">A comment by Stefan Penner</a> links blueprints one can use for <a href="https://github.com/ember-cli/ember-cli/blob/master/blueprints/app/files/bower.json">bower.json</a> and <a href="https://github.com/ember-cli/ember-cli/blob/master/blueprints/app/files/package.json">package.json</a>. Those blueprints list current stable working versions of the default packages typically installed when setting up an Ember app with the Ember CLI. I tried setting up a new Ember app with updated files and the blueprints are working just fine for me.</p>
+
+<p>The following is a procedure for setting up a new Ember app with the current Bower components and Node modules.</p>
+
+<p>We start out creating the app and deleting the default Bower and Node package versions:</p>
+
+<pre><code>ember new my_ember_frontend
+cd my_ember_frontend
+rm -R bower_components/*
+rm -R node_modules/*
+</code></pre>
+
+<p>Then we replace the contents of bower.json with the contents of <a href="https://github.com/ember-cli/ember-cli/blob/master/blueprints/app/files/bower.json">this bower.json</a> and we replace the contents of package.json with the contents of <a href="https://github.com/ember-cli/ember-cli/blob/master/blueprints/app/files/package.json">this package.json</a>.</p>
+
+<p>In the package.json, we need to insert the version number of the Ember CLI we use into the line <code>"ember-cli": "&lt;%= emberCLIVersion %&gt;",</code> between the second pair of quotation marks.</p>
+
+<p>We can mention the name of our app in both files in the respective entry. Also, we can add version and description of our app to the respective lines in the package.json.</p>
+
+<p>Now we can</p>
+
+<pre><code>bower install
+npm install
+</code></pre>
+
+<p>and we have created a new Ember app with Ember CLI using current stable packages.</p>
+
+<p>Thanks to Diego Poza, the author of <a href="https://auth0.com/blog/2015/08/11/create-your-first-ember-2-dot-0-app-from-authentication-to-calling-an-api">this article</a>, for initial instructions!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How to Build a Rails 5 API Only and Ember Application From Scratch]]></title>
