@@ -1,0 +1,336 @@
+HIGH-CONVICTION PATTERNS - CONDENSED OVERVIEW
+================================================================================
+
+WHAT THIS SHOWS:
+
+This file presents high-conviction evidence from 17 books (935 historical
+patterns) evaluating whether AI will favor capability-enhancement (distributed
+power, individual empowerment) or maximum-leverage (centralized control).
+
+These patterns were extracted from comprehensive analysis of works by:
+Acemoglu, Blum, Dictators Handbook, Ferguson, Girard, Graeber, Han Feizi,
+Kahneman, Lessig, Ostrom, Perez, Piketty, Schmitt, Scott, Tufekci, Weber,
+and Yudkowsky.
+
+Each pattern represents a well-documented historical precedent with strong
+evidence. Patterns are classified based on whether they support or refute
+the core claims of "Eight Billion People With Datacenters: Why This Time
+Might Actually Be Different" (Part 3 article).
+
+CORE CLAIMS BEING EVALUATED:
+
+1. AI makes comprehension easier than information control
+2. Individual capability enhancement outpaces centralized control mechanisms
+3. Historical "this time is different" failures might not apply to AI
+4. Architectural features of AI favor distributed capability over bottlenecks
+
+CLASSIFICATION SYSTEM:
+
+Stance Categories:
+  SS = STRONGLY SUPPORTS    - Pattern provides strong evidence FOR Part 3 claims
+  S+ = SUPPORTS + Strong    - Clear support with strong documentation
+  N+ = NEUTRAL + Strong     - Well-documented but doesn't favor either side
+  R+ = REFUTES + Strong     - Clear challenge with strong documentation
+  SR = STRONGLY REFUTES     - Pattern provides strong evidence AGAINST Part 3
+
+Percentages (Supports% / Neutral% / Refutes%):
+  Supports = SS + S+ combined
+  Neutral = N+ alone
+  Refutes = R+ + SR combined
+
+READING THE DATA:
+
+Format: [book] SS - S+ - N+ - R+ - SR (Sup% / Neu% / Ref%)
+
+Example: [tufekci] 2 - 7 - 5 - 45 - 1 (15% / 8% / 77%)
+  - Tufekci contributes 60 total high-conviction patterns
+  - 77% challenge Part 3 (mainly through REFUTES + Strong evidence)
+  - Consistent adversarial position across themes
+
+AGGREGATION METHODS:
+
+Each theme shows TWO aggregate calculations:
+
+1. UNWEIGHTED: Simple sum of all book contributions
+   - Each pattern counts equally
+   - Shows raw distribution within theme
+
+2. WEIGHTED: Normalized by each book's total contribution
+   - Accounts for books with broader vs narrower focus
+   - Formula: book_patterns_in_theme × (book_total / 935)
+   - Adjusts for different book coverage
+
+When unweighted and weighted aggregates match closely, the distribution
+is robust regardless of which books contribute most patterns.
+
+KEY FINDINGS SUMMARY:
+
+Overall (935 high-conviction patterns):
+  - 63.1% support Part 3 claims (591 patterns)
+  - 28.6% refute Part 3 claims (268 patterns)
+  - 8.3% neutral with strong evidence (78 patterns)
+
+Core Adversarial Debate:
+  - Lessig/Ferguson (76-81% support): Architectural redistribution is real
+  - Tufekci/Scott (62-77% refute): "This Time Is Different" always fails
+  - Acemoglu (43% / 14% / 42%): Institutional context determines outcomes
+
+================================================================================
+
+Total: 935 patterns (excludes 3 metadata artifacts)
+
+
+PER-BOOK TOTALS (across all themes)
+--------------------------------------------------------------------------------
+  [blum                ] 16 - 79 -  5 - 14 - 14  ( 74% /  4% /  22%)
+  [acemoglu            ] 11 - 25 - 12 - 20 - 15  ( 43% / 14% /  42%)
+  [ferguson            ] 13 - 49 -  5 -  9 -  1  ( 81% /  6% /  13%)
+  [scott               ] 15 - 25 - 10 - 19 -  5  ( 54% / 14% /  32%)
+  [graeber             ]  7 - 44 -  6 -  9 -  2  ( 75% /  9% /  16%)
+  [perez               ]  2 - 39 - 11 - 13 -  1  ( 62% / 17% /  21%)
+  [tufekci             ]  2 -  7 -  5 - 45 -  1  ( 15% /  8% /  77%)
+  [dictators-handbook  ]  3 - 39 -  4 -  8 -  2  ( 75% /  7% /  18%)
+  [kahneman            ]  6 - 21 -  0 - 24 -  4  ( 49% /  0% /  51%)
+  [lessig              ] 12 - 29 -  3 -  8 -  2  ( 76% /  6% /  19%)
+  [girard              ]  3 - 27 -  4 -  8 -  7  ( 61% /  8% /  31%)
+  [piketty             ]  8 - 23 -  5 -  7 -  6  ( 63% / 10% /  27%)
+  [ostrom              ]  5 - 25 -  7 - 10 -  0  ( 64% / 15% /  21%)
+  [weber               ]  9 - 23 -  1 -  5 -  1  ( 82% /  3% /  15%)
+  [han-feizi           ]  2 - 10 -  0 -  1 -  1  ( 86% /  0% /  14%)
+  [yudkowsky           ]  6 -  0 -  0 -  0 -  5  ( 55% /  0% /  45%)
+  [schmitt             ]  2 -  2 -  0 -  0 -  1  ( 80% /  0% /  20%)
+
+================================================================================
+
+POWER_CONTROL (145 patterns)
+--------------------------------------------------------------------------------
+  [blum                ]  4 - 10 -  1 -  2 -  2  ( 74% /  5% /  21%)
+  [scott               ]  5 -  5 -  1 -  2 -  2  ( 67% /  7% /  27%)
+  [lessig              ]  4 -  9 -  0 -  1 -  1  ( 87% /  0% /  13%)
+  [ferguson            ]  3 -  8 -  2 -  1 -  0  ( 79% / 14% /   7%)
+  [acemoglu            ]  2 -  3 -  2 -  2 -  3  ( 42% / 17% /  42%)
+  [tufekci             ]  1 -  1 -  1 -  8 -  0  ( 18% /  9% /  73%)
+  [perez               ]  0 -  7 -  2 -  0 -  0  ( 78% / 22% /   0%)
+  [kahneman            ]  2 -  4 -  0 -  2 -  1  ( 67% /  0% /  33%)
+  [dictators-handbook  ]  1 -  6 -  0 -  1 -  0  ( 88% /  0% /  12%)
+  [piketty             ]  2 -  6 -  0 -  0 -  0  (100% /  0% /   0%)
+  [weber               ]  2 -  3 -  0 -  2 -  0  ( 71% /  0% /  29%)
+  [yudkowsky           ]  2 -  0 -  0 -  0 -  3  ( 40% /  0% /  60%)
+  [girard              ]  0 -  4 -  0 -  0 -  1  ( 80% /  0% /  20%)
+  [graeber             ]  0 -  4 -  0 -  0 -  0  (100% /  0% /   0%)
+  [ostrom              ]  0 -  3 -  0 -  0 -  0  (100% /  0% /   0%)
+  [han-feizi           ]  0 -  1 -  0 -  0 -  0  (100% /  0% /   0%)
+
+  AGGREGATE (unweighted): 28 - 74 -  9 - 21 - 13  ( 70% /  6% /  23%)
+  AGGREGATE (weighted):     2.1 -   5.5 -   0.8 -   1.5 -   0.9  ( 70% /  7% /  23%)
+
+INFORMATION_SYSTEMS (139 patterns)
+--------------------------------------------------------------------------------
+  [ferguson            ]  6 - 19 -  3 -  3 -  0  ( 81% / 10% /  10%)
+  [blum                ]  4 - 14 -  0 -  1 -  3  ( 82% /  0% /  18%)
+  [ostrom              ]  2 -  4 -  3 -  6 -  0  ( 40% / 20% /  40%)
+  [kahneman            ]  0 -  6 -  0 -  5 -  2  ( 46% /  0% /  54%)
+  [tufekci             ]  0 -  2 -  1 -  7 -  1  ( 18% /  9% /  73%)
+  [perez               ]  0 -  7 -  1 -  1 -  0  ( 78% / 11% /  11%)
+  [scott               ]  3 -  2 -  1 -  2 -  0  ( 62% / 12% /  25%)
+  [graeber             ]  2 -  5 -  0 -  0 -  0  (100% /  0% /   0%)
+  [acemoglu            ]  0 -  2 -  1 -  3 -  0  ( 33% / 17% /  50%)
+  [girard              ]  0 -  4 -  0 -  0 -  1  ( 80% /  0% /  20%)
+  [dictators-handbook  ]  1 -  1 -  0 -  0 -  1  ( 67% /  0% /  33%)
+  [lessig              ]  0 -  1 -  0 -  1 -  0  ( 50% /  0% /  50%)
+  [yudkowsky           ]  2 -  0 -  0 -  0 -  0  (100% /  0% /   0%)
+  [schmitt             ]  2 -  0 -  0 -  0 -  0  (100% /  0% /   0%)
+  [han-feizi           ]  0 -  2 -  0 -  0 -  0  (100% /  0% /   0%)
+  [weber               ]  0 -  1 -  0 -  0 -  0  (100% /  0% /   0%)
+
+  AGGREGATE (unweighted): 22 - 70 - 10 - 29 -  8  ( 66% /  7% /  27%)
+  AGGREGATE (weighted):     1.6 -   5.8 -   0.7 -   2.0 -   0.7  ( 69% /  7% /  25%)
+
+TIME_TRANSITIONS (96 patterns)
+--------------------------------------------------------------------------------
+  [ferguson            ]  3 -  6 -  0 -  2 -  0  ( 82% /  0% /  18%)
+  [blum                ]  1 -  5 -  1 -  1 -  2  ( 60% / 10% /  30%)
+  [piketty             ]  2 -  3 -  1 -  2 -  0  ( 62% / 12% /  25%)
+  [tufekci             ]  0 -  2 -  1 -  5 -  0  ( 25% / 12% /  62%)
+  [scott               ]  0 -  3 -  0 -  4 -  1  ( 38% /  0% /  62%)
+  [acemoglu            ]  2 -  0 -  0 -  4 -  2  ( 25% /  0% /  75%)
+  [weber               ]  1 -  6 -  0 -  1 -  0  ( 88% /  0% /  12%)
+  [perez               ]  0 -  5 -  0 -  1 -  1  ( 71% /  0% /  29%)
+  [graeber             ]  0 -  2 -  1 -  2 -  1  ( 33% / 17% /  50%)
+  [kahneman            ]  0 -  4 -  0 -  2 -  0  ( 67% /  0% /  33%)
+  [dictators-handbook  ]  0 -  5 -  0 -  0 -  0  (100% /  0% /   0%)
+  [lessig              ]  0 -  2 -  0 -  2 -  0  ( 50% /  0% /  50%)
+  [ostrom              ]  0 -  2 -  1 -  0 -  0  ( 67% / 33% /   0%)
+  [girard              ]  0 -  1 -  0 -  0 -  1  ( 50% /  0% /  50%)
+  [schmitt             ]  0 -  0 -  0 -  0 -  1  (  0% /  0% / 100%)
+  [han-feizi           ]  0 -  1 -  0 -  0 -  0  (100% /  0% /   0%)
+
+  AGGREGATE (unweighted):  9 - 47 -  5 - 26 -  9  ( 58% /  5% /  36%)
+  AGGREGATE (weighted):     0.7 -   3.3 -   0.4 -   1.9 -   0.7  ( 57% /  5% /  38%)
+
+COORDINATION_COLLECTIVE (94 patterns)
+--------------------------------------------------------------------------------
+  [dictators-handbook  ]  1 - 17 -  3 -  1 -  0  ( 82% / 14% /   5%)
+  [blum                ]  0 -  9 -  1 -  2 -  0  ( 75% /  8% /  17%)
+  [acemoglu            ]  3 -  6 -  2 -  1 -  0  ( 75% / 17% /   8%)
+  [graeber             ]  0 -  5 -  2 -  1 -  0  ( 62% / 25% /  12%)
+  [scott               ]  1 -  2 -  1 -  1 -  0  ( 60% / 20% /  20%)
+  [perez               ]  0 -  2 -  2 -  1 -  0  ( 40% / 40% /  20%)
+  [lessig              ]  2 -  2 -  1 -  0 -  0  ( 80% / 20% /   0%)
+  [piketty             ]  0 -  3 -  0 -  1 -  0  ( 75% /  0% /  25%)
+  [girard              ]  0 -  2 -  0 -  2 -  0  ( 50% /  0% /  50%)
+  [weber               ]  3 -  1 -  0 -  0 -  0  (100% /  0% /   0%)
+  [tufekci             ]  0 -  0 -  0 -  3 -  0  (  0% /  0% / 100%)
+  [ostrom              ]  0 -  2 -  0 -  1 -  0  ( 67% /  0% /  33%)
+  [han-feizi           ]  0 -  1 -  0 -  1 -  0  ( 50% /  0% /  50%)
+  [kahneman            ]  0 -  1 -  0 -  1 -  0  ( 50% /  0% /  50%)
+  [ferguson            ]  0 -  2 -  0 -  0 -  0  (100% /  0% /   0%)
+  [yudkowsky           ]  1 -  0 -  0 -  0 -  0  (100% /  0% /   0%)
+
+  AGGREGATE (unweighted): 11 - 55 - 12 - 16 -  0  ( 70% / 13% /  17%)
+  AGGREGATE (weighted):     0.7 -   4.2 -   0.9 -   1.1 -   0.0  ( 70% / 13% /  16%)
+
+CYCLES_DYNAMICS (84 patterns)
+--------------------------------------------------------------------------------
+  [perez               ]  1 -  6 -  2 -  4 -  0  ( 54% / 15% /  31%)
+  [blum                ]  2 -  7 -  0 -  1 -  1  ( 82% /  0% /  18%)
+  [graeber             ]  0 -  8 -  1 -  1 -  0  ( 80% / 10% /  10%)
+  [girard              ]  0 -  5 -  1 -  2 -  0  ( 62% / 12% /  25%)
+  [scott               ]  0 -  4 -  2 -  0 -  1  ( 57% / 29% /  14%)
+  [dictators-handbook  ]  0 -  4 -  0 -  2 -  0  ( 67% /  0% /  33%)
+  [tufekci             ]  0 -  0 -  0 -  5 -  0  (  0% /  0% / 100%)
+  [ostrom              ]  0 -  2 -  1 -  1 -  0  ( 50% / 25% /  25%)
+  [piketty             ]  1 -  2 -  1 -  0 -  0  ( 75% / 25% /   0%)
+  [ferguson            ]  0 -  3 -  0 -  1 -  0  ( 75% /  0% /  25%)
+  [kahneman            ]  0 -  0 -  0 -  3 -  0  (  0% /  0% / 100%)
+  [han-feizi           ]  0 -  2 -  0 -  0 -  1  ( 67% /  0% /  33%)
+  [acemoglu            ]  0 -  0 -  1 -  1 -  0  (  0% / 50% /  50%)
+  [lessig              ]  0 -  1 -  0 -  0 -  1  ( 50% /  0% /  50%)
+  [weber               ]  1 -  1 -  0 -  0 -  0  (100% /  0% /   0%)
+
+  AGGREGATE (unweighted):  5 - 45 -  9 - 21 -  4  ( 60% / 11% /  30%)
+  AGGREGATE (weighted):     0.4 -   3.4 -   0.6 -   1.4 -   0.3  ( 62% / 10% /  28%)
+
+CAUSAL_MECHANISMS (79 patterns)
+--------------------------------------------------------------------------------
+  [blum                ]  1 - 13 -  0 -  2 -  0  ( 88% /  0% /  12%)
+  [ostrom              ]  1 -  7 -  0 -  0 -  0  (100% /  0% /   0%)
+  [girard              ]  1 -  4 -  1 -  1 -  0  ( 71% / 14% /  14%)
+  [kahneman            ]  1 -  4 -  0 -  2 -  0  ( 71% /  0% /  29%)
+  [lessig              ]  1 -  6 -  0 -  0 -  0  (100% /  0% /   0%)
+  [scott               ]  0 -  1 -  0 -  5 -  0  ( 17% /  0% /  83%)
+  [graeber             ]  0 -  6 -  0 -  0 -  0  (100% /  0% /   0%)
+  [ferguson            ]  1 -  4 -  0 -  0 -  0  (100% /  0% /   0%)
+  [acemoglu            ]  1 -  0 -  1 -  0 -  1  ( 33% / 33% /  33%)
+  [perez               ]  0 -  2 -  1 -  0 -  0  ( 67% / 33% /   0%)
+  [dictators-handbook  ]  0 -  1 -  0 -  1 -  1  ( 33% /  0% /  67%)
+  [weber               ]  0 -  3 -  0 -  0 -  0  (100% /  0% /   0%)
+  [piketty             ]  0 -  0 -  0 -  1 -  1  (  0% /  0% / 100%)
+  [han-feizi           ]  0 -  2 -  0 -  0 -  0  (100% /  0% /   0%)
+  [schmitt             ]  0 -  1 -  0 -  0 -  0  (100% /  0% /   0%)
+
+  AGGREGATE (unweighted):  7 - 54 -  3 - 12 -  3  ( 77% /  4% /  19%)
+  AGGREGATE (weighted):     0.5 -   4.1 -   0.2 -   1.0 -   0.2  ( 77% /  4% /  19%)
+
+ECONOMIC_SYSTEMS (75 patterns)
+--------------------------------------------------------------------------------
+  [acemoglu            ]  3 -  7 -  0 -  4 -  2  ( 62% /  0% /  38%)
+  [piketty             ]  1 -  5 -  3 -  2 -  1  ( 50% / 25% /  25%)
+  [graeber             ]  1 -  7 -  2 -  0 -  1  ( 73% / 18% /   9%)
+  [perez               ]  0 -  4 -  2 -  0 -  0  ( 67% / 33% /   0%)
+  [weber               ]  1 -  4 -  0 -  1 -  0  ( 83% /  0% /  17%)
+  [scott               ]  1 -  0 -  2 -  1 -  1  ( 20% / 40% /  40%)
+  [blum                ]  0 -  2 -  1 -  0 -  1  ( 50% / 25% /  25%)
+  [tufekci             ]  0 -  0 -  1 -  3 -  0  (  0% / 25% /  75%)
+  [ferguson            ]  0 -  3 -  0 -  1 -  0  ( 75% /  0% /  25%)
+  [lessig              ]  1 -  1 -  0 -  0 -  0  (100% /  0% /   0%)
+  [ostrom              ]  0 -  2 -  0 -  0 -  0  (100% /  0% /   0%)
+  [girard              ]  0 -  0 -  0 -  1 -  0  (  0% /  0% / 100%)
+  [kahneman            ]  0 -  1 -  0 -  0 -  0  (100% /  0% /   0%)
+  [dictators-handbook  ]  0 -  1 -  0 -  0 -  0  (100% /  0% /   0%)
+
+  AGGREGATE (unweighted):  8 - 37 - 11 - 13 -  6  ( 60% / 15% /  25%)
+  AGGREGATE (weighted):     0.6 -   2.6 -   0.8 -   0.9 -   0.5  ( 59% / 15% /  26%)
+
+MODIFIERS_PROCESSES (62 patterns)
+--------------------------------------------------------------------------------
+  [blum                ]  2 -  6 -  0 -  1 -  1  ( 80% /  0% /  20%)
+  [perez               ]  0 -  3 -  1 -  4 -  0  ( 38% / 12% /  50%)
+  [kahneman            ]  0 -  0 -  0 -  5 -  1  (  0% /  0% / 100%)
+  [piketty             ]  1 -  1 -  0 -  1 -  2  ( 40% /  0% /  60%)
+  [weber               ]  1 -  1 -  1 -  1 -  0  ( 50% / 25% /  25%)
+  [acemoglu            ]  0 -  1 -  1 -  1 -  1  ( 25% / 25% /  50%)
+  [girard              ]  0 -  0 -  2 -  2 -  0  (  0% / 50% /  50%)
+  [tufekci             ]  0 -  1 -  0 -  3 -  0  ( 25% /  0% /  75%)
+  [dictators-handbook  ]  0 -  2 -  0 -  2 -  0  ( 50% /  0% /  50%)
+  [graeber             ]  1 -  2 -  0 -  1 -  0  ( 75% /  0% /  25%)
+  [scott               ]  1 -  1 -  1 -  0 -  0  ( 67% / 33% /   0%)
+  [ferguson            ]  0 -  0 -  0 -  1 -  1  (  0% /  0% / 100%)
+  [ostrom              ]  0 -  0 -  1 -  0 -  0  (  0% / 100% /   0%)
+  [yudkowsky           ]  0 -  0 -  0 -  0 -  1  (  0% /  0% / 100%)
+  [lessig              ]  1 -  0 -  0 -  0 -  0  (100% /  0% /   0%)
+  [han-feizi           ]  1 -  0 -  0 -  0 -  0  (100% /  0% /   0%)
+
+  AGGREGATE (unweighted):  8 - 18 -  7 - 22 -  7  ( 42% / 11% /  47%)
+  AGGREGATE (weighted):     0.6 -   1.6 -   0.4 -   1.5 -   0.5  ( 48% /  9% /  42%)
+
+PATTERNS_PARADOXES (57 patterns)
+--------------------------------------------------------------------------------
+  [scott               ]  2 -  4 -  1 -  2 -  0  ( 67% / 11% /  22%)
+  [blum                ]  2 -  4 -  0 -  1 -  1  ( 75% /  0% /  25%)
+  [acemoglu            ]  0 -  1 -  3 -  0 -  2  ( 17% / 50% /  33%)
+  [lessig              ]  0 -  4 -  1 -  1 -  0  ( 67% / 17% /  17%)
+  [kahneman            ]  2 -  1 -  0 -  3 -  0  ( 50% /  0% /  50%)
+  [tufekci             ]  1 -  1 -  1 -  1 -  0  ( 50% / 25% /  25%)
+  [graeber             ]  0 -  1 -  0 -  2 -  0  ( 33% /  0% /  67%)
+  [ostrom              ]  1 -  1 -  0 -  1 -  0  ( 67% /  0% /  33%)
+  [dictators-handbook  ]  0 -  1 -  1 -  0 -  0  ( 50% / 50% /   0%)
+  [girard              ]  1 -  0 -  0 -  0 -  1  ( 50% /  0% /  50%)
+  [piketty             ]  1 -  0 -  0 -  0 -  1  ( 50% /  0% /  50%)
+  [weber               ]  0 -  2 -  0 -  0 -  0  (100% /  0% /   0%)
+  [yudkowsky           ]  0 -  0 -  0 -  0 -  1  (  0% /  0% / 100%)
+  [han-feizi           ]  1 -  0 -  0 -  0 -  0  (100% /  0% /   0%)
+  [schmitt             ]  0 -  1 -  0 -  0 -  0  (100% /  0% /   0%)
+  [ferguson            ]  0 -  1 -  0 -  0 -  0  (100% /  0% /   0%)
+
+  AGGREGATE (unweighted): 11 - 22 -  7 - 11 -  6  ( 58% / 12% /  30%)
+  AGGREGATE (weighted):     0.8 -   1.7 -   0.5 -   0.8 -   0.4  ( 58% / 13% /  29%)
+
+POLITICAL_GOVERNANCE (55 patterns)
+--------------------------------------------------------------------------------
+  [acemoglu            ]  0 -  3 -  1 -  3 -  3  ( 30% / 10% /  60%)
+  [girard              ]  1 -  7 -  0 -  0 -  2  ( 80% /  0% /  20%)
+  [blum                ]  0 -  5 -  0 -  2 -  2  ( 56% /  0% /  44%)
+  [lessig              ]  2 -  2 -  0 -  3 -  0  ( 57% /  0% /  43%)
+  [graeber             ]  1 -  3 -  0 -  2 -  0  ( 67% /  0% /  33%)
+  [piketty             ]  0 -  2 -  0 -  0 -  1  ( 67% /  0% /  33%)
+  [scott               ]  1 -  0 -  0 -  1 -  0  ( 50% /  0% /  50%)
+  [tufekci             ]  0 -  0 -  0 -  2 -  0  (  0% /  0% / 100%)
+  [dictators-handbook  ]  0 -  1 -  0 -  1 -  0  ( 50% /  0% /  50%)
+  [perez               ]  1 -  1 -  0 -  0 -  0  (100% /  0% /   0%)
+  [yudkowsky           ]  1 -  0 -  0 -  0 -  0  (100% /  0% /   0%)
+  [ferguson            ]  0 -  1 -  0 -  0 -  0  (100% /  0% /   0%)
+
+  AGGREGATE (unweighted):  7 - 25 -  1 - 14 -  8  ( 58% /  2% /  40%)
+  AGGREGATE (weighted):     0.4 -   2.0 -   0.1 -   1.1 -   0.7  ( 55% /  2% /  43%)
+
+STRUCTURAL_PATTERNS (49 patterns)
+--------------------------------------------------------------------------------
+  [tufekci             ]  0 -  0 -  0 -  8 -  0  (  0% /  0% / 100%)
+  [blum                ]  0 -  4 -  1 -  1 -  1  ( 57% / 14% /  29%)
+  [scott               ]  1 -  3 -  1 -  1 -  0  ( 67% / 17% /  17%)
+  [ostrom              ]  1 -  2 -  1 -  1 -  0  ( 60% / 20% /  20%)
+  [acemoglu            ]  0 -  2 -  0 -  1 -  1  ( 50% /  0% /  50%)
+  [perez               ]  0 -  2 -  0 -  2 -  0  ( 50% /  0% /  50%)
+  [lessig              ]  1 -  1 -  1 -  0 -  0  ( 67% / 33% /   0%)
+  [graeber             ]  2 -  1 -  0 -  0 -  0  (100% /  0% /   0%)
+  [kahneman            ]  1 -  0 -  0 -  1 -  0  ( 50% /  0% /  50%)
+  [weber               ]  0 -  1 -  0 -  0 -  1  ( 50% /  0% /  50%)
+  [ferguson            ]  0 -  2 -  0 -  0 -  0  (100% /  0% /   0%)
+  [girard              ]  0 -  0 -  0 -  0 -  1  (  0% /  0% / 100%)
+  [piketty             ]  0 -  1 -  0 -  0 -  0  (100% /  0% /   0%)
+  [han-feizi           ]  0 -  1 -  0 -  0 -  0  (100% /  0% /   0%)
+
+  AGGREGATE (unweighted):  6 - 20 -  4 - 15 -  4  ( 53% /  8% /  39%)
+  AGGREGATE (weighted):     0.4 -   1.6 -   0.3 -   1.1 -   0.3  ( 54% /  9% /  37%)
+
