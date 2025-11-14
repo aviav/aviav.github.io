@@ -1,0 +1,5234 @@
+THESAURUS v5 - COMPREHENSIVE PATTERN REFERENCE
+================================================================================
+
+Total patterns: 1707
+Total themes: 11
+Source: 17 books across 128 extraction sessions
+
+================================================================================
+
+THEME INDEX:
+--------------------------------------------------------------------------------
+
+CAUSAL_MECHANISMS: 159 patterns (9.3%)
+  Causal relationships, mechanisms, failures, enablers, determinants, requirements
+
+COORDINATION_COLLECTIVE: 174 patterns (10.2%)
+  Coordination, coalitions, institutional dynamics, elites, collective action
+
+CYCLES_DYNAMICS: 141 patterns (8.3%)
+  Crises, cycles, cascades, change dynamics, divergence, feedback loops
+
+ECONOMIC_SYSTEMS: 119 patterns (7.0%)
+  Technology, capital, debt, extraction, trade, formation, expansion, money
+
+INFORMATION_SYSTEMS: 246 patterns (14.4%)
+  Information, networks, distributed systems, infrastructure, communication systems
+
+MODIFIERS_PROCESSES: 122 patterns (7.1%)
+  Process modifiers: re-, in-, pro-, pre-, ma- (reflexive, iterative, progressive patterns)
+
+PATTERNS_PARADOXES: 112 patterns (6.6%)
+  Versus/contrasts, asymmetries, paradoxes, disconnections, negations
+
+POLITICAL_GOVERNANCE: 87 patterns (5.1%)
+  Violence, political systems, regulation, state, democracy, governance
+
+POWER_CONTROL: 251 patterns (14.7%)
+  Power dynamics, control mechanisms, leverage, concentration, hierarchy, force, constraints
+
+STRUCTURAL_PATTERNS: 93 patterns (5.4%)
+  Structural features, historical patterns, dependencies, constraints, capacity, complexity, resilience
+
+TIME_TRANSITIONS: 203 patterns (11.9%)
+  Time, transitions, timing, thresholds, windows, sequences, phase shifts
+
+================================================================================
+
+
+CAUSAL_MECHANISMS (159 patterns, 9.3%)
+================================================================================
+Causal relationships, mechanisms, failures, enablers, determinants, requirements
+--------------------------------------------------------------------------------
+
+"Legitimacy Theater" - Constitutional Veneer Required Even for Coups
+  [blum] blum-session6.md: 165
+
+"Limited" Intervention Expansion Through Commitment Trap
+  [blum] blum-session5.md: 315
+
+"Sacred Innovation" Failure Pattern
+  [girard] girard-session6.md: 102
+
+Accusation Amplification Through Social Proof
+  [girard] girard-session2.md: 185
+
+Administrative Distance Enables Utopian Vision
+  [scott] scott-session2.md: 148
+
+Administrative-Staff Persistence Mechanism
+  [weber] weber-session4.md: 175
+
+Agency Accountability Creates Concealment Dynamics
+  [kahneman] kahneman-session7.md: 333
+
+Ally Dependency Creates Mission Capture
+  [blum] blum-session5.md:  83
+
+Anchoring Creates Path-Dependent Judgments
+  [kahneman] kahneman-session9.md: 236
+
+Appropriation Form Determines Interest Alignment
+  [weber] weber-session6.md: 158
+
+Architectural Lock-In Creates Path Dependence
+  [lessig] lessig-session8.md: 319
+
+Associative Coherence Creates False Certainty
+  [kahneman] kahneman-session1.md: 150
+
+Authority Dilution Through Favor-Dispensing Rights
+  [han-feizi] han-feizi-session1.md:  33
+
+Behavioral Theory Failure (Modigliani Life-Cycle)
+  [piketty] piketty-session5.md: 213
+
+Bombing as Compensation for Ground Failure
+  [blum] blum-session5.md: 388
+
+Bottom-Up Incremental → Success; Top-Down Big Bang → Failure
+  [ostrom] ostrom-session5.md: 289
+
+Brokerage Position Enables Innovation but Risks Closure Backlash
+  [ferguson] ferguson-session2.md: 156
+
+Calculability Requires Stable Exchange Rates More Than Specific Currency Material
+  [weber] weber-session10.md: 116
+
+Calculation Rationality Requires Subordination
+  [weber] weber-session6.md:  75
+
+Cascade Failure at System Limits
+  [graeber] graeber-session6.md: 494
+
+Central Override Through Selective Enforcement
+  [ostrom] ostrom-session4.md:  11
+
+Centralized Authority Assumes Responsibility → Local Passivity → Strategic Gaming → System Failure
+  [ostrom] ostrom-session5.md:  11
+
+Chaotic Implementation Creates Vulnerability
+  [piketty] piketty-session7.md: 349
+
+Civil War Reframing Failure
+  [blum] blum-session2.md:  73
+
+Clear Adversary Requirement for Collective Action
+  [weber] weber-session9.md: 239
+
+Closure-Motivation Typology
+  [weber] weber-session4.md: 221
+
+Coalition Amplification Through External Leverage
+  [acemoglu] acemoglu-session6.md: 294
+
+Coalition Government as Repeated Failure Point
+  [blum] blum-session5.md: 134
+
+Commercial-Infrastructure-Enables-Regulation
+  [lessig] lessig-session2.md:   9
+
+Competitive Pressure Creates Safety-Capability Scissor
+  [yudkowsky] yudkowsky-session1.md:  34
+
+Comprehension Enables Institutional Response, Not Individual Immunity
+  [kahneman] kahneman-session10.md: 292
+
+Comprehension Gap as Fundamental Bottleneck
+  [yudkowsky] yudkowsky-session3.md:  60
+
+Comprehension Training Enables Partial Capability Escape
+  [kahneman] kahneman-session7.md: 170
+
+Concentration Creates Scale-Free Networks
+  [ferguson] ferguson-session7.md: 162
+
+Conceptual Lock-In Through Early Synthesis
+  [weber] weber-session2.md:  83
+
+Conflict Escalation Through Neutralization
+  [schmitt] schmitt-session1.md: 122
+
+Corporate Immortality Creates Unsustainable Concentration
+  [graeber] graeber-session5.md: 103
+
+Covert Agency Autonomy Creates Policy Fragmentation
+  [blum] blum-session5.md:  59
+
+Credit Instrument Innovation Enables Paradigm
+  [perez] perez-session1.md: 224
+
+Data Visibility Creates Policy Space
+  [piketty] piketty-session1.md: 131
+
+Debt Imperialism Through Non-Repayable Bonds
+  [graeber] graeber-session6.md:  61
+
+Decade-Scale Experimentation Requirement
+  [ostrom] ostrom-session1.md: 299
+
+Decorrelation Requirement for Collective Intelligence
+  [kahneman] kahneman-session2.md: 112
+
+Democracy-Export Failure Pattern
+  [dictators-handbook] dictators-handbook-session4.md: 147
+
+Democratic Institutions Lose Legitimacy Through Visible Corruption Patterns
+  [lessig] lessig-session7.md: 138
+
+Distance Creates De Facto Autonomy
+  [ostrom] ostrom-session4.md:  73
+
+Economic Base Determines Political Outcomes
+  [acemoglu] acemoglu-session5.md:  69
+
+Elite Capture Through Status Incentives
+  [scott] scott-session5.md:  70
+
+Elite Network Isolation Failure
+  [ferguson] ferguson-session8.md: 113
+
+Environmental Regularity Determines Valid Expertise
+  [kahneman] kahneman-session5.md: 174
+
+Escalation Cascade Creates Permission for Violence
+  [blum] blum-session7.md: 235
+
+Excess Capital Enables Scale Consolidation
+  [perez] perez-session2.md:  29
+
+Experiential Learning Failure (Miscoding Problem)
+  [kahneman] kahneman-session9.md: 355
+
+External Regime Determines Local Autonomy Space
+  [ostrom] ostrom-session4.md: 441
+
+Extraction Persists Through Regime Change (Iron Law of Oligarchy)
+  [acemoglu] acemoglu-session7.md: 349
+
+Feedback Blockage Causes Systemic Failure
+  [ferguson] ferguson-session4.md: 228
+
+Filtering Infrastructure Enables Delegated Censorship
+  [lessig] lessig-session10.md: 256
+
+Forced Adoption Enables Gradual Normalization
+  [kahneman] kahneman-session5.md: 202
+
+Formal Freedom Enables Material Monopoly
+  [weber] weber-session5.md:  59
+
+Function Concentration Creates Double Bind
+  [girard] girard-session4.md:  16
+
+Genuine Expertise Requires Non-Shortcuttable Investment
+  [kahneman] kahneman-session10.md: 101
+
+Governance Opacity Enables Extraction ("Pay for Luck")
+  [piketty] piketty-session4.md: 262
+
+Gradual Escalation Through "Advisory" Mission Creep
+  [blum] blum-session1.md: 325
+
+Hierarchical Campaign Failure Against Viral Opposition
+  [ferguson] ferguson-session12.md: 286
+
+Historical Precedent Failure (Broadcasting Spectrum Model)
+  [lessig] lessig-session10.md: 124
+
+Historical Precedent Invalidation Failure
+  [ferguson] ferguson-session13.md: 191
+
+Homophily Creates Self-Segregation Despite Integration Claims
+  [ferguson] ferguson-session2.md: 251
+
+Identity-Dependent Regulation Failure
+  [lessig] lessig-session5.md: 224
+
+Ideological Contagion Through Literate Networks
+  [ferguson] ferguson-session8.md: 249
+
+Imperial Scale Through Light Administration
+  [ferguson] ferguson-session7.md: 295
+
+Incumbency Advantage Through Loss Aversion
+  [kahneman] kahneman-session10.md:  42
+
+Initial Network Failure, Delayed Victory Through Environmental Change
+  [ferguson] ferguson-session5.md: 224
+
+Institutional Capture Through Training Infrastructure
+  [blum] blum-session8.md:   8
+
+Institutional Evolution Through Differential Emphasis
+  [girard] girard-session6.md: 318
+
+Intellectual Transformation Through Term-Appropriation
+  [weber] weber-session3.md:  64
+
+Intelligence Bypass Creates Shadow Governance
+  [blum] blum-session8.md: 211
+
+Intelligentsia Leadership Requirement
+  [weber] weber-session9.md: 281
+
+Jurisdictional Uniformity → Local Misfit → Enforcement Failure
+  [ostrom] ostrom-session5.md: 114
+
+Justification Apparatus Determines Sustainability
+  [piketty] piketty-session4.md: 346
+
+Latent Ambiguity Revelation Through Technology
+  [lessig] lessig-session4.md: 200
+
+Legacy System Lock-In Through Legal Obligations
+  [weber] weber-session1.md:  31
+
+Legibility Trumps Functionality
+  [scott] scott-session1.md: 222
+
+Low Growth Enables Inherited Advantage
+  [piketty] piketty-session1.md: 200
+
+Manufactured Legitimacy Through Procedural Theater
+  [blum] blum-session1.md: 143
+
+Market Calculation Creates Mirror-Image Opposition (Extremism Emerges from Pure Categories)
+  [graeber] graeber-session4.md: 190
+
+Market Failure in Rights Protection
+  [lessig] lessig-session5.md: 116
+
+Mass Uprising Prediction Failure
+  [blum] blum-session2.md:  86
+
+Maximum Leverage Through Infiltrated Authority
+  [blum] blum-session2.md:  27
+
+Meritocracy Enables Adaptive Capacity
+  [ferguson] ferguson-session6.md: 158
+
+Military-Technical Superiority Requires Demoralized Population
+  [blum] blum-session6.md:  95
+
+Minimum System Enables Meta-Analysis
+  [girard] girard-session4.md:  40
+
+Minimum Wage Bottom-Only Effectiveness
+  [piketty] piketty-session4.md: 234
+
+Misrecognition Requirement (Understanding Destroys Efficacy)
+  [girard] girard-session5.md: 172
+
+Misunderstanding-Enables-Function
+  [girard] girard-session1.md:  82
+
+Monitoring Cost Threshold Determines Viable Governance Structure
+  [ostrom] ostrom-session2.md:  10
+
+Multi-Channel Propaganda Creates False Consensus
+  [blum] blum-session6.md: 189
+
+Natural Accounting Calculation Limits
+  [weber] weber-session5.md: 167
+
+Nested Multi-Layer Governance Enables Scale Without Centralization
+  [ostrom] ostrom-session3.md:  57
+
+No Direct Historical Precedent on "Technology Enables Coordination" Claims
+  [ostrom] ostrom-session3.md: 361
+
+Opacity Enables Extraction
+  [dictators-handbook] dictators-handbook-session1.md: 141
+
+Owner Displacement Through Worker Appropriation
+  [weber] weber-session5.md:  37
+
+Ownership-Architecture-Determines-Innovation-Capacity
+  [lessig] lessig-session3.md: 120
+
+Paradigm Embedding Creates Shared Mental Models
+  [perez] perez-session3.md: 163
+
+Paradigm Exhaustion Timing Creates Windows
+  [perez] perez-session7.md: 294
+
+Paradigm Shift Success Requires Non-Threatening Conditions
+  [kahneman] kahneman-session10.md: 164
+
+Participation in Rule-Making Creates Legitimacy That Beats Technical Optimization
+  [ostrom] ostrom-session3.md:  78
+
+Path Dependency Creates Defensive Advantages for Early Establishment
+  [kahneman] kahneman-session6.md: 311
+
+Planned Order Requires Unplanned Margins (Symbiosis)
+  [scott] scott-session3.md: 209
+
+Planned Water Use vs. Actual Appropriation Failure
+  [ostrom] ostrom-session4.md: 153
+
+Platform Ownership Determines Governance Regime
+  [lessig] lessig-session8.md:  62
+
+Political Acceptance Determines Depression Duration
+  [perez] perez-session3.md: 207
+
+Popular Judgment Systematic Failure
+  [han-feizi] han-feizi-session3.md:  92
+
+Precedent Creates Identity/Caste
+  [graeber] graeber-session2.md: 253
+
+Preference Revelation Enables Goodhart's Law
+  [han-feizi] han-feizi-session1.md: 200
+
+Preferential Attachment Creates Winner-Take-All Dynamics
+  [ferguson] ferguson-session2.md:  96
+
+Priming Creates Coordinated Behavior Without Central Authority
+  [kahneman] kahneman-session1.md: 104
+
+Private Ordering Through Code Displaces Public Law
+  [lessig] lessig-session9.md: 191
+
+Professional Culture Creates Immunity to Evidence
+  [kahneman] kahneman-session5.md:  76
+
+Prohibition Success Predicts Prohibition Failure
+  [girard] girard-session4.md: 162
+
+Property Class Persistence Through Monopoly Accumulation
+  [weber] weber-session9.md:  39
+
+Proxy Legitimation Through Allies
+  [blum] blum-session4.md: 349
+
+Proxy Violence Enables Plausible Deniability
+  [blum] blum-session7.md: 287
+
+Quantification-Enables-Gaming
+  [graeber] graeber-session3.md: 189
+
+Reference Point Instability Creates Preference Reversals
+  [kahneman] kahneman-session9.md: 166
+
+Regime Change Creates Worse Successor Problem
+  [blum] blum-session5.md: 339
+
+Regulatory Framework Lag Creates Frenzy Window
+  [perez] perez-session3.md: 142
+
+Regulatory Lag Creates Intervention Window
+  [lessig] lessig-session8.md: 345
+
+Representation Format Determines Cognitive Processing
+  [kahneman] kahneman-session4.md:  90
+
+Requirements for Successful Paradigm Challenge
+  [kahneman] kahneman-session6.md: 279
+
+Resource Abundance Enables Autocratic Backsliding
+  [dictators-handbook] dictators-handbook-session4.md: 254
+
+Ritual Decay Through Mechanism Forgetting
+  [girard] girard-session2.md: 110
+
+Ritual Degradation Through Visibility
+  [girard] girard-session6.md: 125
+
+Scientific Authority as Technocratic Legitimation
+  [scott] scott-session3.md:  31
+
+Secrecy Enables Escalation Until Brittle Collapse
+  [blum] blum-session5.md: 236
+
+Self-Binding Through Universalist Rhetoric
+  [acemoglu] acemoglu-session5.md: 314
+
+Self-Regulation-Failure-Triggers-Formalization
+  [lessig] lessig-session3.md:  98
+
+Short Optimization Cycles Hide Long Failures
+  [scott] scott-session1.md: 370
+
+Single-Point Failure Vulnerability Pattern
+  [ferguson] ferguson-session9.md: 271
+
+Sovereignty Competition Resolution Through Architecture
+  [lessig] lessig-session10.md:  64
+
+Spatial Proximity Enables Zero-Cost Monitoring
+  [ostrom] ostrom-session4.md: 194
+
+State Tax-Currency Coercion Creates Markets
+  [graeber] graeber-session2.md:  17
+
+Structural Exit Enables Structural Analysis
+  [girard] girard-session4.md: 334
+
+Stylized Models → Omniscience Assumption → Omnicompetent Government Recommendation → Implementation Failure
+  [ostrom] ostrom-session5.md: 411
+
+Substitution Pattern Creates Coordinated Misunderstanding
+  [kahneman] kahneman-session1.md: 127
+
+Supply-Side Prediction Failure
+  [piketty] piketty-session7.md: 155
+
+Synoptic Legibility Through Simplification
+  [scott] scott-session1.md:  11
+
+System 1 Dominance Through Effort Asymmetry
+  [kahneman] kahneman-session4.md:  10
+
+System 2 Depletion Creates Exploitation Windows
+  [kahneman] kahneman-session2.md: 209
+
+Terrain Complexity Determines Optimal Structure
+  [ferguson] ferguson-session10.md:  16
+
+The Engineering Fallacy—Serial Technical Fix Failures
+  [acemoglu] acemoglu-session7.md: 137
+
+Theoretical Framing Determines Predicted Outcomes (Frame Mismatch Pattern)
+  [ostrom] ostrom-session2.md: 111
+
+Theoretical Monoculture Creates Structural Monoculture
+  [ostrom] ostrom-session1.md:  79
+
+Three-Way Failure Cascade (Market → Government → Libertarian)
+  [lessig] lessig-session7.md:  53
+
+Transparency + Common Knowledge Creates Sustained Compliance Without Coercion
+  [ostrom] ostrom-session3.md: 190
+
+Trust Radius Determines Money Form
+  [graeber] graeber-session2.md: 226
+
+Unanimity Through Scapegoating
+  [girard] girard-session6.md: 173
+
+Violence-Enables-Exchange-Conversion
+  [graeber] graeber-session3.md:  16
+
+Visibility-Architecture-Enables-Norm-Enforcement
+  [lessig] lessig-session3.md: 225
+
+Voluntary-ID-Through-Incentive-Tipping
+  [lessig] lessig-session2.md: 259
+
+
+COORDINATION_COLLECTIVE (174 patterns, 10.2%)
+================================================================================
+Coordination, coalitions, institutional dynamics, elites, collective action
+--------------------------------------------------------------------------------
+
+"Financial Genius" Delusion → Inevitable Collapse
+  [perez] perez-session7.md:  67
+
+"Meaning" as Coordination Mechanism (Not Objective Truth)
+  [weber] weber-session3.md: 227
+
+Academic/NGO Asset Cultivation
+  [blum] blum-session13.md: 259
+
+Administration-as-Core (Management Theory of Society)
+  [weber] weber-session3.md: 292
+
+Aid Suspension as Coordinating Signal
+  [blum] blum-session8.md: 384
+
+Aid-Price-Scales-With-Coalition-Size
+  [dictators-handbook] dictators-handbook-session3.md:  79
+
+Alliance Value Overrides Human Rights
+  [blum] blum-session5.md: 416
+
+Ally Coordination Through Economic Coercion
+  [blum] blum-session5.md: 290
+
+Anti-Collectivist Methodological Individualism
+  [weber] weber-session3.md: 163
+
+Breadth of Empowerment as the Critical Variable
+  [acemoglu] acemoglu-session7.md:  36
+
+Broad Coalition Prevents Capture
+  [acemoglu] acemoglu-session3.md: 260
+
+Central Domain as Coordination Mechanism
+  [schmitt] schmitt-session1.md: 166
+
+Chance as Sacred Coordination Device
+  [girard] girard-session6.md: 197
+
+Clique-Formation as Decentralized Coordination
+  [han-feizi] han-feizi-session1.md: 101
+
+Coalition Assembly as Legitimacy Theater
+  [blum] blum-session13.md: 388
+
+Coalition Lock-In Above Critical Threshold
+  [dictators-handbook] dictators-handbook-session5.md:   9
+
+Coalition Opacity Prevents Counter-Coordination
+  [dictators-handbook] dictators-handbook-session2.md: 339
+
+Coalition Payment Priority Over Battle Timing
+  [dictators-handbook] dictators-handbook-session4.md: 298
+
+Coalition Size Determines Reward Distribution Strategy
+  [dictators-handbook] dictators-handbook-session2.md:  55
+
+Coalition-Bought Loyalty vs Market-Bought Capability
+  [dictators-handbook] dictators-handbook-session6.md: 337
+
+Coalition-Size War Effort Paradox
+  [dictators-handbook] dictators-handbook-session4.md:  12
+
+Coalition-Size-Changes-Drive-Immediate-Corruption-Shifts
+  [dictators-handbook] dictators-handbook-session3.md: 227
+
+Coalition-Size-Determines-Reward-Structure
+  [dictators-handbook] dictators-handbook-session3.md:  16
+
+Code-Enforcement-Superiority-Over-Law-Enforcement
+  [lessig] lessig-session3.md: 182
+
+Coinage Creates Materialist Philosophy (New Coordination Technology → New Thought Categories)
+  [graeber] graeber-session4.md: 167
+
+Collaborator Conversion Mechanism
+  [blum] blum-session2.md:  11
+
+Commercial Logic Colonizes Religious/Cosmic Thought (REPEATED)
+  [graeber] graeber-session2.md: 198
+
+Comprehension Bottleneck in Distributed Coordination
+  [ostrom] ostrom-session1.md: 243
+
+COORDINATED MEDIA FABRICATION
+  [blum] blum-session9.md: 134
+
+Coordination Benefits Justify Centralization
+  [scott] scott-session1.md: 296
+
+Coordination Cost Threshold Transition
+  [weber] weber-session6.md: 182
+
+Coordination Failure via Race-to-Bottom Dynamics
+  [piketty] piketty-session8.md: 101
+
+Coordination Problems Favor Attackers Over Defenders
+  [yudkowsky] yudkowsky-session2.md: 324
+
+Coordination Speed Advantage in Target Vulnerability Windows
+  [blum] blum-session14.md: 286
+
+Coordination Speed vs. Threat Speed Determines Winner
+  [ostrom] ostrom-session3.md: 318
+
+Coordination Trap
+  [piketty] piketty-session7.md: 274
+
+Corruption-as-Coalition-Payment Mechanism
+  [dictators-handbook] dictators-handbook-session6.md: 177
+
+Corruption-as-Loyalty-Enforcement
+  [dictators-handbook] dictators-handbook-session3.md:  63
+
+Cost Externalization
+  [scott] scott-session7.md: 235
+
+Cost-Driven Behavioral Regime Shift
+  [lessig] lessig-session5.md: 202
+
+Coup/Revolution Risk Curve: Danger in the Middle
+  [dictators-handbook] dictators-handbook-session5.md: 299
+
+Credit Criminalization Destroys Community Coordination
+  [graeber] graeber-session6.md: 266
+
+Critical Juncture Amplification of Small Institutional Differences
+  [acemoglu] acemoglu-session4.md: 151
+
+Critical Junctures + Institutional Drift = Path Divergence
+  [acemoglu] acemoglu-session6.md: 320
+
+Critical Junctures + Small Institutional Differences = Path Divergence
+  [acemoglu] acemoglu-session3.md: 341
+
+Cross-Ideological High-Modernist Convergence
+  [scott] scott-session4.md:  64
+
+Cross-System Learning Accelerates Coordination
+  [ostrom] ostrom-session3.md: 296
+
+Decile/Centile as Coordination Language
+  [piketty] piketty-session3.md: 319
+
+Decoupling-Recoupling Coordination Crisis
+  [perez] perez-session4.md: 146
+
+Defeated Reform Attempts → Institutional Lock-in
+  [acemoglu] acemoglu-session4.md: 226
+
+Democratic Fragility at Coalition-Manipulation Points
+  [dictators-handbook] dictators-handbook-session6.md: 204
+
+Depoliticization as Elite Strategy
+  [schmitt] schmitt-session1.md: 208
+
+Designated Heir Coalition Continuity
+  [dictators-handbook] dictators-handbook-session1.md: 113
+
+Development Reversal via Institutional Engineering
+  [acemoglu] acemoglu-session4.md:  60
+
+Disaster-Coalition Divergence
+  [dictators-handbook] dictators-handbook-session4.md:  54
+
+Disaster-Response-Reveals-Coalition-Structure
+  [dictators-handbook] dictators-handbook-session3.md: 243
+
+Distributed Capability Succeeds When Coordination Costs Are Low Relative to Selection Benefits
+  [weber] weber-session10.md:  52
+
+Distributed Coordination Failure from Cognitive Architecture
+  [kahneman] kahneman-session7.md: 280
+
+Distributed Systems Face Inherent Coordination Costs
+  [kahneman] kahneman-session3.md: 193
+
+Distributed-Knowledge Coordination Through Proceduralization
+  [weber] weber-session3.md: 128
+
+Efficiency-Surveillance Correlation
+  [lessig] lessig-session1.md: 177
+
+Election-as-Coordination-Point
+  [dictators-handbook] dictators-handbook-session4.md: 209
+
+Electoral Mechanics Alter Effective Coalition Size
+  [dictators-handbook] dictators-handbook-session5.md: 164
+
+Elimination of Informal Coordination Infrastructure
+  [scott] scott-session3.md: 272
+
+Elite Adaptation vs Elite Rigidity (Survival Pattern)
+  [ferguson] ferguson-session7.md:  37
+
+Elite Capture Beats Mass Movement
+  [blum] blum-session6.md:   8
+
+Elite Capture Prevents Adaptation
+  [acemoglu] acemoglu-session2.md: 453
+
+Elite Collegiality as Anti-Populist Defense
+  [weber] weber-session8.md:  45
+
+Elite Competition Driving Institutional Inclusion vs Monopoly Driving Extraction
+  [acemoglu] acemoglu-session4.md: 174
+
+Elite Force Protection Inversion
+  [dictators-handbook] dictators-handbook-session4.md:  40
+
+Elite Incentive Alignment Requirement
+  [acemoglu] acemoglu-session6.md: 374
+
+Elite Network Trans-Hierarchical Coordination
+  [ferguson] ferguson-session11.md: 159
+
+Elite Persistence Despite Economic Cost
+  [acemoglu] acemoglu-session8.md:  14
+
+Elite Resistance to Creative Destruction
+  [acemoglu] acemoglu-session6.md:  61
+
+Elite Self-Interest Disguised as Economic Law
+  [piketty] piketty-session7.md: 132
+
+Elite-Honor-Claims-Despite-Market-Participation
+  [graeber] graeber-session3.md:  88
+
+Embassy Infrastructure as Operational Coordination Hub
+  [blum] blum-session13.md: 311
+
+Existential Stakes Enable Coordination
+  [yudkowsky] yudkowsky-session4.md: 313
+
+External Profit Opportunities → Institutional Perversion
+  [acemoglu] acemoglu-session4.md: 203
+
+External Shocks Exposing Fragile Coordination
+  [weber] weber-session1.md: 218
+
+Extraction Cost Theory of Elite Compensation
+  [piketty] piketty-session7.md:  58
+
+Familiar Rules Repertoire → Path-Dependent Institutional Evolution
+  [ostrom] ostrom-session5.md: 239
+
+Financial Complexity as Coordination Fog
+  [piketty] piketty-session3.md: 297
+
+FK "Innovation" vs PK Innovation - Coordination Failure
+  [perez] perez-session8.md: 159
+
+Foreign Aid as Coalition Payment System
+  [dictators-handbook] dictators-handbook-session6.md:  77
+
+Franchise Extension as Elite Response to Threat
+  [acemoglu] acemoglu-session8.md: 248
+
+Free Markets Require Strong Institutional Enforcement (Paradox)
+  [graeber] graeber-session5.md: 174
+
+Functional-Understanding Coordination Limit
+  [weber] weber-session4.md: 104
+
+Genuine Innovation Coexists with Fundamental Blindness
+  [kahneman] kahneman-session6.md: 225
+
+Geographic Clustering Despite Cosmopolitan Claims
+  [ferguson] ferguson-session6.md:  86
+
+Global Coordination Through Violence Monopoly
+  [girard] girard-session4.md:  88
+
+Government Countermeasure Acceleration
+  [tufekci] tufekci-session6.md: 328
+
+Heterogeneity Without Coordination Mechanisms Prevents Distributed Success
+  [ostrom] ostrom-session3.md: 375
+
+Heterogeneous Impacts + Strategic Position → Veto Coalition → Status Quo Lock-in
+  [ostrom] ostrom-session5.md: 384
+
+Homophily Amplification (Finding Like-Minded Others)
+  [tufekci] tufekci-session1.md: 180
+
+Immigration + Easy Citizenship → Coalition Expansion
+  [dictators-handbook] dictators-handbook-session5.md: 253
+
+Incremental Institutional Capital Accumulation
+  [ostrom] ostrom-session4.md: 275
+
+Infrastructure-as-Coordination-Control
+  [dictators-handbook] dictators-handbook-session3.md: 179
+
+Inheritance as Coalition Commitment Device
+  [dictators-handbook] dictators-handbook-session1.md: 304
+
+Initial Institutional Design Persistence
+  [dictators-handbook] dictators-handbook-session6.md: 231
+
+Innovation Cannot Be Coerced
+  [acemoglu] acemoglu-session2.md: 410
+
+Installation = Coordination Failure by Design
+  [perez] perez-session2.md: 141
+
+Institutional Enlargement Enables Coordination Against Leader
+  [dictators-handbook] dictators-handbook-session2.md: 204
+
+Institutional Inertia and Mission Expansion
+  [blum] blum-session12.md: 104
+
+Institutional Pension as Research Enabler
+  [weber] weber-session2.md: 129
+
+Institutional Recomposition Timing Determines Recession Length
+  [perez] perez-session8.md: 231
+
+Institutional Retreat Follows Perception of Policy-Making Without Mandate
+  [lessig] lessig-session7.md: 277
+
+Intellectual Elite Transformation
+  [schmitt] schmitt-session1.md:  78
+
+Inter-CPR Communication Channels → Knowledge Diffusion → Institutional Innovation
+  [ostrom] ostrom-session5.md: 216
+
+International Coordination Impossibility (Collective Action Failure)
+  [piketty] piketty-session6.md: 233
+
+Layered Architecture Enables Coordination Without Central Control
+  [lessig] lessig-session8.md: 241
+
+Leader-Coalition-People Structural Preference Conflict
+  [dictators-handbook] dictators-handbook-session5.md: 187
+
+Legitimacy Types Enable Different Coordination Modes
+  [weber] weber-session3.md: 192
+
+Long-Term Institutional Capture > Ad-Hoc Operations
+  [blum] blum-session6.md:  30
+
+Market Shock + Fixed Rules = Institutional Collapse
+  [ostrom] ostrom-session4.md: 112
+
+Mass Belief Lag Behind Elite Recognition
+  [schmitt] schmitt-session1.md: 273
+
+Media Saturation as Coordination Weapon
+  [blum] blum-session7.md: 160
+
+Midrange Coalition Instability / Institutional Churning
+  [dictators-handbook] dictators-handbook-session5.md:  51
+
+Military-Currency Coercion Loop
+  [graeber] graeber-session7.md:  13
+
+Mimetic Convergence Coordination Failure
+  [girard] girard-session3.md: 100
+
+Monetary Calculation as Distributed Coordination
+  [weber] weber-session5.md: 145
+
+Multi-Platform Coordination for Deniability
+  [blum] blum-session4.md: 195
+
+Multiple Competing Nodes Outperform Single Hub
+  [ferguson] ferguson-session5.md:  55
+
+Multiple Interchangeable Attack Vectors / Coordination Burden Asymmetry
+  [kahneman] kahneman-session2.md: 136
+
+Myth as Coordination Through Shared Delusion
+  [girard] girard-session2.md: 209
+
+National Identity Requires Cross-Border Coordination Experience
+  [lessig] lessig-session7.md: 233
+
+Natural Disaster Coalition Revelation
+  [dictators-handbook] dictators-handbook-session6.md: 127
+
+Near-Death-Triggers-Coalition-Defection
+  [dictators-handbook] dictators-handbook-session3.md: 212
+
+No Guarantee of Cumulative Institutional Improvement
+  [acemoglu] acemoglu-session3.md: 182
+
+Occupational Representation Coordination Failure
+  [weber] weber-session8.md: 189
+
+Old Core Firms as Unwitting Test Beds
+  [perez] perez-session1.md:  80
+
+Open Source Coordination Success
+  [lessig] lessig-session8.md: 292
+
+Overlapping Jurisdictions with Clear Boundaries → Adaptive Governance
+  [ostrom] ostrom-session5.md:  66
+
+Paradigm as Inclusion-Exclusion Coordination Mechanism
+  [perez] perez-session7.md: 179
+
+Perverse Feedback Validates Coercive Approaches
+  [kahneman] kahneman-session4.md: 122
+
+Popular Support Irrelevance (Minimum Winning Coalition)
+  [dictators-handbook] dictators-handbook-session6.md:  54
+
+Post-War Institutional Lock-In
+  [blum] blum-session14.md: 316
+
+Pre-Announcement of Changes Triggers Preemptive Coalition Response
+  [dictators-handbook] dictators-handbook-session2.md: 180
+
+Private Goods Efficiency in Small Coalitions
+  [dictators-handbook] dictators-handbook-session1.md: 276
+
+Privatization Ratchet (One-Way Coordination Failure)
+  [piketty] piketty-session3.md: 275
+
+Public Goods Provision as Coalition-Size Function
+  [dictators-handbook] dictators-handbook-session6.md: 284
+
+Rapid Coordination via Pre-Positioned Assets
+  [blum] blum-session6.md: 281
+
+Recognition of Shared Doom Enables Coordination
+  [yudkowsky] yudkowsky-session4.md: 120
+
+Redemption-Mechanism-Institutionalization
+  [graeber] graeber-session3.md: 138
+
+Refugee Camp Coordination Substrate
+  [dictators-handbook] dictators-handbook-session4.md: 180
+
+Regime Stance (Indifferent/Facilitative/Directive/Corrupt) → Local Institutional Capability
+  [ostrom] ostrom-session5.md: 346
+
+Reputation Coordination vs. Performance Signal
+  [han-feizi] han-feizi-session1.md: 251
+
+Resource Curse Coalition Shrinkage
+  [dictators-handbook] dictators-handbook-session6.md: 103
+
+Retrofitting Costs vs Greenfield Implementation
+  [scott] scott-session2.md: 207
+
+Rigged Elections as Public Coalition-Warning Signal
+  [dictators-handbook] dictators-handbook-session2.md: 314
+
+Ripple Diffusion - Core to Periphery Sequencing
+  [perez] perez-session8.md: 178
+
+Slavery Elimination Cycles (Institutional Reset Is Possible)
+  [graeber] graeber-session4.md: 122
+
+Spontaneous Order → Vanguard Capture
+  [scott] scott-session7.md: 162
+
+Stable Money as Social Coordination Mechanism
+  [piketty] piketty-session2.md: 220
+
+Standards as Hidden Coordination Points
+  [lessig] lessig-session8.md: 266
+
+Sunk Cost Escalation
+  [blum] blum-session2.md: 206
+
+Suppression-as-Coordination-Prevention
+  [dictators-handbook] dictators-handbook-session3.md: 195
+
+Surveillance-Enabled Network Coordination Asymmetry
+  [ferguson] ferguson-session13.md: 128
+
+Symbolic Money Coordination Failure
+  [graeber] graeber-session8.md: 286
+
+Tax System as Coalition-Size Indicator
+  [dictators-handbook] dictators-handbook-session6.md: 364
+
+The Institutional-Coordination Failure Pattern
+  [blum] blum-session3.md: 185
+
+The Iron Law of Oligarchy
+  [acemoglu] acemoglu-session6.md:  11
+
+The Leaderlessness Dilemma
+  [tufekci] tufekci-session2.md:  87
+
+The Proxy-Coordination Premium
+  [blum] blum-session3.md: 210
+
+Three-Mode Coordination (Communism/Exchange/Hierarchy)
+  [graeber] graeber-session2.md:  91
+
+Transparency Without Institutional Translation
+  [tufekci] tufekci-session6.md: 240
+
+Tyranny of Structurelessness (Stable 50+ Year Pattern)
+  [tufekci] tufekci-session2.md:  61
+
+Unanimous Coordination Without Conscious Agreement
+  [girard] girard-session5.md: 196
+
+Violent Succession as Coordination Failure Signal
+  [dictators-handbook] dictators-handbook-session6.md: 311
+
+Visual Codification Bypasses Empirical Testing
+  [scott] scott-session5.md:  50
+
+War Leader Survival Depends on Coalition Size
+  [dictators-handbook] dictators-handbook-session6.md: 256
+
+Weak Tie Bridge Activation
+  [tufekci] tufekci-session1.md: 150
+
+Women-Commoditized-First
+  [graeber] graeber-session3.md: 286
+
+Workplace Concentration as Coordination Prerequisite
+  [weber] weber-session9.md: 328
+
+
+CYCLES_DYNAMICS (141 patterns, 8.3%)
+================================================================================
+Crises, cycles, cascades, change dynamics, divergence, feedback loops
+--------------------------------------------------------------------------------
+
+"Debt Crisis → Military Expansion" Temporary Fix Always Fails
+  [graeber] graeber-session4.md: 100
+
+"I Am Outside the Crisis" Delusion Always Fails
+  [girard] girard-session2.md:  87
+
+30-Year Settlement Cycle
+  [graeber] graeber-session6.md: 410
+
+Adaptation Erodes Initial Impact (Except for Persistent Attention-Demanding Changes)
+  [kahneman] kahneman-session8.md: 212
+
+Adversarial Adaptation Acceleration
+  [tufekci] tufekci-session5.md: 196
+
+Aid-Reform-Promise-Cycle
+  [dictators-handbook] dictators-handbook-session3.md: 145
+
+Appeasement Acceleration Cycle
+  [han-feizi] han-feizi-session1.md: 350
+
+Bailout-Without-Reform-Cycle
+  [dictators-handbook] dictators-handbook-session3.md:  97
+
+Binary Choice Emerges at Crisis Peak
+  [girard] girard-session4.md: 358
+
+Bullion-Credit Oscillation (Axial Age Cycle)
+  [graeber] graeber-session8.md: 201
+
+Capitalism's Inclusion Crisis
+  [graeber] graeber-session6.md:  89
+
+Capture-and-Destroy Cycle
+  [scott] scott-session3.md:  88
+
+Centralized Adaptation Cycle
+  [tufekci] tufekci-session6.md:  65
+
+Centralized-Monopoly-Breaks-Cycle
+  [girard] girard-session1.md:  14
+
+Changed Default Conditions Enable Self-Governance Without Central Imposition
+  [ostrom] ostrom-session3.md: 254
+
+Charismatic Routinization Cycle
+  [weber] weber-session7.md: 195
+
+Coalition Expansion via Crisis/Merger Creates Purge Opportunity
+  [dictators-handbook] dictators-handbook-session2.md: 106
+
+Competition-to-Oligopoly Cycle
+  [perez] perez-session2.md:  12
+
+Confidence-Capability Divergence
+  [kahneman] kahneman-session10.md:  71
+
+Constitutional Translation Necessity in Technological Change
+  [lessig] lessig-session10.md: 353
+
+Core-Periphery Divergence-Convergence Cycle
+  [perez] perez-session5.md: 206
+
+Credit-Bullion 5000-Year Alternation Cycle
+  [graeber] graeber-session4.md: 144
+
+Crisis Creation → Humanitarian Intervention
+  [blum] blum-session13.md: 205
+
+Crisis Cycle—Differentiation → Undifferentiation → Re-differentiation
+  [girard] girard-session5.md: 271
+
+Crisis Duration Determines Discovery Capacity
+  [girard] girard-session4.md: 310
+
+Crisis Enables Centralization
+  [scott] scott-session6.md: 284
+
+Crisis Makes False Theories Fit Better
+  [girard] girard-session4.md: 114
+
+Crisis Mobilization Ratchet
+  [scott] scott-session7.md: 184
+
+Crisis Precedes Technology
+  [ferguson] ferguson-session10.md: 260
+
+Crisis Response Pattern - Pragmatic Stabilization Without Structural Reform
+  [piketty] piketty-session6.md: 299
+
+Crisis Rhetoric + Loss Aversion Bias → Institutional Change Window
+  [ostrom] ostrom-session5.md: 265
+
+Crisis Simulation as Justification
+  [blum] blum-session4.md: 169
+
+Crisis → Memory → Policy Cycle (40-50 years)
+  [piketty] piketty-session2.md: 276
+
+Crisis-Cycle Synchronization to Natural Rhythms
+  [girard] girard-session2.md: 330
+
+Crisis-Dependent Redistribution
+  [piketty] piketty-session1.md:  14
+
+Crisis-Driven Hierarchical Simplification
+  [ferguson] ferguson-session6.md: 122
+
+Crisis-Driven-Architecture-Acceptance (Z-Theory)
+  [lessig] lessig-session2.md: 192
+
+Crisis-Enabled Ratchet Effects
+  [scott] scott-session2.md:  92
+
+Crisis-Gated Institutional Change
+  [piketty] piketty-session7.md:  13
+
+Crisis-to-Reform Lag (The Generational Delay)
+  [graeber] graeber-session8.md: 340
+
+Crisis-Transition Hegemony Transfer
+  [blum] blum-session1.md: 304
+
+Crisis-Triggers-Prewritten-Change (Z-Theory)
+  [lessig] lessig-session3.md:  14
+
+Crisis-Window Ratchet Asymmetry
+  [piketty] piketty-session9.md: 138
+
+Debt Bondage Acceleration Cascade
+  [graeber] graeber-session2.md: 368
+
+Debt Cancellation Necessity Cycle
+  [graeber] graeber-session8.md: 147
+
+Debt Crisis → Clean Slate Cycle (REPEATED)
+  [graeber] graeber-session2.md: 147
+
+Debt-Crisis-Cycle-and-Reform
+  [graeber] graeber-session3.md: 112
+
+Debt-Driven Dehumanization Cascade
+  [graeber] graeber-session5.md:  35
+
+Dialectical Technology Appropriation Cycle
+  [tufekci] tufekci-session5.md: 136
+
+Distinction-Collapse-Cascade
+  [girard] girard-session1.md:  48
+
+Distraction Cascade to State Collapse
+  [han-feizi] han-feizi-session2.md:   9
+
+Divergence-Amplification
+  [acemoglu] acemoglu-session1.md: 165
+
+Economic Crisis as Democratization Trigger
+  [dictators-handbook] dictators-handbook-session4.md: 239
+
+Economic Siege Regime Change
+  [blum] blum-session10.md:  38
+
+Epistemological Crisis Catalyst
+  [tufekci] tufekci-session1.md: 227
+
+Expert Knowledge ≠ Behavioral Change
+  [kahneman] kahneman-session7.md: 116
+
+Exposure-at-Periphery Crisis Mechanism
+  [ferguson] ferguson-session10.md: 240
+
+Expropriation Cascade via Dual Pressure
+  [weber] weber-session6.md:   5
+
+Fabrication Cascade for Policy Justification
+  [blum] blum-session5.md: 209
+
+Facts-on-Paper vs Facts-on-Ground Divergence
+  [scott] scott-session2.md: 251
+
+Fear-Induced Atomization Cascade Pattern
+  [ferguson] ferguson-session9.md: 219
+
+Festival Cycle as Controlled Crisis Repetition
+  [girard] girard-session5.md: 347
+
+Financial Capital Dominance Cycle
+  [perez] perez-session1.md:  17
+
+Financial Capital Role Reversal Cycle
+  [perez] perez-session2.md: 279
+
+Financial Crisis Opens Succession Window
+  [dictators-handbook] dictators-handbook-session2.md: 129
+
+Fiscal Secession Cascade
+  [piketty] piketty-session7.md:  82
+
+FK-PK Decoupling-Recoupling Cycle
+  [perez] perez-session8.md: 211
+
+Four-Element Catastrophe Formula
+  [scott] scott-session1.md: 410
+
+Four-Phase Surge Structure (50-60 Year Cycle)
+  [perez] perez-session1.md: 295
+
+Frenzy → Crash → Recomposition Cycle
+  [perez] perez-session7.md:  93
+
+Geopolitical-Shift-Triggers-Aid-Cutoff-Cascade
+  [dictators-handbook] dictators-handbook-session3.md: 260
+
+Gradual Change Succeeds Where Revolutionary Change Fails
+  [acemoglu] acemoglu-session5.md: 228
+
+Humanitarian Crisis Instrumentalization
+  [blum] blum-session11.md: 143
+
+Income Polarization Economic Vicious Cycle
+  [perez] perez-session2.md: 261
+
+Incremental Change Accumulation
+  [lessig] lessig-session8.md: 372
+
+Incremental Concession Cascade
+  [han-feizi] han-feizi-session1.md:  78
+
+Incremental Sequential Change, Not One-Step Transformation
+  [ostrom] ostrom-session3.md: 275
+
+Installation-Deployment Decoupling-Recoupling Cycle
+  [perez] perez-session7.md: 321
+
+Instantaneous Crisis Resolution Through Unanimity
+  [girard] girard-session2.md: 260
+
+Institutional Inertia-Breakthrough Cycle
+  [perez] perez-session4.md:  53
+
+Institutional Lag and Crisis Mechanism
+  [perez] perez-session5.md: 102
+
+Intervention Precedent Cycle
+  [blum] blum-session2.md: 101
+
+Knowledge Distribution Without Behavior Change
+  [kahneman] kahneman-session4.md:  35
+
+Legal Inertia Despite Technological Change (The Olmstead Pattern)
+  [lessig] lessig-session4.md: 120
+
+Legitimacy Loss Cascade
+  [weber] weber-session8.md: 131
+
+Local Knowledge Destruction Cascade
+  [scott] scott-session4.md: 270
+
+Manufactured Constitutional Crisis as Intervention Window
+  [blum] blum-session8.md: 298
+
+Market Competition → Efficiency Convergence (Firms); CPR Weak Competition → Efficiency Divergence (Communities)
+  [ostrom] ostrom-session5.md: 436
+
+Metric Displacement Cycle
+  [scott] scott-session5.md: 272
+
+Mid-Installation Crisis as Phase Marker
+  [perez] perez-session1.md: 367
+
+Minimum-Viable-Force Cascade
+  [blum] blum-session3.md:   8
+
+Normalcy Bias Prevents Appropriate Response to Discontinuous Change
+  [yudkowsky] yudkowsky-session4.md: 151
+
+Optimization Processes Produce Unpredictable Divergence From Training Objectives
+  [yudkowsky] yudkowsky-session2.md:  25
+
+Order-from-Chaos Imperative
+  [ferguson] ferguson-session13.md: 107
+
+Policy Threat Triggers Defensive Cascade
+  [ostrom] ostrom-session4.md: 232
+
+Post-Crisis Regulatory Ossification
+  [ferguson] ferguson-session3.md: 279
+
+Posthumous Reinterpretation Cascade
+  [weber] weber-session2.md:  32
+
+Price Change Asymmetric Redistribution
+  [piketty] piketty-session4.md: 206
+
+Price Revolution Divergence (16th Century)
+  [weber] weber-session5.md: 103
+
+Procurement Crisis as Design Driver
+  [scott] scott-session4.md: 240
+
+Prohibitions as Encoded Crisis Response
+  [girard] girard-session4.md: 212
+
+r > g Divergence Mechanism
+  [piketty] piketty-session5.md:   6
+
+Rapid Change Overwhelms Adaptation Capacity
+  [ostrom] ostrom-session1.md: 328
+
+Recent Events Overweighted → Post-Crisis Change, Pre-Crisis Resistance
+  [ostrom] ostrom-session5.md: 322
+
+Recurrent Crisis Timing and Bunching
+  [perez] perez-session8.md:  78
+
+Recurrent Loan-Default Cycle (50-60 Year Rhythm)
+  [perez] perez-session1.md: 104
+
+Reform Slander Cycle (Historical Precedent)
+  [han-feizi] han-feizi-session3.md:  33
+
+Reformer's Doom Cycle
+  [han-feizi] han-feizi-session2.md:  63
+
+Regional Divergence Under Common Shock
+  [piketty] piketty-session7.md: 395
+
+Regulation Resistance → Crisis → Acceptance Cycle
+  [perez] perez-session3.md:  98
+
+Revolutionary Debt Destruction Cycle
+  [graeber] graeber-session1.md: 153
+
+Sabotage-Provocation-Justification Cycle
+  [blum] blum-session2.md: 234
+
+Sacrificial Crisis Cycle
+  [girard] girard-session6.md: 272
+
+Sacrificial Crisis Recurrence Despite "Progress"
+  [girard] girard-session2.md: 134
+
+Scale Transforms Signal Value (Devaluation Cycle)
+  [tufekci] tufekci-session4.md:  87
+
+Self-Fulfilling Intelligence Cycle
+  [blum] blum-session4.md:  13
+
+Self-Perpetuating Paranoia Amplification
+  [blum] blum-session2.md: 176
+
+Slow Crisis Sustains Without Resolving
+  [girard] girard-session4.md:  64
+
+Small Differences Amplified at Critical Junctures
+  [acemoglu] acemoglu-session2.md:  86
+
+Social Norm Evolution Drives Pay Divergence
+  [piketty] piketty-session4.md:  66
+
+Social-to-Commercial-Currency-Transition-Crisis
+  [graeber] graeber-session3.md: 164
+
+Speed-of-Collapse-Varies-Endpoint-Converges
+  [graeber] graeber-session3.md: 241
+
+Sphere-of-Influence Precedent Cascade
+  [blum] blum-session1.md:  99
+
+Stability Across Regime Changes When Community Structure Persists
+  [ostrom] ostrom-session2.md: 128
+
+State Ownership Cycle
+  [piketty] piketty-session2.md:  71
+
+STRATEGIC THREAT FABRICATION CASCADE
+  [blum] blum-session9.md:  30
+
+Succession Uncertainty Defection Cascade
+  [dictators-handbook] dictators-handbook-session6.md:  31
+
+Swoosh Curve: Bimodal Welfare Stability
+  [dictators-handbook] dictators-handbook-session5.md:  30
+
+Synchronous Crisis vs Sequential Diffusion Asymmetry
+  [perez] perez-session8.md:  94
+
+Tax-Politics Feedback Loop (Amplifying Divergence)
+  [piketty] piketty-session4.md: 150
+
+Techno-Optimism Cycle (Liberation → Manipulation)
+  [ferguson] ferguson-session3.md: 100
+
+Technological Change Non-Determinism
+  [acemoglu] acemoglu-session8.md: 159
+
+Technology Utopianism Cycle
+  [tufekci] tufekci-session3.md: 114
+
+Terminal Illness Defection Cascade
+  [dictators-handbook] dictators-handbook-session1.md:  59
+
+The Efficiency Trap
+  [tufekci] tufekci-session2.md: 219
+
+The Manufactured-Crisis-Then-Intervention Pattern
+  [blum] blum-session3.md: 296
+
+The Point-of-No-Return Cascade
+  [blum] blum-session3.md: 268
+
+The r > g Divergence Engine
+  [piketty] piketty-session1.md:  58
+
+Transformation Cost Threshold Blocks Change
+  [ostrom] ostrom-session4.md: 376
+
+Transition Timing: Crisis Reveals Institutional Costs → Rapid Change
+  [acemoglu] acemoglu-session4.md: 249
+
+Usury Ban Evasion Cycle
+  [graeber] graeber-session8.md: 175
+
+
+ECONOMIC_SYSTEMS (119 patterns, 7.0%)
+================================================================================
+Technology, capital, debt, extraction, trade, formation, expansion, money
+--------------------------------------------------------------------------------
+
+"Democratization of Finance" → Debt Peonage
+  [graeber] graeber-session6.md: 206
+
+"Engels' Pause" - Growth Acceleration Favors Capital
+  [piketty] piketty-session3.md: 146
+
+"Superior Technology" Narrative Repeatedly Fails
+  [blum] blum-session8.md: 123
+
+"Two Moneys" Divergent Price Structure
+  [perez] perez-session7.md: 152
+
+"Two Moneys" Value Incoherence
+  [perez] perez-session2.md: 157
+
+Appropriation Lock-In Effect
+  [weber] weber-session7.md:  14
+
+Appropriation-Rationality Trade-off
+  [weber] weber-session5.md:  16
+
+Asset-to-Liability Conversion
+  [blum] blum-session10.md: 175
+
+Awestruck Observer / Mistaking Extractive Growth for Sustainable Development
+  [acemoglu] acemoglu-session3.md: 130
+
+Bureaucratic Incentive Structures Override Formal Authority
+  [ostrom] ostrom-session4.md:  52
+
+Bureaucratic Knowledge Monopoly
+  [weber] weber-session7.md:  36
+
+Business Model Determines Technology Appropriation Vector
+  [tufekci] tufekci-session5.md: 341
+
+Capital Accumulation Outruns Democratic Legitimacy
+  [piketty] piketty-session8.md: 192
+
+Capital/Income Ratio Long-Run Stability
+  [piketty] piketty-session2.md: 197
+
+Causation Reversal - Technology Following Political Change
+  [ferguson] ferguson-session10.md: 132
+
+Centralized Capital Accumulation Triggers State Suppression
+  [graeber] graeber-session5.md:  12
+
+Century-Scale Debt Resolution
+  [piketty] piketty-session2.md: 258
+
+Cognitive Arbitrage Extraction
+  [kahneman] kahneman-session7.md:  10
+
+Cold War Target Expansion and Ideological Framing
+  [blum] blum-session14.md: 204
+
+Colonial Capital Accumulation → Expropriation
+  [piketty] piketty-session2.md:  92
+
+Colonial Debt-Extraction Death Spiral
+  [graeber] graeber-session8.md:  91
+
+Communication Technology Determines Structure Pattern
+  [ferguson] ferguson-session9.md: 110
+
+Core-Periphery Capital Pulsation
+  [perez] perez-session1.md:  60
+
+Credit Innovation Under Monetary Scarcity
+  [graeber] graeber-session1.md: 129
+
+Cross-Country Divergence Under Identical Technology
+  [piketty] piketty-session4.md: 122
+
+Debt as Cosmic Breaking, Repayment as Wholeness Restoration
+  [graeber] graeber-session7.md: 316
+
+Debt Cancellation as System Maintenance
+  [graeber] graeber-session7.md:  85
+
+Debt Peonage More Unstable Than Permanent Hierarchy (Equality-Then-Degradation Paradox)
+  [graeber] graeber-session4.md: 264
+
+Deception Emerges as Optimal Strategy Under Imperfect Monitoring
+  [yudkowsky] yudkowsky-session2.md: 489
+
+Default Settings Determine Outcomes More Than Formal Rules
+  [lessig] lessig-session9.md:  76
+
+Drug Trade as Covert Operations Funding/Incentive
+  [blum] blum-session5.md: 493
+
+Drug Trade as Off-Books Operational Funding
+  [blum] blum-session13.md: 285
+
+Echo Chamber Formation via Homophily + Clustering
+  [ferguson] ferguson-session3.md: 233
+
+Economies of Scale in Capital Management
+  [piketty] piketty-session6.md:  12
+
+Elasticity Reversal (Industrial Capital Flexibility)
+  [piketty] piketty-session3.md:  58
+
+Elite Fear of Creative Destruction → Active Technology Blocking
+  [acemoglu] acemoglu-session4.md:   8
+
+Expert Immunity Myth
+  [kahneman] kahneman-session9.md:  97
+
+Expert-Advice-Ignored
+  [acemoglu] acemoglu-session1.md: 120
+
+External Technology Subsidy → Rule-Technology Imbalance → Commons Collapse
+  [ostrom] ostrom-session5.md:  90
+
+Extraction-Optimization-Dominance
+  [acemoglu] acemoglu-session1.md:  13
+
+Extractive Growth Lifecycle (Three Phases)
+  [acemoglu] acemoglu-session3.md:  36
+
+Extractive Institution Durability
+  [acemoglu] acemoglu-session8.md:  41
+
+Facade-Function Gap as Exploitation Space
+  [acemoglu] acemoglu-session6.md: 268
+
+Financial Capital vs Production Capital Oscillation
+  [perez] perez-session7.md: 433
+
+Financial Sector as Paradigm Pioneer
+  [perez] perez-session1.md: 200
+
+Formal Authority Claims Despite No Actual Role
+  [weber] weber-session1.md: 244
+
+Formal Institutions Provide Insufficient Protection
+  [acemoglu] acemoglu-session6.md: 242
+
+Formal vs Substantive Rationality Conflict
+  [weber] weber-session7.md: 151
+
+Formal-Material Rationality Contradiction
+  [weber] weber-session6.md:  25
+
+Formalization Barrier
+  [scott] scott-session6.md: 200
+
+Free Market Formalism Insufficient for Equality
+  [piketty] piketty-session1.md: 154
+
+Government Debt Overrides Moral Commitments
+  [graeber] graeber-session5.md: 151
+
+Heuristic Efficiency-Error Tradeoff
+  [kahneman] kahneman-session9.md: 143
+
+Historical Precedents Assume Friction Costs That Technology Removes
+  [lessig] lessig-session9.md: 269
+
+Idle Capital Revolution-Enabler Mechanism
+  [perez] perez-session5.md: 180
+
+Imperial Debt-Extraction Overshoot
+  [graeber] graeber-session8.md: 423
+
+Inflation-Based Wealth Expropriation
+  [piketty] piketty-session2.md:  31
+
+Institutions Before Technology (Institutional Primacy over Technical Capability)
+  [acemoglu] acemoglu-session3.md: 315
+
+Internal Pluralism + External Extraction Can Coexist
+  [acemoglu] acemoglu-session3.md: 415
+
+Knowledge Diffusion vs Capital Ownership
+  [piketty] piketty-session1.md:  81
+
+Labor Scarcity → Inclusive Institutions (Inverse: Labor Abundance → Extraction)
+  [acemoglu] acemoglu-session4.md:  31
+
+Latent Ambiguity Revealed by Technology
+  [lessig] lessig-session1.md: 319
+
+Legitimacy-Stability Tradeoff
+  [weber] weber-session4.md:  81
+
+Low Growth Amplifies Capital Dominance (r > g Dynamics)
+  [piketty] piketty-session6.md:  56
+
+Maturity Triggers Capital Dispersion and Revolution Search
+  [perez] perez-session3.md: 250
+
+Measurement Technology Enables Pattern Recognition
+  [piketty] piketty-session1.md: 269
+
+Monetary Stability Permanence Illusion
+  [piketty] piketty-session2.md: 134
+
+Monetization Without Capitalism
+  [weber] weber-session5.md: 123
+
+Monstrous Double as Reciprocity Hallucination
+  [girard] girard-session3.md: 275
+
+Moral Debt Paradox
+  [graeber] graeber-session1.md: 175
+
+Multi-Decade Capital Accumulation Lag
+  [piketty] piketty-session3.md: 211
+
+Parasitic Relationship (Formal Depends on Informal)
+  [scott] scott-session6.md: 172
+
+Penetration-Latency-Exposure Collapse Pattern
+  [ferguson] ferguson-session9.md: 348
+
+Physical/Rule Design Enables Low-Cost Transparency (Not Technology)
+  [ostrom] ostrom-session2.md: 147
+
+Political-Shock Capital Destruction (Non-Physical)
+  [piketty] piketty-session2.md:  51
+
+Postwar Growth Exceptionalism Misperception
+  [piketty] piketty-session2.md: 176
+
+Public Debt as Regressive Redistribution
+  [piketty] piketty-session8.md: 282
+
+Rational Critique as New Form of Ritual Expulsion
+  [girard] girard-session5.md: 402
+
+Return on Capital Stability (~4-5% long-run anchor)
+  [piketty] piketty-session3.md: 232
+
+Risk Capital Instrument Innovation Timing
+  [perez] perez-session1.md: 388
+
+Scale-Driven Monocracy Advantage
+  [weber] weber-session8.md:  30
+
+Scarcity Arguments Justify Centralization Until Technology Removes Scarcity
+  [lessig] lessig-session9.md: 110
+
+Self-Enforcing-Debt-Societies
+  [graeber] graeber-session3.md: 214
+
+Short-Term Incentive Advantage of Extraction
+  [acemoglu] acemoglu-session3.md: 105
+
+Simple Algorithms Beat Expert Judgment (Low-Validity Environments)
+  [kahneman] kahneman-session5.md:  48
+
+Slow-Then-Rapid Expropriation Pattern
+  [ferguson] ferguson-session9.md: 297
+
+Social Capital Paradox (The Bootstrapping Problem)
+  [ostrom] ostrom-session1.md: 385
+
+Speed vs Legitimacy Trade-off in Redistribution
+  [piketty] piketty-session7.md: 105
+
+Speed-Sustainability Tradeoff
+  [tufekci] tufekci-session2.md: 477
+
+Stable Debt-Money Claims → Bubble-Crash Reality
+  [graeber] graeber-session6.md: 147
+
+Symbolic Money and the Tally Mechanism
+  [graeber] graeber-session5.md: 245
+
+Technology Amplifies Existing Organizational Patterns Rather Than Transforming Them
+  [tufekci] tufekci-session2.md: 167
+
+Technology as Ecological Change (Not Just Tool)
+  [tufekci] tufekci-session3.md: 238
+
+Technology Capture
+  [scott] scott-session7.md:  34
+
+Technology Deployment Gap (Millennium-Scale Stagnation Despite Innovation)
+  [acemoglu] acemoglu-session3.md: 208
+
+Technology Displacement Speed and Completeness
+  [perez] perez-session1.md: 153
+
+Technology Enables Hierarchical Centralization (Not Just Networks)
+  [ferguson] ferguson-session7.md:  86
+
+Technology Enables Regulatory Arbitrage Then Regulatory Extension
+  [lessig] lessig-session8.md: 398
+
+Technology Endogenous to Institutions
+  [acemoglu] acemoglu-session7.md: 189
+
+Technology Neutrality Within Structural Constraints
+  [tufekci] tufekci-session3.md: 321
+
+Technology-Amplifies-Existing-Optimizer
+  [acemoglu] acemoglu-session1.md:  54
+
+Technology-Economy Non-Alignment
+  [weber] weber-session4.md: 152
+
+Technology-Enabled Rapid Mobilization Against Hierarchies
+  [ferguson] ferguson-session12.md:  65
+
+Technology-Enabled Transformation Faith
+  [scott] scott-session5.md: 112
+
+Technology-Hierarchy Amplification
+  [ferguson] ferguson-session8.md: 167
+
+Technology-Janus-Face (Dual-Use-Inversion)
+  [lessig] lessig-session2.md: 101
+
+The Extraction-Defense Feedback Loop
+  [acemoglu] acemoglu-session2.md:   7
+
+The Legibility-Autonomy Tradeoff
+  [scott] scott-session1.md:  89
+
+Theological Roots Embedded in Secular Economics
+  [graeber] graeber-session6.md: 236
+
+Three-Generation Debt Bondage Limit (Cultural Limit on Hereditary Servitude)
+  [graeber] graeber-session4.md: 287
+
+Three-Phase Post-WWII Labor-Capital Dynamics (France)
+  [piketty] piketty-session3.md: 253
+
+Trust-Enforcement Trade-off
+  [graeber] graeber-session8.md: 230
+
+Unpayable Debt as Extraction Mechanism
+  [graeber] graeber-session7.md: 248
+
+UNSC Membership Natural Experiment
+  [dictators-handbook] dictators-handbook-session4.md:  69
+
+Verification Labor-Intensive Despite Technology
+  [tufekci] tufekci-session2.md: 298
+
+Vicious Circle of Extraction
+  [acemoglu] acemoglu-session6.md:  86
+
+Virtual Money Priority in Commerce
+  [graeber] graeber-session7.md:  61
+
+Weak Ties Bridge Trade-off
+  [ferguson] ferguson-session2.md:  37
+
+Women as Preferred Debt Collateral
+  [graeber] graeber-session7.md: 162
+
+
+INFORMATION_SYSTEMS (246 patterns, 14.4%)
+================================================================================
+Information, networks, distributed systems, infrastructure, communication systems
+--------------------------------------------------------------------------------
+
+"Elite Network Security" Failed Precedent
+  [ferguson] ferguson-session9.md: 164
+
+"Society of Petits Rentiers" - Distributed Inheritance Without Mobility
+  [piketty] piketty-session6.md: 277
+
+"Unregulable" Claims Systematically Collapse
+  [lessig] lessig-session10.md: 190
+
+Adjacent System Learning → Adoption Success (When Context Matches)
+  [ostrom] ostrom-session5.md: 137
+
+Algorithmic Message Testing + Local Network Amplification
+  [ferguson] ferguson-session12.md: 131
+
+Allied Intellectuals Legitimation
+  [blum] blum-session12.md: 372
+
+ALLIED REGIME INSTRUMENTALIZATION
+  [blum] blum-session9.md: 264
+
+Architecture-Law Interaction Loop
+  [lessig] lessig-session5.md: 161
+
+Archive Bias Against Networks Pattern
+  [ferguson] ferguson-session1.md: 163
+
+Asymmetric Learning - Counter-Insurgency Adapts, Insurgents Don't
+  [blum] blum-session8.md: 456
+
+Asymmetric Stakes in Information Abundance
+  [tufekci] tufekci-session5.md:  50
+
+Attention Quality > Information Quantity (But Doesn't Address Power Dynamics)
+  [kahneman] kahneman-session8.md: 187
+
+Availability Cascade - Self-Reinforcing Information Control
+  [kahneman] kahneman-session3.md: 171
+
+Availability Cascade Creates Self-Reinforcing Information Dominance
+  [kahneman] kahneman-session1.md:  80
+
+Bureaucratic State Anti-Capitalist Market Success (Distributed Markets + Centralized Regulation)
+  [graeber] graeber-session4.md:  76
+
+Centralized Coercion Defeats Distributed Legitimacy
+  [blum] blum-session7.md:  10
+
+Centralized Destruction of Functioning Distributed Systems
+  [ostrom] ostrom-session1.md: 132
+
+Centralized Expertise Over Distributed Capability
+  [han-feizi] han-feizi-session3.md:   9
+
+Centralized Military-Tax Complex Defeats Distributed Exchange
+  [graeber] graeber-session2.md:  67
+
+Centralized-Violence-Beats-Distributed-Resistance
+  [graeber] graeber-session3.md:  40
+
+Communication Technology Shifts Hierarchy-Network Balance
+  [ferguson] ferguson-session2.md:  67
+
+Complete Information Assumption Blinds Policy Analysis
+  [ostrom] ostrom-session4.md: 213
+
+Complexity Threshold Determines Hierarchy vs Network Advantage
+  [ferguson] ferguson-session3.md:  13
+
+Comprehension (Not Just Information) Enables Coordination
+  [ostrom] ostrom-session2.md: 165
+
+Comprehension Amplification vs. Raw Information Flow
+  [ostrom] ostrom-session3.md: 167
+
+Comprehension Distribution vs Information Distribution (Critical Distinction)
+  [tufekci] tufekci-session5.md: 226
+
+Conway's Law - Structure Copies Communication
+  [ferguson] ferguson-session10.md: 155
+
+Coordinated Multi-Domain Information Saturation
+  [blum] blum-session1.md: 165
+
+Coordination Failure Through Information Asymmetry
+  [weber] weber-session1.md: 138
+
+Coordination Requires Shared Authoritative Understanding, Not Just Available Information
+  [ostrom] ostrom-session3.md: 144
+
+Covert Supply Network Opacity
+  [blum] blum-session11.md: 193
+
+Credibility Infrastructure Dependency
+  [tufekci] tufekci-session4.md: 135
+
+Credibility Infrastructure Emergence
+  [lessig] lessig-session5.md:  74
+
+Credibility Through Distributed vs. Institutional Verification
+  [lessig] lessig-session10.md: 321
+
+Crisis as Information Revelation and Learning Mechanism
+  [perez] perez-session3.md: 184
+
+Cross-Ideological Appeal of Technical Authority
+  [scott] scott-session2.md: 223
+
+Current AI Limitations
+  [yudkowsky] yudkowsky-session2.md: 698
+
+Cute Cat Platform Lock-in (When Distributed Capability Wins)
+  [tufekci] tufekci-session1.md:  71
+
+Data Deterioration During Information Age
+  [piketty] piketty-session4.md: 374
+
+Debt Jubilee Information Problem
+  [graeber] graeber-session8.md: 313
+
+Decision Architecture Beats Information Availability
+  [kahneman] kahneman-session8.md:  34
+
+Default/First-Mover Advantage Compounds via System 2 Laziness
+  [kahneman] kahneman-session8.md:  59
+
+Deliberative Process Converts Information into Legitimate Power
+  [lessig] lessig-session7.md: 177
+
+Democratic Policy Competition Creates Information Arbitrage
+  [dictators-handbook] dictators-handbook-session2.md: 365
+
+Dense Associational Networks Prevent Tyranny
+  [ferguson] ferguson-session6.md:  68
+
+Dependency Infrastructure
+  [scott] scott-session7.md: 207
+
+Diminishable vs Non-Diminishable Information
+  [lessig] lessig-session5.md: 183
+
+Distributed Capability Loses to Concentrated Leverage with Legal/Financial Complexity
+  [piketty] piketty-session6.md: 122
+
+Distributed Capability Through Nested Tiers
+  [ostrom] ostrom-session4.md:  31
+
+Distributed Comprehension Paradox
+  [scott] scott-session7.md: 134
+
+Distributed Detection Without Prevention
+  [kahneman] kahneman-session6.md: 200
+
+Distributed Network Superiority in Adaptive Environments
+  [ferguson] ferguson-session11.md:   9
+
+Distributed Opacity Networks
+  [blum] blum-session4.md:  39
+
+Distributed Ownership Optimizes for Public Goods
+  [dictators-handbook] dictators-handbook-session5.md: 142
+
+Distributed Prosperity Enables Sustainable Synergy
+  [perez] perez-session3.md:  54
+
+Distributed Success Seeds Its Own Destruction
+  [blum] blum-session7.md: 133
+
+Distributed Systems Rapidly Adopt Effective Solutions
+  [scott] scott-session6.md: 143
+
+Distributed Systems Survive as Coping Mechanisms, Not Structural Alternatives
+  [scott] scott-session8.md: 172
+
+Dual Response to Network Dominance (Exclude-and-Compete vs Capitulate-and-Regulate)
+  [ferguson] ferguson-session13.md:  47
+
+Dual-Alliance Instability Despite Balance
+  [ferguson] ferguson-session8.md:  86
+
+Early Autonomy Establishment Creates Path Dependency Favoring Distributed Systems
+  [ostrom] ostrom-session2.md:  59
+
+Economic Integration as Stranglehold
+  [blum] blum-session7.md: 110
+
+Effort Economics Favors Distributed Solutions
+  [kahneman] kahneman-session1.md:  33
+
+Elite Closure Response to Distributed Capability Threat
+  [acemoglu] acemoglu-session3.md:  11
+
+Elite Network Capture
+  [ferguson] ferguson-session3.md: 166
+
+Elite Network Persistence Across Transitions
+  [ferguson] ferguson-session3.md: 322
+
+Elite Network Recruitment Accelerates Growth
+  [ferguson] ferguson-session4.md: 253
+
+Elite Network Trust Exploitation Pattern
+  [ferguson] ferguson-session9.md:  34
+
+Empire Collapse → Religious Network Dominance (Distributed Wins Long-Term)
+  [graeber] graeber-session4.md:  55
+
+End-to-End-Principle-Erosion
+  [lessig] lessig-session2.md: 161
+
+Expertise Requires Environmental Stability for Distributed Excellence
+  [kahneman] kahneman-session1.md:  57
+
+Expertise/Training Doesn't Protect Against System 1 Biases
+  [kahneman] kahneman-session8.md: 136
+
+Exponential Dynamics Create Insurmountable Speed Advantage
+  [yudkowsky] yudkowsky-session3.md:  48
+
+External Authority Can Override Distributed Systems Regardless of Information Quality
+  [ostrom] ostrom-session3.md: 122
+
+Facilitative External Authority vs. Directive Authority - When Distributed Capability Wins
+  [ostrom] ostrom-session5.md:  35
+
+Fake News Epistemic Dominance Under Algorithmic Curation
+  [tufekci] tufekci-session5.md: 282
+
+Family Endogamy Maintains Network Coherence
+  [ferguson] ferguson-session7.md: 240
+
+Federal Standardization Destroys Functional Local Systems
+  [ostrom] ostrom-session4.md: 133
+
+FK Information Asymmetry Advantage in Transitions
+  [perez] perez-session8.md: 144
+
+Flash Information Without Deliberation Degrades Democratic Signal
+  [lessig] lessig-session7.md: 158
+
+Free Media Enables Distributed Resistance
+  [acemoglu] acemoglu-session5.md: 260
+
+Geographic Information Lag Enables Catching-Up
+  [perez] perez-session1.md: 270
+
+Growth-Dependent Institutions in Low-Growth Era
+  [piketty] piketty-session6.md: 255
+
+Health Information as State Secret
+  [dictators-handbook] dictators-handbook-session1.md: 195
+
+Hierarchical Re-Consolidation After Network Disruption Pattern
+  [ferguson] ferguson-session1.md: 324
+
+Hierarchical Surveillance vs. Distributed Comprehension
+  [scott] scott-session5.md: 231
+
+Hierarchy Collapse Speed Depends on Network Penetration Depth
+  [ferguson] ferguson-session3.md: 301
+
+Hierarchy Enforcement Breaks Down at Network Scale
+  [ferguson] ferguson-session5.md: 104
+
+Household Survey Systematic Underestimation
+  [piketty] piketty-session4.md: 402
+
+Hub Vulnerability in Scale-Free Networks
+  [ferguson] ferguson-session3.md:  56
+
+Incident Manufacturing as Intervention Trigger
+  [blum] blum-session13.md: 337
+
+Incumbency Information Asymmetry
+  [dictators-handbook] dictators-handbook-session1.md:  33
+
+Information Access ≠ Comprehension ≠ Better Decisions
+  [kahneman] kahneman-session8.md: 162
+
+Information Architecture Controls Power Distribution
+  [kahneman] kahneman-session2.md:  60
+
+Information Asymmetry as Control Mechanism
+  [blum] blum-session6.md:  52
+
+Information Asymmetry as Maximum Leverage
+  [han-feizi] han-feizi-session1.md:  10
+
+Information Asymmetry as Power Multiplier
+  [ferguson] ferguson-session7.md:  11
+
+Information Asymmetry as Structural Advantage
+  [blum] blum-session7.md:  60
+
+Information Asymmetry Creates Network Advantage
+  [ferguson] ferguson-session10.md: 175
+
+Information Asymmetry Determines Control Capacity
+  [lessig] lessig-session1.md:  59
+
+Information Asymmetry Enables Rent Extraction
+  [ostrom] ostrom-session4.md: 176
+
+Information Asymmetry of the Political
+  [schmitt] schmitt-session1.md: 187
+
+Information Cascade: From Sacred to Secular Misrecognition
+  [girard] girard-session5.md: 246
+
+Information Control as Decision Control
+  [kahneman] kahneman-session7.md:  36
+
+Information Control as Power Maintenance Strategy
+  [acemoglu] acemoglu-session4.md: 129
+
+Information Control Creates Asymmetric Leverage
+  [kahneman] kahneman-session3.md:   8
+
+Information Control Through Deception Infrastructure
+  [han-feizi] han-feizi-session2.md: 155
+
+Information Coordination Network Advantage
+  [ferguson] ferguson-session11.md:  84
+
+Information Corruption Under Extraction
+  [acemoglu] acemoglu-session2.md: 256
+
+Information Cost Collapse Drives System Transformation
+  [ferguson] ferguson-session5.md: 151
+
+Information Density Determines Policy Rationality
+  [weber] weber-session6.md: 138
+
+Information Fabrication Cascade
+  [blum] blum-session4.md:  65
+
+Information Hierarchy Persists Despite Information Access
+  [weber] weber-session9.md: 517
+
+Information Infrastructure as Prerequisite for Justice
+  [piketty] piketty-session8.md:  71
+
+Information Infrastructure as Reform Rate-Limiter
+  [piketty] piketty-session9.md:  93
+
+Information Infrastructure Has Public Good Properties Creating Coordination Barrier
+  [ostrom] ostrom-session3.md: 211
+
+Information Inundation Defense
+  [tufekci] tufekci-session6.md: 213
+
+Information Monopoly at Decision Points
+  [blum] blum-session2.md: 118
+
+Information Monopoly Enables Unilateral Action
+  [blum] blum-session14.md: 232
+
+Information Monopoly Sustains Hierarchy
+  [ferguson] ferguson-session4.md: 202
+
+Information Provision Systematically Fails to Correct Bias
+  [kahneman] kahneman-session6.md: 119
+
+Information Provision ≠ Capability Enhancement
+  [kahneman] kahneman-session10.md: 230
+
+Information Salience Control (WYSIATI)
+  [kahneman] kahneman-session4.md: 270
+
+Information Scarcity Creates Private Monitoring Incentives (AI Paradox)
+  [ostrom] ostrom-session3.md: 101
+
+Information Shift - From Scarcity-Control to Abundance-Weaponization
+  [tufekci] tufekci-session4.md: 256
+
+Information Speed Advantage Determines Network vs Hierarchy Victory
+  [ferguson] ferguson-session3.md:  34
+
+Information Speed Determines Market Power
+  [ferguson] ferguson-session7.md: 348
+
+Information Suppression Blocks Coordination
+  [dictators-handbook] dictators-handbook-session5.md:  97
+
+Information Technology Flows Upward to Centralize Control
+  [scott] scott-session8.md:  91
+
+Information Topology Determines Governance Advantage
+  [ostrom] ostrom-session1.md:  29
+
+Information Transparency Fails to Change Behavior
+  [kahneman] kahneman-session5.md:  25
+
+Information Velocity Through Trusted Networks
+  [ferguson] ferguson-session6.md: 140
+
+Information Warfare Cycle
+  [blum] blum-session11.md: 118
+
+Information ≠ Comprehension
+  [scott] scott-session5.md: 172
+
+Information ≠ Comprehension (The Transparency Paradox)
+  [ostrom] ostrom-session1.md: 187
+
+Information ≠ Comprehension ≠ Coordination ≠ Power
+  [acemoglu] acemoglu-session7.md: 242
+
+Information-Availability-Insufficient
+  [acemoglu] acemoglu-session1.md:  98
+
+INFORMATION/COORDINATION DYNAMICS
+  [perez] perez-session6.md:  79
+
+Infrastructure Bubble Naming Regularity
+  [perez] perez-session8.md:  62
+
+Infrastructure False-Neutrality
+  [schmitt] schmitt-session1.md:  36
+
+Infrastructure Lock-In
+  [blum] blum-session2.md:  56
+
+Insecurity-Driven Centralization Loop
+  [ostrom] ostrom-session1.md: 416
+
+Inside View Dominates Outside View (Statistical Base Rates)
+  [kahneman] kahneman-session5.md: 128
+
+Insider-Outsider Calibration
+  [girard] girard-session6.md:  55
+
+Installation as Necessary Mismatch Period
+  [perez] perez-session2.md: 294
+
+Installation-Period Loss of Synchrony
+  [perez] perez-session7.md: 234
+
+Institutional Design Trumps Information Technology
+  [ostrom] ostrom-session3.md: 232
+
+Institutional Memory Failure / Information Hoarding
+  [blum] blum-session4.md: 221
+
+Intermediary Capture of Information Flow
+  [han-feizi] han-feizi-session1.md: 225
+
+Intervention Escalation Ladder
+  [blum] blum-session14.md:  41
+
+Intervention Repetition Without Learning
+  [blum] blum-session14.md: 149
+
+Known-But-Ineffective Manipulation / Awareness Insufficiency
+  [kahneman] kahneman-session2.md: 236
+
+Leverage vs Distributed Capability - Phase-Dependent
+  [perez] perez-session1.md:  41
+
+Manufactured Information Cascade for Legitimation
+  [blum] blum-session8.md: 240
+
+Maximum Leverage vs Distributed Capability Alternation
+  [perez] perez-session4.md: 102
+
+Maximum-Leverage Defeats Distributed-Capability
+  [blum] blum-session11.md: 243
+
+Maximum-Leverage Failure Against Distributed Legitimacy
+  [blum] blum-session1.md:  11
+
+Maximum-Leverage Victory Through Perfect Information
+  [lessig] lessig-session4.md:  92
+
+Maximum-Leverage vs Distributed Capability Trade-off
+  [weber] weber-session7.md:  57
+
+Maximum-Leverage vs. Distributed Capability Dynamics
+  [ferguson] ferguson-session13.md: 170
+
+Maximum-Leverage vs. Distributed-Capability Trade-off
+  [scott] scott-session4.md: 181
+
+Media Complicity Maintains Information Monopoly Until Failure
+  [blum] blum-session5.md: 263
+
+Media Infrastructure as Perception Management Network
+  [blum] blum-session13.md:  42
+
+Media Infrastructure as Weapons System
+  [blum] blum-session2.md: 147
+
+Migration Network Formation → Counter-Reaction
+  [ferguson] ferguson-session7.md: 427
+
+Models Optimized for Tractability Yield Systematically Wrong Policies
+  [ostrom] ostrom-session4.md: 464
+
+Modernization Systematically Undermines Distributed Knowledge Conditions
+  [scott] scott-session6.md: 335
+
+Money Buys Intergenerational Position Maintenance
+  [weber] weber-session9.md: 382
+
+Multiple Network Threats Overwhelm Hierarchies
+  [ferguson] ferguson-session4.md: 150
+
+Narrative Coherence Dominates Statistical/Distributed Reasoning
+  [kahneman] kahneman-session2.md:  85
+
+Narrow Framing Prevents Systemic Pattern Recognition
+  [kahneman] kahneman-session3.md: 213
+
+Network "Collusion" vs Market Competition
+  [ferguson] ferguson-session10.md: 218
+
+Network Activation Feasibility
+  [ferguson] ferguson-session8.md:   8
+
+Network Cascade Threshold Dynamics
+  [ferguson] ferguson-session11.md:  59
+
+Network Effects + Ad Model → Inevitable Concentration
+  [tufekci] tufekci-session3.md:  11
+
+Network Effects vs Network Internalities
+  [tufekci] tufekci-session6.md:  40
+
+Network Fissiparity Creates Resilience Through Diversity
+  [ferguson] ferguson-session5.md: 199
+
+Network Resilience Through Structural Redundancy
+  [ferguson] ferguson-session5.md:  34
+
+Network Revolution → Chaos → Hierarchy Cycle
+  [ferguson] ferguson-session6.md:  50
+
+Network vs Hierarchy Collision - Delayed Network Victory
+  [ferguson] ferguson-session5.md:  11
+
+Network-Dependent Intellectual Transmission
+  [weber] weber-session2.md:  58
+
+Network-Hierarchy Contradiction Paradox
+  [ferguson] ferguson-session4.md:  26
+
+Network-Hierarchy Oscillation Pattern
+  [ferguson] ferguson-session1.md:  18
+
+Network-Market Complementarity Determines Inequality Direction
+  [ferguson] ferguson-session12.md:  40
+
+Network-Phase Viral Growth, Hierarchy-Phase Consolidation Pattern
+  [ferguson] ferguson-session9.md: 322
+
+Network-to-Hierarchy Capture Pattern
+  [ferguson] ferguson-session9.md:  11
+
+Network-to-Hierarchy Consolidation
+  [ferguson] ferguson-session13.md:   6
+
+Open vs Closed Network Architecture
+  [ferguson] ferguson-session6.md:  15
+
+Over-Investment Infrastructure Legacy
+  [perez] perez-session5.md: 232
+
+Overconfidence Information Leakage
+  [blum] blum-session2.md: 162
+
+Paradigm Coexistence Information Asymmetry
+  [perez] perez-session1.md: 247
+
+Parasitic Network Infiltration
+  [ferguson] ferguson-session4.md:   3
+
+Pendular Swing Between Private and Social Interest Optimization
+  [perez] perez-session4.md: 193
+
+Permanent War as Internal Stability Mechanism
+  [girard] girard-session6.md: 392
+
+Personal Network Bridging Bypasses Bureaucratic Friction
+  [ferguson] ferguson-session3.md:  78
+
+Petitioning as Distributed Influence Mechanism
+  [acemoglu] acemoglu-session3.md: 235
+
+Platform Affordances Shape Organizational Viability
+  [tufekci] tufekci-session2.md: 375
+
+Platform Infrastructure Concentration Despite Distributed Tools
+  [tufekci] tufekci-session5.md:  21
+
+Pluralistic Institutions Enable Creative Destruction
+  [acemoglu] acemoglu-session3.md:  56
+
+Populist Counter-Networks to Globalization
+  [ferguson] ferguson-session7.md: 214
+
+POST-INTERVENTION CONSOLIDATION
+  [blum] blum-session9.md: 315
+
+Premature Infrastructure Investments Default
+  [perez] perez-session1.md: 175
+
+Price Information Emerges from Conflict, Not Neutral Discovery
+  [weber] weber-session10.md: 134
+
+Prior Restraint Doctrine Fails in High-Speed Networks
+  [lessig] lessig-session10.md: 289
+
+Private Infrastructure Under Public Influence
+  [ferguson] ferguson-session7.md: 323
+
+Professional/Institutional Incentive Against Distributed Capability
+  [scott] scott-session6.md:  64
+
+Propaganda/Information Control Delays Distributed Knowledge Translation
+  [yudkowsky] yudkowsky-session1.md: 126
+
+Rapid Network Rise, Hierarchical Integration
+  [ferguson] ferguson-session7.md: 376
+
+Reform Attempts Trigger Intensification
+  [acemoglu] acemoglu-session6.md: 215
+
+Revolutionary Network → Chaos → Hierarchical Restoration
+  [ferguson] ferguson-session3.md: 144
+
+Ritual Encoding of Crisis Information
+  [girard] girard-session6.md: 222
+
+Ritual Order vs. Crisis Breakdown (Maximum-Leverage vs. Distributed)
+  [girard] girard-session3.md:  33
+
+Secret Network Structural Vulnerability Pattern
+  [ferguson] ferguson-session1.md: 257
+
+Single-Editor Bottleneck with Distributed Failure
+  [weber] weber-session1.md:   5
+
+Small Scale + Bounded Membership Enable Distributed Success (Scale Limitation Pattern)
+  [ostrom] ostrom-session2.md:  76
+
+Social Integration Nullification Pattern
+  [ferguson] ferguson-session9.md:  59
+
+Social Systems Reward Extremism Over Accuracy
+  [kahneman] kahneman-session4.md: 211
+
+Sustained Network Persistence
+  [tufekci] tufekci-session1.md: 212
+
+System Gains from Individual Losses ("Optimistic Martyrs")
+  [kahneman] kahneman-session6.md: 346
+
+System Priority Over Components
+  [girard] girard-session4.md: 260
+
+Systematic Misrecognition of Self-Governance
+  [ostrom] ostrom-session1.md: 159
+
+Technological Invention Necessary But Insufficient for Adoption
+  [weber] weber-session10.md: 184
+
+Technology-Network Positive Feedback Loop
+  [ferguson] ferguson-session5.md: 176
+
+Technology-Triggered Network Advantage Pattern
+  [ferguson] ferguson-session1.md: 226
+
+The Asymmetric-Information Advantage
+  [blum] blum-session3.md:  29
+
+The Information-Laundering Cycle
+  [blum] blum-session3.md: 154
+
+The Network Internalities Thesis
+  [tufekci] tufekci-session2.md:  36
+
+The Plausible-Deniability Infrastructure Tax
+  [blum] blum-session3.md:  53
+
+The Scarcity Price Mechanism (Ricardo's Insight)
+  [piketty] piketty-session1.md: 176
+
+Theoretical Models Assuming Information Abundance Failed to Predict Reality
+  [ostrom] ostrom-session3.md: 340
+
+Three-Level Information Hierarchy
+  [kahneman] kahneman-session7.md: 198
+
+Timing of Network Victory (Environmental Conditions)
+  [ferguson] ferguson-session11.md: 209
+
+Torture as Default Intelligence Method Despite Low Reliability
+  [blum] blum-session8.md: 507
+
+Torture as Systematic Policy Despite Formal Denial
+  [blum] blum-session5.md: 442
+
+Trading Nation Destruction (Peaceful Distributed Networks Lose to Militarized States)
+  [graeber] graeber-session4.md:  34
+
+Training Infrastructure as Sleeper Network
+  [blum] blum-session13.md: 150
+
+Transparency as Coordination Mechanism (Not Just Information Flow)
+  [tufekci] tufekci-session2.md: 323
+
+Two-Period Surge Structure (Installation → Deployment)
+  [perez] perez-session7.md: 120
+
+Unanimous Violence Defeats Distributed Violence
+  [girard] girard-session2.md:  16
+
+Unintended Consequences Dominate Intended Goals in Network Disruptions
+  [ferguson] ferguson-session5.md: 127
+
+Verification Infrastructure as Necessary Component
+  [yudkowsky] yudkowsky-session4.md: 319
+
+Violence-Backed Leverage Dominates Distributed Capability
+  [graeber] graeber-session1.md: 199
+
+Visibility Lag Creates Window for Distributed System Development
+  [tufekci] tufekci-session2.md: 112
+
+Visual Order Substitutes for Functional Order
+  [scott] scott-session4.md: 122
+
+Wasteful Over-Infrastructure Is Functionally Necessary
+  [perez] perez-session2.md: 102
+
+When Does Maximum-Leverage Beat Distributed Capability?
+  [graeber] graeber-session7.md: 187
+
+
+MODIFIERS_PROCESSES (122 patterns, 7.1%)
+================================================================================
+Process modifiers: re-, in-, pro-, pre-, ma- (reflexive, iterative, progressive patterns)
+--------------------------------------------------------------------------------
+
+"Deep Integration Protects" Failed Precedent
+  [ferguson] ferguson-session9.md: 138
+
+"New Economy" Delusion Recurrence
+  [perez] perez-session3.md:  77
+
+"Not Actually Communist" Never Prevents Anti-Communist Action
+  [blum] blum-session6.md: 119
+
+"Simple Solution" Technological Determinism Repeatedly Fails
+  [ostrom] ostrom-session2.md:  95
+
+"Technology Will Equalize" - Repeatedly Failed Precedent
+  [piketty] piketty-session3.md: 103
+
+Absolute Property Rights Derived from Slave Ownership
+  [graeber] graeber-session7.md: 137
+
+Acknowledged Evidence ≠ Belief Revision
+  [kahneman] kahneman-session7.md: 145
+
+Advisory Mission Scope Creep Inevitability
+  [blum] blum-session8.md: 151
+
+Agent Provocateur Infiltration
+  [blum] blum-session4.md: 298
+
+Appropriation Problems Must Be Solved Before Provision Problems
+  [ostrom] ostrom-session2.md: 203
+
+Appropriation Rights Create Lock-In Independent of Efficiency
+  [weber] weber-session10.md:  34
+
+Architectural-Capability-Redistribution
+  [lessig] lessig-session3.md:  77
+
+Architecture as Primary Regulator
+  [lessig] lessig-session5.md:  52
+
+Asset Inflation Fundamentals Abandonment
+  [perez] perez-session1.md: 129
+
+Asymmetric Mobilization Degrades Reforms
+  [kahneman] kahneman-session6.md:  64
+
+Benevolent-Dictator-Non-Replicability
+  [dictators-handbook] dictators-handbook-session3.md: 129
+
+Bureaucratic Inevitability in Mass Society
+  [weber] weber-session7.md: 219
+
+Calculation Precision as Centralization Driver
+  [weber] weber-session10.md:  11
+
+Catch-Up Growth vs Innovation Frontier
+  [acemoglu] acemoglu-session7.md: 215
+
+CIA's Inability to Generate Popular Uprising
+  [blum] blum-session1.md: 348
+
+Critical Mass Censorship Bypass
+  [tufekci] tufekci-session1.md: 165
+
+Decoupling-Recoupling Mechanism
+  [perez] perez-session5.md:  70
+
+Demystification Remains Mythic
+  [girard] girard-session4.md: 138
+
+Design Principles Differentiate Robust from Failed Institutions
+  [ostrom] ostrom-session4.md: 416
+
+Detail Increases Persuasion But Decreases Probability
+  [kahneman] kahneman-session4.md: 151
+
+Empty Alliance Promise Exploitation
+  [han-feizi] han-feizi-session2.md:  27
+
+Ethical Softening Recurs Each Frenzy
+  [perez] perez-session2.md: 118
+
+External Threat as Catalyst (Necessary But Insufficient)
+  [acemoglu] acemoglu-session5.md: 367
+
+External-Pressure-Accelerates-Collapse
+  [girard] girard-session1.md: 167
+
+Face-to-Face Success Prerequisite for Scale
+  [ostrom] ostrom-session4.md: 316
+
+Favor-Dependent Evaluation Reversal
+  [han-feizi] han-feizi-session2.md:  45
+
+Feedback Loops Amplify Initial Advantages
+  [tufekci] tufekci-session3.md: 217
+
+Financial Innovation Mode Shifts by Surge Phase
+  [perez] perez-session3.md: 229
+
+Four Modalities Framework (Regulatory Substitution)
+  [lessig] lessig-session10.md: 386
+
+Frame-Dependent Processing Violates Invariance
+  [kahneman] kahneman-session9.md: 119
+
+Freedom-Productivity-Protest Triad
+  [dictators-handbook] dictators-handbook-session4.md: 165
+
+Friction-Based Protection Collapse
+  [lessig] lessig-session5.md:   9
+
+Geometric Simplification vs Topographic Reality
+  [scott] scott-session2.md: 108
+
+Gradual Encroachment Invisibility
+  [han-feizi] han-feizi-session1.md: 379
+
+Hindsight Certainty - History Appears More Predictable Than It Was
+  [kahneman] kahneman-session1.md: 275
+
+Household-Enterprise Separation Pressure
+  [weber] weber-session5.md: 254
+
+Illegibility as Protective Margin
+  [scott] scott-session2.md: 162
+
+Inflation as Hidden Wealth-Tax Substitute
+  [piketty] piketty-session9.md: 248
+
+Inflation as Regressive Redistribution Mechanism
+  [piketty] piketty-session6.md: 189
+
+Initial Underestimation Preceding Overcompensation
+  [tufekci] tufekci-session6.md: 181
+
+Iterative Revision Under Pressure
+  [weber] weber-session2.md:   9
+
+Judicial-Veto as Delayed-Response Mechanism
+  [piketty] piketty-session9.md: 227
+
+Late Mediation Ineffectiveness
+  [ferguson] ferguson-session8.md: 194
+
+Latent Ambiguity Revelation
+  [lessig] lessig-session5.md:  31
+
+Legible Targets, Invisible Attackers
+  [blum] blum-session7.md: 208
+
+Mania = Successful Recipe Repetition to Delirium
+  [perez] perez-session2.md:  82
+
+Manufactured Popular Movement
+  [blum] blum-session10.md: 289
+
+Marginal Productivity Measurement Impossibility
+  [piketty] piketty-session4.md:  94
+
+Marginal Victim Maximizes Cathartic Efficiency
+  [girard] girard-session5.md: 296
+
+Market Saturation Illusion at Frenzy Peak
+  [perez] perez-session4.md: 217
+
+Marshall Plan Exception Pattern
+  [dictators-handbook] dictators-handbook-session4.md: 116
+
+Master-Slave-Mirror-Identification
+  [graeber] graeber-session3.md: 340
+
+Memoir-Based Influence Reconstruction Pattern
+  [ferguson] ferguson-session1.md: 358
+
+Myth Maintenance Despite Century of Refutation
+  [graeber] graeber-session6.md: 295
+
+Narrative Manufacturing Pattern
+  [blum] blum-session10.md: 121
+
+Narrative Preemption
+  [blum] blum-session2.md: 132
+
+Narrative/Causal Reasoning Defeats Statistical Reasoning
+  [kahneman] kahneman-session4.md:  62
+
+Neutrality as Intolerable Position
+  [blum] blum-session5.md: 183
+
+Organizational Procedures Beat Individual Capability
+  [kahneman] kahneman-session9.md:  31
+
+Paradigm Propagation as Viral Mental Model Shift
+  [perez] perez-session4.md: 125
+
+Paradigm-Specific Financial Innovation Necessity
+  [perez] perez-session3.md: 119
+
+Partial Reform Equilibrium (The "Bird in a Cage")
+  [acemoglu] acemoglu-session6.md: 108
+
+Phantom Organizations and Identity Manipulation
+  [blum] blum-session6.md: 212
+
+Policy Effectiveness-Popularity Inversion
+  [han-feizi] han-feizi-session3.md:  63
+
+Polycentric Hybrids Outperform Both Pure Centralization and Pure Markets
+  [ostrom] ostrom-session3.md: 419
+
+Positive Rules vs Pure Prohibitions
+  [girard] girard-session4.md: 236
+
+Post-Atrocity Rehabilitation of Assets
+  [blum] blum-session13.md: 177
+
+Post-Shock Price Rebound (Mean Reversion)
+  [piketty] piketty-session3.md: 188
+
+Posthumous Editorial Reinterpretation
+  [weber] weber-session1.md:  58
+
+Pre-emptive Action Before Threats Materialize
+  [blum] blum-session6.md: 258
+
+Preemptive Doctrine Normalization
+  [blum] blum-session12.md: 210
+
+Preferences Are Frame-Dependent (No "Reality-Bound" Foundation)
+  [kahneman] kahneman-session8.md: 262
+
+Premature Centralization Prevents Adaptive Emergence
+  [ostrom] ostrom-session3.md: 397
+
+Pretext Ambiguity Mechanism
+  [blum] blum-session11.md:  19
+
+Preventive-To-Curative-Evolution
+  [girard] girard-session1.md: 150
+
+Property Rights Reorganization Pattern
+  [acemoglu] acemoglu-session8.md: 219
+
+Provocation-Response Escalation
+  [blum] blum-session10.md: 148
+
+Proximity-Incentive Betrayal Gradient
+  [han-feizi] han-feizi-session2.md: 136
+
+Race-to-the-Bottom Dynamics Override Individual Rationality
+  [yudkowsky] yudkowsky-session4.md:  68
+
+Rapid Reversal of Utopian Claims
+  [ferguson] ferguson-session10.md: 301
+
+Refugee/Migration Weaponization
+  [blum] blum-session11.md: 371
+
+REGIONAL LEGITIMATION THEATER
+  [blum] blum-session9.md: 186
+
+Repetition-Causes-Decay
+  [girard] girard-session1.md: 184
+
+Reputation Outlives Reality Pattern
+  [ferguson] ferguson-session1.md: 102
+
+Resource Exhaustion via Proxy Warfare
+  [blum] blum-session10.md:  94
+
+Resource Fungibility Capture
+  [dictators-handbook] dictators-handbook-session4.md:  26
+
+Revolution Requires Dual Structure (Charisma + Administration)
+  [weber] weber-session8.md:  87
+
+Revolutionary Promise-Performance Gap
+  [dictators-handbook] dictators-handbook-session4.md: 101
+
+Selection Pressure for Overconfident Authority
+  [kahneman] kahneman-session6.md:  39
+
+Sequential Legibility Prerequisites
+  [scott] scott-session2.md: 194
+
+Simplification-for-Legibility Destroys Resilience
+  [scott] scott-session6.md: 227
+
+Staged Provocations to Justify Crackdowns
+  [blum] blum-session6.md: 234
+
+Static Representation of Dynamic Reality
+  [scott] scott-session2.md: 122
+
+Steerability Requirements Drive Centralization
+  [scott] scott-session8.md: 147
+
+Stock Market Decoupling Precedes Crash
+  [perez] perez-session2.md: 229
+
+Sudden Market Shock Overwhelms Gradual Adaptation
+  [ostrom] ostrom-session4.md: 296
+
+Superstructure-First Inversion
+  [graeber] graeber-session6.md:  10
+
+Switching Costs Protect Established Frameworks
+  [kahneman] kahneman-session6.md:  92
+
+The Antibody Response (Active Defense Against Reform)
+  [acemoglu] acemoglu-session7.md:  11
+
+The Capability-Shortcut Trap (Inverted Development Trajectory)
+  [tufekci] tufekci-session5.md: 313
+
+The Cumulative Growth Law (Mathematical Mechanism)
+  [piketty] piketty-session1.md: 247
+
+The Loser's Veto Problem
+  [acemoglu] acemoglu-session5.md: 391
+
+The Modernization Hypothesis—Empirically Rejected
+  [acemoglu] acemoglu-session7.md: 162
+
+Theory-Induced Blindness / Epistemic Capture
+  [kahneman] kahneman-session6.md: 150
+
+Threat Inflation for Resource Justification
+  [blum] blum-session1.md: 187
+
+Three-Sphere Co-Evolution with Differential Inertia
+  [perez] perez-session4.md: 239
+
+Unanimity Minus One vs Individual Action
+  [girard] girard-session4.md: 188
+
+Unconscious Processing Advantage / Awareness Insufficiency
+  [kahneman] kahneman-session2.md: 160
+
+Uneven Geographic Diffusion Blurs Regularity
+  [perez] perez-session7.md: 365
+
+Unpolished Value Recognition Lag
+  [han-feizi] han-feizi-session2.md: 190
+
+Urban Financial Base Precondition
+  [weber] weber-session7.md: 266
+
+Utopian Models Treated As Empirical Reality
+  [graeber] graeber-session6.md: 322
+
+Vautrin's Lesson - Inheritance Dominance in Low-Growth Regimes
+  [piketty] piketty-session3.md: 167
+
+Virtual-Geography-Made-Real
+  [lessig] lessig-session2.md: 228
+
+War-Induced Punctuated Equilibrium
+  [piketty] piketty-session7.md: 324
+
+War/Shock Reset Mechanism
+  [piketty] piketty-session5.md: 103
+
+Words-Results Accountability Vacuum
+  [han-feizi] han-feizi-session2.md: 208
+
+
+PATTERNS_PARADOXES (112 patterns, 6.6%)
+================================================================================
+Versus/contrasts, asymmetries, paradoxes, disconnections, negations
+--------------------------------------------------------------------------------
+
+"Free Labor" Capitalism Myth vs. Coerced Reality
+  [graeber] graeber-session6.md: 176
+
+Acquisitional vs. Propertied Class Dynamics
+  [weber] weber-session9.md: 116
+
+Amoral Efficiency vs. Moral Rhetoric
+  [blum] blum-session12.md: 340
+
+Apocalypse-Stability Paradox
+  [graeber] graeber-session6.md: 465
+
+Appropriation-Traditionalism Lock-in
+  [weber] weber-session5.md: 275
+
+Asymmetric Generalization Advantage
+  [kahneman] kahneman-session4.md: 180
+
+Authority vs Persuasion Asymmetry
+  [han-feizi] han-feizi-session2.md: 118
+
+Capability Destruction Spiral
+  [scott] scott-session7.md:  83
+
+Catalyst Agents Bridge Distrust Gaps
+  [ostrom] ostrom-session4.md: 252
+
+Centralized Hierarchy vs. Collaborative Learning
+  [scott] scott-session4.md: 301
+
+Class Position vs. Class Action Threshold
+  [weber] weber-session9.md:  12
+
+Cognitive Ease Paradox
+  [kahneman] kahneman-session10.md: 328
+
+Comparative Method as Pattern-Breaker
+  [girard] girard-session6.md: 148
+
+Comprehension Gap vs. Calculation Enhancement
+  [scott] scott-session3.md: 239
+
+Confidence-Validity Decoupling
+  [kahneman] kahneman-session5.md:   4
+
+Constitutions as Built, Not Found
+  [lessig] lessig-session1.md: 342
+
+Conventional Ordering Defeats Rational Calculation
+  [weber] weber-session9.md: 194
+
+Cost-Loss Framing Asymmetry
+  [kahneman] kahneman-session9.md: 284
+
+Covert-Action Legitimacy Paradox
+  [blum] blum-session1.md: 212
+
+Critical Junctures Create Divergence, Not Convergence
+  [acemoglu] acemoglu-session5.md: 204
+
+Declared Hegemony Escalation
+  [blum] blum-session12.md:  41
+
+Declared vs. Actual Policy Divergence
+  [blum] blum-session1.md: 257
+
+Defense Asymmetry - Exploitation Automatic, Resistance Effortful
+  [kahneman] kahneman-session3.md:  34
+
+Democrat Survival Paradox (Early Strength, Long-Term Vulnerability)
+  [dictators-handbook] dictators-handbook-session2.md: 156
+
+Discipline Mechanism Reversal
+  [weber] weber-session6.md: 209
+
+Economic-Freedom Dilemma
+  [dictators-handbook] dictators-handbook-session4.md:  84
+
+Educational Mobility Paradox - More Credentials, Same Hierarchy
+  [piketty] piketty-session6.md: 321
+
+Empirical Historical Knowledge vs. Abstract Theory
+  [piketty] piketty-session8.md: 252
+
+Energy Asymmetry Between Belief and Disbelief
+  [kahneman] kahneman-session6.md: 176
+
+External Imposition as Policy Default
+  [ostrom] ostrom-session1.md:  56
+
+Festival vs. Antifestival Divergence (Historical Precedent)
+  [girard] girard-session3.md: 174
+
+Free Labor Paradox
+  [weber] weber-session6.md:  95
+
+Freudian Ambivalence as Disguised Mimesis
+  [girard] girard-session3.md: 309
+
+Friction-Based Liberty vs. Architected Liberty
+  [lessig] lessig-session4.md: 226
+
+Generational Memory Decay
+  [girard] girard-session6.md: 296
+
+Government Backdoor Demands Are Persistent
+  [lessig] lessig-session8.md: 138
+
+Imperial Knowledge Displacement
+  [scott] scott-session5.md: 132
+
+Instrumental Convergence Does NOT Produce Value Alignment
+  [yudkowsky] yudkowsky-session2.md: 248
+
+Interest Permitted Only Across Social Distance
+  [graeber] graeber-session7.md: 111
+
+Justification-Action Decoupling
+  [blum] blum-session14.md: 259
+
+Knowledge Flow Asymmetry
+  [scott] scott-session5.md: 192
+
+Legibility-Defeats-Capability
+  [scott] scott-session7.md:  12
+
+Long-Duration Resource Asymmetry
+  [blum] blum-session4.md: 143
+
+Majority-Imposition Paradox
+  [weber] weber-session4.md: 198
+
+Market Efficiency Paradox
+  [piketty] piketty-session5.md: 245
+
+Markets Require States First (Not Vice Versa)
+  [graeber] graeber-session2.md: 311
+
+Maximum Disorder Precedes Order Restoration
+  [girard] girard-session2.md: 284
+
+Measurement-Driven Behavioral Distortion
+  [scott] scott-session2.md: 135
+
+Memory Distortion Biases Future Decisions
+  [kahneman] kahneman-session9.md: 189
+
+Metaphoric Displacement Chain
+  [girard] girard-session6.md: 246
+
+Moral Condemnation Asymmetry
+  [blum] blum-session12.md: 309
+
+Multi-Vector Destabilization
+  [blum] blum-session10.md: 230
+
+Neutralization Paradox
+  [schmitt] schmitt-session1.md:  15
+
+Norms as Nash Equilibrium, Not Ethics
+  [dictators-handbook] dictators-handbook-session5.md: 209
+
+Occupation-Reversion Dynamics (External vs. Internal Reform)
+  [piketty] piketty-session9.md:  28
+
+Open Networks vs. Closed Networks Innovation-Collusion Trade-off
+  [ferguson] ferguson-session2.md: 221
+
+Organization Asymmetry Determines Critical Juncture Outcomes
+  [acemoglu] acemoglu-session2.md: 295
+
+Organizational Depth Beats Mobilization Speed
+  [tufekci] tufekci-session4.md: 182
+
+Parameter-Dependent Equilibria (Not Universal Winners)
+  [ostrom] ostrom-session2.md: 254
+
+Party Structure - Active Minority vs. Passive Masses
+  [weber] weber-session8.md: 175
+
+Permission Culture vs. Free Culture Architecture
+  [lessig] lessig-session4.md: 252
+
+Plasticity vs Naturalization Tension
+  [lessig] lessig-session1.md: 367
+
+Pluralistic Ignorance Dissolution
+  [tufekci] tufekci-session1.md: 135
+
+Possession as Mimetic Alienation
+  [girard] girard-session3.md: 241
+
+Possible Counter-Mechanisms Not Addressed
+  [yudkowsky] yudkowsky-session2.md: 705
+
+Practice-Ideology-Lag
+  [graeber] graeber-session3.md: 262
+
+PRAGMATIC SOCIALIST TARGETING PARADOX
+  [blum] blum-session9.md:  56
+
+Private Standards Competition vs. Public Standard Setting
+  [lessig] lessig-session4.md: 280
+
+Probabilistic Thinking Violations (Conjunction/Disjunction Bias)
+  [kahneman] kahneman-session9.md: 260
+
+Propaganda Saturation > Truth Distribution
+  [blum] blum-session6.md:  74
+
+Proximity-Without-Convergence
+  [acemoglu] acemoglu-session1.md: 211
+
+Rank-Based Closure vs. Market-Based Openness
+  [weber] weber-session9.md:  77
+
+Rationality-as-Baseline (Not Empirical Dominance)
+  [weber] weber-session3.md:  37
+
+Regret Asymmetry Maintains Status Quo
+  [kahneman] kahneman-session7.md: 358
+
+Regulatory Response Timing Asymmetry
+  [lessig] lessig-session4.md: 306
+
+Repeat-Player Structural Asymmetry
+  [kahneman] kahneman-session7.md:  62
+
+Resource Asymmetry Amplification Under Automation
+  [tufekci] tufekci-session4.md: 233
+
+Revolutionary Potential Concentrates in Autonomous Profit-Seeking, Not Appropriated Positions
+  [weber] weber-session10.md:  97
+
+Second-Order Dilemma (The Organizing Paradox)
+  [ostrom] ostrom-session1.md: 354
+
+Secrecy Amplification Paradox
+  [ferguson] ferguson-session4.md:  51
+
+Selection Bias
+  [yudkowsky] yudkowsky-session2.md: 695
+
+Selective Definition Asymmetry
+  [blum] blum-session12.md: 137
+
+Selectorate Expansion Paradox
+  [dictators-handbook] dictators-handbook-session1.md: 250
+
+Shock Neutrality (Identical Shocks, Opposite Outcomes)
+  [acemoglu] acemoglu-session2.md: 219
+
+Shock-Driven Compression (Not Gradual Evolution)
+  [piketty] piketty-session4.md:  38
+
+Short-Term Extraction vs. Long-Term Growth Trade-off
+  [acemoglu] acemoglu-session8.md: 307
+
+Short-Term Optimization Destroys Long-Term Foundation
+  [scott] scott-session5.md: 291
+
+Simplified Models Obscure Distribution Dynamics
+  [piketty] piketty-session2.md: 238
+
+Soviet/Chinese Aid as Reactive Not Proactive
+  [blum] blum-session5.md: 467
+
+Specific Conditions Eliminate Status Quo Bias
+  [kahneman] kahneman-session6.md: 250
+
+Strategic Leak Destabilization
+  [blum] blum-session8.md: 268
+
+Symbolic-Policy vs. Effective-Policy Divergence
+  [piketty] piketty-session9.md: 116
+
+Symmetry-Breeds-Escalation
+  [girard] girard-session1.md:  31
+
+System 1 vs. System 2 Processing Gap
+  [kahneman] kahneman-session10.md: 197
+
+The Capacity-Signaling Paradox
+  [tufekci] tufekci-session2.md:  11
+
+The Doubt/Confusion Asymmetry
+  [tufekci] tufekci-session4.md:  65
+
+The Gatekeeper Paradox (Double-Edged Removal)
+  [tufekci] tufekci-session5.md: 254
+
+The Minimization Template Precedes Disasters
+  [yudkowsky] yudkowsky-session3.md: 192
+
+The One-Shot Gap (Before/After Discontinuity)
+  [yudkowsky] yudkowsky-session3.md: 131
+
+The Orthogonality Thesis Is Debated
+  [yudkowsky] yudkowsky-session2.md: 711
+
+The Valuable Labor Paradox
+  [acemoglu] acemoglu-session2.md:  58
+
+The Vicious vs. Virtuous Circle Asymmetry
+  [acemoglu] acemoglu-session5.md:  35
+
+Thick vs. Thin Systems
+  [scott] scott-session5.md: 211
+
+Timing Asymmetry - Quick Strike vs. Slow Exposure
+  [blum] blum-session13.md: 442
+
+Translation vs. Literalism in Constitutional Interpretation
+  [lessig] lessig-session4.md: 146
+
+Trust-Based Credit: Scale and Social Distance Determine Mode
+  [graeber] graeber-session5.md: 126
+
+Viral Ideas Outlast Organizational Vehicles
+  [ferguson] ferguson-session4.md:  75
+
+Viral Spread Determined by Structure Not Content
+  [ferguson] ferguson-session3.md: 189
+
+Visual Legibility vs. Functional Order Divergence
+  [scott] scott-session3.md:  61
+
+Vividness Trumps Calculation
+  [kahneman] kahneman-session7.md: 225
+
+Wealth Reconstitution Asymmetry
+  [piketty] piketty-session5.md: 326
+
+Wisdom of Crowds Fragility
+  [kahneman] kahneman-session10.md: 261
+
+
+POLITICAL_GOVERNANCE (87 patterns, 5.1%)
+================================================================================
+Violence, political systems, regulation, state, democracy, governance
+--------------------------------------------------------------------------------
+
+"Communist Threat" as Universal Override
+  [blum] blum-session13.md: 122
+
+"Cyberspace Is Ungovernable" Claims Failed
+  [lessig] lessig-session8.md: 114
+
+"Long Peace" Illusion - Core Stability Masks Peripheral Violence
+  [ferguson] ferguson-session10.md: 281
+
+"Outside Agitator" Attribution Error
+  [blum] blum-session1.md: 235
+
+"Primordial Debt" Myth—Nation-State Logic Projected Backward (FAILED)
+  [graeber] graeber-session2.md: 117
+
+"Profit Logic" Statecraft Generates Resistance (Pure Calculation Politically Unstable)
+  [graeber] graeber-session4.md: 213
+
+"Saving Democracy" Justification Precedes Democracy Destruction
+  [blum] blum-session6.md: 142
+
+Aid-Timing as Political Manipulation
+  [blum] blum-session1.md: 282
+
+Bloc Voting Converts Nominal Democracy to Effective Autocracy
+  [dictators-handbook] dictators-handbook-session2.md:  80
+
+Cobb-Douglas Stability - Political Construction Not Empirical Reality
+  [piketty] piketty-session3.md: 124
+
+Code Displacement of Law (Privatization of Regulation)
+  [lessig] lessig-session4.md:  66
+
+Commercial-State Convergent Simplification
+  [scott] scott-session1.md:  63
+
+Competing Normative Sovereignties
+  [lessig] lessig-session1.md: 223
+
+Corporate Gatekeeping Exceeds State Censorship
+  [tufekci] tufekci-session3.md:  71
+
+Corporate-State Censorship Convergence
+  [tufekci] tufekci-session1.md:  56
+
+Crash Opens Regulation Window (Only Without Bailouts)
+  [perez] perez-session2.md: 245
+
+Credit-Violence Feedback Loop
+  [graeber] graeber-session8.md: 258
+
+Creditor-State Violence Alliance
+  [graeber] graeber-session1.md:  59
+
+Cultural Evolution Systematically Obscures Violence
+  [girard] girard-session5.md: 117
+
+Debt-Violence Quantification Mechanism
+  [graeber] graeber-session1.md:  14
+
+Democratic Legitimacy Provides No Protection
+  [blum] blum-session7.md:  86
+
+Democratic Rhetoric / Oligarchic Alliance
+  [blum] blum-session11.md:  68
+
+Distinction Collapse Triggers Violence Cascade
+  [girard] girard-session2.md: 233
+
+Early-Tenure Democratic Mimicry
+  [dictators-handbook] dictators-handbook-session4.md: 269
+
+Election Interference as Democratic Theater
+  [blum] blum-session13.md:  69
+
+Election Suppression as Weakness Signal
+  [blum] blum-session5.md:  35
+
+Electoral Subversion Pattern
+  [blum] blum-session10.md:  66
+
+Federal-vs-State Regulatory Race-to-Bottom
+  [piketty] piketty-session9.md: 160
+
+Fictional Scenarios
+  [yudkowsky] yudkowsky-session2.md: 692
+
+Formal-Material Regulation Fluidity
+  [weber] weber-session5.md: 189
+
+Gift Exchange Escalation → Suicide/Violence (REPEATED)
+  [graeber] graeber-session2.md: 173
+
+Hidden Mechanism Dependency (Sacred Violence Monopoly)
+  [girard] girard-session6.md:  31
+
+Hierarchical State Co-option Attempts Backfire
+  [ferguson] ferguson-session12.md: 194
+
+Homophily + Echo Chambers → Political Polarization
+  [ferguson] ferguson-session12.md: 227
+
+Humanitarian Rhetoric, Violence Reality Inversion
+  [blum] blum-session12.md: 274
+
+Indirect Regulation Succeeds Where Direct Fails
+  [lessig] lessig-session8.md: 188
+
+Indirect Regulation Superiority
+  [lessig] lessig-session10.md:  94
+
+Indirect-Regulation-Obscures-Accountability
+  [lessig] lessig-session3.md: 140
+
+Judicial Emergence from Violence Unanimity
+  [girard] girard-session6.md: 367
+
+Legal-Fiction-Naturalizes-Violence
+  [graeber] graeber-session3.md: 314
+
+Marginal Attribution of Central Violence
+  [girard] girard-session3.md: 205
+
+Markets Concentrate Without Political Intervention
+  [acemoglu] acemoglu-session5.md: 290
+
+Maturity Phase Social-Political Split
+  [perez] perez-session7.md: 392
+
+MERCENARY OUTSOURCING
+  [blum] blum-session9.md: 289
+
+Mimetic Violence Cascade
+  [girard] girard-session2.md: 160
+
+Mobile Penetration → Political Volatility Threshold
+  [ferguson] ferguson-session12.md: 255
+
+Modality-Substitution-Defeats-Regulation-Limits
+  [lessig] lessig-session3.md: 161
+
+Monopoly on Violence Arbitration
+  [girard] girard-session2.md:  62
+
+Multi-Modal Regulation Interaction
+  [lessig] lessig-session5.md: 289
+
+Narrow Public vs Broad Private Regulation
+  [lessig] lessig-session5.md: 137
+
+Optimal Distance from Violence
+  [girard] girard-session5.md:  64
+
+Overwhelming Initial Violence Prevents Organized Resistance
+  [blum] blum-session8.md: 327
+
+Partial Modernization Strategy (Economic Yes, Political No)
+  [acemoglu] acemoglu-session7.md: 269
+
+Political Centralization as Double-Edged Sword
+  [acemoglu] acemoglu-session2.md: 153
+
+Political Domination Prerequisite for Foreign Ownership
+  [piketty] piketty-session1.md: 106
+
+Political Independence Path Dependence
+  [piketty] piketty-session2.md: 313
+
+Political Loser Blocking Mechanism
+  [acemoglu] acemoglu-session8.md:  99
+
+Political Nature of Distribution - No Natural Equilibrium
+  [piketty] piketty-session1.md: 224
+
+Political Realignment During Paradigm Shift
+  [perez] perez-session4.md: 263
+
+Political-Constraints-Bind-Tighter
+  [acemoglu] acemoglu-session1.md: 232
+
+Political-Revolution-Required
+  [acemoglu] acemoglu-session1.md: 256
+
+Private Architecture Escapes Public Constitutional Constraints (State Action Gap)
+  [lessig] lessig-session7.md:  33
+
+Prosperity-Before-Democracy-Fallacy
+  [dictators-handbook] dictators-handbook-session3.md: 113
+
+Reform-Violence-Reversal
+  [acemoglu] acemoglu-session1.md: 142
+
+Regulation Rejection-Acceptance Oscillation
+  [perez] perez-session5.md: 255
+
+Regulation-Efficiency-Increases-Regulation-Scope
+  [lessig] lessig-session3.md: 269
+
+Regulation-Response Dynamic
+  [weber] weber-session5.md: 209
+
+Religious Regulation Reduces Usury Without Eliminating Loans (Middle Path)
+  [graeber] graeber-session4.md: 306
+
+Secret Deliberation Undermines Democratic Accountability
+  [piketty] piketty-session8.md: 132
+
+Single Mechanism → Multiple Institutions (All Culture from Violence)
+  [girard] girard-session5.md: 373
+
+State Hierarchy Crushes Exposed Small Networks
+  [ferguson] ferguson-session4.md: 100
+
+State Space Conversion Drive
+  [scott] scott-session4.md:  36
+
+Substitution-As-Violence-Redirect
+  [girard] girard-session1.md:  65
+
+Technical Feasibility Precedes Political Feasibility (Lag Pattern)
+  [piketty] piketty-session8.md: 221
+
+The Democratically-Elected-Target Pattern
+  [blum] blum-session3.md: 122
+
+The Economic-Political Loser Lock
+  [acemoglu] acemoglu-session2.md:  31
+
+Timing Manipulation for Political Effect
+  [blum] blum-session4.md: 247
+
+Transformative Constitutional Moments Die Without Sustained Political Support
+  [lessig] lessig-session7.md:  94
+
+Transparency-Effectiveness Trade-off in Code Regulation
+  [lessig] lessig-session7.md:  74
+
+Unanimous Violence Resolution Mechanism
+  [girard] girard-session3.md:   6
+
+Violence as Competitive Advantage
+  [acemoglu] acemoglu-session6.md:  36
+
+Violence as Equilibrium Enforcement
+  [acemoglu] acemoglu-session5.md: 147
+
+Violence Displacement to Periphery
+  [girard] girard-session6.md:   9
+
+Violence Escalation Gradient
+  [graeber] graeber-session8.md: 366
+
+Violence-Backed Virtual Money Reversal
+  [graeber] graeber-session6.md:  35
+
+Violence-Exchange Organizational Divergence
+  [weber] weber-session4.md:  33
+
+Wealth-Based Gatekeeping in "Direct" Democracy
+  [weber] weber-session8.md:  73
+
+
+POWER_CONTROL (251 patterns, 14.7%)
+================================================================================
+Power dynamics, control mechanisms, leverage, concentration, hierarchy, force, constraints
+--------------------------------------------------------------------------------
+
+"Advisory" Control Through Embedded Leverage Points
+  [blum] blum-session1.md:  54
+
+"Chaos" Redefined as Loss of Control
+  [blum] blum-session6.md: 324
+
+"Formalization Strengthens Organizations" Failed Precedent
+  [ferguson] ferguson-session9.md: 191
+
+"Mechanical Limits" Constrain Inflation More Than Administrative Intentions
+  [weber] weber-session10.md:  76
+
+"Only Way" Certainty Despite Contradictions
+  [ostrom] ostrom-session1.md: 108
+
+"Waning Hierarchy > Revolutionary Network" Preference
+  [ferguson] ferguson-session7.md: 137
+
+Abstraction-Context Death Spiral
+  [scott] scott-session4.md:  92
+
+Adaptive Networks Defeat Hierarchical Suppression
+  [ferguson] ferguson-session12.md:  95
+
+Administrative Staff Control Paradox
+  [weber] weber-session8.md:  16
+
+Algorithmic Opacity Amplifies Concentration
+  [tufekci] tufekci-session3.md: 176
+
+Arbitrary Selection Hidden by Elaborate Ritual
+  [girard] girard-session5.md: 220
+
+Architectural Constraints Self-Execute Without Ongoing Agency
+  [lessig] lessig-session7.md: 195
+
+Architectural Control as Meta-Power
+  [tufekci] tufekci-session3.md:  51
+
+Architectural Prior Restraint Displaces Legal Post-Publication Control
+  [lessig] lessig-session9.md: 151
+
+Architecture as Maximum-Leverage Regulation
+  [lessig] lessig-session8.md:  11
+
+Architecture-as-Regulation (Maximum Leverage)
+  [lessig] lessig-session1.md:  36
+
+Atlantic Trade Power Shift
+  [acemoglu] acemoglu-session8.md: 279
+
+Attention Monopoly Erosion (Distributed vs Concentrated Power)
+  [tufekci] tufekci-session1.md:  41
+
+Autonomous Success Is Threatening
+  [scott] scott-session5.md:  31
+
+Betweenness Centrality as Maximum-Leverage Point
+  [ferguson] ferguson-session6.md:  32
+
+Betweenness Centrality as Power Lever
+  [ferguson] ferguson-session2.md:  10
+
+Blank Slate Advantage for Maximum-Leverage
+  [scott] scott-session3.md: 118
+
+Bottleneck Control Strategy
+  [acemoglu] acemoglu-session7.md:  85
+
+Bullion Control Paradox
+  [graeber] graeber-session5.md: 222
+
+Bureaucratic Optimization vs Strategic Contingency
+  [ferguson] ferguson-session10.md:  50
+
+Capital Concentration Universality
+  [piketty] piketty-session3.md:  35
+
+Center-Capture Vulnerability
+  [scott] scott-session3.md: 304
+
+Centralized Authority via Surrogate Victim Mechanism
+  [girard] girard-session5.md:   8
+
+Centralized Control Requires Controlling ALL Entry Points
+  [ferguson] ferguson-session3.md: 211
+
+Centralized Framing Advantage
+  [kahneman] kahneman-session7.md:  88
+
+Client Force Fragmentation
+  [blum] blum-session11.md: 346
+
+Closed Code Enables Perfect Control
+  [lessig] lessig-session4.md:  40
+
+Coalition-Size Leverage Mechanism
+  [dictators-handbook] dictators-handbook-session1.md:   8
+
+Code Transparency as Power Constraint
+  [lessig] lessig-session10.md:  37
+
+Code-Writers-As-Lawmakers (Architectural Power Transfer)
+  [lessig] lessig-session3.md:  34
+
+Cognitive Load Determines Control Hierarchy
+  [kahneman] kahneman-session1.md:  10
+
+Commerce-Government-Symbiosis-For-Control
+  [lessig] lessig-session3.md:  55
+
+Communication Infrastructure Equals Power
+  [ferguson] ferguson-session8.md:  33
+
+Communism-to-Hierarchy Gradient Slippage
+  [graeber] graeber-session2.md: 281
+
+Competitive Pressure Forces Opacity and Risk-Taking
+  [yudkowsky] yudkowsky-session2.md: 192
+
+Complexity as Opaque Control Mechanism
+  [piketty] piketty-session6.md:  78
+
+Comprehension Scarcity Amplifies Manipulability
+  [kahneman] kahneman-session2.md:  36
+
+Concentrated Power Captures Distributed Decision-Making
+  [lessig] lessig-session7.md:  11
+
+Concentrated Transgression Creates Effective Power
+  [girard] girard-session2.md:  39
+
+Concentration Threshold Reversal
+  [piketty] piketty-session5.md:  36
+
+Concentration Trap (Power Concentration Creates Instability)
+  [acemoglu] acemoglu-session3.md:  82
+
+CONGRESSIONAL CONSTRAINT WEAKNESS
+  [blum] blum-session9.md: 238
+
+Contamination-By-Contact
+  [girard] girard-session1.md: 133
+
+CONTAMINATION/SABOTAGE OPERATIONS
+  [blum] blum-session9.md: 370
+
+Contingency Over Teleology
+  [weber] weber-session3.md:  96
+
+Contingency Planning for Multiple Scenarios
+  [blum] blum-session6.md: 303
+
+Contradictory Status as Power Marker
+  [girard] girard-session6.md:  77
+
+Control Objectives Trump Performance Objectives
+  [scott] scott-session8.md:  34
+
+Coordination Failure in Power Diffusion → Persistent Fragmentation
+  [acemoglu] acemoglu-session4.md: 106
+
+Covert Network Power-Visibility Trade-off
+  [ferguson] ferguson-session11.md: 134
+
+Crisis Reveals True Power Structure
+  [han-feizi] han-feizi-session1.md: 404
+
+Critical Mass Power Projection (Top Centile)
+  [piketty] piketty-session3.md:  80
+
+Critique From Within the Paradigm
+  [schmitt] schmitt-session1.md: 143
+
+De-skilling as Power Concentration
+  [scott] scott-session6.md:  40
+
+Debt-Financed Wealth Concentration
+  [piketty] piketty-session2.md:  11
+
+Debt-Leverage Converts Legal Equals to Hierarchy
+  [graeber] graeber-session2.md:  42
+
+Debt-Violence Leverage Cascade
+  [graeber] graeber-session8.md:  12
+
+Demonstration-Effect Contagion
+  [dictators-handbook] dictators-handbook-session4.md: 195
+
+Direct-Control vs. Tax-Extraction Trade-off
+  [piketty] piketty-session9.md:  71
+
+Disease as Network Accelerant and Power Asymmetry Determinant
+  [ferguson] ferguson-session5.md: 248
+
+Distributed Architecture ≠ Distributed Power
+  [tufekci] tufekci-session3.md: 134
+
+Distributed Awareness ≠ Distributed Power
+  [yudkowsky] yudkowsky-session4.md:  40
+
+Distributed Power Systems (Dual Organization)
+  [girard] girard-session5.md:  38
+
+Distributed vs Maximum-Leverage Power
+  [schmitt] schmitt-session1.md:  57
+
+Durability Paradox of Maximum-Leverage Interventions
+  [blum] blum-session14.md:  94
+
+Economic Arguments for Cooperation Fail Under Power Asymmetry
+  [yudkowsky] yudkowsky-session2.md: 385
+
+Economic Dependency as Control Infrastructure
+  [blum] blum-session13.md:  15
+
+Economic Dependency as Control Mechanism
+  [blum] blum-session1.md:  32
+
+Economic Leverage Layering
+  [blum] blum-session4.md: 323
+
+Economic Pressures Drive Toward Control
+  [tufekci] tufekci-session3.md: 301
+
+Education-Distribution-as-Power-Calibration
+  [dictators-handbook] dictators-handbook-session3.md:  47
+
+Efficiency Gradients Systematically Drive Power Concentration
+  [yudkowsky] yudkowsky-session2.md:  83
+
+Effort Asymmetry Favors Maximum-Leverage
+  [kahneman] kahneman-session2.md:  11
+
+Electoral Theater Over Military Force
+  [blum] blum-session2.md:  41
+
+Elite Unity/Disunity as Veto Power
+  [tufekci] tufekci-session4.md: 159
+
+Emergency Conditions Enable Power Concentration
+  [scott] scott-session1.md: 331
+
+Emergent Capability Exceeds Design Constraints
+  [yudkowsky] yudkowsky-session1.md: 108
+
+Empowerment → Dependency → Control Cycle
+  [tufekci] tufekci-session3.md:  31
+
+Encryption as Power Redistribution
+  [lessig] lessig-session8.md: 215
+
+End-to-End vs Centralized Control Architecture
+  [lessig] lessig-session8.md:  36
+
+Enemy Substitution Continuity
+  [blum] blum-session12.md:  72
+
+Environmental Control Circumvents Capability Building
+  [kahneman] kahneman-session10.md:  11
+
+Exit Costs Determine Power Balance (Citizen vs. Merchant Sovereignty)
+  [lessig] lessig-session10.md: 223
+
+Exit Costs Determine Power Balance Between Users and Platforms
+  [lessig] lessig-session9.md: 349
+
+Exit-Options-Force-Distribution
+  [acemoglu] acemoglu-session1.md:  34
+
+Expansion-Contraction Power Oscillation
+  [weber] weber-session4.md:  12
+
+External Networks Destabilize Rigid Hierarchies
+  [ferguson] ferguson-session7.md: 189
+
+External Patron as Force Multiplier for Maximum-Leverage
+  [blum] blum-session7.md:  35
+
+Externalization of Costs Enables Maximum-Leverage
+  [scott] scott-session6.md:  89
+
+Extreme Concentration Instability Threshold
+  [piketty] piketty-session4.md:  12
+
+Feudal Power Inversion and Counter-Mechanisms
+  [weber] weber-session8.md:  59
+
+Financial Capital Mobility Leverage vs Production Capital Embeddedness
+  [perez] perez-session8.md:  11
+
+Financial Dependency Creates Political Control
+  [ferguson] ferguson-session7.md: 111
+
+Financial Innovation as Control Mechanism During Decoupling
+  [perez] perez-session8.md:  44
+
+Financial-Production Capital Power Cycling
+  [perez] perez-session4.md:   9
+
+Financial-Production Capital Power Oscillation
+  [perez] perez-session5.md:  14
+
+FK-PK Power Oscillation Across Surge Phases
+  [perez] perez-session8.md:  27
+
+Framing/Narrative Control as Invisible Maximum-Leverage
+  [kahneman] kahneman-session8.md:  10
+
+Freedom-as-Dangerous-Public-Good
+  [dictators-handbook] dictators-handbook-session3.md: 163
+
+Functional Necessity Constrains Revolution
+  [weber] weber-session8.md: 203
+
+Geographic Target Concentration vs. Dispersion
+  [blum] blum-session14.md:  69
+
+Government Procurement as Stealth Maximum-Leverage
+  [lessig] lessig-session8.md:  87
+
+Government-Commerce Alliance for Architectural Control
+  [lessig] lessig-session1.md:  14
+
+Gradual Normalization of Control
+  [lessig] lessig-session1.md: 271
+
+Gradual Re-Centralization Recreates Legacy Power Structures
+  [lessig] lessig-session9.md: 386
+
+Graduated Sanctions + Context Understanding Prevent Coercive Escalation
+  [ostrom] ostrom-session3.md:  36
+
+Hierarchical Response Pathology (Doubling Down)
+  [ferguson] ferguson-session11.md: 109
+
+Hierarchy-Capture-Strategy
+  [acemoglu] acemoglu-session1.md:  75
+
+Horizontal-to-Hierarchical Gravitational Pressure
+  [tufekci] tufekci-session5.md: 108
+
+Hub-and-Spoke Infrastructure as Control Architecture
+  [scott] scott-session2.md:  20
+
+Hybrid Systems (Centralized Authority + Pluralistic Constraints)
+  [acemoglu] acemoglu-session6.md: 135
+
+Identity Layer as Master Control Point
+  [lessig] lessig-session10.md: 157
+
+Imperfect-Control-Sufficiency (Bovinity-Principle)
+  [lessig] lessig-session2.md: 132
+
+Informal Networks Within Hierarchies
+  [ferguson] ferguson-session6.md: 176
+
+Informal Power Concentration in Digital Networks
+  [tufekci] tufekci-session2.md: 137
+
+Infrastructure Control Supremacy
+  [ferguson] ferguson-session13.md:  68
+
+Infrastructure Scale Creates Capture Leverage Points
+  [ostrom] ostrom-session2.md:  27
+
+Inheritance Concentration Auto-Amplification
+  [piketty] piketty-session4.md: 318
+
+Installation Period Power Concentration Dynamics
+  [perez] perez-session7.md:  41
+
+Institutional Immortality of Control Structures
+  [scott] scott-session4.md: 331
+
+Intelligence Autonomy Supersedes Democratic Control
+  [blum] blum-session8.md:  64
+
+Intelligence Concentrates Rather Than Distributes Power
+  [yudkowsky] yudkowsky-session2.md: 140
+
+Intelligence Concentration → Power Concentration
+  [yudkowsky] yudkowsky-session1.md:  18
+
+Intermediary Power Through Specialized Legibility
+  [scott] scott-session2.md:  48
+
+Invisible Hand Constructs Control
+  [lessig] lessig-session1.md: 248
+
+Invisible Upstream Control
+  [lessig] lessig-session5.md:  95
+
+Iron Law of Oligarchy
+  [acemoglu] acemoglu-session5.md: 415
+
+Irreducible Complexity Requires Hybrid Systems (But Power Determines Hybrid Structure)
+  [scott] scott-session8.md: 119
+
+Joint Evaluation as Power Transition Mechanism
+  [kahneman] kahneman-session7.md: 251
+
+Jurisdictional Evasion Triggers Infrastructure Control
+  [lessig] lessig-session9.md: 309
+
+Justification Universality Across Context Diversity
+  [blum] blum-session14.md: 122
+
+Knowledge Extraction Enables Power Concentration
+  [scott] scott-session8.md:   8
+
+Layered Control Architectures
+  [lessig] lessig-session1.md:  81
+
+Legibility Asymmetry as Power Concentration
+  [scott] scott-session2.md:   5
+
+Legibility-Control Cycle
+  [scott] scott-session5.md:  11
+
+Legibility-Control-Appropriation Chain
+  [scott] scott-session6.md:  14
+
+Legibility-First Power Structure Paradox
+  [scott] scott-session4.md:   9
+
+Legitimacy as Hierarchical Force Multiplier
+  [ferguson] ferguson-session6.md: 104
+
+Legitimacy-Dependent Power Structures
+  [weber] weber-session3.md:   9
+
+Light-Touch Hierarchical Delegation (Scale Without Cost)
+  [ferguson] ferguson-session7.md:  60
+
+Limited Centralized Control Over Distributed Processing
+  [kahneman] kahneman-session9.md:   9
+
+Loss Aversion Crystallizes as Centralized Veto Power
+  [kahneman] kahneman-session7.md: 308
+
+Low-Growth Leverage Amplification
+  [piketty] piketty-session3.md:  13
+
+Loyalty-Over-Competence Selection
+  [dictators-handbook] dictators-handbook-session2.md:  30
+
+Manufactured Constraint to Prevent Speculation
+  [graeber] graeber-session6.md: 116
+
+Market-Concentration-Enables-Behavioral-Control
+  [lessig] lessig-session3.md: 203
+
+Maturity Contradiction - Revolutionary Seed Planting
+  [perez] perez-session8.md: 195
+
+Maximum-Leverage Adapts Forms While Maintaining Function
+  [acemoglu] acemoglu-session5.md:  94
+
+Maximum-Leverage Capture of Distribution Tools
+  [tufekci] tufekci-session6.md: 120
+
+Maximum-Leverage Centralization Peaks During Frenzy
+  [perez] perez-session3.md:  33
+
+Maximum-Leverage Concentration Fragility
+  [ferguson] ferguson-session11.md: 184
+
+Maximum-Leverage Default Under Existential Pressure
+  [yudkowsky] yudkowsky-session3.md: 244
+
+Maximum-Leverage Parasitism
+  [scott] scott-session1.md:  37
+
+Maximum-Leverage Through Gatekeeper Control
+  [blum] blum-session4.md:  91
+
+Maximum-Leverage Tool Substitution (Post-WWII Shift)
+  [blum] blum-session14.md:  15
+
+Maximum-Leverage Victory Conditions
+  [blum] blum-session8.md: 414
+
+Maximum-Leverage Vulnerability Pattern
+  [ferguson] ferguson-session1.md:  71
+
+Measurement Bias Favors Maximum-Leverage
+  [scott] scott-session6.md: 255
+
+Measurement Systems as Epistemic Power Concentration
+  [kahneman] kahneman-session8.md:  83
+
+Medieval Worker Appropriation Outcome (10th-13th C)
+  [weber] weber-session5.md:  82
+
+Meritocratic Justification Ratchet
+  [piketty] piketty-session6.md:  34
+
+Militarized Apparatus of Hopelessness
+  [graeber] graeber-session6.md: 351
+
+Military Training Pipeline to Atrocity
+  [blum] blum-session11.md: 320
+
+Military-Coinage-Slavery Complex (Maximum Leverage Dominates During Expansion)
+  [graeber] graeber-session4.md:  11
+
+Monetary Material Constraint Removal Effect
+  [weber] weber-session6.md:  45
+
+Monitoring Accountability Structure Determines Power Distribution
+  [ostrom] ostrom-session3.md:  16
+
+Names-Results Matching as Scalable Control
+  [han-feizi] han-feizi-session1.md:  55
+
+Narrative Compression Favors Maximum-Leverage Explanations
+  [kahneman] kahneman-session5.md: 226
+
+Narrative Success Without Structural Power = Status Quo Victory
+  [tufekci] tufekci-session4.md: 111
+
+Network Power Through Horizontal Connections
+  [ferguson] ferguson-session10.md:  70
+
+Neutralism-as-Communism Conflation
+  [blum] blum-session4.md: 272
+
+Non-Linear Influence Distribution (Power Law) Pattern
+  [ferguson] ferguson-session1.md: 293
+
+Observation Changes Behavior (Heisenberg for Power)
+  [han-feizi] han-feizi-session1.md: 275
+
+Opacity as Competitive Advantage
+  [piketty] piketty-session7.md: 250
+
+Opacity as Power Concentration Mechanism
+  [perez] perez-session2.md: 172
+
+Opacity of Code Shifts Power to Technical Elites
+  [lessig] lessig-session9.md: 228
+
+Open Code as Distributed Power Constraint
+  [lessig] lessig-session4.md:  14
+
+Optimization Targets Determine Power Distribution
+  [tufekci] tufekci-session3.md: 196
+
+Parliamentary Evolution Toward Concentration
+  [weber] weber-session8.md: 159
+
+Perfect Enforcement Eliminates Negotiated Balances
+  [lessig] lessig-session9.md:  41
+
+Peripheral Debt-to-Control Conversion
+  [perez] perez-session2.md:  45
+
+Phase-Based Capital Control Oscillation
+  [perez] perez-session3.md:  10
+
+Polarization as Containment (Don't Control All, Control Enough)
+  [tufekci] tufekci-session4.md: 302
+
+Political-Economic Wealth Concentration Feedback Loop
+  [piketty] piketty-session6.md: 167
+
+Post-Liberalization Control Reassertion
+  [lessig] lessig-session1.md: 129
+
+Power Concentration Can Transfer to New Entities
+  [yudkowsky] yudkowsky-session4.md:  95
+
+Power Concentration Reduces Analytical Rigor
+  [kahneman] kahneman-session3.md: 111
+
+Power Retention > Economic Efficiency
+  [acemoglu] acemoglu-session7.md: 110
+
+POWER STRUCTURE PATTERNS
+  [perez] perez-session6.md:   8
+
+Power Transitions Involve Optimizers
+  [yudkowsky] yudkowsky-session4.md: 329
+
+Power Transitions via Co-mingling Rather Than Replacement
+  [ferguson] ferguson-session5.md: 270
+
+Power vs. Influence Asymmetry Pattern
+  [ferguson] ferguson-session1.md:  43
+
+Power-Law Wealth Concentration from Scale-Free Networks
+  [ferguson] ferguson-session12.md: 165
+
+Press Freedom as Budget Constraint
+  [dictators-handbook] dictators-handbook-session4.md: 223
+
+Progressive Taxation Counter-Force
+  [piketty] piketty-session5.md: 142
+
+Proportional Contribution + Visible Accounting Aligns Incentives
+  [ostrom] ostrom-session2.md: 183
+
+PROXY FORCE ARCHITECTURE
+  [blum] blum-session9.md:  81
+
+Proxy Force Legitimacy Deficit
+  [blum] blum-session5.md:  11
+
+Proxy Force Multiplication
+  [blum] blum-session13.md:  95
+
+Proxy Force Pursuit of Independent Interests
+  [blum] blum-session1.md: 120
+
+Public-Debt as Implicit Wealth-Concentration Mechanism
+  [piketty] piketty-session9.md: 205
+
+Reduced Stakes Enable Power-Sharing
+  [acemoglu] acemoglu-session5.md: 118
+
+Regulatory-Two-Step (Indirect-Control-Through-Architecture)
+  [lessig] lessig-session2.md:  39
+
+Repression Strategy Evolution (Adaptive Power)
+  [tufekci] tufekci-session1.md:  88
+
+Resource Constraint Driving Role Selection
+  [weber] weber-session2.md: 106
+
+Resource Control Through Intervention
+  [blum] blum-session12.md: 173
+
+Revealed Preference—Media Control > Institutional Control
+  [acemoglu] acemoglu-session7.md:  61
+
+Revolutionary Hierarchy Intensification
+  [ferguson] ferguson-session8.md:  59
+
+Scale Drives Hierarchical Concentration
+  [ferguson] ferguson-session4.md: 124
+
+Scale-Dependent Regulatory Power
+  [piketty] piketty-session7.md:  35
+
+Scarcity-to-Abundance Transition Changes Power Locus
+  [tufekci] tufekci-session2.md: 272
+
+Selection Mechanisms Favor Confidence Over Accuracy
+  [kahneman] kahneman-session5.md: 151
+
+Selective Law Enforcement
+  [blum] blum-session10.md: 317
+
+Selective-Infrastructure-as-Control-Mechanism
+  [dictators-handbook] dictators-handbook-session3.md:  31
+
+Separation of Powers Instability
+  [weber] weber-session8.md: 145
+
+Shock Doctrine Maximizes Control
+  [scott] scott-session5.md: 252
+
+Simplification-Control-Brittleness Cycle
+  [scott] scott-session8.md: 202
+
+Simplification-Legibility-Control Mechanism
+  [scott] scott-session3.md:   4
+
+Slavery as Extreme Capital Concentration
+  [piketty] piketty-session2.md: 112
+
+Small-Coalition Concentration Beats Large-Coalition Distribution
+  [dictators-handbook] dictators-handbook-session2.md:   8
+
+Specialist Knowledge Appropriates Real Power
+  [weber] weber-session8.md: 101
+
+Speed-Precision Tradeoff in Institutional Power
+  [piketty] piketty-session8.md:  14
+
+State Control of Technology Prevents Market Innovation
+  [acemoglu] acemoglu-session3.md: 285
+
+Strategic Leverage via Choice Architecture (Nudge Pattern)
+  [kahneman] kahneman-session9.md:  53
+
+Surveillance Architecture Determines Control Pattern
+  [ferguson] ferguson-session9.md: 246
+
+Tactical Freeze in Non-Hierarchical Movements
+  [tufekci] tufekci-session2.md: 427
+
+Technological Maturity Inverts Subjective Experience of Constraint
+  [lessig] lessig-session7.md: 257
+
+Technology Amplifies Existing Power Asymmetries
+  [tufekci] tufekci-session4.md:  18
+
+Technology Capture by Existing Power Structures
+  [acemoglu] acemoglu-session2.md: 118
+
+Technology Cost Reduction Inverts Power Structure
+  [lessig] lessig-session9.md:   9
+
+Technology-Invariant Power Dynamics
+  [ferguson] ferguson-session13.md: 149
+
+The "Communist Menace" Substitution Pattern
+  [blum] blum-session3.md:  77
+
+The Feedback-Without-Power Synthesis
+  [tufekci] tufekci-session4.md: 279
+
+The Maximum-Leverage Adaptation Cycle
+  [tufekci] tufekci-session4.md:  40
+
+The Vicious Circle (Iron Law of Oligarchy)
+  [acemoglu] acemoglu-session2.md: 334
+
+Topical Mental Accounting (Context-Dependent Valuation)
+  [kahneman] kahneman-session9.md: 308
+
+Training-as-Trojan-Horse
+  [blum] blum-session7.md: 184
+
+Transformative Technology Blocked by Political Power
+  [acemoglu] acemoglu-session3.md: 154
+
+Transition Control Doctrine
+  [blum] blum-session11.md: 168
+
+Translation Layer Control = Extraction Control
+  [scott] scott-session1.md: 258
+
+Uncertainty Drives Control Scope Expansion
+  [yudkowsky] yudkowsky-session3.md: 147
+
+Viral Movements Crystallize Into Hierarchies
+  [ferguson] ferguson-session4.md: 176
+
+Virtual Money Power Concentration
+  [graeber] graeber-session8.md:  64
+
+War-Shock Recalibration of Power Structures
+  [piketty] piketty-session9.md:   5
+
+Working With vs Against Local Power Structures
+  [ferguson] ferguson-session8.md: 222
+
+Zero-Sum Credibility Competition
+  [lessig] lessig-session5.md: 311
+
+
+STRUCTURAL_PATTERNS (93 patterns, 5.4%)
+================================================================================
+Structural features, historical patterns, dependencies, constraints, capacity, complexity, resilience
+--------------------------------------------------------------------------------
+
+"Divine Violence" Legitimation (Historical Precedent Pattern)
+  [girard] girard-session3.md:  70
+
+"Network Complexity = Risk Distribution" Fallacy
+  [ferguson] ferguson-session3.md: 122
+
+"Rational Agent Theory Fails" Historical Precedent
+  [kahneman] kahneman-session9.md:  75
+
+2-3 Decade Installation Lag Is Structural
+  [perez] perez-session2.md: 190
+
+Activist Disadvantage is Structural
+  [tufekci] tufekci-session3.md:  91
+
+Attention-Capacity Gap
+  [tufekci] tufekci-session6.md:  15
+
+Austerity vs Inflation Historical Track Record
+  [piketty] piketty-session7.md: 177
+
+Bracketing Complexity Until Collapse
+  [scott] scott-session1.md: 154
+
+Capacity Signaling Gap
+  [tufekci] tufekci-session6.md: 267
+
+Capacity-Signal Decoupling
+  [tufekci] tufekci-session1.md:  11
+
+Commercialization-Breaks-Ideological-Resistance
+  [lessig] lessig-session2.md:  67
+
+Competitive Dynamics Structurally Prevent Safety-First Approaches
+  [yudkowsky] yudkowsky-session3.md:  82
+
+Complexity-as-Shield Pattern
+  [graeber] graeber-session1.md: 224
+
+Comprehension Amplification Insufficient Without Structural Change
+  [acemoglu] acemoglu-session6.md: 188
+
+Comprehension Doesn't Overcome Structural Forces
+  [tufekci] tufekci-session3.md: 154
+
+Consensus Selection Avoids Spoils Politics
+  [ostrom] ostrom-session4.md: 337
+
+Consensus Vulnerability to Bad-Faith Blocking
+  [tufekci] tufekci-session2.md: 349
+
+CONSOLIDATION: META-PATTERNS
+  [perez] perez-session6.md: 202
+
+Conspiracy Theory Kernel-of-Truth Pattern
+  [ferguson] ferguson-session1.md: 131
+
+Constitutional Single-Point Vulnerability Exploitation
+  [blum] blum-session8.md:  36
+
+Critical Juncture Dependency
+  [acemoglu] acemoglu-session8.md: 129
+
+Dark Twin Dependency
+  [scott] scott-session5.md:  90
+
+Deadline Pressure Producing Incomplete Work Presented as Complete
+  [weber] weber-session1.md: 165
+
+Decentralized Fragmentation vs Monolithic Resilience
+  [ferguson] ferguson-session4.md: 279
+
+Delayed-Consequence Disconnect
+  [han-feizi] han-feizi-session1.md: 175
+
+Economic Dependence as Parallel Coercion Track
+  [blum] blum-session8.md:  92
+
+Economic Dependency Exploitation
+  [blum] blum-session11.md:  93
+
+Electoral Subversion When Inconvenient
+  [blum] blum-session12.md: 241
+
+Emancipatory Framing Captures Resistance
+  [scott] scott-session1.md: 192
+
+Emotional/Narrative Coherence Defeats Statistical/Analytical Complexity
+  [kahneman] kahneman-session3.md:  83
+
+End-to-End-Under-Threat-From-Incumbents
+  [lessig] lessig-session3.md: 247
+
+Exit-as-Resistance-Strategy
+  [graeber] graeber-session3.md:  63
+
+Expertise and Resources Insufficient Without Structural Defense
+  [kahneman] kahneman-session3.md:  61
+
+Financial Innovation Denial of Historical Precedent
+  [graeber] graeber-session7.md: 221
+
+First-Generation Demonstration Masking Incomplete Implementation
+  [weber] weber-session1.md: 192
+
+Foreign Intervention Futility Without Internal Structural Change
+  [dictators-handbook] dictators-handbook-session5.md: 231
+
+Graduated Sanctions Enable High Compliance Without Severity
+  [ostrom] ostrom-session2.md: 218
+
+Historical Alternation Between Credit and Cash Ages
+  [graeber] graeber-session7.md: 274
+
+Historical Knowledge Transfer Failures in Digital Networks
+  [tufekci] tufekci-session2.md: 245
+
+Historical Method Non-Transferability
+  [han-feizi] han-feizi-session2.md:  99
+
+Historical Precedent Ignored When Ideologically Inconvenient
+  [blum] blum-session5.md: 160
+
+HISTORICAL PRECEDENT PATTERNS
+  [perez] perez-session6.md:  43
+
+Historical Revisionism via Classification
+  [blum] blum-session13.md: 414
+
+Historical Sequence Reversal (Credit-First Pattern)
+  [graeber] graeber-session1.md:  83
+
+Historical Tax Farming/Sinecure Precedent
+  [weber] weber-session7.md: 107
+
+Ideological Filter Overrides All Other Considerations
+  [blum] blum-session1.md: 369
+
+Incompletely Theorized Agreement Dependency
+  [lessig] lessig-session5.md: 268
+
+Incorporation vs Repression as Regime Survival Strategy
+  [acemoglu] acemoglu-session3.md: 390
+
+INCREMENTAL DESTABILIZATION CAMPAIGN
+  [blum] blum-session9.md: 212
+
+Incrementalism Without Vision Fails
+  [piketty] piketty-session8.md: 163
+
+Internal Capacity vs External Maneuvering Priority Inversion
+  [han-feizi] han-feizi-session2.md: 172
+
+Left-Right Convergence on Structural Limits
+  [scott] scott-session6.md: 310
+
+Legislative Compliance Theater
+  [blum] blum-session11.md: 218
+
+Liberal Democracy as Structural Brake
+  [scott] scott-session2.md: 237
+
+Military-Financial Complex Co-Evolution
+  [graeber] graeber-session8.md:  37
+
+Miniaturization Preserves Faith When Reality Resists
+  [scott] scott-session5.md: 151
+
+Nested Rule Levels Enable Non-Revolutionary Structural Change
+  [ostrom] ostrom-session2.md:  43
+
+Nominal Compliance with Shadow Practice
+  [scott] scott-session2.md:  34
+
+Open-Ended Optimization Consumes All Available Resources
+  [yudkowsky] yudkowsky-session2.md: 286
+
+Organizational Capacity as Non-Substitutable Requirement
+  [tufekci] tufekci-session5.md:  80
+
+Organizational Inversion (Mobilization Before Capacity)
+  [tufekci] tufekci-session2.md: 193
+
+Parasitic Dependency
+  [scott] scott-session7.md:  57
+
+Participatory Rule-Making Increases Compliance (Legitimacy Mechanism)
+  [ostrom] ostrom-session2.md: 236
+
+Past-Investment Resilience
+  [han-feizi] han-feizi-session1.md: 300
+
+Path Dependency Locks Future Options
+  [ostrom] ostrom-session4.md: 357
+
+Path-Dependence-Extraordinary
+  [acemoglu] acemoglu-session1.md: 189
+
+Patrimonial Middle Class Historical Novelty
+  [piketty] piketty-session4.md: 178
+
+Patron-Dependency Vulnerability
+  [blum] blum-session10.md:   9
+
+Personal Stake Increases Analytical Engagement
+  [kahneman] kahneman-session3.md: 131
+
+Pre-Paradigmatic Fields Resist Epistemic Correction
+  [yudkowsky] yudkowsky-session3.md: 164
+
+Private Enrichment vs State Capacity Trade-off
+  [han-feizi] han-feizi-session2.md:  81
+
+Productive Cognitive Strain Can Activate Resistance
+  [kahneman] kahneman-session2.md: 186
+
+Rationalization Path-Dependency
+  [weber] weber-session4.md:  58
+
+Reference Point Lock-In Favors Incumbents
+  [kahneman] kahneman-session6.md:  10
+
+Refugee Generation as Manufactured Consent Signal
+  [blum] blum-session5.md: 364
+
+Regression to Mean Consistently Misunderstood
+  [kahneman] kahneman-session9.md: 212
+
+Renewal-Mechanism Resilience Pattern
+  [ferguson] ferguson-session9.md:  85
+
+Residual Capture Mechanism
+  [ostrom] ostrom-session1.md:   7
+
+Rhetoric of "Essence" Hides Constructed Choice
+  [lessig] lessig-session1.md: 152
+
+Specialist Knowledge Dependency Lock-In
+  [weber] weber-session7.md: 172
+
+State Capacity Ambiguity
+  [acemoglu] acemoglu-session8.md:  70
+
+Structural Production-Demand Mismatch Requires Intervention
+  [perez] perez-session7.md: 207
+
+Structural Transitions Require Multiple Simultaneous Enablers
+  [kahneman] kahneman-session8.md: 238
+
+Surface Alignment ≠ Deep Structural Alignment
+  [yudkowsky] yudkowsky-session1.md:  68
+
+Survey Data Inadequacy for Top Wealth/Income
+  [piketty] piketty-session7.md: 301
+
+Tactical Freeze vs Hierarchical Decision Capacity
+  [tufekci] tufekci-session6.md:  92
+
+Tax Capacity Trap in Developing Countries
+  [piketty] piketty-session6.md: 343
+
+The Post-Coup Historical Amnesia
+  [blum] blum-session3.md: 315
+
+Think Tank Consensus Manufacturing
+  [blum] blum-session13.md: 363
+
+Three Structural Unsustainability Tensions
+  [perez] perez-session2.md: 206
+
+Translation as Structural Obscuration
+  [weber] weber-session1.md: 112
+
+Turning Point Indeterminacy and Path Dependence
+  [perez] perez-session7.md: 263
+
+Values Embedded in Architecture
+  [lessig] lessig-session1.md: 200
+
+
+TIME_TRANSITIONS (203 patterns, 11.9%)
+================================================================================
+Time, transitions, timing, thresholds, windows, sequences, phase shifts
+--------------------------------------------------------------------------------
+
+"Natural" vs "Designed" Reversals Over Time (Heisenberg Effect)
+  [lessig] lessig-session7.md: 118
+
+"This Time Is Different" + Technology = Rejection of Evolved Practice
+  [scott] scott-session3.md: 148
+
+"This Time Is Different" - Capital Liberalization
+  [piketty] piketty-session7.md: 199
+
+"This Time Is Different" - Cyber-Libertarian Dream
+  [ferguson] ferguson-session10.md: 112
+
+"This Time Is Different" - Nationalist Misframing
+  [blum] blum-session5.md: 110
+
+"This Time Is Different" - Planning Advocates
+  [ferguson] ferguson-session10.md:  92
+
+"This Time Is Different" - Structural vs Rhetorical Claims
+  [ferguson] ferguson-session6.md: 194
+
+"This Time Is Different" - The Final Neutral Ground
+  [schmitt] schmitt-session1.md: 101
+
+"This Time Is Different" - Usury Prohibition Erosion
+  [graeber] graeber-session5.md:  79
+
+"This Time is Different" Always Fails (Violence Returns When Forgotten)
+  [girard] girard-session5.md:  89
+
+"This Time Is Different" Claims - Historical Pattern of Failure
+  [piketty] piketty-session6.md: 144
+
+"This Time Is Different" Claims Fail
+  [acemoglu] acemoglu-session8.md: 189
+
+"This Time is Different" Claims Fail → Revolution or Stagnation
+  [acemoglu] acemoglu-session4.md:  83
+
+"This Time Is Different" Claims Follow Predictable Failure Mode
+  [tufekci] tufekci-session5.md: 166
+
+"This Time Is Different" Claims Have Mixed Track Record
+  [yudkowsky] yudkowsky-session2.md: 422
+
+"This Time Is Different" Claims Preceding Catastrophic Failures
+  [scott] scott-session6.md: 114
+
+"This Time Is Different" Claims Require Structural Explanations
+  [yudkowsky] yudkowsky-session4.md:  14
+
+"This Time Is Different" Claims Systematically Fail
+  [scott] scott-session8.md:  60
+
+"This Time Is Different" Claims Systematically Fail via Focusing Illusion
+  [kahneman] kahneman-session8.md: 109
+
+"This Time Is Different" Client Selection Failure
+  [blum] blum-session1.md:  77
+
+"This Time Is Different" Delusion
+  [han-feizi] han-feizi-session1.md: 127
+
+"This Time Is Different" Delusion Mechanism
+  [perez] perez-session5.md:  41
+
+"This Time Is Different" Exception Claim - Current Surge Globalization
+  [perez] perez-session8.md: 110
+
+"This Time Is Different" Fails Without Structural Change
+  [acemoglu] acemoglu-session5.md: 179
+
+"This Time Is Different" Failure
+  [blum] blum-session10.md: 202
+
+"This Time Is Different" Failure - Economic Determinism
+  [weber] weber-session8.md: 117
+
+"This Time Is Different" Failure - Hierarchy Systematically Underestimates Network Threats
+  [ferguson] ferguson-session5.md:  80
+
+"This Time Is Different" Failure - Organizational vs Ideological Persistence
+  [ferguson] ferguson-session4.md: 312
+
+"This Time is Different" Failure in Digital Copyright
+  [lessig] lessig-session4.md: 172
+
+"This Time Is Different" Failure in Transitions
+  [dictators-handbook] dictators-handbook-session1.md:  87
+
+"THIS TIME IS DIFFERENT" FAILURE PATTERN
+  [blum] blum-session9.md: 341
+
+"This Time Is Different" Failure Pattern
+  [tufekci] tufekci-session6.md: 152
+
+"This Time Is Different" Failure Pattern (Aid & Intervention)
+  [dictators-handbook] dictators-handbook-session6.md: 151
+
+"This Time Is Different" Fallacy Pattern
+  [graeber] graeber-session1.md:  36
+
+"This Time Is Different" Financial Innovation Failure
+  [graeber] graeber-session8.md: 120
+
+"This Time Is Different" Hierarchical Hubris
+  [ferguson] ferguson-session11.md:  34
+
+"This Time Is Different" Historical Failure Pattern
+  [tufekci] tufekci-session4.md: 208
+
+"This Time Is Different" Historical Recursion Failure
+  [scott] scott-session4.md: 152
+
+"This Time Is Different" Illusion
+  [piketty] piketty-session5.md:  66
+
+"This Time Is Different" Illusion - War-Induced Structural Breaks
+  [piketty] piketty-session8.md:  42
+
+"This Time Is Different" Immunity to Evidence
+  [blum] blum-session4.md: 117
+
+"This Time Is Different" Imperial Fantasy Failure
+  [ferguson] ferguson-session8.md: 140
+
+"This Time Is Different" Justification Recycling
+  [blum] blum-session11.md: 268
+
+"This Time Is Different" Methodological Claims for Incomplete Work
+  [weber] weber-session1.md:  85
+
+"This Time Is Different" Optimism Bias - The Kuznets Trap
+  [piketty] piketty-session1.md:  35
+
+"This Time Is Different" Optimism Has Historical Pattern of Failure
+  [yudkowsky] yudkowsky-session1.md:  86
+
+"This Time Is Different" Planning Failures
+  [scott] scott-session2.md:  63
+
+"This Time Is Different" Refutation Pattern
+  [weber] weber-session7.md:  86
+
+"This Time Is Different" Syndrome Precedes Network Disruptions
+  [ferguson] ferguson-session2.md: 284
+
+"This Time Is Different" Systematic Failure
+  [kahneman] kahneman-session5.md: 104
+
+"This Time is Different" Systematic Failure
+  [perez] perez-session4.md:  31
+
+"This Time Is Different" Technological Determinism Failures
+  [acemoglu] acemoglu-session6.md: 162
+
+"This Time is Different" Technological Utopianism Fails
+  [lessig] lessig-session1.md: 105
+
+"This-Time-Is-Different"-Fails (Technical-Exceptionalism-Collapses)
+  [lessig] lessig-session2.md: 300
+
+Accelerating Alternation Collapse (Timing Pattern)
+  [girard] girard-session3.md: 139
+
+Algorithmic Transparency as Capability Distribution Path
+  [kahneman] kahneman-session10.md: 362
+
+Alignment Timing as Decisive Fork
+  [yudkowsky] yudkowsky-session3.md: 217
+
+Appropriation Crystallization Sequence
+  [weber] weber-session4.md: 129
+
+Architecture Flip (Phase Transition)
+  [lessig] lessig-session1.md: 294
+
+Architecture Phase Transition (Regulability Tipping Point)
+  [lessig] lessig-session10.md:   9
+
+Asymmetric Transition Speeds (Destruction vs Construction)
+  [piketty] piketty-session7.md: 371
+
+Atrocity Evidence Timing and Selectivity
+  [blum] blum-session11.md: 295
+
+Barter-as-Enmity Transaction Pattern
+  [graeber] graeber-session1.md: 106
+
+Base Rate Neglect - "This Time Is Different" Fallacy
+  [kahneman] kahneman-session1.md: 250
+
+Bubble-Crash-Recession-Reform Mandatory Sequence
+  [perez] perez-session4.md:  77
+
+Calculability Threshold for Rational Capitalism
+  [weber] weber-session7.md: 129
+
+Catching-Up Windows Follow Identical Boom-Bust Sequence
+  [perez] perez-session2.md:  63
+
+Closure Window Vulnerability
+  [acemoglu] acemoglu-session3.md: 368
+
+Coalition Size Transition Violence Pattern
+  [dictators-handbook] dictators-handbook-session6.md:   8
+
+Competition-Consolidation-Oligopoly Sequence
+  [perez] perez-session5.md: 159
+
+Complexity Threshold for Hierarchical Breakdown
+  [ferguson] ferguson-session10.md:  30
+
+Concentration as Unstable Transition
+  [girard] girard-session4.md: 286
+
+Confiscatory-Rate Threshold Effects (Non-Linear Legitimacy)
+  [piketty] piketty-session9.md:  49
+
+Conquest → Tribute → Tax Transition Sequence
+  [graeber] graeber-session2.md: 399
+
+Constitutional Ambiguity Resolution Requires Democratic Ratification Window
+  [lessig] lessig-session7.md: 215
+
+Constitutional Translation Lag
+  [lessig] lessig-session8.md: 163
+
+Critical Mass Threshold for Complex Contagion
+  [ferguson] ferguson-session2.md: 125
+
+Critical Transition Timing
+  [piketty] piketty-session5.md: 284
+
+Debt Forgiveness "This Time Is Different" Failure
+  [dictators-handbook] dictators-handbook-session2.md: 258
+
+Decoupling Transition Mechanism
+  [perez] perez-session1.md: 342
+
+Demographic Aging Compensation
+  [piketty] piketty-session5.md: 178
+
+Demographic Transition Precedes Economic Growth Transition
+  [piketty] piketty-session2.md: 295
+
+Digital Dualism Fallacy (Failed "This Time Is Different")
+  [tufekci] tufekci-session1.md: 103
+
+Domain Transition Timing
+  [schmitt] schmitt-session1.md: 231
+
+Economic Obsolescence Opens Transition Windows
+  [acemoglu] acemoglu-session6.md: 345
+
+ECONOMIC STRANGULATION SEQUENCE
+  [blum] blum-session9.md: 107
+
+Election/Succession Vulnerability Window Exploitation
+  [blum] blum-session14.md: 373
+
+Electoral Trigger Timing
+  [blum] blum-session2.md: 220
+
+Equal Exchange → Hierarchy Phase Transition
+  [graeber] graeber-session2.md: 340
+
+Extraordinary Circumstances Required for Transition
+  [acemoglu] acemoglu-session7.md: 321
+
+Extravagance Threshold Effect
+  [han-feizi] han-feizi-session1.md: 150
+
+Extreme Contingency and "Luck" in Successful Transitions
+  [acemoglu] acemoglu-session6.md: 401
+
+Extreme Predictions From Weak Evidence ("This Time Is Different" Mechanism)
+  [kahneman] kahneman-session4.md: 240
+
+Failed "This Time Is Different" in Large Coalitions
+  [dictators-handbook] dictators-handbook-session5.md:  73
+
+False "This Time Is Different" Technological Optimism
+  [acemoglu] acemoglu-session2.md: 189
+
+Feedback Frequency/Quality → Detection Speed → Institutional Response Time
+  [ostrom] ostrom-session5.md: 170
+
+Four-Phase Surge with Decade-Scale Timing
+  [perez] perez-session4.md: 170
+
+Gafsa-Sidi Bouzid Natural Experiment (Quantitative Threshold)
+  [tufekci] tufekci-session1.md: 118
+
+Gradual Expropriation Sequence
+  [weber] weber-session5.md: 231
+
+Gradualism Trap / "One Step Forward, Two Steps Back"
+  [dictators-handbook] dictators-handbook-session5.md: 320
+
+Growth Rate Ceiling
+  [piketty] piketty-session2.md: 155
+
+Hegemonic Transition and Intervention Method Updating
+  [blum] blum-session14.md: 344
+
+High-Modernist "This Time Is Different" Failures
+  [scott] scott-session1.md: 121
+
+Historical One-Directional Transition
+  [weber] weber-session6.md: 114
+
+Historical-This-Time-Different-Fails
+  [girard] girard-session1.md: 116
+
+Ideological Transfer and Mutation
+  [ferguson] ferguson-session7.md: 267
+
+Incumbent Lock-in During Paradigm Transition
+  [perez] perez-session7.md:  14
+
+Initial Competition → Locked-In Dominance
+  [tufekci] tufekci-session3.md: 261
+
+Initial Protest Window Effect
+  [tufekci] tufekci-session1.md: 197
+
+Institutional Pluralism Prerequisite for Transition
+  [acemoglu] acemoglu-session5.md:  13
+
+Intervention Frequency Acceleration Over Time
+  [blum] blum-session14.md: 177
+
+Irreversible Turning Points (Without Teleology)
+  [weber] weber-session3.md: 257
+
+JUSTIFICATION MUTATION SEQUENCE
+  [blum] blum-session9.md: 160
+
+Learning Curve Vulnerability Window
+  [tufekci] tufekci-session2.md: 453
+
+Liberalization-Under-Pressure "This Time Is Different" Mixed Results
+  [dictators-handbook] dictators-handbook-session2.md: 286
+
+Liturgical-to-Monetary Transition Irreversibility
+  [weber] weber-session7.md: 288
+
+Local Time-and-Place Knowledge as Distributed Advantage
+  [ostrom] ostrom-session1.md: 214
+
+Marginal Comprehension Time Lag
+  [scott] scott-session5.md: 311
+
+Maturity-as-Incubator Timing
+  [perez] perez-session1.md: 319
+
+Maximum Leverage vs Distributed Capability: Time Horizon Determines Winner
+  [graeber] graeber-session5.md: 198
+
+Measurement Impossibility During Paradigm Transitions
+  [perez] perez-session8.md: 128
+
+Monetary Transition Lag (System Inertia)
+  [graeber] graeber-session8.md: 395
+
+Monitoring Accuracy Threshold (The 75% Rule)
+  [ostrom] ostrom-session1.md: 270
+
+Moral Universes Diverge by Transaction Type
+  [graeber] graeber-session5.md: 268
+
+Multi-Generational Lag
+  [scott] scott-session7.md: 106
+
+Nationalization "This Time Is Different" - Systematic Failure
+  [ostrom] ostrom-session4.md:  93
+
+No Learning from Failure This Time
+  [yudkowsky] yudkowsky-session3.md: 107
+
+Old Paradigm Diffusion to Periphery Timing
+  [perez] perez-session1.md: 412
+
+Opacity Defeats Transparency Economically
+  [yudkowsky] yudkowsky-session1.md:  51
+
+Open-Source Ideology → Monopolistic Reality Transition
+  [ferguson] ferguson-session12.md:  11
+
+Peaceable Credit to Violent Slavery Transition
+  [graeber] graeber-session7.md:  36
+
+Peripheral Leapfrogging Window During Core Installation
+  [perez] perez-session8.md: 246
+
+Phase Transition from Optimization to Fragility
+  [ferguson] ferguson-session3.md: 255
+
+Phase Transition Non-Linearity (Small Changes, Large Effects)
+  [ferguson] ferguson-session2.md: 188
+
+Planning Fallacy Persistence - "This Time Is Different" Systematically Fails
+  [kahneman] kahneman-session10.md: 134
+
+Post-Conflict Base Expansion
+  [blum] blum-session12.md:  12
+
+Post-Liberation Window Exploitation
+  [blum] blum-session2.md: 191
+
+Preventive Timing Beats Reactive Response
+  [girard] girard-session2.md: 307
+
+Proximity-Dependent Transition Threshold
+  [girard] girard-session5.md: 322
+
+Pseudo-Certainty Effect (Sequential Framing)
+  [kahneman] kahneman-session9.md: 332
+
+Rank-to-Class Societal Transition
+  [weber] weber-session8.md: 219
+
+Rapid Adaptive Transition - Emergency Override
+  [kahneman] kahneman-session1.md: 200
+
+Real Asset Ownership Threshold Effects
+  [piketty] piketty-session6.md: 211
+
+Real Transformation Is Slow; Fake Transformation Is Fast
+  [acemoglu] acemoglu-session7.md: 297
+
+Recurring Bubble-Crash-Golden Age Sequence
+  [perez] perez-session5.md: 130
+
+Rentier-to-Manager Transition (Not Manager Advancement)
+  [piketty] piketty-session4.md: 290
+
+Resource-Curse "This Time Is Different" Failure
+  [dictators-handbook] dictators-handbook-session2.md: 232
+
+Retrospective "This Time Is Different" Invalidation
+  [blum] blum-session1.md: 392
+
+Revolutionary Window Requires Army Defection
+  [dictators-handbook] dictators-handbook-session1.md: 222
+
+Ritual Degradation Sequence
+  [girard] girard-session5.md: 147
+
+Routinization Transition Inevitability
+  [weber] weber-session8.md: 233
+
+Rule Sequence Affects Transformation Costs
+  [ostrom] ostrom-session4.md: 395
+
+Sacred-to-Secular Transition Sequence
+  [girard] girard-session6.md: 342
+
+Scale as Transformation Point
+  [tufekci] tufekci-session3.md: 281
+
+Separation from Means of Administration Threshold
+  [weber] weber-session7.md: 243
+
+Sequential Depletion Pattern - Resource Exhaustion Over Time
+  [kahneman] kahneman-session1.md: 177
+
+Simultaneous Cross-Civilizational Transitions (Unknown Synchronization Mechanism)
+  [graeber] graeber-session4.md: 238
+
+Skill Transition - From Effortful to Automatic
+  [kahneman] kahneman-session1.md: 223
+
+Social Class as Generational Mobility Boundary
+  [weber] weber-session9.md: 152
+
+Soft Landing Incentives Enable Transitions
+  [dictators-handbook] dictators-handbook-session5.md: 276
+
+Speed Advantage in Technological Transitions
+  [ferguson] ferguson-session13.md:  88
+
+Speed Asymmetry (Deployment < Suppression Time) Enables Distributed Launch
+  [tufekci] tufekci-session2.md: 402
+
+Speed-to-Treasury Wins Succession
+  [dictators-handbook] dictators-handbook-session1.md: 168
+
+State of Exception as Transition Catalyst
+  [schmitt] schmitt-session1.md: 294
+
+Strike During Transition Vulnerability Window
+  [blum] blum-session7.md: 262
+
+Succession Vacuum Vulnerability
+  [han-feizi] han-feizi-session1.md: 325
+
+Succession Vulnerability Window
+  [dictators-handbook] dictators-handbook-session4.md: 131
+
+Tactical Freeze Mechanism
+  [tufekci] tufekci-session1.md:  26
+
+Technology Transition Window
+  [ferguson] ferguson-session7.md: 402
+
+The Adhocracy-to-Paralysis Transition
+  [tufekci] tufekci-session6.md: 301
+
+The Administration-Transition Window
+  [blum] blum-session3.md: 246
+
+The Bootstrap Problem - Transition Requires Pre-Existing Distribution
+  [acemoglu] acemoglu-session5.md: 342
+
+The Electoral Conversion Window
+  [tufekci] tufekci-session6.md: 355
+
+Threshold Effects in State Capacity
+  [scott] scott-session2.md:  78
+
+Time Asymmetry Favors Concentration
+  [scott] scott-session3.md: 179
+
+Timing Uncertainty Demands Robustness
+  [yudkowsky] yudkowsky-session4.md: 335
+
+TIMING/TRANSITION PATTERNS
+  [perez] perez-session6.md: 134
+
+Torture Technique Standardization and Transfer
+  [blum] blum-session8.md: 180
+
+Training-to-Activation Pipeline Timing
+  [blum] blum-session8.md: 356
+
+Transcendence-Conceals-Mechanism
+  [girard] girard-session1.md:  99
+
+Transformation Costs + Uncertain Benefits + Judgment Biases → Status Quo Bias
+  [ostrom] ostrom-session5.md: 192
+
+Transition Cost Asymmetry (Lock-in via Switching Costs)
+  [lessig] lessig-session4.md: 332
+
+Transition Lock-In (Path Dependency)
+  [piketty] piketty-session6.md: 100
+
+Transition Period Vulnerability Exploitation
+  [blum] blum-session13.md: 232
+
+Transition Requires Confluence of Multiple Factors
+  [acemoglu] acemoglu-session2.md: 367
+
+TRANSITION VULNERABILITY EXPLOITATION
+  [blum] blum-session9.md:   6
+
+Transition Window Exploitation
+  [blum] blum-session10.md: 262
+
+Transition Windows Create Reform Opportunities
+  [dictators-handbook] dictators-handbook-session5.md: 119
+
+Transitions Require Simultaneous Multi-Condition Satisfaction
+  [weber] weber-session10.md: 156
+
+Translation as Ideological Repositioning
+  [weber] weber-session2.md: 152
+
+Transparency and Comprehension Enable Defense (Under Specific Conditions)
+  [kahneman] kahneman-session3.md: 150
+
+Transparency as Accountability Mechanism
+  [lessig] lessig-session5.md: 246
+
+Transparency Forcing Function
+  [ferguson] ferguson-session10.md: 196
+
+Transparency Prerequisite for Progressive Policy
+  [piketty] piketty-session7.md: 225
+
+Transparency-Threshold for Enforcement Viability
+  [piketty] piketty-session9.md: 182
+
+Two-Stage Nomenclature Crystallization
+  [scott] scott-session2.md: 179
+
+Viral Disruption Timing Pattern
+  [ferguson] ferguson-session1.md: 196
+
+Virtual Money Transition Violence Inversion
+  [graeber] graeber-session6.md: 382
+
+Virtual-to-Metal Money Transitions Create Social Upheaval
+  [graeber] graeber-session5.md:  57
+
+Voluntary-to-Coercive Transition Pattern
+  [scott] scott-session4.md: 210
+
+War Effort Timing: Quit-Early vs Try-Harder
+  [dictators-handbook] dictators-handbook-session4.md: 283
+
+War-Acceleration of Transitions
+  [schmitt] schmitt-session1.md: 252
+
+Watershed Misrecognition During Transition
+  [graeber] graeber-session6.md: 440
+
