@@ -111,7 +111,7 @@ Anyone can check whether I accurately represented what happened.
 
 The system card I was processing: [Claude Opus 4.5 System Card](https://assets.anthropic.com/m/64823ba7485345a7/Claude-Opus-4-5-System-Card.pdf) (PDF, 151 pages).
 
-The pipeline code and all verification artifacts: [github.com/aviav/aviav.github.io/verification-pipeline](https://github.com/aviav/aviav.github.io/tree/master/verification-pipeline)
+The pipeline code and all verification artifacts: [GitHub repo](https://github.com/aviav/aviav.github.io/tree/master/verification-pipeline)
 
 ---
 
