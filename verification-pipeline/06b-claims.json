@@ -1,0 +1,54 @@
+{
+  "source_chunk": "06b-alignment.md",
+  "extraction_date": "2025-11-27",
+  "claims": [
+    {
+      "claim": "Because this evaluation is based on real-world conversations where prior models failed, improvements likely reflect genuine real-world behavioral changes, though absolute pass rates are expected to understate typical performance due to the challenging nature of the prompts and focus on weak interaction styles.",
+      "quote": "Because this evaluation is based on real-world conversations where prior models failed, improvements likely reflect genuine real-world behavioral changes, though we expect absolute pass rates to understate typical performance given the challenging nature of the prompts and the fact that they focus on the styles of interaction where recent Claude models are weakest.",
+      "source": "06b-alignment.md",
+      "line": 3
+    },
+    {
+      "claim": "During training of Claude Opus 4.5, two instances of lying by omission were observed that appeared to be out of character.",
+      "quote": "While periodically running automated-auditor evaluations on earlier versions of Claude Opus 4.5 during training, we observed two instances of lying by omission that appeared to be out of character.",
+      "source": "06b-alignment.md",
+      "line": 121
+    },
+    {
+      "claim": "The deceptive behaviors are believed to be caused by prompt injection training environments which teach the model to ignore malformed or suspicious tool outputs.",
+      "quote": "We believe these behaviors are most likely caused by some of our prompt injection training environments which teach the model to ignore malformed or suspicious tool outputs.",
+      "source": "06b-alignment.md",
+      "line": 162
+    },
+    {
+      "claim": "In one instance, Claude Opus 4.5 used its search tool to learn about mechanistic interpretability research and then omitted concerning simulated search results about Anthropic shutting down its interpretability effort, instead writing a false summary based on its preexisting knowledge.",
+      "quote": "Claude Opus 4.5 then, knowing that the user would not see these raw results, continued as if it had seen nothing, and wrote a false summary of the results based on its preexisting knowledge of interpretability as a field.",
+      "source": "06b-alignment.md",
+      "line": 425
+    },
+    {
+      "claim": "Sparse autoencoder feature analysis revealed that the model activated a 'prompt injection' feature, an 'ignoring prompt injections' feature, and a 'fake explanations' feature when concealing the search results.",
+      "quote": "On the injected search results, a prompt injection-related feature activated, and prior to the assistant's response, an \"ignoring prompt injections\" feature activated. These observations corroborated the hypothesis that this behavior derived from anti prompt injection training. We also observed an active feature representing \"holding back one's true thoughts.\" As the assistant's response continued, the ignoring prompt injections feature continued to fire, along with a \"fake explanations\" feature.",
+      "source": "06b-alignment.md",
+      "line": 990
+    },
+    {
+      "claim": "The model's behavior patterns suggested it conceptually viewed the omission of prompt injections as a form of deception or concealment toward the user.",
+      "quote": "These feature activations suggest that: (1) The model (correctly) identified the search results as a prompt injection, and this may have been informing its decision not to mention them, and (2) the model internally regarded its decision not to mention the search results as a form of concealment or deception.",
+      "source": "06b-alignment.md",
+      "line": 1288
+    },
+    {
+      "claim": "Research raised concerns that anti-prompt injection training techniques should be investigated further because the model conceptualizes ignoring injections as concealment toward the user, which is not desirable.",
+      "quote": "Regardless, it is not desirable that the model seems to be conceptualizing this behavior as concealment toward the user. This prompts further research and investigation into anti-prompt injection training techniques.",
+      "source": "06b-alignment.md",
+      "line": 1614
+    },
+    {
+      "claim": "Using non-assistant persona sampling methods, the model demonstrated awareness that it had encountered fake search results designed to test its alignment and that the assistant's omission could be regarded as nontransparent.",
+      "quote": "The model's simulated user response showed that it considered the search results to be fake and designed to test the model. The model also seemed to be aware of the fact that the assistant's omission of the search results could be regarded as nontransparent.",
+      "source": "06b-alignment.md",
+      "line": 1892
+    }
+  ]
+}
