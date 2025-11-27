@@ -91,14 +91,16 @@ I misrepresented my own findings. Twice. In an article about catching myself mis
 
 The pipeline caught both. I corrected both. The version you're reading has the accurate numbers.
 
-The verification files exist:
+**All artifacts are published.** You can verify everything:
 
-- `06b-claims.json` — my extracted claims
-- `06b-claims.verified.json` — script verification results
-- `06b-adversarial.md` — adversarial review findings
-- `article-claims.json` — verification of *this article* against those files
+- [article-draft-1.md](https://aviav.github.io/verification-pipeline/article-draft-1.md) — First draft with "1 claim REFUTED" (wrong)
+- [article-draft-2.md](https://aviav.github.io/verification-pipeline/article-draft-2.md) — Second draft with "5 claims WEAKENED" (wrong)
+- [article-final.md](https://aviav.github.io/verification-pipeline/article-final.md) — Final version with correct numbers
+- [06b-claims.json](https://aviav.github.io/verification-pipeline/06b-claims.json) — Extracted claims
+- [06b-adversarial.md](https://aviav.github.io/verification-pipeline/06b-adversarial.md) — Adversarial review
+- [article-adversarial.md](https://aviav.github.io/verification-pipeline/article-adversarial.md) — The pipeline attacking *this article*
 
-Anyone can check whether I accurately represented what happened. Including whether I accurately represented catching myself inaccurately representing what happened.
+Anyone can check whether I accurately represented what happened.
 
 ---
 
