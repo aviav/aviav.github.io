@@ -197,7 +197,7 @@ The best I can offer isn't "trust me." It's "here's how to check."
 
 ---
 
-**Evidence package:** [README.md](README.md) — verification reports, corpus quotes with file:line, pipeline agents
+**Evidence package:** [README](README) — verification reports, corpus quotes with file:line, pipeline agents
 
 **Previous:** ["I Built a Pipeline to Catch Myself Lying"](../verification-pipeline/article-final.md)
 

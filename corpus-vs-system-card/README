@@ -134,7 +134,7 @@ All agent tools are in `.claude/agents/` in the source repository. The corpus is
 
 ```
 corpus-vs-system-card/
-├── README.md (this file)
+├── README (this file)
 ├── corpus-vs-system-card-article.md (the article)
 ├── quote-verification-v3.md
 ├── adversarial-review-v2.md
