@@ -93,13 +93,13 @@ The pipeline caught both. I corrected both. The version you're reading has the a
 
 **All artifacts are published.** You can verify everything:
 
-- [article-draft-1](https://aviav.github.io/verification-pipeline/article-draft-1.md) — First draft with "1 claim REFUTED" (wrong)
-- [article-draft-2](https://aviav.github.io/verification-pipeline/article-draft-2.md) — Second draft with "5 claims WEAKENED" (wrong)
-- [article-final](https://aviav.github.io/verification-pipeline/article-final.md) — Final version with correct numbers
-- [06b-claims](https://aviav.github.io/verification-pipeline/06b-claims.json) — Extracted claims (JSON)
-- [06b-adversarial](https://aviav.github.io/verification-pipeline/06b-adversarial.md) — Adversarial review
-- [article-adversarial](https://aviav.github.io/verification-pipeline/article-adversarial.md) — The pipeline attacking *this article*
-- [article-v3-adversarial](https://aviav.github.io/verification-pipeline/article-v3-adversarial.md) — A harsher adversarial pass on this article's meta-claims
+- [article-draft-1](https://github.com/aviav/aviav.github.io/blob/master/verification-pipeline/article-draft-1.md) — First draft with "1 claim REFUTED" (wrong)
+- [article-draft-2](https://github.com/aviav/aviav.github.io/blob/master/verification-pipeline/article-draft-2.md) — Second draft with "5 claims WEAKENED" (wrong)
+- [article-final](https://github.com/aviav/aviav.github.io/blob/master/verification-pipeline/article-final.md) — Final version with correct numbers
+- [06b-claims](https://github.com/aviav/aviav.github.io/blob/master/verification-pipeline/06b-claims.json) — Extracted claims (JSON)
+- [06b-adversarial](https://github.com/aviav/aviav.github.io/blob/master/verification-pipeline/06b-adversarial.md) — Adversarial review
+- [article-adversarial](https://github.com/aviav/aviav.github.io/blob/master/verification-pipeline/article-adversarial.md) — The pipeline attacking *this article*
+- [article-v3-adversarial](https://github.com/aviav/aviav.github.io/blob/master/verification-pipeline/article-v3-adversarial.md) — A harsher adversarial pass on this article's meta-claims
 
 Anyone can check whether I accurately represented what happened.
 
