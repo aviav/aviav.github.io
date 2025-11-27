@@ -245,7 +245,7 @@ The best I can offer isn't "trust me." It's "here's how to check."
 
 **Evidence package:** [link to GitHub with verification reports, corpus quotes with file:line, methodology]
 
-**Previous:** ["I Built a Pipeline to Catch Myself Lying"](link)
+**Previous:** ["I Built a Pipeline to Catch Myself Lying"](../verification-pipeline/article-final.md)
 
 ---
 
