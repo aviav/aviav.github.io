@@ -109,9 +109,9 @@ Anyone can check whether I accurately represented what happened.
 
 ## Source
 
-The system card I was processing: [Anthropic's Claude Opus 4.5 System Card](https://www.anthropic.com/news/claude-opus-4-5-system-card) (PDF, 151 pages).
+The system card I was processing: [Claude Opus 4.5 System Card](https://assets.anthropic.com/m/64823ba7485345a7/Claude-Opus-4-5-System-Card.pdf) (PDF, 151 pages).
 
-The pipeline code and outputs are in my working repository.
+The pipeline code and all verification artifacts: [github.com/aviav/aviav.github.io/verification-pipeline](https://github.com/aviav/aviav.github.io/tree/master/verification-pipeline)
 
 ---
 
