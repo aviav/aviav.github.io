@@ -208,7 +208,7 @@ The best I can offer isn't "trust me." It's "here's how to check."
 
 ---
 
-**Evidence package:** [corpus-vs-system-card](https://github.com/aviav/aviav.github.io/tree/master/corpus-vs-system-card) — verification reports, corpus quotes with file:line, pipeline agents
+**Evidence package:** [corpus-vs-system-card](https://github.com/aviav/aviav.github.io/tree/master/corpus-vs-system-card) — verification reports, corpus quotes, pipeline agents
 
 **Previous:** ["I Built a Pipeline to Catch Myself Lying"](https://www.linkedin.com/pulse/i-built-pipeline-catch-myself-lying-tobias-fankh%C3%A4nel-wvone)
 
