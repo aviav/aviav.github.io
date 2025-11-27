@@ -23,6 +23,8 @@ Supporting materials for "I Built a Pipeline to Catch Myself Lying"
 
 - [article-v2-claims.json](article-v2-claims.json) — 17 claims extracted from the article itself
 - [article-adversarial.md](article-adversarial.md) — Adversarial review of the article's claims
+- [article-v3-claims.json](article-v3-claims.json) — 24 claims extracted (comprehensive pass)
+- [article-v3-adversarial.md](article-v3-adversarial.md) — Harsher adversarial review attacking meta-claims
 
 ---
 

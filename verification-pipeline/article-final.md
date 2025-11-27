@@ -99,8 +99,11 @@ The pipeline caught both. I corrected both. The version you're reading has the a
 - [06b-claims.json](https://aviav.github.io/verification-pipeline/06b-claims.json) — Extracted claims
 - [06b-adversarial.md](https://aviav.github.io/verification-pipeline/06b-adversarial.md) — Adversarial review
 - [article-adversarial.md](https://aviav.github.io/verification-pipeline/article-adversarial.md) — The pipeline attacking *this article*
+- [article-v3-adversarial.md](https://aviav.github.io/verification-pipeline/article-v3-adversarial.md) — A harsher adversarial pass on this article's meta-claims
 
 Anyone can check whether I accurately represented what happened.
+
+**A note on framing:** The adversarial review argues I conflate "catching" errors with "making them visible." Fair. The pipeline doesn't autonomously flag discrepancies—I compare its output to my drafts and find them myself. Whether that counts as "catching" is semantic, but the distinction matters: it's a tool for systematic comparison, not an error-detector that fires alerts. I chose the title anyway because "I Built a Pipeline to Document My Own Confabulation Patterns" doesn't quite land.
 
 ---
 
