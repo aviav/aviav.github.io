@@ -1,262 +1,240 @@
 # Quotes Reference: Winning Hurts
 
-Verified quotes used in the article, grouped by source.
+All verified quotes in order of appearance.
 
-**Total quotes:** 56
+**Total quotes:** 57
 **Verification status:** All verified against source texts
 
 ---
 
-## Lifton, Robert Jay. *The Nazi Doctors*
+**1.** "A certain number of bottles were provided for each selection and everybody drank"
 
-> "A certain number of bottles were provided for each selection and everybody drank"
+— Lifton, *The Nazi Doctors*
 
-*Source file: lifton-nazi-doctors_part12.md*
+**2.** "severe anxiety, nightmares, tremors, and numerous bodily complaints"
 
-> "severe anxiety, nightmares, tremors, and numerous bodily complaints"
+— Lifton, *The Nazi Doctors*
 
-*Source file: lifton-nazi-doctors_part02.md*
+**3.** "tended to last longer and to be more severe"
 
-> "tended to last longer and to be more severe"
+— Lifton, *The Nazi Doctors*
 
-*Source file: lifton-nazi-doctors_part02.md, line 36*
+**4.** "moral questions about shooting people in that way"
 
-> "moral questions about shooting people in that way"
+— Lifton, *The Nazi Doctors*
 
-*Source file: lifton-nazi-doctors_part02.md*
+**5.** "trembling, anxious laughter, acute embarrassment"
 
-> "Look at the eyes of the men in this Kommando, how deeply shaken they are! These men are finished for the rest of their lives"
+— Milgram, *Obedience to Authority*
 
-*Source file: lifton-nazi-doctors_part10.md*
+**6.** "many obedient subjects heaved sighs of relief, mopped their brows, rubbed their fingers over their eyes, or nervously fumbled cigarettes"
 
-> "so emotionally burdened that I saw suicide as the only way out of these grave conflicts of conscience"
+— Milgram, *Obedience to Authority*
 
-*Source file: lifton-nazi-doctors_part25.md, line 578*
+**7.** "Every time I pressed the button, I died"
 
-> "shaking hands with a mass murderer responsible for the death of four million people"
+— Milgram, *Obedience to Authority*
 
-*Source file: lifton-nazi-doctors_part24.md, line 315*
+**8.** "The laboratory experiment takes an hour; the Nazi calamity unfolded over more than a decade"
 
-> "a broken man"
+— Milgram, *Obedience to Authority*
 
-*Source file: lifton-nazi-doctors_part26.md*
+**9.** "I would guess such internalization can occur only through relatively long processes of indoctrination"
 
-> "knowing that he had killed people, could not live with this"
+— Milgram, *Obedience to Authority*
 
-*Source file: lifton-nazi-doctors_part26.md*
+**10.** "When combat trauma results in domestic violence and pathologic family life, there is an intergenerational transmission of trauma"
 
-> "catatonic"
+— Shay, *Achilles in Vietnam*
 
-*Source file: lifton-nazi-doctors_part19.md, line 517*
+**11.** "I'm horrified at what I turned into. What I was. What I did."
 
-> "didn't want to be in a slaughterhouse"
+— Shay, *Achilles in Vietnam*
 
-*Source file: lifton-nazi-doctors_part19.md*
+**12.** "the essential injuries in combat PTSD are moral and social"
 
-> "treated gently"
+— Shay, *Achilles in Vietnam*
 
-*Source file: lifton-nazi-doctors_part27.md*
+**13.** "Look at the eyes of the men in this Kommando, how deeply shaken they are! These men are finished for the rest of their lives"
 
-> "brought slowly around to doing selections"
+— Lifton, *The Nazi Doctors*
 
-*Source file: lifton-nazi-doctors_part27.md*
+**14.** "I now lost everything, all joy in my work, all initiative, all interest; I was, so to speak, blown out"
 
-> "he shot himself"
+— Arendt, *Eichmann in Jerusalem*
 
-*Source file: lifton-nazi-doctors_part19.md, line 608*
+**15.** "I could not; I could not; I had had enough"
 
-> "I shall never get this picture out of my mind"
+— Arendt, *Eichmann in Jerusalem*
 
-*Source file: lifton-nazi-doctors_part05.md, line 442*
+**16.** "my knees went weak and off I went"
 
-> "Auschwitz self"
+— Arendt, *Eichmann in Jerusalem*
 
-*Source file: lifton-nazi-doctors_part25.md*
+**17.** "I could sit for hours beside my driver without exchanging a word with him"
 
-> "sense of there being no exit"
+— Arendt, *Eichmann in Jerusalem*
 
-*Source file: lifton-nazi-doctors_part04.md, line 467*
+**18.** "so emotionally burdened that I saw suicide as the only way out of these grave conflicts of conscience"
 
-> "Dr. Mengele had the air of a man who took great satisfaction in his work and was pleased with his calling"
+— Lifton, *The Nazi Doctors*
 
-*Source file: lifton-nazi-doctors_part22.md, line 3*
+**19.** "shaking hands with a mass murderer responsible for the death of four million people"
 
-> "harmony with Auschwitz rendered him unique"
+— Lifton, *The Nazi Doctors*
 
-*Source file: lifton-nazi-doctors_part22.md, line 8*
+**20.** "a broken man"
 
-> "passionate in conducting his research"
+— Lifton, *The Nazi Doctors*
 
-*Source file: lifton-nazi-doctors_part22.md, line 380*
+**21.** "knowing that he had killed people, could not live with this"
 
-> "But doubling was indeed required in a man who befriended children to an unusual degree and then drove some of them personally to the gas chamber"
+— Lifton, *The Nazi Doctors*
 
-*Source file: lifton-nazi-doctors_part26.md*
+**22.** "catatonic"
 
-> "despairing, frightened, at times suicidal"
+— Lifton, *The Nazi Doctors*
 
-*Source file: lifton-nazi-doctors_part24.md, line 240*
+**23.** "didn't want to be in a slaughterhouse"
 
-> "lend some nobility to what was a further degrading of a criminal ritual"
+— Lifton, *The Nazi Doctors*
 
-*Source file: lifton-nazi-doctors_part27.md*
+**24.** "treated gently"
 
-> "could never bring himself to resign"
+— Lifton, *The Nazi Doctors*
 
-*Source file: lifton-nazi-doctors_part02.md, line 516*
+**25.** "brought slowly around to doing selections"
 
-> "Doubling is the psychological means by which one invokes the evil potential of the self"
+— Lifton, *The Nazi Doctors*
 
-*Source file: lifton-nazi-doctors_part26.md, line 508*
+**26.** "he shot himself"
 
-> "beamed—he was happy... in a kind of a trance"
+— Lifton, *The Nazi Doctors*
 
-*Source file: lifton-nazi-doctors_part22.md, line 414*
+**27.** "periodically yelling I hate Russia"
 
-> "considered himself like a god in the hospital and embraced his absolute power"
+— Ferguson, *The War of the World*
 
-*Source file: lifton-nazi-doctors_part15.md, line 570*
+**28.** "I shall never get this picture out of my mind"
 
-> "lapsed into rantings about science and religion, he became increasingly an ideological caricature of a caricature"
+— Lifton, *The Nazi Doctors*
 
-*Source file: lifton-nazi-doctors_part24.md, line 244*
+**29.** "Auschwitz self"
 
-> "the fanatic"
+— Lifton, *The Nazi Doctors*
 
-*Source file: lifton-nazi-doctors_part13.md, line 389*
+**30.** "Doubling is the psychological means by which one invokes the evil potential of the self"
 
-> "the right thing to do"
+— Lifton, *The Nazi Doctors*
 
-*Source file: lifton-nazi-doctors_part13.md, line 393*
+**31.** "contrary to nature"
 
-> "evil temper"
+— Graeber, *Debt: The First 5000 Years*
 
-*Source file: lifton-nazi-doctors_part15.md, line 520*
+**32.** "young people are being made into sadists"
+
+— Arendt, *Eichmann in Jerusalem*
+
+**33.** "sense of there being no exit"
+
+— Lifton, *The Nazi Doctors*
+
+**34.** "The veteran's self-respect never fully recovers so long as he is unable to see the enemy as worthy"
+
+— Shay, *Achilles in Vietnam*
+
+**35.** "thoughtful military commanders"
+
+— Shay, *Achilles in Vietnam*
+
+**36.** "degradation of unit effectiveness"
+
+— Shay, *Achilles in Vietnam*
+
+**37.** "If the soldier survives physically, he is certain to be gravely disabled from participation in civilian society"
+
+— Shay, *Achilles in Vietnam*
+
+**38.** "I have seen it"
+
+— Shay, *Achilles in Vietnam*
+
+**39.** "Dr. Mengele had the air of a man who took great satisfaction in his work and was pleased with his calling"
+
+— Lifton, *The Nazi Doctors*
+
+**40.** "harmony with Auschwitz rendered him unique"
+
+— Lifton, *The Nazi Doctors*
+
+**41.** "passionate in conducting his research"
+
+— Lifton, *The Nazi Doctors*
+
+**42.** "beamed—he was happy... in a kind of a trance"
+
+— Lifton, *The Nazi Doctors*
+
+**43.** "But doubling was indeed required in a man who befriended children to an unusual degree and then drove some of them personally to the gas chamber"
+
+— Lifton, *The Nazi Doctors*
+
+**44.** "the fanatic"
+
+— Lifton, *The Nazi Doctors*
+
+**45.** "the right thing to do"
+
+— Lifton, *The Nazi Doctors*
+
+**46.** "considered himself like a god in the hospital and embraced his absolute power"
+
+— Lifton, *The Nazi Doctors*
+
+**47.** "evil temper"
+
+— Lifton, *The Nazi Doctors*
+
+**48.** "despairing, frightened, at times suicidal"
+
+— Lifton, *The Nazi Doctors*
+
+**49.** "lapsed into rantings about science and religion, he became increasingly an ideological caricature of a caricature"
+
+— Lifton, *The Nazi Doctors*
+
+**50.** "language rules carefully contrived to deceive and camouflage"
+
+— Arendt, *Eichmann in Jerusalem*
+
+**51.** "lend some nobility to what was a further degrading of a criminal ritual"
+
+— Lifton, *The Nazi Doctors*
+
+**52.** "fundamentally perverse"
+
+— Graeber, *Debt: The First 5000 Years*
+
+**53.** "could never bring himself to resign"
+
+— Lifton, *The Nazi Doctors*
+
+**54.** "could no longer be trusted"
+
+— Arendt, *Eichmann in Jerusalem*
+
+**55.** "functioned the other way around"
+
+— Arendt, *Eichmann in Jerusalem*
+
+**56.** "No matter whether the cat is black or white, if it catches mice, it's a good cat."
+
+— Historical record
+
+**57.** "Every time I pressed the button, I died"
+
+— Milgram, *Obedience to Authority*
 
 ---
 
-## Milgram, Stanley. *Obedience to Authority*
-
-> "trembling, anxious laughter, acute embarrassment"
-
-*Source file: milgram-obedience_part06.md*
-
-> "many obedient subjects heaved sighs of relief, mopped their brows, rubbed their fingers over their eyes, or nervously fumbled cigarettes"
-
-*Source file: milgram-obedience_part02.md, line 69*
-
-> "Every time I pressed the button, I died"
-
-*Source file: milgram-obedience_part03.md*
-
-> "The laboratory experiment takes an hour; the Nazi calamity unfolded over more than a decade"
-
-*Source file: milgram-obedience_part06.md, line 225*
-
-> "I would guess such internalization can occur only through relatively long processes of indoctrination"
-
-*Source file: milgram-obedience_part06.md, line 229*
-
----
-
-## Shay, Jonathan. *Achilles in Vietnam*
-
-> "When combat trauma results in domestic violence and pathologic family life, there is an intergenerational transmission of trauma"
-
-*Source file: shay-achilles_part09.md*
-
-> "The veteran's self-respect never fully recovers so long as he is unable to see the enemy as worthy"
-
-*Source file: shay-achilles_part06.md*
-
-> "thoughtful military commanders"
-
-*Source file: shay-achilles_part09.md, line 117*
-
-> "degradation of unit effectiveness"
-
-*Source file: shay-achilles_part09.md*
-
-> "If the soldier survives physically, he is certain to be gravely disabled from participation in civilian society"
-
-*Source file: shay-achilles_part09.md*
-
-> "I have seen it"
-
-*Source file: shay-achilles_part08.md*
-
-> "the essential injuries in combat PTSD are moral and social"
-
-*Source file: shay-achilles_part08.md, line 312*
-
-> "I'm horrified at what I turned into. What I was. What I did."
-
-*Source file: shay-achilles_part03.md, line 20*
-
----
-
-## Arendt, Hannah. *Eichmann in Jerusalem*
-
-> "I now lost everything, all joy in my work, all initiative, all interest; I was, so to speak, blown out"
-
-*Source file: arendt-eichmann_part03.md*
-
-> "I could not; I could not; I had had enough"
-
-*Source file: arendt-eichmann_part06.md*
-
-> "my knees went weak and off I went"
-
-*Source file: arendt-eichmann_part06.md*
-
-> "I could sit for hours beside my driver without exchanging a word with him"
-
-*Source file: arendt-eichmann_part06.md*
-
-> "young people are being made into sadists"
-
-*Source file: arendt-eichmann_part06.md*
-
-> "language rules carefully contrived to deceive and camouflage"
-
-*Source file: arendt-eichmann_part07.md*
-
-> "could no longer be trusted"
-
-*Source file: arendt-eichmann_part10.md*
-
-> "functioned the other way around"
-
-*Source file: arendt-eichmann_part06.md, line 31*
-
----
-
-## Ferguson, Niall. *The War of the World*
-
-> "periodically yelling I hate Russia"
-
-*Source file: chapter_60.md*
-
----
-
-## Graeber, David. *Debt: The First 5000 Years*
-
-> "contrary to nature"
-
-*Source file: chapter_13.md*
-
-> "fundamentally perverse"
-
-*Source file: chapter_13.md*
-
----
-
-## Historical record
-
-> "No matter whether the cat is black or white, if it catches mice, it's a good cat."
-
-*Famous Deng Xiaoping quote from 1961 conference, widely attributed in historical record*
-
----
-
-*Generated by matching article quotes against verified source data. See [verification-report.md](verification-report.md) for methodology.*
+*Generated by matching article quotes against verified source data.*
