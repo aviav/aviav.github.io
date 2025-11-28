@@ -31,14 +31,13 @@ Evidence documentation for ["Winning Hurts: Evidence from genocide, combat, and 
 
 ## Sources
 
-- Lifton, Robert Jay. *The Nazi Doctors: Medical Killing and the Psychology of Genocide* (1986)
-- Arendt, Hannah. *Eichmann in Jerusalem: A Report on the Banality of Evil* (1963)
-- Milgram, Stanley. *Obedience to Authority: An Experimental View* (1974)
-- Shay, Jonathan. *Achilles in Vietnam: Combat Trauma and the Undoing of Character* (1994)
-- Graeber, David. *Debt: The First 5000 Years* (2011)
-- Ferguson, Niall. *The Pity of War* (1998)
+- Lifton, Robert Jay. *The Nazi Doctors: Medical Killing and the Psychology of Genocide*
+- Arendt, Hannah. *Eichmann in Jerusalem: A Report on the Banality of Evil*
+- Milgram, Stanley. *Obedience to Authority: An Experimental View*
+- Shay, Jonathan. *Achilles in Vietnam: Combat Trauma and the Undoing of Character*
+- Graeber, David. *Debt: The First 5000 Years*
 
-Plus 7 additional books on empire, complexity, and institutional failure.
+Plus additional books on empire, complexity, and institutional failure.
 
 ---
 
