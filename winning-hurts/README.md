@@ -8,7 +8,7 @@ Evidence documentation for ["Winning Hurts: Evidence from genocide, combat, and 
 
 | File | Description |
 |------|-------------|
-| [quotes-reference.md](quotes-reference.md) | All 59 verified quotes in article order, with sources |
+| [quotes-reference.md](quotes-reference.md) | All 56 verified quotes grouped by source |
 | [verification-report.md](verification-report.md) | How we verified each claim against source books |
 | [evidence-base.md](evidence-base.md) | The 78 evidence items and coding methodology |
 | [adversarial/](adversarial/) | Deep adversarial analysis of key claims |
@@ -23,7 +23,7 @@ Evidence documentation for ["Winning Hurts: Evidence from genocide, combat, and 
 
 **Result**: 92% support, 3% refute, 5% identify conditions.
 
-**Quote verification**: All 59 direct quotes verified against source texts. 57 exact matches, 2 paraphrases (content accurate, minor wording differences). 100% verification rate.
+**Quote verification**: All 56 direct quotes in the article verified against source texts. 54 exact matches, 2 paraphrases (content accurate, minor wording differences). 100% verification rate.
 
 **Adversarial testing**: Key claims stress-tested against the strongest counter-evidence (Mengele's apparent contentment, berserker valorization, adaptation-as-competence arguments).
 
