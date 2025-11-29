@@ -97,9 +97,10 @@ Sample verifications via grep and row extraction - 6 key references confirmed:
 
 ## Links to Source Files
 
-- P4_operators_experience_cost meta: `/home/tf/org/life-system/claude-memory/question-syntheses/P4_operators_experience_cost_meta_synthesis.md`
-- P4_corrosion_when_winning meta: `/home/tf/org/life-system/claude-memory/question-syntheses/P4_corrosion_when_winning_meta_synthesis.md`
-- Bucket CSVs: `/home/tf/org/life-system/claude-memory/question-buckets/question_P4_*.csv`
+Internal working files (not public):
+- P4_operators_experience_cost meta-synthesis
+- P4_corrosion_when_winning meta-synthesis
+- Bucket CSV files for question analysis
 
 ---
 
