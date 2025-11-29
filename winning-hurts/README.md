@@ -1,6 +1,6 @@
 # Evidence: Winning Hurts
 
-Evidence documentation for ["Winning Hurts: Evidence from genocide, combat, and Milgram's lab"](LINKEDIN_URL_HERE).
+Evidence documentation for ["Winning Hurts: Evidence from genocide, combat, and Milgram's lab"](https://www.linkedin.com/pulse/winning-hurts-tobias-fankh%C3%A4nel-e5p9e).
 
 ---
 
