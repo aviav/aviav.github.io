@@ -44,6 +44,9 @@
 **Source**: Ostrom (1990) - precise figure 99.2% given on line 82
 **Status**: VERIFIED - intentional rounding
 
+**Source quote**:
+> "approximately 25,000 opportunities for theft occurred, as contrasted to 200 recorded instances of illegal taking of water. That would give a recorded infraction rate of 0.008."
+
 **Note**: Article uses "99%" here as a readable summary figure. The precise 99.2% (calculated from 200 infractions / 25,000 opportunities = 0.8% infraction rate) is given on line 82. Rounding 99.2% → 99% is standard practice for introductory summaries.
 
 ---
