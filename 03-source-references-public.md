@@ -507,8 +507,10 @@
 **Article text**:
 > "(Institutional Economics, Nobel 2009)"
 
-**Source**: Public record
+**Source**: [Wikipedia: Elinor Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom)
 **Status**: VERIFIED - biographical fact
+
+**Note**: Ostrom won the 2009 Nobel Memorial Prize in Economic Sciences "for her analysis of economic governance, especially the commons."
 
 ---
 
