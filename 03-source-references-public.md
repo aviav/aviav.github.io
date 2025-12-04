@@ -481,6 +481,12 @@
 **Source**: Calculated from 960-1286 CE (Acemoglu)
 **Status**: VERIFIED - arithmetic from sourced dates
 
+**Source quotes**:
+> "In government documents of AD 960, 971, and 982, the number of new names comprise 69 percent, 81 percent, and 65 percent, respectively"
+> "On October 3, 1286, a proposal was made to the Great Council..."
+
+**Note**: 1286 - 960 = 326 years of documented commenda operation.
+
 ---
 
 ## Line 104: Ostrom Design Principles
@@ -799,7 +805,11 @@ On destruction by state criminalization (lines 11-14):
 **Source**: Historical record / Blum (2003)
 **Status**: VERIFIED
 
-**Note**: Calculated from historical dates: 1953 coup to 1979 revolution = 26 years
+**Source quote**:
+> "the overthrow of Mossadegh in August 1953 was much more an American operation than a British one"
+> "For the next 25 years, the Shah of Iran stood fast as the United States' closest ally in the Third World"
+
+**Note**: Calculated from historical dates: 1953 coup to 1979 revolution = 26 years. (Blum says "25 years" writing circa 1978; actual duration to 1979 revolution was 26 years.)
 
 ---
 
