@@ -56,6 +56,9 @@
 **Source**: Elinor Ostrom, *Governing the Commons* (1990), citing A. Davis (1984)
 **Status**: VERIFIED
 
+**Source quote**:
+> "What do they know about what we do? Fisheries Officers are only around here now and then. How do they know what's best for us? We've fished here for a long time and we know what's best for our ground. We know what it can take." (A. Davis 1984, p. 156)
+
 ---
 
 ## Line 48: Hayekian Insight Framing
@@ -122,6 +125,9 @@
 **Source**: Ostrom (1990), citing Picht (1987)
 **Status**: VERIFIED
 
+**Source quote**:
+> "All of the Swiss institutions used to govern commonly owned alpine meadows have one obvious similarity — the appropriators themselves make all major decisions about the use of the CPR. The users/owners are the main decision making unit. They have to decide on all matters of importance and seem to have a considerable degree of autonomy. They can set up statutes and revise them, they can set limits for the use of the pastures and change them, they can adapt their organizational structure.... It can also be said that the user organizations are nested in a set of larger organizations (village, Kantone, Bund) in which they are perceived as legitimate." (Picht 1987, p. 28)
+
 ---
 
 ## Line 56: Three Capacities Interpretation
@@ -182,6 +188,9 @@
 **Source**: David Graeber, *Debt* (2011)
 **Status**: VERIFIED
 
+**Source quote**:
+> "As for the credit partnership, it is also called the 'partnership of the penniless' (sharika al-mafalis). It comes about when two people form a partnership without any capital in order to buy on credit and then sell. It is designated by this name partnership of good reputations because their capital consists of their status and good reputations; for credit is extended only to him who has a good reputation among people."
+
 ---
 
 ## Line 72: Malacca Handshake Quote
@@ -191,6 +200,9 @@
 
 **Source**: Graeber (2011)
 **Status**: VERIFIED
+
+**Source quote**:
+> "The level of trust thereby created between merchants in the great Malay entrepôt Malacca, gateway to the spice islands of Indonesia, was legendary... Yet it was said that its merchants shunned enforceable contracts, preferring to seal transactions 'with a handshake and a glance at heaven.'"
 
 ---
 
@@ -339,6 +351,9 @@
 **Source**: McKean (1986), via Ostrom
 **Status**: VERIFIED
 
+**Source quote**:
+> "In her conclusion, McKean stresses that the long-term success of these locally designed rule systems indicates 'that it is not necessary for regulation of the commons to be imposed coercively from the outside' (McKean 1986, p. 571)."
+
 ---
 
 ## Line 88: Islamic Merchant Networks Duration
@@ -348,6 +363,11 @@
 
 **Source**: Graeber (2011)
 **Status**: VERIFIED
+
+**Source quote**:
+> "For most of the Middle Ages, the economic nerve center of the world economy and the source of its most dramatic financial innovations was neither China nor India, but the West, which, from the perspective of the rest of the world, meant the world of Islam."
+
+**Note**: Duration calculated from c. 800 CE (early Abbasid Caliphate) to c. 1450 CE (late Middle Ages) = ~650 years.
 
 ---
 
@@ -467,6 +487,9 @@
 
 **Source**: Ostrom (1990)
 **Status**: VERIFIED
+
+**Source quote**:
+> "Individuals can be expected to make contingent commitments to follow rules that: define a set of appropriators who are authorized to use a CPR (design principle 1), relate to the specific attributes of the CPR and the community of appropriators using the CPR (design principle 2), are designed, at least in part, by local appropriators (design principle 3), are monitored by individuals accountable to local appropriators (design principle 4), and are sanctioned using graduated punishments (design principle 5)."
 
 ---
 
@@ -654,6 +677,9 @@
 
 **Source**: Acemoglu & Robinson (2012)
 **Status**: VERIFIED
+
+**Source quote**:
+> "On October 3, 1286, a proposal was made to the Great Council that the rules be amended so that nominations had to be confirmed by a majority in the Council of Forty, which was tightly controlled by elite families. This would have given this elite veto power over new nominations to the council... The debates and constitutional amendments of 1286 presaged La Serrata ('The Closure') of Venice."
 
 ---
 
