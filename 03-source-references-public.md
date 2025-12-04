@@ -169,6 +169,9 @@
 **Source**: Lawrence Lessig, *Code and Other Laws of Cyberspace* (via Clark, Saltzer, Reed)
 **Status**: VERIFIED
 
+**Source quote**:
+> "This design embeds a value that encourages innovation in applications for the network. It does so both because it minimizes the costs of developing new applications (you don't need the hassle of asking or clearing permission with anyone) and because it avoids strategic behavior by the network owner."
+
 ---
 
 ## Line 70: Islamic Merchants Reputation Quote
@@ -442,6 +445,9 @@
 **Source**: Acemoglu & Robinson (2012)
 **Status**: VERIFIED
 
+**Source quote**:
+> "Young entrepreneurs who did not have wealth themselves could then get into the trading business by traveling with the merchandise. It was a key channel of upward social mobility."
+
 ---
 
 ## Line 96: Venice 326 Years Duration
@@ -494,6 +500,13 @@
 
 **Source**: James C. Scott, *Seeing Like a State* (1998)
 **Status**: VERIFIED CONCEPTUALLY
+
+**Source quotes**:
+> "For the Greeks and particularly for Plato, episteme and techne represented knowledge of an order completely different from mētis. Technical knowledge, or techne, could be expressed precisely and comprehensively in the form of hard-and-fast rules (not rules of thumb), principles, and propositions."
+
+> "Where mētis is contextual and particular, techne is universal... Techne is settled knowledge... The universality of techne arises from the fact that it is organized analytically into small, explicit, logical steps."
+
+**Note**: Scott's metis/techne distinction runs throughout the book, particularly chapters 9 and 10 (chapter_23 in extraction). The concept is central to his argument about how states destroy local knowledge.
 
 ---
 
@@ -602,6 +615,9 @@
 
 **Source**: Scott (1998)
 **Status**: VERIFIED
+
+**Source quote**:
+> "They did, however, anticipate Nyerere's declared policy of local control and nonauthoritarian cooperation."
 
 ---
 
@@ -752,7 +768,9 @@ On destruction by state criminalization (lines 11-14):
 > "The Shah they installed ruled for 26 years until the 1979 revolution"
 
 **Source**: Historical record / Blum (2003)
-**Status**: VERIFIED - 1953-1979 = 26 years
+**Status**: VERIFIED
+
+**Note**: Calculated from historical dates: 1953 coup to 1979 revolution = 26 years
 
 ---
 
