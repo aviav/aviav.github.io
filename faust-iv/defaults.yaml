@@ -1,0 +1,25 @@
+pdf-engine: xelatex
+toc: true
+toc-depth: 2
+variables:
+  mainfont: "Noto Serif"
+  sansfont: "Noto Sans"
+  monofont: "Noto Sans Mono"
+  CJKmainfont: "Noto Serif CJK SC"
+  geometry: margin=1in
+  documentclass: report
+  toc-title: "Contents"
+  header-includes: |
+    \usepackage{ucharclasses}
+    \newfontfamily\hebrewfont{Noto Serif Hebrew}
+    \newfontfamily\arabicfont{Noto Sans Arabic}
+    \newfontfamily\devanagarifont{Noto Serif Devanagari}
+    \newfontfamily\kannadafont{Noto Serif Kannada}
+    \newfontfamily\cjkfont{Noto Serif CJK SC}
+    \newfontfamily\koreanfont{Noto Serif CJK KR}
+    \setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+    \setTransitionsForArabics{\arabicfont}{\normalfont}
+    \setTransitionsForDevanagari{\devanagarifont}{\normalfont}
+    \setTransitionsFor{Kannada}{\kannadafont}{\normalfont}
+    \setTransitionsForCJK{\cjkfont}{\normalfont}
+    \setTransitionsForKorean{\koreanfont}{\normalfont}
