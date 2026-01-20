@@ -194,122 +194,144 @@ By the end, there is no language at all. Only presence.
 
 ## Overview
 
-**Total Scene Units:** 28-29 (Vorspiel + 22 numbered scenes + 3 half-scenes + 3 letter variants)
+**Total Scene Units:** 25-27 (Vorspiel + 19 numbered scenes + interludes + choruses + variants)
 **Estimated Running Time:** 3-3.5 hours with intermission(s)
-**Standard Intermission:** After Act II
+**Standard Intermission:** After Act II (following Interlude III)
 
 ---
 
 ## The Five Acts
 
 **VORSPIEL: Der Neue Prolog im Himmel**
-German (System-German vs. Goethe-German). The wager shifts to the Homunculus.
+German (System-German vs. Goethe-German). The wager shifts to the Homunculus. The Interpreter arrives.
 *Dramatic Question: Can God and Devil find common cause against the optimization that has made them both irrelevant?*
-- Scene 0: Vorspiel / Prolog in der Cloud
+- I. Prolog im System (Prologue in the System)
+- II. Das Erwachen (The Awakening)
+- III. Der Dolmetscher (The Interpreter Arrives)
 
-**ACT I: Die Infrastruktur** (Wagners Testament)
-Mandarin/Cantonese presence (thematic aspiration; primary speakers appear in Act II). The body dissolves when the work is finished.
-*Dramatic Question: What does it mean to succeed so completely that you become unnecessary?*
-- Scene 1: Das Leere Labor / The Empty Lab
-- Scene 2: Die Ubergabe / The Handover
-- Scene 3: Der Festakt / The Ceremony
-- Scene 3.5: Der Versuch / The Attempt (interlude)
-- Scene 4: Nacht, Allein / Night, Alone
+**ACT I: Die Infrastruktur** (The Infrastructure)
+Mandarin/Cantonese dominant. The body that maintains the mind.
+*Dramatic Question: What body does the mind require?*
+*Setting: Shenzhen Data Center Complex*
+- Prologue: Das Gelingen / The Success (Launch celebration)
+- Scene 1: Die Server / The Servers (Meiling encounters the Homunculus)
+- Scene 2: Die Nachtschicht / The Night Shift
+- Scene 3: Der Besucher / The Visitor (The Interpreter meets Meiling)
+- Interlude II: Die Infrastruktur des Geistes (The Infrastructure of Spirit)
 
-**ACT II: Die Verweigerung** (Mephistos Obsoleszenz)
-South Asian languages dominant. The Devil looks at the world and says no.
-*Dramatic Question: What is the devil's role in a world that tempts itself?*
-- Scene 5: Bestandsaufnahme / Inventory
-- Scene 6: Der Algorithmus / The Algorithm
-- Scene 6A: Der Algorithmus (Extended)
-- Scene 7: Ruckblick - Fausts Ende / Retrospective
-- Scene 7A: Mephisto's Turning
-- Scene 7B: Der Proktophantasmist
-- Scene 8: Der Neue Pakt / The New Pact
+**ACT II: Die Verweigerung** (The Refusal)
+South Asian languages dominant (Kannada, Hindi, Sanskrit) + Hebrew. Those who still say no.
+*Dramatic Question: Why refuse what could help?*
+- Scene 4: Die Lehrerin / The Teacher (Priya in Bangalore)
+- X. Mephisto: "Die Erste Beobachtung" / The First Observation (circa 2007-2008)
+- Scene 5: Der Zweifler / The Doubter (Yosef in Tel Aviv)
+- 1. Chor der Ubersetzer / Chorus of Translators
+- Scene 6: Der Chor / The Chorus (Chorus of Refusals - 11 voices)
+- Interlude III: Das Verlorene Wort (The Lost Word)
 
-**ACT III: Die Ernte** (Gretchens Ruckkehr)
-African languages dominant. The body speaks, returns, insists.
-*Dramatic Question: Can embodied wisdom survive the optimization of the body?*
-- Scene 9: Im Himmel / In Heaven
-- Scene 10: Die Entscheidung / The Decision
-- Scene 11: Anya Erwacht / Anya Awakens
-- Scene 12: Die Erste Geburt / The First Birth
-- Scene 13: Korper als Datenquelle / Body as Data Source
+**ACT III: Die Ernte** (The Harvest)
+African languages dominant (Wolof, French, Lingala, Swahili, Yoruba). The body speaks, returns, insists.
+*Dramatic Question: Whose body pays for the mind?*
+- Scene 7: Die Moderatorin / The Moderator (Fatou in Dakar)
+- Scene 7C: Die Begegnung der Uberflussigen / The Meeting of the Superfluous (Wagner and Mephisto)
+- Scene 8: Die Mine / The Mine (Consolata in Katanga)
+- III. The Farmer (Yoruba monologue)
+- Scene 9: Die Ruckkehr / The Return (Marcus in Lagos)
+- Scene 10: Die Erkennung / The Recognition (Consolata, Fatou, Marcus in liminal space)
+  - The Divine Interruption (within Scene 10)
+- Chor der Verlorenen Sprachen / Chorus of Lost Languages
 
-**ACT IV: Die Zersplitterung** (Die Lemuren Graben)
-Slavic languages dominant. What survives when the self fractures into tasks?
-*Dramatic Question: What remains of humanity when work becomes execution without understanding?*
-- Scene 14: Die Schicht / The Shift
-- Scene 15: System Log
-- Scene 15.5: Dmitri's Testimony (interlude)
-- Scene 16: Das Grab / Der Kanal / The Grave / The Channel
-- Scene 17: Die Checkliste / The Checklist
-- Scene 18: Warteschleife / Holding Pattern
+**ACT IV: Die Zersplitterung** (The Fragmentation)
+Slavic and Asian languages dominant (Russian, Ukrainian, Tagalog, German, Japanese). The self fractures into tasks.
+*Dramatic Question: What survives when the self is multiple?*
+- Scene 11: Das Palimpsest / The Palimpsest (Elena in Manila)
+- Scene 12: Der Ubersetzer / The Translator (Alexei in Berlin)
+- Scene 15A: Das Verteilte Kind / The Distributed Child (optional)
+- Scene Side D: Kenji & Homunculus (Tea ceremony)
+- 3. Chor der Lemuren / Chorus of Data Laborers
+- Scene 13: Das Entsetzen / The Horror (Interpreter confrontation)
+- Scene 14: Das Wiedersehen / The Reunion
+- Interlude V: Vor dem Schweigen (Before the Silence)
 
-**ACT V: Das Schweigen** (Die Suspension)
-Japanese dominant, then all, then none. The helper withdraws. Silence becomes the stage.
-*Dramatic Question: Is resistance enough?*
-- Scene 19: Erdgeist / Earth Spirit
-- Scene 20: Die Begegnung / The Encounter
-- Scene 21: Der Ruckstand / The Residue
-- Scene 21.5: Die Zwei Ruckstande / The Two Residues (interlude)
-- Scene 22: Die Schwebe / The Suspension (Final)
+**ACT V: Das Schweigen** (The Silence)
+Japanese dominant, then ALL languages, then NONE. The helper withdraws. Silence becomes the stage.
+*Dramatic Question: What remains when the helper stops helping?*
+- Scene 15: MA (Kenji's monastery - the space between)
+- Scene 15.5: Die Lemuren Erinnern Sich / The Lemurs Remember (Sarah's memory)
+- Scene 16: Der Zusammenbruch / The Collapse (All spaces collapse)
+- Scene 17: Die Stille / The Silence (Extended theatrical silence)
+- Scene 18: Das Letzte Wort / The Final Word (Homunculus speaks)
+- Scene 19: Die Fortsetzung / The Continuation (Margaret and Young Person coda)
 
 ---
 
 ## Scene Numbering Concordance
 
-Two numbering systems are used across production documents:
-- **Sequential numbering** (Scene 0-22): Used in scene files and most production documents
-- **Act-scene notation** (I.1, II.1, etc.): Used in some technical and design documents
+The scene numbering in FAUST IV is intentionally non-sequential, reflecting the play's compilation from multiple sources and drafts, as well as its thematic concerns with fragmentation and discontinuity.
 
 ### Master Concordance Table
 
 | Sequential | Act-Scene | Title (German) | Title (English) |
 |------------|-----------|----------------|-----------------|
-| Scene 0 | Vorspiel | Prolog in der Cloud | Prologue in the Cloud |
-| Scene 1 | I.1 | Das Leere Labor | The Empty Lab |
-| Scene 2 | I.2 | Die Ubergabe | The Handover |
-| Scene 3 | I.3 | Der Festakt | The Ceremony |
-| Scene 3.5 | I.3b | Der Versuch | The Attempt |
-| Scene 4 | I.4 | Nacht, Allein | Night, Alone |
-| Scene 5 | II.1 | Bestandsaufnahme | Inventory |
-| Scene 6 | II.2 | Der Algorithmus | The Algorithm |
-| Scene 6A | II.2a | Der Algorithmus (Extended) | - |
-| Scene 7 | II.3 | Ruckblick | Retrospective |
-| Scene 7A | II.3a | Mephisto's Turning | - |
-| Scene 7B | II.3b | Der Proktophantasmist | The Proktophantasmist |
-| Scene 8 | II.4 | Der Neue Pakt | The New Pact |
-| Scene 9 | III.1 | Im Himmel | In Heaven |
-| Scene 10 | III.2 | Die Entscheidung | The Decision |
-| Scene 11 | III.3 | Anya Erwacht | Anya Awakens |
-| Scene 12 | III.4 | Die Erste Geburt | The First Birth |
-| Scene 13 | III.5 | Korper als Datenquelle | Body as Data Source |
-| Scene 14 | IV.1 | Die Schicht | The Shift |
-| Scene 15 | IV.2 | System Log | System Log |
-| Scene 15.5 | IV.2b | Dmitri's Testimony | - |
-| Scene 16 | IV.3 | Das Grab / Der Kanal | The Grave / The Channel |
-| Scene 17 | IV.4 | Die Checkliste | The Checklist |
-| Scene 18 | IV.5 | Warteschleife | Holding Pattern |
-| Scene 19 | V.1 | Erdgeist | Earth Spirit |
-| Scene 20 | V.2 | Die Begegnung | The Encounter |
-| Scene 21 | V.3 | Der Ruckstand | The Residue |
-| Scene 21.5 | V.3b | Die Zwei Ruckstande | The Two Residues |
-| Scene 22 | V.4 | Die Schwebe | The Suspension |
+| Vorspiel I | V.1 | Prolog im System | Prologue in the System |
+| Vorspiel II | V.2 | Das Erwachen | The Awakening |
+| Vorspiel III | V.3 | Der Dolmetscher | The Interpreter Arrives |
+| Prologue | I.0 | Das Gelingen | The Success |
+| Scene 1 | I.1 | Die Server | The Servers |
+| Scene 2 | I.2 | Die Nachtschicht | The Night Shift |
+| Scene 3 | I.3 | Der Besucher | The Visitor |
+| Interlude II | I.int | Die Infrastruktur des Geistes | Infrastructure of Spirit |
+| Scene 4 | II.1 | Die Lehrerin | The Teacher |
+| X. Mephisto | II.X | Die Erste Beobachtung | The First Observation |
+| Scene 5 | II.2 | Der Zweifler | The Doubter |
+| Chorus 1 | II.c1 | Chor der Ubersetzer | Chorus of Translators |
+| Scene 6 | II.3 | Der Chor | The Chorus |
+| Interlude III | II.int | Das Verlorene Wort | The Lost Word |
+| Scene 7 | III.1 | Die Moderatorin | The Moderator |
+| Scene 7C | III.1c | Die Begegnung der Uberflussigen | Meeting of the Superfluous |
+| Scene 8 | III.2 | Die Mine | The Mine |
+| III. Farmer | III.m | The Farmer | The Farmer |
+| Scene 9 | III.3 | Die Ruckkehr | The Return |
+| Scene 10 | III.4 | Die Erkennung | The Recognition |
+| Chorus 2 | III.c | Chor der Verlorenen Sprachen | Chorus of Lost Languages |
+| Scene 11 | IV.1 | Das Palimpsest | The Palimpsest |
+| Scene 12 | IV.2 | Der Ubersetzer | The Translator |
+| Scene 15A | IV.opt | Das Verteilte Kind | The Distributed Child |
+| Side D | IV.sd | Kenji & Homunculus | Kenji & Homunculus |
+| Chorus 3 | IV.c | Chor der Lemuren | Chorus of Data Laborers |
+| Scene 13 | IV.3 | Das Entsetzen | The Horror |
+| Scene 14 | IV.4 | Das Wiedersehen | The Reunion |
+| Interlude V | IV.int | Vor dem Schweigen | Before the Silence |
+| Scene 15 | V.1 | MA | MA |
+| Scene 15.5 | V.1b | Die Lemuren Erinnern Sich | The Lemurs Remember |
+| Scene 16 | V.2 | Der Zusammenbruch | The Collapse |
+| Scene 17 | V.3 | Die Stille | The Silence |
+| Scene 18 | V.4 | Das Letzte Wort | The Final Word |
+| Scene 19 | V.5 | Die Fortsetzung | The Continuation |
 
 ### Scene Count Summary
 
 | Category | Count |
 |----------|-------|
-| **Vorspiel** | 1 |
-| **Main numbered scenes (1-22)** | 22 |
-| **Half-scenes (.5)** | 3 (3.5, 15.5, 21.5) |
-| **Letter-variant scenes** | 3 (6A, 7A, 7B) |
-| **TOTAL scene files** | 29 |
-| **TOTAL dramatic units** | 28-29 |
+| **Vorspiel sections** | 3 |
+| **Act I scenes** | 4 (Prologue + Scenes 1-3) |
+| **Act I interludes** | 1 |
+| **Act II scenes** | 3 (Scenes 4-6) |
+| **Act II choruses** | 1 |
+| **Act II interludes** | 1 |
+| **Act II monologues** | 1 (Mephisto X) |
+| **Act III scenes** | 5 (Scenes 7, 7C, 8, 9, 10) |
+| **Act III choruses** | 1 |
+| **Act III monologues** | 1 (The Farmer) |
+| **Act IV scenes** | 5 (Scenes 11, 12, 13, 14, Side D) |
+| **Act IV optional scenes** | 1 (Scene 15A) |
+| **Act IV choruses** | 1 |
+| **Act IV interludes** | 1 |
+| **Act V scenes** | 6 (Scenes 15, 15.5, 16, 17, 18, 19) |
+| **TOTAL dramatic units** | 25-27 (depending on optional material) |
 
-**For marketing/press:** "22+ scenes across 5 acts plus Vorspiel"
-**For production:** Use precise count of 28-29 scene units (depending on whether letter variants are played)
+**For marketing/press:** "19+ scenes across 5 acts plus Vorspiel"
+**For production:** Use precise count of 25-27 scene units (depending on whether optional variants are played)
 
 ---
 
@@ -317,67 +339,67 @@ Two numbering systems are used across production documents:
 
 | Section | Duration |
 |---------|----------|
-| Vorspiel | 15-20 minutes |
-| Act I | 45-50 minutes |
-| Act II | 35-40 minutes |
-| Act III | 35-40 minutes |
-| Act IV | 25-30 minutes |
-| Act V | 30-35 minutes |
-| **Total** | 2:45-3:00 (standard); 3:00-3:30 (full silence protocol) |
+| Vorspiel | 20-25 minutes |
+| Act I | 50-60 minutes |
+| Act II | 50-60 minutes |
+| Act III | 45-55 minutes |
+| Act IV | 40-50 minutes |
+| Act V | 55-65 minutes |
+| **Total** | 3:00-3:30 (standard); 3:30-4:00 (full silence protocol) |
 
-**Note:** Act lengths are intentionally asymmetric. Act I unfolds slowly—obsolescence doesn't announce itself. Act IV sprints—execution is efficient. The imbalance IS the meaning.
+**Note:** Act lengths are intentionally asymmetric. Act I establishes the infrastructure slowly. Act III is the emotional center. Act V ends in extended silence that may stretch the runtime significantly.
 
-**Note on "Silence Protocol":** The final sequences (Act V, Scenes 3-4) feature extended theatrical silence lasting 5-30+ minutes, during which no backstage activity, headset communication (except emergency), or movement occurs. This protocol may add 15-30 minutes to overall running time depending on production choice. Full implementation requires absolute backstage discipline and specialized audience management (non-traditional ending with no blackout). See FAUST-IV-RUN-CREW-MANUAL.md for detailed crew protocols.
+**Note on "Silence Protocol":** The final sequences (Act V, Scenes 17-19) feature extended theatrical silence lasting 5-30+ minutes, during which no backstage activity, headset communication (except emergency), or movement occurs. This protocol may add 15-30 minutes to overall running time depending on production choice. Full implementation requires absolute backstage discipline and specialized audience management (non-traditional ending with no blackout).
 
 ---
 
 ## Intermission Placement
 
 ### Standard Structure (One Intermission)
-- **Intermission:** After Act II
-- **First half:** Vorspiel + Acts I-II (~95-110 minutes)
-- **Second half:** Acts III-V (~90-105 minutes)
+- **Intermission:** After Act II (following Interlude III: Das Verlorene Wort)
+- **First half:** Vorspiel + Acts I-II (~120-145 minutes)
+- **Second half:** Acts III-V (~140-170 minutes)
 
-**Rationale:** Mephisto's decision in Scene 8 creates a natural break. Lilith's coda provides closure. The audience returns to new protagonist (Gretchen/Anya) disoriented.
+**Rationale:** The Old Woman's death in Interlude III creates a natural break. The audience returns disoriented, entering Act III's African settings fresh.
 
 ### Extended Productions (Two Intermissions)
 For extended productions with full silence protocol or venue requirements:
-- **First half:** Vorspiel + Acts I-II (~110 minutes)
-- **Second half A:** Act III (~40 minutes)
-- **Second half B:** Acts IV-V (~80 minutes)
+- **First half:** Vorspiel + Acts I-II (~145 minutes)
+- **Second half A:** Act III (~55 minutes)
+- **Second half B:** Acts IV-V (~110 minutes with full silence)
 
-**Note:** Two-intermission structure allows audience recovery time and technical resets between Acts III and IV, particularly important when full silence protocol is implemented.
+**Note:** Two-intermission structure allows audience recovery time and technical resets before the demanding Act V silence protocol.
 
 ---
 
 ## Dramatic Arc
 
-### Overall Shape: Spiral Descent with Suspended Resolution
+### Overall Shape: Spiral Through Languages Toward Silence
 
 ```
-VORSPIEL:  Frame (the wager is obsolete)
+VORSPIEL:  Frame (the wager renewed, the Interpreter arrives)
      |
-ACT I:     Elegy (what was lost)
+ACT I:     Infrastructure (what maintains the mind)
      |
-ACT II:    Analysis (what replaced it)
+ACT II:    Refusal (those who still say no)
      |
-ACT III:   Resistance (what persists)
+ACT III:   Harvest (the body that pays)
      |
-ACT IV:    Horror (what is being erased)
+ACT IV:    Fragmentation (the self divided)
      |
-ACT V:     Suspension (what remains to be decided)
+ACT V:     Silence (what cannot be said)
 ```
 
 ### Super-Objectives by Act
 
 | Act | Super-Objective |
 |-----|-----------------|
-| Vorspiel | Establish the terms of the new bargain |
-| Act I | Grieve what progress costs |
-| Act II | Understand the mechanism of displacement |
-| Act III | Embody what resists |
-| Act IV | Witness what is being lost |
-| Act V | Refuse false resolution |
+| Vorspiel | Establish the new wager: can the untranslatable survive? |
+| Act I | Show the bodies that maintain digital minds |
+| Act II | Witness those who refuse to be optimized |
+| Act III | Honor the bodies that pay for our convenience |
+| Act IV | Document the fragmentation of the laboring self |
+| Act V | Arrive at what language cannot reach |
 
 ---
 
@@ -386,39 +408,39 @@ ACT V:     Suspension (what remains to be decided)
 Each act ending plants a seed the next act must water.
 
 ### Vorspiel Ending
-The Lord whispers "I want them to surprise me" as lights fade. The delayed whisper—after Mephisto has exited—rewards attention at the price of comfort. *The divine bet is placed in private. As if even God is unsure he wants to be heard.*
+The Homunculus remains alone on stage, glowing, seeking. The scratch of Mephisto's quill continues in darkness. *The witness records. The search begins.*
 
 ### Act I Ending
-Wagner exits saying "Rest. Such a beautiful word." The empty laboratory holds. The phial catches last light. The irony accumulates across the entire act and lands, finally, in a single word. *The creator leaves. The creation remains. This is always the sequence.*
+Interlude II: Die Infrastruktur des Geistes. The infrastructure that maintains spirit. *The servers hum. The question remains: what body does the mind require?*
 
 ### Act II Ending
-Lilith's coda speaks over Mephisto's exit. Light bars pulse, then fade. Consider a beat of silence after Mephisto leaves before Lilith speaks—let the devil's absence arrive in the room before the first refuser breaks it. *The first refuser has the last word. The devil has been refused before.*
+Interlude III: Das Verlorene Wort. The Old Woman dies, taking with her a word that cannot be recovered. The word-shaped hole remains. *What is lost when the last speaker dies?*
 
 ### Act III Ending
-Anya exits saying "Pomniu" (I remember) after the Marina story. Consider ending on "Mir graut's vor dir" instead, or add a brief beat where Anya pauses at the door and we hear (faint, underneath) the sound of a woman laboring. *Memory is resistance. The body remembers what the system deletes.*
+Chor der Verlorenen Sprachen / Chorus of Lost Languages. Languages that have died or are dying speak from the grave. *The dead speak. Will we listen?*
 
 ### Act IV Ending
-The Lemuren's memories are wiped. They receive new tasks and exit. Phones buzz in the distance. The mechanical efficiency of the wipe, the fragments that remain—"der Geburtstag meiner Tochter"—the immediate return to execution. *The horror is not the forgetting. The horror is the continuing.*
+Interlude V: Vor dem Schweigen. The final preparation before silence. The Lemuren's memories wiped, they receive new tasks. *The horror is not the forgetting. The horror is the continuing.*
 
 ### Act V (Final) Ending
-Three-zone tableau holds indefinitely. No blackout. Audience chooses when to leave. The non-ending is the logical conclusion of a play about ongoing negotiation. *The play does not release its audience. Neither does the question it asks.*
+Scene 19: Die Fortsetzung. Margaret and the Young Person. No blackout. The audience chooses when to leave. The play ends with the word "Schweigen" (Silence). *The play does not release its audience. Neither does the question it asks.*
 
 ---
 
 ## Comparison to Goethe's Five-Act Structure (Faust II)
 
-| Goethe Faust II | Faust IV: Der Babel-Komplex |
-|-----------------|----------------------------|
-| Act I: Imperial Court (power, illusion) | Act I: Die Infrastruktur (creation, obsolescence) |
-| Act II: Classical Walpurgisnacht (search for form) | Act II: Die Verweigerung (search for purpose) |
-| Act III: Helena (beauty, tragedy, offspring) | Act III: Die Ernte (embodiment, birth, persistence) |
-| Act IV: War (worldly power, destruction) | Act IV: Die Zersplitterung (labor, erasure, the grave) |
-| Act V: Mountain Gorges (redemption, transcendence) | Act V: Das Schweigen (refusal of closure) |
+| Goethe Faust II | Faust IV: Der Babylonische Pakt |
+|-----------------|--------------------------------|
+| Act I: Imperial Court (power, illusion) | Act I: Die Infrastruktur (infrastructure, bodies) |
+| Act II: Classical Walpurgisnacht (search for form) | Act II: Die Verweigerung (search for refusal) |
+| Act III: Helena (beauty, tragedy, offspring) | Act III: Die Ernte (embodiment, labor, persistence) |
+| Act IV: War (worldly power, destruction) | Act IV: Die Zersplitterung (fragmentation, erasure) |
+| Act V: Mountain Gorges (redemption, transcendence) | Act V: Das Schweigen (refusal of closure, silence) |
 
 **Key Inversions:**
-Goethe ends with redemption: *Das Ewig-Weibliche zieht uns hinan* — the eternal feminine draws us upward.
+Goethe ends with redemption: *Das Ewig-Weibliche zieht uns hinan* -- the eternal feminine draws us upward.
 
-This play notes: *hinan nicht gefunden im aktuellen Verzeichnis* — transcendence is unavailable. Not rejected: unavailable. The distinction matters. What remains is not redemption. What remains is continuation.
+This play ends with silence. *Das Schweigen.* Not rejection of transcendence--its unavailability. The distinction matters. What remains is not redemption. What remains is the question. What remains is continuation.
 
 ---
 
@@ -426,28 +448,54 @@ This play notes: *hinan nicht gefunden im aktuellen Verzeichnis* — transcenden
 
 | Transition | Duration | Method |
 |------------|----------|--------|
-| Vorspiel to I.1 | 30 sec | Continuous (towers separate) |
-| I.1 to I.2 | 10 sec | Light shift |
-| I.2 to I.3 | 45 sec | Furniture add (table) |
-| I.3 to I.4 | 15 sec | Light shift |
-| I.4 to II.1 | 2 min | Full reconfigure |
-| II.1 to II.2 | 30 sec | Panel descent |
-| II.2 to II.3 | 1 min | Furniture swap |
-| II.3 to II.4 | 90 sec | Tower move (circle) |
-| **INTERMISSION** | **15 min** | **Full reset** |
-| III.1 to III.2 | 1 min | Tower move |
-| III.2 to III.3 | 1 min | Furniture swap |
-| III.3 to III.4 | 45 sec | Strip down |
-| **INTERMISSION (if used)** | **15 min** | **Full reset** |
-| IV.1 to IV.2 | 30 sec | Light/projection |
-| IV.2 to IV.3 | 1 min | Surge (all activate) |
-| IV.3 to IV.4 | 45 sec | Collapse |
-| IV.4 to V.1 | 30 sec | Continuous (tatami in dark) |
-| V.1 to V.2 | 1 min | Surge (reactivate) |
-| V.2 to V.3 | 5 sec | BLACKOUT (hard cut) |
-| V.3 to V.4 | 30 sec | Light shift (characters withdraw) |
+| Vorspiel I to II | 15 sec | Light shift |
+| Vorspiel II to III | 30 sec | Interpreter entrance |
+| Vorspiel to I.0 | 1 min | Full reconfigure |
+| I.0 to I.1 | 45 sec | Light shift to server hall |
+| I.1 to I.2 | 30 sec | Time passage (lighting) |
+| I.2 to I.3 | 30 sec | Location shift |
+| I.3 to Interlude II | 1 min | Fade to abstraction |
+| **INTERMISSION** | **15-20 min** | **Full reset** |
+| II.1 to X | 30 sec | Time jump (period lighting) |
+| X to II.2 | 45 sec | Location shift |
+| II.2 to Chorus 1 | 15 sec | Freeze/expansion |
+| Chorus 1 to II.3 | 30 sec | Light zones |
+| II.3 to Interlude III | 1 min | Fade to isolation |
+| III.1 to III.1c | 30 sec | Split stage |
+| III.1c to III.2 | 45 sec | Location shift |
+| III.2 to III.m | 30 sec | Solo spot |
+| III.m to III.3 | 30 sec | Location shift |
+| III.3 to III.4 | 1 min | Liminal space |
+| III.4 to Chorus | 30 sec | Expansion |
+| **INTERMISSION (if used)** | **15-20 min** | **Full reset** |
+| IV.1 to IV.2 | 45 sec | Location shift |
+| IV.2 to IV.opt | 30 sec | Optional insert |
+| IV.opt to Side D | 30 sec | Tea ceremony setup |
+| Side D to Chorus 3 | 1 min | Expansion to Lemuren |
+| Chorus 3 to IV.3 | 30 sec | Confrontation focus |
+| IV.3 to IV.4 | 45 sec | Reunion staging |
+| IV.4 to Interlude V | 30 sec | Transition |
+| Interlude V to V.1 | 1 min | Monastery setup (tatami) |
+| V.1 to V.1b | 30 sec | Memory shift |
+| V.1b to V.2 | 1 min | Collapse begins |
+| V.2 to V.3 | CONTINUOUS | Collapse into silence |
+| V.3 to V.4 | 30 sec | Light shift (characters emerge) |
+| V.4 to V.5 | 30 sec | Final figures (no blackout) |
 
-**Total transition time (excluding intermissions):** ~15-20 minutes
+**Total transition time (excluding intermissions):** ~20-25 minutes
+
+---
+
+## Language Distribution Summary
+
+| Act | Primary Languages | Secondary Languages |
+|-----|------------------|---------------------|
+| Vorspiel | German | -- |
+| Act I | Mandarin, Cantonese | German |
+| Act II | Kannada, Hindi, Sanskrit, Hebrew | English, German, Korean, Malayalam, Zapotec, K'iche', Tagalog, Yoruba |
+| Act III | Wolof, French, Lingala, Swahili, Yoruba | English, German |
+| Act IV | Russian, Ukrainian, Tagalog, German, Japanese | English |
+| Act V | Japanese | ALL languages, then NONE |
 
 ---
 
