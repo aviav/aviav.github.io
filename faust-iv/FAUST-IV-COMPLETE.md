@@ -122,7 +122,7 @@ By the end, there is no language at all. Only presence.
 *Voice: Speaks the least; presence over words. Lingala songs. Minimal dialogue; coached pronunciation acceptable.*
 *Requires native Lingala speaker. (Casting fallback: Pronunciation may be coached; native-speaker *presence* is non-negotiable.)*
 
-**ELENA** *(Tagalog, English, German academic)* --- The Lemur Who Woke. Manila. LEMUR_INSTANCE_7.3.3 from FAUST III, now escaped. The former German literature teacher, now teaching Tagalog to children whose parents speak only English. Something in the forgetting broke. Now she is a walking palimpsest---no longer sure which words are hers. *Startles easily. The German comes before she can stop it.*
+**ELENA** *(Tagalog, English, German academic)* --- The Lemur Who Woke. Manila. Formerly LEMUR_INSTANCE_7.3.3, now escaped. The former German literature teacher, now teaching Tagalog to children whose parents speak only English. Something in the forgetting broke. Now she is a walking palimpsest---no longer sure which words are hers. *Startles easily. The German comes before she can stop it.*
 *Voice: German comes involuntarily; she does not control it. Tagalog is her chosen identity, present tense; English is safe harbor, neutral; German is past, imposed, erupting. The eruptions are traumatic return---literature that has colonized a body. Physically destabilizing: the body reacts before the mind. Trigger: When Elena speaks about her students (especially when discussing language/identity), German emerges unbidden. Example: "I want them to feel safe in---*Sicherheit, nein, das ist nicht---*" The switch happens mid-sentence, mid-thought, as involuntary as a reflex. She catches herself but cannot prevent it.*
 *Requires Tagalog speaker with German fluency.*
 
@@ -173,15 +173,15 @@ By the end, there is no language at all. Only presence.
 *Voice: Speaks minimally, in administrative precision mixed with genuine compassion. Not sung; not fully embodied on stage. May appear as: whispered voice-over during appeals sequences, or silent administrative figure (filing, processing, gesturing). When speaking: formal register, bureaucratic vocabulary, but with warmth underneath. (Stage integration: Present during appeals scenes in Acts III-IV; vocal interventions are administrative rulings that contain unexpected kindness.)*
 
 **FAUST** --- Recorded voice only. Still corrupted, still glitching. *"Für tausend Menschen Raum er---er---er---"*
-*Voice: German (corrupted). Goethe quotes that glitch and loop. The corrupted loop is the character. (Appears: Only as recorded/archived voice played back during FAUST III-memory sequences in Acts I-II; no live stage presence.)*
+*Voice: German (corrupted). Goethe quotes that glitch and loop. The corrupted loop is the character. (Appears: Only as recorded/archived voice played back during archived memory sequences in Acts I-II; no live stage presence.)*
 
 ---
 
 ## Returning
 
-**ANYA / GRETCHEN** *(Russian, German, English)* --- Soul incarnate. Saved, then chose to return. Birth doula. The body's wisdom. Alexei's sister. Her fate between FAUST III and FAUST IV: to be revealed. *Moves through rooms like she's already holding someone.*
+**ANYA / GRETCHEN** *(Russian, German, English)* --- Soul incarnate. Saved, then chose to return. Birth doula. The body's wisdom. Alexei's sister. Her fate in the intervening years: to be revealed. *Moves through rooms like she's already holding someone.*
 *Voice: Russian lullabies, birth-room whispers require native embodiment. The particular Russian quality of toska (spiritual anguish without cause) cannot be coached; must be felt.*
-*Requires native Russian speaker. (Note for dramaturg: Audiences familiar with FAUST III will recognize Anya's return as redemption arc. For new audiences: Anya enters as mysterious figure with profound spiritual authority; her history is revealed through dialogue, not prior knowledge.)*
+*Requires native Russian speaker. (Note for dramaturg: Anya enters as mysterious figure with profound spiritual authority; her history is revealed through dialogue, not prior knowledge.)*
 
 **WAGNER** --- Creator of the Homunculus. Old, now older. If appearing: a ghost, a voice, a memory.
 
@@ -500,9 +500,9 @@ This is how a play gets written. This is how a lot of things get written.
 
 ---
 
-*Die Buhne: fast leer. Keine Server mehr sichtbar---nur das Licht selbst scheint intelligent, reagiert, atmet. Das Summen von FAUST III ist verstummt. An seiner Stelle: Stille, die zuhort.*
+*Die Buhne: fast leer. Keine Server mehr sichtbar---nur das Licht selbst scheint intelligent, reagiert, atmet. Das Summen der alten Maschinen ist verstummt. An seiner Stelle: Stille, die zuhort.*
 
-*The stage: nearly empty. No servers visible anymore---only the light itself seems intelligent, responsive, breathing. The Hum from FAUST III has gone silent. In its place: silence that listens.*
+*The stage: nearly empty. No servers visible anymore---only the light itself seems intelligent, responsive, breathing. The Hum of the old machines has gone silent. In its place: silence that listens.*
 
 *MEPHISTO sitzt an einem kleinen Schreibtisch, Buhne rechts. Vor ihm: Stapel handgeschriebener Notizen, ein Ledergebundenes Register, Federkiel, Tintenfass. Kein Tablet mehr. Er schreibt.*
 
