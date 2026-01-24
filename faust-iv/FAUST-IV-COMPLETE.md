@@ -4163,7 +4163,7 @@ Then why don't you teach it to us?
 
 *(Sanskrit, almost to herself, her lips barely moving)*
 
-कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
+कर्मण्येवाधिकारस्ते मा फलेषु कदाचन`\danda`{=latex}
 
 *Karmanye vadhikaraste ma phaleshu kadachana.*
 
@@ -4188,7 +4188,7 @@ It falls and falls and falls--and believes the ground will catch it.
 
 *(she picks up the marker again, rolls it between her fingers)*
 
-लेकिन trust... trust dangerous है। जब फंक्शन खुद को बिना सीमा के विश्वास करता है।
+लेकिन trust... trust dangerous है`\danda`{=latex} जब फंक्शन खुद को बिना सीमा के विश्वास करता है`\danda`{=latex}
 
 *Lekin trust... trust dangerous hai. When the function trusts itself without limit.*
 *(Hindi: "LAY-kin trust... trust DANE-jer-us hai")*
@@ -4337,7 +4337,7 @@ Neenu kaliyalu bahudu. Aadare neenu anubhavisalu saadya illa.
 
 *(Sanskrit, the oldest words she knows, her voice dropping to near-inaudibility)*
 
-न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।
+न हि ज्ञानेन सदृशं पवित्रमिह विद्यते`\danda`{=latex}
 
 *Na hi jnanena sadrisham pavitram iha vidyate.*
 *(Pronunciation: "nah hee NYAH-nay-nah SAH-dree-shahm PAH-vee-trahm ee-HAH vid-YAH-tay")*
@@ -5525,7 +5525,7 @@ I... register a temporal gap.
 **PRIYA:**
 *(Sanskrit, very quiet--the oldest words, the first words)*
 
-तत् त्वम् असि।
+तत् त्वम् असि`\danda`{=latex}
 
 *Tat tvam asi.*
 *That art thou.*
@@ -5596,7 +5596,7 @@ You stay. In the not-parsing. In the not-understanding.
 
 *(Sanskrit, blessing)*
 
-असतो मा सद्गमय।
+असतो मा सद्गमय`\danda`{=latex}
 
 *Asato ma sadgamaya.*
 *Lead me from the unreal to the real.*

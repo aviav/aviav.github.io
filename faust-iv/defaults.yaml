@@ -16,9 +16,10 @@ variables:
     \newfontfamily\latinfont{Noto Serif}
     \newfontfamily\hebrewfont[Script=Hebrew]{Noto Serif Hebrew}
     \newfontfamily\arabicfont[Script=Arabic]{Noto Sans Arabic}
-    \newfontfamily\devanagarifont{Noto Serif Devanagari}
-    \newfontfamily\kannadafont{Noto Serif Kannada}
-    \newfontfamily\malayalamfont{Noto Serif Malayalam}
+    \newfontfamily\devanagarifont[Script=Devanagari]{Noto Serif Devanagari}
+    \newcommand{\danda}{{\devanagarifont।}}
+    \newfontfamily\kannadafont[Script=Kannada]{Noto Serif Kannada}
+    \newfontfamily\malayalamfont[Script=Malayalam]{Noto Serif Malayalam}
     \newfontfamily\ipafont{Noto Sans}
     \setTransitionsFor{GeneralPunctuation}{\latinfont}{\normalfont}
     \setTransitionsFor{LatinExtendedAdditional}{\latinfont}{\normalfont}
@@ -28,6 +29,7 @@ variables:
     \setTransitionsFor{CyrillicSupplement}{\latinfont}{\normalfont}
     \setTransitionsFor{Hebrew}{\hebrewfont\setRTL}{\setLTR\normalfont}
     \setTransitionsForArabics{\arabicfont\setRTL}{\setLTR\normalfont}
+    \setTransitionsFor{Devanagari}{\devanagarifont}{\normalfont}
     \setTransitionsForDevanagari{\devanagarifont}{\normalfont}
     \setTransitionsFor{Kannada}{\kannadafont}{\normalfont}
     \setTransitionsFor{Malayalam}{\malayalamfont}{\normalfont}
