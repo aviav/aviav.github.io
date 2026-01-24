@@ -1,7 +1,7 @@
 #!/bin/bash
 # FAUST IV PDF Generation
-# Requires: pandoc, texlive-xetex, texlive-langcjk, texlive-langchinese
-# Noto fonts for multilingual support
+# Requires: pandoc 3.x, texlive-xetex, texlive-langcjk
+# Fonts: Noto Sans CJK SC, Noto Serif (Hebrew, Devanagari, Kannada, Malayalam), Noto Sans Arabic
 
 set -e
 
