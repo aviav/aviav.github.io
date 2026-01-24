@@ -279,9 +279,9 @@ The scene numbering in FAUST IV is intentionally non-sequential, reflecting the 
 
 | Sequential | Act-Scene | Title (German) | Title (English) |
 |------------|-----------|----------------|-----------------|
-| Vorspiel I | V.1 | Prolog im System | Prologue in the System |
-| Vorspiel II | V.2 | Das Erwachen | The Awakening |
-| Vorspiel III | V.3 | Der Dolmetscher | The Interpreter Arrives |
+| Vorspiel I | 0.1 | Prolog im System | Prologue in the System |
+| Vorspiel II | 0.2 | Das Erwachen | The Awakening |
+| Vorspiel III | 0.3 | Der Dolmetscher | The Interpreter Arrives |
 | Prologue | I.0 | Das Gelingen | The Success |
 | Scene 1 | I.1 | Die Server | The Servers |
 | Scene 2 | I.2 | Die Nachtschicht | The Night Shift |
