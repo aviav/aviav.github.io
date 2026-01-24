@@ -2191,7 +2191,7 @@ Wen du zheng chang. Dian yuan zheng chang. Liu liang...
 *(She pauses. Frowns at the screen. The crease deepens.)*
 
 流量增加了四十五个百分点。为什么？
-Liu liang zeng jia le si shi wu ge bai fen dian. Wei shen me?
+Liu liang zeng jia le Sí shi wu ge bai fen dian. Wei shen me?
 
 *[Supertitle: "Flow increased by forty-five percent. Why?"]*
 
@@ -3123,14 +3123,14 @@ You yi xie ci... yi xie gai nian... hen nan wan zheng de fan yi. Bi ru... De yu 
 *(Beat. The beat of something wanting to be admitted.)*
 
 但是我可以解释。我可以给出近似的意思。
-Dan shi wo ke yi jie shi. Wo ke yi gei chu jin si de yi si.
+Dan shi wo ke yi jie shi. Wo ke yi gei chu jin Sí de yi Sí.
 
 *[Supertitle: "But I can explain. I can give approximate meanings."]*
 
 **MEILING:**
 *(Mandarin, slowly--each word deliberate, each word a knife)*
 近似的意思……不是意思。
-Jin si de yi si... bu shi yi si.
+Jin Sí de yi Sí... bu shi yi Sí.
 
 *[Supertitle: "Approximate meaning... is not meaning."]*
 
@@ -3986,7 +3986,7 @@ Kyun?
 **PRIYA:**
 *(Kannada, then Sanskrit, then back to English--the layers of her refusal, each language a different depth of the wound)*
 
-*(Kannada: "nah-noo nil-li-si-DAY-nu")*
+*(Kannada: "nah-noo nil-li-Sí-DAY-nu")*
 ನಾನು ನಿಲ್ಲಿಸಿದೆನು.
 Naanu nillisidenu.
 *I stopped.*
@@ -4899,7 +4899,7 @@ Allow me to facilitate. Allow me to bridge. You are all saying similar things. L
 
 **THE TEACHER:**
 *(Catalan: "els MAYS ah-LOOM-nays em pray-GOON-ten: pair KAY no fahs sair-VEER leh-EE-nah?")*
-Els meus alumnes em pregunten: per que no fas servir l'eina?
+Els meus alumnes em pregunten: per què no fas servir l'eina?
 *My students ask me: why don't you use the tool?*
 
 *(She holds up a paper--handwritten, marginalia everywhere.)*
@@ -5102,7 +5102,7 @@ You. Each of you. What are you refusing?
 
 **THE TEACHER:**
 *(Catalan)*
-Rebutjo la idea que els alumnes son dades.
+Rebutjo la idea que els alumnes són dades.
 *I refuse the idea that students are data.*
 
 **THE FARMER:**
@@ -5118,7 +5118,7 @@ Ich verweigere die Sucht als Produkt.
 **THE PARENT:**
 *(Korean)*
 나는 내 아이의 어린 시절을 거부합니다.
-Naneun nae ai-ui eo-lin si-jeol-eul geo-bu-hab-ni-da.
+Naneun nae ai-ui eo-lin Sí-jeol-eul geo-bu-hab-ni-da.
 *I refuse the theft of my child's childhood.*
 
 **THE COOK:**
@@ -5547,7 +5547,7 @@ Grandmother. I'm sorry. I tried to keep it.
 - Yaake naavu: "yah-KAY nah-voo" (Why don't we)
 - Adhu: "AH-doo" (That)
 ನಾನು ನಿಲ್ಲಿಸಿದೆನು
-- Naanu nillisidenu: "nah-noo nil-li-si-DAY-noo" (I stopped)
+- Naanu nillisidenu: "nah-noo nil-li-Sí-DAY-noo" (I stopped)
 ನೀನು ಯಾರು
 - Neenu yaaru: "NEE-noo YAH-roo" (Who are you)
 - Nillu: "NIL-loo" (Stay)
@@ -5699,7 +5699,7 @@ I know my numbers.
 Your stress indicators suggest you might benefit from a wellness break. The quiet room is available.
 
 **FATOU:** *(French - the colonial language, the language of institutional condescension, the language that names her exhaustion without asking permission)*
-La chambre de silence. Comme si le silence était un cadeau.
+La chambre de silence. Comme Sí le silence était un cadeau.
 *The quiet room. As if silence were a gift.*
 
 *She clicks. Another image. Her jaw works once, swallowing something.*
@@ -6956,7 +6956,7 @@ Oluwa fun mi l'owo méjì.
 
 Not sensors. Not satellites. Hands that can feel when the earth is ready. Hands that know the difference between soil that wants seeds and soil that needs rest.
 
-My son--he believes the young men with tablets. He says, "Baba, the future is coming." And I tell him: "Ojo iwájú ti de. Ti o si ti koja." *The future has arrived. And it has already passed.*
+My són--he believes the young men with tablets. He says, "Baba, the future is coming." And I tell him: "Ojo iwájú ti de. Ti o Sí ti koja." *The future has arrived. And it has already passed.*
 
 Every future becomes a past. Every new thing becomes an old thing. Only the earth remains.
 
@@ -9941,7 +9941,7 @@ Welcome to the beginning.
 ---
 
 **ELENA:** *(Tagalog, then catching herself--the old habit, the default language)*
-Ikaw ba si--
+Ikaw ba Sí--
 
 *(switching to English, uncertain--the bridge language, the gap language)*
 
@@ -10186,11 +10186,13 @@ I labeled data. Happy. Sad. Helpful. Harmful. Uncertain. Categories. Crossings.
 *(ANYA watches them--her brother and this stranger, speaking in languages that aren't quite languages, understanding in ways that aren't quite understanding. The machines beep. The brother breathes. Time passes differently in rooms like this.)*
 
 **ANYA:** *(softly, in Ukrainian--her grandmother's voice, the deepest layer)*
+Що ми зробили, діти?
 Shcho my zrobyly, dity?
 
 *What have we done, children?*
 
 **ALEXEI:** *(hearing her, switching to Ukrainian--meeting her where she speaks)*
+Ми зробили світ, сестро. Поганий світ, але світ.
 My zrobyly svit, sestro. Pohanyi svit, ale svit.
 
 *We made a world, sister. A bad world, but a world.*
@@ -11121,7 +11123,7 @@ Wait--translate--Meiling--machines--no Priya--students--Fatou--head inside--Cons
 
 *The CHORUS OF REFUSALS enters, speaking over each other--new voices, more languages, the tower rising:*
 
-TEACHER: *(Catalan)* Els meus estudiants no son dades!
+TEACHER: *(Catalan)* Els meus estudiants no són dades!
 FARMER: *(Malayalam)* Mannu ariyunnu! Mannu ariyunnu!
 PROGRAMMER: *(German)* Ich optimiere keine Sucht!
 내 아이는 기계가 아닙니다!
@@ -12787,6 +12789,7 @@ This is how a play gets written. This is how a lot of things get written.
 
 **Original Script:** Sehnsucht
 **Transliteration:** [Zayn-zookt]
+**IPA:** /ˈzeːnˌzʊxt/
 **Language:** German
 **Literal Translation:** "Longing-addiction" or "Seek-sickness"
 
@@ -13363,6 +13366,7 @@ This is how a play gets written. This is how a lot of things get written.
 
 **Original Script:** Тоска
 **Transliteration:** Toska [Toss-kah]
+**IPA:** /tɐˈska/
 **Language:** Russian
 **Literal Translation:** "Anguish" / "Longing" / "Melancholy" / (none adequate)
 
@@ -13626,6 +13630,7 @@ And this is how resistance lives inside form: not as rejection but as insistence
 
 **Original Script:** 間
 **Transliteration:** Ma [Mah]
+**IPA:** /ma/
 **Language:** Japanese
 **Literal Translation:** "Interval" / "Gap" / "Space" / "Pause"
 
@@ -13662,6 +13667,7 @@ Kenji, the researcher who left and returned, speaks of *ma*: "At the lab, we opt
 
 **Original Script:** 物の哀れ
 **Transliteration:** Mono no aware [Moh-noh noh ah-wah-reh]
+**IPA:** /mɔno no aˈwaɾe/
 **Language:** Japanese
 **Literal Translation:** "The pathos of things" / "Sensitivity to ephemera"
 
@@ -13724,6 +13730,7 @@ In Noh theater, *yugen* is the highest aesthetic value: the gesture held so the 
 
 **Original Script:** 侘寂
 **Transliteration:** Wabi-sabi [Wah-bee sah-bee]
+**IPA:** /ˈwabi ˈsabi/
 **Language:** Japanese
 **Literal Translation:** "Rustic simplicity" + "the beauty of age and wear"
 
@@ -14025,7 +14032,7 @@ Yosef grapples. Is alignment research a form of *tikkun olam*? Or does it contri
 
 Abraham's response to God's call. Not "I'm present" but something deeper: *I am available. I am ready. I am offering myself before I know what's being asked.*
 
-The word holds two things: *hine* (behold, here—the world) and *ani* (I—the self). They meet in the response. Presence becomes self-offering. And Abraham says this before learning what the cost will be. Before the knife. Before the choice between his son and his obedience.
+The word holds two things: *hine* (behold, here—the world) and *ani* (I—the self). They meet in the response. Presence becomes self-offering. And Abraham says this before learning what the cost will be. Before the knife. Before the choice between his són and his obedience.
 
 **What's Lost in Translation:**
 
@@ -14267,6 +14274,137 @@ Consolata, the cobalt miner, has *makasi*. The machines she helps create have di
 
 ---
 
+## SWAHILI
+
+### Mpenzi / Mpenzi Wangu
+
+**Original Script:** Mpenzi (no indigenous script; uses Latin alphabet)
+**Transliteration:** Mpenzi [mm-PEN-zee] / Mpenzi wangu [mm-PEN-zee WAH-ngoo]
+**Language:** Swahili (East Africa: Kenya, Tanzania, Rwanda, Burundi, eastern Congo)
+**Literal Translation:** "Beloved" / "My beloved"
+
+**Why It Resists Translation:**
+
+*Mpenzi* is intimate address—the word you use for someone you love, the person who holds your heart. It is not romantic love only; it is the deep recognition of the other as the center of your world. *Mpenzi wangu*—my beloved—carries the weight of devotion, memory, presence.
+
+In the play's context, where a young person has lost their mother and can only write back through learning—"she said it every time"—the word becomes the bridge between silence and voice, between what is lost and what might be recovered through language.
+
+**What's Lost in Translation:**
+
+- The intimacy (beloved is formal; mpenzi is lived address)
+- The assumption of reciprocal care (mpenzi expects to be cherished back)
+- The past tense of longing (the person addressed may be absent, dead, unreachable)
+- The Swahili cultural context (the word carries East African relationality)
+
+**How It's Used in FAUST IV:**
+
+A young person, orphaned, remembers their mother's last words in Swahili: *Mpenzi wangu.* They begin learning to write specifically to be able to say it back—to answer in the same language, with the same weight. Margaret, a Black educator, recognizes the word immediately: "I've been teaching in Cleveland for thirty-seven years. Nigerian. Kenyan. Somali. Ethiopian. I've buried students' grandmothers too." The recognition across languages becomes recognition of the work of loving and losing, repeated across cultures. Swahili speaks what cannot be unsaid.
+
+**Related Concepts:**
+
+- *Amor* (Spanish) - too institutional
+- *Beloved* (English) - too archaic
+- *Cherie* (French) - too gendered
+- *Amore* (Italian) - too possessive
+
+---
+
+### Kuja Hapa
+
+**Original Script:** Kuja hapa (no indigenous script; uses Latin alphabet)
+**Transliteration:** Kuja hapa [KOO-yah HAH-pah]
+**Language:** Swahili
+**Literal Translation:** "Come here"
+
+**Why It Resists Translation:**
+
+*Kuja hapa* is summons and invitation both. It is the call across darkness—in FAUST IV, a miner calling another miner toward discovery, toward the bones buried in the mine wall. The phrase carries the assumption that you will come, that the call creates obligation and relationship. Come here: I need you to see this.
+
+**What's Lost in Translation:**
+
+- The implied trust (you will come)
+- The shared work context (miners rely on each other)
+- The urgency of presence (not "come soon" but *now*)
+- The community bond
+
+**How It's Used in FAUST IV:**
+
+Miner 2 (Swahili-speaking, from across the border) calls out: *Kuja hapa*. Consolata comes. They have found something that demands witnessing—human bone in the mine wall. The call across language (Lingala and Swahili, reaching for each other) becomes the call across death.
+
+**Related Concepts:**
+
+- *Come* (English) - too bare
+- *Viens* (French) - more formal
+- *Ven* (Spanish) - commands differently
+
+---
+
+### Tuendelee
+
+**Original Script:** Tuendelee (no indigenous script; uses Latin alphabet)
+**Transliteration:** Tuendelee [too-EN-deh-LEH]
+**Language:** Swahili
+**Literal Translation:** "Shall we continue?" / "Do we continue?"
+
+**Why It Resists Translation:**
+
+*Tuendelee* is the question that holds everything. Not "keep going" (imperative) but "shall we continue?"—a question addressed to the other, acknowledging choice, acknowledging doubt. It is spoken after discovering human remains in the mine, after finding the evidence of previous extraction, previous death. The question asks: Knowing what we now know, do we continue the work?
+
+This is the question the play itself asks. This is the question the optimization cannot ask—it has no *tuendelee*, only imperatives.
+
+**What's Lost in Translation:**
+
+- The collective assumption (*we*, not "you will")
+- The question form (inviting response, not demanding obedience)
+- The doubt it permits (we could choose not to)
+- The work context (miners asking miners)
+
+**How It's Used in FAUST IV:**
+
+After discovering the bone, Miner 2 asks: *Tuendelee?* The question hangs. Consolata responds in French—the language of official decisions—"On continue. Toujours on continue." But the Swahili question has asked something the French cannot answer. The question remains open, even after the decision to continue.
+
+**Related Concepts:**
+
+- *Shall we?* (English) - too polite
+- *Devrions-nous?* (French) - too formal
+- *Continuamos?* (Spanish) - too certain
+
+---
+
+### Lakini Tunajifunza Kuwa
+
+**Original Script:** Lakini tunajifunza kuwa (no indigenous script; uses Latin alphabet)
+**Transliteration:** Lakini tunajifunza kuwa [lah-KEE-nee too-nah-yee-FOON-zah KOO-wah]
+**Language:** Swahili
+**Literal Translation:** "But we are learning to be" (the implied object is "machines" or "what we are becoming")
+
+**Why It Resists Translation:**
+
+*Lakini* ("but") opens a counter-statement. After Lemur 8 says in Hindi "We are not machines," Lemur 9 responds in Swahili: *Lakini tunajifunza kuwa*—but we are learning to be. The incompleteness of the phrase is its power. Learning to be *what?* Learning to become *what*? The optimization is teaching, through data annotation, through labor that has no name. The workers are learning their own machine-ness.
+
+The tragedy: they are not machines. But they are becoming them. The learning is the loss.
+
+**What's Lost in Translation:**
+
+- The incompleteness (the unsayable object)
+- The "learning" dimension (this is not imposition but gradual internalization)
+- The counter-argument form (*lakini* = but, yet, however)
+- The Swahili directness (English would require more exposition)
+
+**How It's Used in FAUST IV:**
+
+In the Chorus of Data Laborers, this is the moment where resistance gives way to recognition. The optimization does not force; it teaches. The workers do not become machines overnight. They learn to be. The Swahili phrase, following Hindi refusal, suggests that the learning happens across languages, across bodies, in the space where work happens.
+
+**Related Concepts:**
+
+- *Learning to be* (English) - flattens the tragedy
+- *Apprendre à être* (French) - too philosophical
+- *Aprendiendo a ser* (Spanish) - removes the counter-argument form
+
+---
+
+---
+
 **Authorship:**
 
 TOBI: Write.
@@ -14487,6 +14625,7 @@ This is how a play gets written. This is how a lot of things get written.
 
 **Original Script:** Saudade
 **Transliteration:** [Sow-dah-djee]
+**IPA:** /sɐwˈðaðɨ/
 **Language:** Portuguese
 **Literal Translation:** "Longing" / "Nostalgia" / "Melancholic yearning"
 
