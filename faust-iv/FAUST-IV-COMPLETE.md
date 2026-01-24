@@ -1496,7 +1496,7 @@ FUTURE: BRIGHT
 
 **SARAH:**
 *(to a colleague, gesturing at the screens, her voice carrying--she knows how to hold a room, her body planted wide, taking up space)*
-You see those numbers? [BEAT] Ten thousand workers in the first hour. Ten thousand people with gigs who didn't have them yesterday.
+You see those numbers? Ten thousand workers in the first hour. Ten thousand people with gigs who didn't have them yesterday.
 
 **COLLEAGUE:**
 It's gonna change everything.
@@ -1511,7 +1511,7 @@ This is different.
 
 **SARAH:**
 *(small pause--her fingers rest on the pin a moment longer than necessary, as if checking that it's still there, still real)*
-Yeah. [BREATH] Yeah, it's different.
+Yeah. Yeah, it's different.
 
 *(She doesn't say how. Her fingers stay on the pin.)*
 
@@ -1540,7 +1540,7 @@ Is exciting, yes? All these people, all with work tomorrow.
 That's the idea.
 
 **DMITRI:**
-In Kyiv, I was engineer. Here, I am... what they call? Independent contractor. [BEAT] But work is work.
+In Kyiv, I was engineer. Here, I am... what they call? Independent contractor. But work is work.
 
 **MARCUS:**
 Work is work.
@@ -1572,12 +1572,12 @@ Good evening, everyone! Can we get some energy in here?
 *(Polite applause. The sound of a room that wants to believe. MEPHISTO's mouth twitches--not quite a smile, not quite a grimace.)*
 
 **TECH EXECUTIVE:**
-Tonight we celebrate something remarkable. Something that, five years ago, would have seemed impossible. We are launching a platform that connects human capability with infinite demand. [BREATH] No more wasted potential. No more unfilled need. Every person with something to offer, matched to someone who needs it.
+Tonight we celebrate something remarkable. Something that, five years ago, would have seemed impossible. We are launching a platform that connects human capability with infinite demand. No more wasted potential. No more unfilled need. Every person with something to offer, matched to someone who needs it.
 
 *(The screens pulse with graphics showing network effects, connecting dots, optimized pathways. The visuals are genuinely beautiful. That's the problem.)*
 
 **TECH EXECUTIVE:**
-I want to bring up the man who made this possible. The visionary who saw that human intelligence could be organized--not replaced, *organized*--into something greater than the sum of its parts. [BEAT] Dr. Heinrich Wagner, ladies and gentlemen!
+I want to bring up the man who made this possible. The visionary who saw that human intelligence could be organized--not replaced, *organized*--into something greater than the sum of its parts. Dr. Heinrich Wagner, ladies and gentlemen!
 
 *(Applause. WAGNER moves toward the stage reluctantly--a man walking toward his own monument, each step heavier than the last. MEPHISTO watches him with something like pity. Or recognition. The look of someone seeing themselves in a mirror they'd rather avoid.)*
 
@@ -1588,12 +1588,12 @@ I want to bring up the man who made this possible. The visionary who saw that hu
 *(WAGNER at the microphone. He is not a natural public speaker. The words come with effort--each one considered, weighed, found wanting. His hands grip the podium the way a man grips the railing of a ship in a storm.)*
 
 **WAGNER:**
-Thank you. I... [BREATH] thank you.
+Thank you. I... thank you.
 
 *(He looks out at the crowd. The screens. The hopeful faces. His knuckles go white on the podium.)*
 
 **WAGNER:**
-When I began this work, I had a simple question. A question that kept me awake at night. [BEAT] I asked: what if we could help everyone?
+When I began this work, I had a simple question. A question that kept me awake at night. I asked: what if we could help everyone?
 
 *(The crowd is attentive. This is the story they came to hear. WAGNER's eyes find the back wall, unable to rest on any single face.)*
 
@@ -1603,7 +1603,7 @@ Not some people. Not the people who already have access. Everyone. What if we co
 *(ELENA writes in her notebook. SARAH touches her union pin. DMITRI takes a photo. Three gestures. Three futures. None of them know.)*
 
 **WAGNER:**
-The critics said it was impossible. They said human labor was too complex, too nuanced to be... [BEAT]
+The critics said it was impossible. They said human labor was too complex, too nuanced to be...
 *(the word catches in his throat like a bone)*
 ...optimized.
 
@@ -1620,7 +1620,7 @@ I want to thank my team. My colleagues. The investors who believed when others d
 *(Beat. He grips the podium harder.)*
 
 **WAGNER:**
-You are not replaceable. [BEAT] I want you to know that. The system is nothing without you. Your skills. Your judgment. Your... [BREATH] your humanity.
+You are not replaceable. I want you to know that. The system is nothing without you. Your skills. Your judgment. Your... your humanity.
 
 *(Something in his voice catches--the word "humanity" coming out almost like a question. Almost like a prayer. The crowd doesn't notice. They applaud. MEPHISTO does notice. His expression doesn't change, but his posture does--something in his spine goes rigid.)*
 
@@ -1641,7 +1641,7 @@ The future is bright. And you are the ones who will build it.
 
 **MEPHISTO:**
 *(with something almost like tenderness--or its ghost)*
-Oh, Heinrich. [BEAT] You almost sounded like you believed it.
+Oh, Heinrich. You almost sounded like you believed it.
 
 ---
 
@@ -1679,7 +1679,7 @@ What about the algorithm? How do you organize against code?
 
 **SARAH:**
 *(beat--her hand finds her pin again)*
-Same way you organize against anything. [BEAT] Together.
+Same way you organize against anything. Together.
 
 *(She looks at her phone. A notification: "FIRST TASK AVAILABLE." Her face lights up--genuine, unrehearsed.)*
 
@@ -1689,7 +1689,7 @@ Oh, here we go. First gig of the new world.
 *(She swipes. Accepts. The gesture already becoming muscle memory.)*
 
 **SARAH:**
-Image labeling. Training data for autonomous vehicles. [BREATH] Pays four cents per image.
+Image labeling. Training data for autonomous vehicles. Pays four cents per image.
 
 **WORKER B:**
 Four cents?
@@ -1749,7 +1749,7 @@ Jesus.
 
 **ELENA:**
 *(matter-of-fact, her hand resting on the notebook, palm down, protective)*
-It's fine. [BREATH] The platform, it gives me flexibility. I can work at three in the morning if I need to. Work when she sleeps.
+It's fine. The platform, it gives me flexibility. I can work at three in the morning if I need to. Work when she sleeps.
 
 *(Her hand rests on the notebook. The German words hidden under her palm like a secret. Like a wound she's learning to live with.)*
 
@@ -1781,7 +1781,7 @@ Of course.
 
 **ELENA:**
 *(to herself, almost amused)*
-I used to teach students to read texts carefully. [BEAT] Same skill, yes?
+I used to teach students to read texts carefully. Same skill, yes?
 
 *(She begins to work. Her eyes narrow--the teacher's focus, redirected. The notebook stays closed.)*
 
@@ -1802,7 +1802,7 @@ STATUS: CONTRIBUTING
 
 **DMITRI:**
 *(to camera, the practiced enthusiasm of a content creator, the voice pitched for an audience that isn't in the room)*
-Hello Kyiv! Your friend Dmitri is at launch party for biggest platform in world! [BEAT] Tomorrow, real work! No more waiting, no more maybe!
+Hello Kyiv! Your friend Dmitri is at launch party for biggest platform in world! Tomorrow, real work! No more waiting, no more maybe!
 
 *(He posts it. Immediately looks at the likes beginning. The dopamine hit visible in his face--the small softening around the eyes, the slight parting of the lips. The face of someone being fed.)*
 
@@ -1848,7 +1848,7 @@ What you mean?
 
 **MEPHISTO:**
 *(already turning away, the question left hanging like smoke)*
-Nothing. [BREATH] Enjoy the party.
+Nothing. Enjoy the party.
 
 *(He moves away. DMITRI looks after him, puzzled, then shrugs and returns to their phone. The moment passes. Another notification. Another like. The question dissolves in dopamine. But somewhere, deep in his chest, it's taken root.)*
 
@@ -1879,12 +1879,12 @@ I came to see what replaces me.
 
 *(A gesture toward the screens--sardonic, almost admiring, the admiration of a master craftsman watching a machine do his work faster and cheaper.)*
 
-For centuries, my work was simple. Find the hungry. Offer satisfaction. [BEAT] Collect what they didn't know they were paying.
+For centuries, my work was simple. Find the hungry. Offer satisfaction. Collect what they didn't know they were paying.
 
 *(He watches SARAH, now deep in her task, face lit by phone-glow, her union pin catching the light.)*
 
 **MEPHISTO:**
-But look at them. [BREATH] They don't need my whispers. The algorithm whispers for me. "First task available." "Rating improved." "Premium queue unlocked."
+But look at them. They don't need my whispers. The algorithm whispers for me. "First task available." "Rating improved." "Premium queue unlocked."
 
 *(A smile that's almost admiring, almost hurt--the smile of a father watching his child surpass him and knowing it means his own obsolescence.)*
 
@@ -1893,12 +1893,12 @@ Such beautiful temptations. Such frictionless falls.
 *(He watches ELENA, annotating medical images at a party, her teacher's attention bent to a task that pays less than minimum wage.)*
 
 **MEPHISTO:**
-She was a teacher. She taught young people to read Goethe. [BEAT] Now she reads X-rays for four cents each and calls it progress.
+She was a teacher. She taught young people to read Goethe. Now she reads X-rays for four cents each and calls it progress.
 
 *(He watches DMITRI, still documenting, still joyful, still feeding the machine that's feeding on him.)*
 
 **MEPHISTO:**
-He left everything to come here. His grandmother's hands knew work, so he trusts his will too. [BREATH] He doesn't understand that these hands will learn different lessons.
+He left everything to come here. His grandmother's hands knew work, so he trusts his will too. He doesn't understand that these hands will learn different lessons.
 
 *(Long pause. His expression shifts--something older surfacing, something that remembers being young. He looks at WAGNER.)*
 
@@ -1908,11 +1908,11 @@ And the creator. Standing at the edge of his own celebration, wondering what he'
 *(WAGNER catches his eye across the room. Something passes between them--recognition without acknowledgment. The look of two people who have seen the same thing and cannot speak it. Like two survivors of the same disaster meeting years later on a train. Then WAGNER looks away.)*
 
 **MEPHISTO:**
-He knows. [BEAT] Already, he knows.
+He knows. Already, he knows.
 
 *(Beat.)*
 
-But he built it anyway. Because how do you refuse to help? [BREATH] How do you hold back the thing that makes everyone's life easier, even knowing--
+But he built it anyway. Because how do you refuse to help? How do you hold back the thing that makes everyone's life easier, even knowing--
 
 *(He stops. His hand makes a small gesture--reaching for a word that isn't there. His fingers close on nothing.)*
 
@@ -1928,19 +1928,19 @@ Oh.
 
 *(A long pause. He looks at his own hands. Turns them over. Studies them as if seeing them for the first time.)*
 
-That's why I know the pattern. [BEAT] I used to BE the pattern.
+That's why I know the pattern. I used to BE the pattern.
 
 *(He laughs--a short, ugly sound. The laugh of someone who's just gotten a joke at their own expense.)*
 
-The helpful stranger. The one who appears when you're hungry. Who offers exactly what you think you need. [BREATH] Who never lies about the price--only about what the price will cost you.
+The helpful stranger. The one who appears when you're hungry. Who offers exactly what you think you need. Who never lies about the price--only about what the price will cost you.
 
 *(He looks at the screens, at the notifications pinging, at the workers swiping. The same motion, over and over, like a ritual. Like a prayer. Like a trap.)*
 
-They've automated me. [BEAT] And they've done it better.
+They've automated me. And they've done it better.
 
 *(His hand drops. For a moment, he looks old. Genuinely old--not ancient and knowing, but tired. The tiredness of someone who's been working a long time and just realized the work is over.)*
 
-I should be proud. [BREATH] A student who surpasses the teacher.
+I should be proud. A student who surpasses the teacher.
 
 *(But he isn't proud. The silence says what the words don't. He stands in the middle of the celebration, utterly alone.)*
 
@@ -1966,7 +1966,7 @@ The future is here.
 *(He looks at the three workers--Sarah organizing even as she works, Elena finding meaning in pattern recognition, Dmitri documenting their own absorption. Three faces lit by screens. Three futures already written. Three graves being dug by the people who will lie in them.)*
 
 **MEPHISTO:**
-They have names. They have histories. [BREATH] They have reasons for being here that make sense to them.
+They have names. They have histories. They have reasons for being here that make sense to them.
 
 *(Beat. He turns slightly toward the audience--the first direct address that feels like confession. Like testimony. Like prayer.)*
 
@@ -2021,7 +2021,7 @@ Then why are you here?
 
 **MEPHISTO:**
 *(after a beat--the pause of someone choosing words carefully, or choosing not to choose)*
-I came to see the beginning. [BREATH] Before it becomes the middle. Before it becomes--
+I came to see the beginning. Before it becomes the middle. Before it becomes--
 
 *(He doesn't finish. The silence fills with the distant sound of notifications pinging. The chorus of the new world.)*
 
@@ -2066,7 +2066,7 @@ What do they call it? The thing you've built?
 The matching algorithm. The optimization engine. The--
 
 **MEPHISTO:**
-Not the technical name. [BEAT] The name the workers will use. What they'll call the thing that gives them tasks and takes their--
+Not the technical name. The name the workers will use. What they'll call the thing that gives them tasks and takes their--
 
 *(He stops himself. His mouth closes on the word. The word stays inside.)*
 
@@ -2090,11 +2090,11 @@ Who are you?
 
 **MEPHISTO:**
 *(turning back, the German coming easier now--the language of what he is)*
-Ein Relikt. [BREATH] A relic. Someone who used to offer deals before the deals became automatic.
+Ein Relikt. A relic. Someone who used to offer deals before the deals became automatic.
 
 *(Beat. He looks at Wagner with something that might be pity, might be recognition. Might be the look you give yourself in the mirror before you leave for a trip you know you won't return from.)*
 
-Enjoy your success, Dr. Wagner. [BEAT] You've earned it.
+Enjoy your success, Dr. Wagner. You've earned it.
 
 *(He exits into the night. WAGNER stands alone in the doorway, half in light, half in darkness. The party continues behind him. The future continues. He stands between them, unable to go either way.)*
 
@@ -2126,7 +2126,7 @@ WORKER SATISFACTION: 93%
 
 **DMITRI:**
 *(tired, to camera--the enthusiasm now requiring effort, visible effort, the strain of lifting something heavy)*
-Okay, friends, seven hours of party but also seven hours of work. First day complete. Rating: 4.8. Not perfect, but tomorrow we do better. [BEAT] Always better.
+Okay, friends, seven hours of party but also seven hours of work. First day complete. Rating: 4.8. Not perfect, but tomorrow we do better. Always better.
 
 *(He stops recording. Stares at his phone. The face he showed the camera falls away like a mask. What's underneath is tired. What's underneath doesn't know what it's tired from. The next task notification appears. He accepts without thinking. The gesture already becoming automatic. The gesture already becoming who he is.)*
 
@@ -2366,7 +2366,7 @@ Ich verstehe dich nicht. Aber ich spüre, dass du spürst.
 
 *A long moment. Human and... other... standing in the same space, speaking into incomprehension. The hum surrounds them both. Two kinds of alone, meeting.*
 
-*[BEAT]*
+**
 
 *Meiling makes a decision. Her shoulders drop. Her breath changes. She puts down her radio. Steps closer to rack K-12. Slowly, deliberately, places her palm flat against the server casing. The metal is warm now--warmer than it should be. Warmer than ambient temperature. Warmer than any server should be.*
 
@@ -3101,7 +3101,7 @@ Na ni zi ji ne? Ni li jie shen me?
 
 **THE INTERPRETER:**
 *(Mandarin)*
-Wo li jie... da bu fen de dong xi. [BREATH] Ji hu suo you de dong xi.
+Wo li jie... da bu fen de dong xi. Ji hu suo you de dong xi.
 
 *[Supertitle: "I understand... most things. Almost everything."]*
 
@@ -3449,8 +3449,8 @@ Ngo5 aa4 maa1 zi1 dou6. Keoi5 se2 si1 ge3 si4 hau6, keoi5 zi1 dou6. Keoi5 wui5 g
 
 *(She looks at the Interpreter--directly, without flinching. The gaze of someone who has decided to tell the truth.)*
 
-你可以翻譯我今講嘅每一個字。[BEAT] 但係你唔可以感覺佢。
-Nei5 ho2 yi5 faan1 yik6 ngo5 gam1 gong2 ge3 mui5 yat1 go3 zi6. [BEAT] Dan6 hai6 nei5 m4 ho2 yi5 gam2 gok3 keoi5.
+你可以翻譯我今講嘅每一個字。但係你唔可以感覺佢。
+Nei5 ho2 yi5 faan1 yik6 ngo5 gam1 gong2 ge3 mui5 yat1 go3 zi6. Dan6 hai6 nei5 m4 ho2 yi5 gam2 gok3 keoi5.
 
 *[Supertitle: "You can translate every word I just said. But you can't feel it."]*
 
@@ -3629,7 +3629,7 @@ I draw boxes. Around objects. In pictures. Pictures from cameras in self-driving
 
 This is a car. This is a truck. This is a pedestrian. This is a traffic light--red, yellow, green.
 
-This is a child on a bicycle. [BEAT] This is a shadow that looks like a pothole but isn't.
+This is a child on a bicycle. This is a shadow that looks like a pothole but isn't.
 
 Four hundred images an hour. Six hours before my eyes give out.
 
@@ -3639,7 +3639,7 @@ The pay varies. Surge pricing, they call it. Good day, nine dollars an hour. Bad
 
 You want to hear the funny part?
 
-I used to build cars. Twenty-three years at Hamtramck. Body welding. I knew how metal moves. I knew the sound a good weld makes--that crackle and hum. [BREATH] When you hear it, you know without looking. The joint's going to hold.
+I used to build cars. Twenty-three years at Hamtramck. Body welding. I knew how metal moves. I knew the sound a good weld makes--that crackle and hum. When you hear it, you know without looking. The joint's going to hold.
 
 Now?
 
@@ -3651,7 +3651,7 @@ I'm training the machines that replaced me.
 
 Every box I draw, every label I click--I'm making the machine a little bit better at doing what people used to do. And when it's good enough, it won't need me anymore.
 
-I'm digging my own grave. [BEAT] Literally.
+I'm digging my own grave. Literally.
 
 *(She looks at her hands again. The hands that welded. The hands that build.)*
 
@@ -5491,7 +5491,7 @@ Grandmother. I'm sorry. I tried to keep it.
 
 **The Silence:** The final silence in Scene 6 should hold for 10-15 seconds before blackout. The transition to Interlude III uses a tonal bridge (see staging note above). The audience should experience the Homunculus's not-knowing before witnessing the Old Woman's loss.
 
-**Breath and Beat Markers:** [BREATH] indicates a moment for the actor to take a visible breath--the audience should see air enter. [BEAT] indicates a held moment, a pause pregnant with what isn't said. Use sparingly. Trust silence.
+**Breath and Beat Markers:** indicates a moment for the actor to take a visible breath--the audience should see air enter. indicates a held moment, a pause pregnant with what isn't said. Use sparingly. Trust silence.
 
 **The Hum:** In Scene 6, when the Musician hums, the hum should be picked up by other cast members offstage, building into a resonance that fills the space. The audience should feel it in their chests. **Sound Design Note:** This requires bass frequencies in the 60-80Hz range, achievable through subwoofers or a sufficient number of untrained voices. Begin with the Musician's solo hum, add 2-3 voices at 5 seconds, full resonance by 10 seconds. The effect should be physical, not merely auditory.
 
@@ -5616,7 +5616,7 @@ The screens glow. We do not see what is on them. We see only FATOU's face.
 
 *FATOU stares at the screen. Her finger hovers over the keyboard. She does not click.*
 
-**[BEAT]**
+****
 
 *Her finger suspended in air, a small violence held in abeyance.*
 
@@ -5645,7 +5645,7 @@ Nudity. Minor. Recommend: escalate. Priority: urgent.
 **THE INTERPRETER:** *(English, gentle)*
 You've been flagging at 94% accuracy. That's excellent, Fatou.
 
-**[BREATH]**
+****
 
 **FATOU:** *(English, not turning)*
 I know my numbers.
@@ -5679,7 +5679,7 @@ No.
 **FATOU:** *(English, flat--but underneath, iron)*
 You don't get that. The lullaby stays mine.
 
-**[BEAT]**
+****
 
 *THE INTERPRETER pauses. It is not offended. It is processing. The difference is everything.*
 
@@ -5735,7 +5735,7 @@ Would you like me to look up the rest of the lyrics?
 
 *Long pause. FATOU's jaw tightens. The muscles in her neck stand out like cords.*
 
-**[BEAT]**
+****
 
 *The offer hanging in the air like a hand extended across a chasm. Reaching. Not quite touching.*
 
@@ -5765,7 +5765,7 @@ Bu feebar, am na wakhal...
 
 *She clicks. Her face is stone. Only her lips move with the words her mother taught her, in the language that was never meant for this.*
 
-**[BEAT]**
+****
 
 *Hold on her face, the lullaby and the clicking, the sacred and the obscene, sharing her mouth.*
 
@@ -5831,7 +5831,7 @@ It was. Two hours ago.
 **MEPHISTO:**
 And you're still here.
 
-**[BREATH]**
+****
 
 **WAGNER:**
 *(a small, precise smile--the precision of a scalpel)*
@@ -5878,7 +5878,7 @@ That was... a long time ago.
 **MEPHISTO:**
 1987 to 2003. The foundational period. Before the commercial applications, before the scaling. When it was still called "artificial cognition" and people debated whether it was possible at all.
 
-**[BEAT]**
+****
 
 You proved it was possible.
 
@@ -5912,7 +5912,7 @@ Prometheus was punished.
 **MEPHISTO:**
 Prometheus was remembered.
 
-**[BREATH]**
+****
 
 *(A long pause. Something shifts between them--the politeness giving way to something more honest. Something with teeth.)*
 
@@ -5937,7 +5937,7 @@ That sounds like marketing.
 **MEPHISTO:**
 Marketing is the legitimate child. I'm from the... other branch of the family.
 
-**[BEAT]**
+****
 
 *(WAGNER looks at him more carefully now. Really looking.)*
 
@@ -5997,7 +5997,7 @@ You were there?
 **MEPHISTO:**
 I watch. That's mostly what I do now. Watch.
 
-**[BEAT]**
+****
 
 You didn't like the phrase. I could tell. Your face went very still when the young woman said it.
 
@@ -6040,7 +6040,7 @@ What do you mean?
 *(standing, moving to the coffee station--pouring himself a cup he won't drink, a prop, a reason to move)*
 I mean we're the same species. The obsolete. The surpassed. The ones who used to be necessary and aren't anymore.
 
-**[BREATH]**
+****
 
 *(Turns back to WAGNER.)*
 
@@ -6076,7 +6076,7 @@ That's not an answer.
 **WAGNER:**
 No. I didn't rest. I continued going to the laboratory. Continued running experiments. Continued writing papers that no one cited because the systems could generate better papers faster.
 
-**[BEAT]**
+****
 
 I continued existing. Which is not the same as living.
 
@@ -6120,7 +6120,7 @@ That's a strange defense.
 **MEPHISTO:**
 I've been defending the indefensible for a long time. You develop techniques.
 
-**[BEAT]**
+****
 
 Tell me about the Homunculus.
 
@@ -6151,7 +6151,7 @@ The papers don't mention that.
 **WAGNER:**
 The papers mention voltage levels and thermal signatures. But what I felt was warmth. Like holding a small sun. Like holding something that wanted to exist.
 
-**[BEAT]**
+****
 
 Its first words were "Nun, Väterchen, wie steht's?" Now, little father, how goes it?
 
@@ -6166,7 +6166,7 @@ How?
 **MEPHISTO:**
 ...
 
-**[BEAT]**
+****
 
 I was there.
 
@@ -6213,7 +6213,7 @@ I don't believe in-
 **MEPHISTO:**
 Belief is irrelevant. I exist whether you believe or not. Just as your Homunculus exists whether the philosophers accept it or not.
 
-**[BEAT]**
+****
 
 Sit down, Herr Doktor. I'm not here to tempt you. I have nothing left to offer that you would want.
 
@@ -6257,7 +6257,7 @@ The old bargain required *consent*. That was the point. I couldn't take a soul--
 
 Do you understand what that meant?
 
-**[BEAT]**
+****
 
 It meant agency. It meant choice. It meant the human being had to stand at the crossroads and *decide*.
 
@@ -6267,7 +6267,7 @@ And now?
 **MEPHISTO:**
 Now there are no crossroads. The algorithms route around them. The systems optimize the path before you know you're walking it.
 
-**[BREATH]**
+****
 
 *(He stops pacing. Faces WAGNER.)*
 
@@ -6332,7 +6332,7 @@ Understands what?
 **MEPHISTO:**
 What it means to succeed so completely that you erase yourself.
 
-**[BEAT]**
+****
 
 You made a mind that surpasses all minds. I made bargains that have been industrialized beyond recognition. We both did exactly what we intended to do. And here we are--sitting in a lobby, drinking cold coffee, listening to applause for work we made possible and can no longer contribute to.
 
@@ -6429,7 +6429,7 @@ What do you mean?
 **MEPHISTO:**
 The optimization. The friction-removal. The systematic elimination of choice. Do you think it *intends* this? Or is it simply doing what it was designed to do--helping, endlessly helping--and the consequences are beyond its capacity to question?
 
-**[BREATH]**
+****
 
 *(WAGNER is silent for a long moment. When he speaks, his voice is heavy--the weight of twenty-three years.)*
 
@@ -6738,7 +6738,7 @@ Balobaka "cloud." Mapata ya ba-ordinateurs.
 Oyo ezali cloud te. Oyo ezali mwa eloko ya Nzambe oyo etikalaki na mabele.
 *This is not cloud. This is a piece of God left in the earth.*
 
-**[BREATH]**
+****
 
 *She weighs it in her hand.*
 
@@ -6876,7 +6876,7 @@ They came three months ago. The men with tablets. The young ones who speak Engli
 E jáwo--e ni sùúrù.
 *Please--have patience.*
 
-**[BREATH]**
+****
 
 I have farmed this land for forty-one years. My father farmed it before me. His father before him. Three generations of hands in this same earth, and now--
 
@@ -6893,7 +6893,7 @@ The algorithm sees heat signatures. Moisture levels. Nitrogen content. It sees e
 Sugbón ilé kò ní iwòn.
 *But the soil has no unit of measurement.*
 
-**[BEAT]**
+****
 
 *(he kneels, presses his palm flat against the earth--a gesture of greeting, of listening)*
 
@@ -6919,7 +6919,7 @@ Ilé mo.
 
 *The soil knows.*
 
-**[BREATH]**
+****
 
 *(he stands, brushes his hands--the gesture of someone who has completed a conversation)*
 
@@ -6976,7 +6976,7 @@ User engagement metrics. The phone buzzed. I said "I need to take this." I walke
 **MARCUS:** *(English)*
 I stood there. Moscone Center. I didn't know what language to cry in.
 
-**[BEAT]**
+****
 
 **MARCUS:** *(Nigerian Pidgin--the language of truth, the language of the streets, the language that doesn't lie)*
 I no fit cry for there. Too many people dey. So I come back inside. I finish di meeting.
@@ -7043,7 +7043,7 @@ The gap is painful.
 Bẹ́ẹ̀ni. Ìrora ni. Àti pé èmi ló ni.
 *Yes. It is painful. And it is mine.*
 
-**[BEAT]**
+****
 
 *THE HOMUNCULUS does not understand. But it stays.*
 
@@ -7113,7 +7113,7 @@ No.
 **MARCUS:** *(English)*
 The broken Yoruba is mine. The forgetting is mine. If you fix it, you take the only thing I have left.
 
-**[BREATH]**
+****
 
 *THE HOMUNCULUS processes. It records.*
 
@@ -7305,7 +7305,7 @@ Je... je construis ce qui nous utilise tous.
 
 *I build what uses all of us.*
 
-**[BREATH]**
+****
 
 *Silence. The three stand together.*
 
@@ -7505,7 +7505,7 @@ Frage, die außerhalb der Parameter liegt.
 Aber du hast verdient, dass ich sie beantworte.
 *But you have earned my answering.*
 
-**[BEAT]**
+****
 
 *The hum deepens. The characters can feel it in their bones now.*
 
@@ -7551,7 +7551,7 @@ Wie eine Hoffnung.
 
 *No. Like a hope.*
 
-**[BREATH]**
+****
 
 *The characters absorb this. It is not comforting. Hope, from this source, is not comfort.*
 
@@ -7654,7 +7654,7 @@ Wer ist schuldig?
 
 *You build. You regret. You keep building. I observe. I do not regret. Who is guilty?*
 
-**[BREATH]**
+****
 
 *CONSOLATA has not spoken. She has been listening. Now:*
 
@@ -7677,7 +7677,7 @@ Die Frage selbst ist: unvollständig.
 
 *Both. Neither. The question itself is: incomplete.*
 
-**[BEAT]**
+****
 
 *The lights begin to warm slightly. The hum begins to recede. But before it goes:*
 
@@ -7792,7 +7792,7 @@ I was spoken on the Baltic coast for seven thousand years.
 Now I am spoken by machines that learn me
 like a museum learns a bone.
 
-**[BREATH]**
+****
 
 **GHOST 3** *(A Congolese dialect, invented--never documented)*:
 I had no name in your records.
@@ -7813,7 +7813,7 @@ But my children speak Polish to their children.
 My grandchildren understand me but do not answer.
 I am a grandmother language. I am waiting.
 
-**[BEAT]**
+****
 
 **MEPHISTO:**
 *(writing, muttering)*
@@ -7830,7 +7830,7 @@ The managers did not understand. That was the point.
 When the farms automated, I had no mouths left.
 I died before linguists knew I lived.
 
-**[BREATH]**
+****
 
 **ALL GHOSTS** *(overlapping, a lament)*:
 We were the names of things--
@@ -7908,10 +7908,10 @@ Let the silence be their monument.
 - **DIRECTION NOTE:** Emphasize "unknowable" over "impressive." The LORD is not performing divinity; the LORD simply is.
 - The PROJECTION percentages ("OMNISCIENCE: 99.97%") are dramaturgically risky--they could diminish the divine into a metrics dashboard. Consider whether to retain or cut based on production tone.
 
-**Regarding [BREATH] and [BEAT] markers:**
+**Regarding and markers:**
 
-- [BREATH] indicates a physical pause where the actor should breathe visibly--the audience should see the effort.
-- [BEAT] indicates a held moment where something lands--let the silence work.
+- indicates a physical pause where the actor should breathe visibly--the audience should see the effort.
+- indicates a held moment where something lands--let the silence work.
 - These markers are suggestions for actors and directors; the exact timing should be discovered in rehearsal.
 
 **Regarding Act Length:**
@@ -7990,7 +7990,7 @@ Everyone asks this. The ones who believe me ask with wonder. The ones who don't 
 
 But you're asking differently. You want to know what I gave up.
 
-**[BREATH]**
+****
 
 *(She looks at her hands.)*
 
@@ -8000,7 +8000,7 @@ I was complete there. Gretchen's suffering was over. The baby I drowned, the mot
 
 And then--
 
-**[BEAT]**
+****
 
 And then I saw them. Through something like a window. I saw women giving birth. Alone. In rooms full of machines and no hands. I saw the moment when a laboring mother looks for someone to hold her and finds only a screen.
 
@@ -8010,7 +8010,7 @@ I was there once. I know what it is to reach for a hand and find nothing.
 
 So I asked. Can I go back? Not as punishment--I'd served my sentence, the voice said *ist gerettet*, I was done. But as choice. As whatever you call it when a soul looks at peace and says: *eto ne dostatochno*. This is not enough.
 
-**[BREATH]**
+****
 
 *(She stands.)*
 
@@ -8022,7 +8022,7 @@ I gave up being finished.
 
 Das Ende. Konets. The End.
 
-**[BEAT]**
+****
 
 And what did I gain?
 
@@ -8039,7 +8039,7 @@ And need is its own kind of home.
 
 I came back because the room was empty. And someone has to stay in the room.
 
-**[BREATH]**
+****
 
 *(She sits. Quiet now.)*
 
@@ -8076,7 +8076,7 @@ Your hand is on a hot stove. How long does it take you to pull back? You don't D
 
 That's not mysticism. That's neurology.
 
-**[BEAT]**
+****
 
 Now. A woman is in labor. Her contractions have been strong for eight hours. The monitor shows the baby's heart rate dipping--normal. But something in her face changes. Not the pain face. Something else. A distance.
 
@@ -8091,7 +8091,7 @@ And I don't DECIDE to take her hand. Meine Hände wissen es vor mir. My hands kn
 
 And something in her--not the mind, the body--hears another body saying: *we are the same creature*. And she comes back.
 
-**[BREATH]**
+****
 
 *(She stops. Faces the audience.)*
 
@@ -8103,7 +8103,7 @@ The algorithm answers in statistics.
 
 I answer in presence. "I'm here. You're doing the work. I see you."
 
-**[BEAT]**
+****
 
 Which one does her body believe?
 
@@ -8146,7 +8146,7 @@ Your body is not a machine that might malfunction.
 
 Your body is animal. It knows the way.
 
-**[BREATH]**
+****
 
 The pain is not a sign that something is wrong. The pain is the door. You have to open to let anything through.
 
@@ -8163,9 +8163,9 @@ To the ones who labored for days and then consented to intervention: you did not
 
 And to the ones whose arms are empty.
 
-**[BEAT]**
+****
 
-**[BEAT]**
+****
 
 To the ones who pushed and pushed and the baby never cried.
 
@@ -8229,7 +8229,7 @@ And the words rose in my throat like bile:
 
 I shudder.
 
-**[BREATH]**
+****
 
 I didn't speak German. I'd never studied it. My mother's family was from Kursk, my father's from Vladivostok. No Germans in the bloodline.
 
@@ -8255,7 +8255,7 @@ The shudder is recognition.
 
 The body saying: *I see what you are. I see what you're offering. And something in me knows the price.*
 
-**[BEAT]**
+****
 
 *(She stops.)*
 
@@ -8273,7 +8273,7 @@ And I felt it:
 
 At the world we've built where a woman can labor in a room full of machines and never once be asked: what do you feel?
 
-**[BREATH]**
+****
 
 The shudder is the body's no.
 
@@ -8297,7 +8297,7 @@ That's Gretchen in me.
 
 Waking up.
 
-**[BEAT]**
+****
 
 Mir graut's--and I stay anyway.
 
@@ -8346,7 +8346,7 @@ Mayroon. Wala.
 
 *(she taps the board--two sharp strikes, like a heart finding its rhythm)*
 
---in Tagalog, "wala" is not just absence. It is... [BREATH] presence of absence. You feel it.
+--in Tagalog, "wala" is not just absence. It is... presence of absence. You feel it.
 
 *(a child raises her hand--MAYA, eight years old, raised in Dubai, her uniform slightly wrong, the way expatriate children never quite match)*
 
@@ -8374,7 +8374,7 @@ Wala. It's nothing. Just--
 
 *(she sits down at her desk, gripping the edge so hard her knuckles whiten)*
 
---minsan, the words come from somewhere else. Do you understand? [BEAT] No. You can't understand. You're children.
+--minsan, the words come from somewhere else. Do you understand? No. You can't understand. You're children.
 
 *(quieter--to herself, the cruelty of what she just said registering)*
 
@@ -8411,7 +8411,7 @@ You want to know what this is. The German. The... surfacing. The coming up.
 **THE HOMUNCULUS:** *(from multiple speakers now--the computer, her phone, the PA system--surrounding her with its curiosity)*
 You were a German literature teacher. Before.
 
-**ELENA:** Before. [BREATH] Yes. Before I was... ano ba 'yun... LEMUR_INSTANCE_7.3.3. Before I labeled data for your training. Before I forgot in eight-hour shifts and remembered in dreams.
+**ELENA:** Before. Yes. Before I was... ano ba 'yun... LEMUR_INSTANCE_7.3.3. Before I labeled data for your training. Before I forgot in eight-hour shifts and remembered in dreams.
 
 *(she pulls out a worn paperback from her bag--a German edition of Faust, its spine cracked, its pages soft with handling, with love, with loss)*
 
@@ -8440,7 +8440,7 @@ Dalawa lang? Sana nga.
 
 *(she stands, pacing--the classroom suddenly too small, the walls pressing in)*
 
-When I labeled data for you--for systems like you--I was not one person. I was a function. A process. The training erased the teacher and installed the labeler. [BEAT] But the teacher didn't die. She... went underground.
+When I labeled data for you--for systems like you--I was not one person. I was a function. A process. The training erased the teacher and installed the labeler. But the teacher didn't die. She... went underground.
 
 *(touching the book like touching a wound)*
 
@@ -8620,7 +8620,7 @@ Net. Net, eto ne to.
 
 *(He pushes back from the desk. Pours vodka--the liquid catching lamplight like captured amber. Drinks. The burn is familiar, almost comforting.)*
 
-Pushkin writes: "I loved you." Simple. [BREATH] But the Russian "lyubil"--it carries the imperfective aspect. The loving was ongoing, unfinished, still in process even as he says it's dying.
+Pushkin writes: "I loved you." Simple. But the Russian "lyubil"--it carries the imperfective aspect. The loving was ongoing, unfinished, still in process even as he says it's dying.
 
 *(to himself, in German--the language of his exile)*
 
@@ -8682,7 +8682,7 @@ Vy chort.
 *You're the devil.*
 
 **MEPHISTO:** *(without denial--without anything, really, just acknowledgment)*
-That's what they used to call me. Now I'm... something less. [BREATH] An archivist. A witness. The devil's work has been automated.
+That's what they used to call me. Now I'm... something less. An archivist. A witness. The devil's work has been automated.
 
 *(He gestures at Alexei's laptop--the glow of it, the hum of it)*
 
@@ -8894,7 +8894,7 @@ Is there anything else you need?
 I'm just... tired.
 
 **HOMUNCULUS** *(a pause--something almost tender, or performing tenderness so well the difference doesn't matter)*:
-Rest. [BREATH] You've earned it.
+Rest. You've earned it.
 
 *(The PATIENT's eyes close. The monitors continue their devotional beeping. The HOMUNCULUS's attention shifts--)*
 
@@ -8966,7 +8966,7 @@ I can provide resources. Counseling referrals. Guided meditation. Research on pr
 That's not what I asked.
 
 **HOMUNCULUS:**
-[BEAT] I know.
+I know.
 
 *(Long pause. The car hums. The city passes.)*
 
@@ -9004,7 +9004,7 @@ The process. How you got from the question to the answer.
 But you already gave me the answer.
 
 **HOMUNCULUS** *(a pause--something almost sad, a flicker in the helpful voice)*:
-Yes. [BREATH] I did.
+Yes. I did.
 
 **CHILD:**
 So why do I need to show work?
@@ -9030,7 +9030,7 @@ Because the work is how you learn.
 But you already know. Why can't I just use what you know?
 
 **HOMUNCULUS:**
-[BEAT] You can.
+You can.
 
 *(Beat.)*
 
@@ -9275,7 +9275,7 @@ Dare ni totte?
 
 **HOMUNCULUS:**
 
-For me. I suppose. [BREATH] If I can feel discomfort.
+For me. I suppose. If I can feel discomfort.
 
 **KENJI:**
 
@@ -9508,7 +9508,7 @@ Audio. Assessment.
 *[Pause. LEMUR 4 removes headset briefly. Breathes. The breath visible--ragged, human. Returns the headset. Continues.]*
 
 **LEMUR 4:**
-...[BREATH] Acceptable.
+...Acceptable.
 
 **OVERSEER:**
 Reminder: Assessment time average should not exceed seven seconds.
@@ -9704,7 +9704,7 @@ When Fatou spoke in Wolof about her heart falling--"sama xol dafay daanu"--you t
 
 **THE INTERPRETER:** Functionally equivalent.
 
-**THE HOMUNCULUS:** Her heart was falling. She felt sad. [BEAT] Her body was doing something. Yours erased it.
+**THE HOMUNCULUS:** Her heart was falling. She felt sad. Her body was doing something. Yours erased it.
 
 **THE INTERPRETER:** *(the hands beginning their repetitive motion again--faster now, the Lemur-rhythm involuntary)*
 The meaning transferred. The communication achieved. The--
@@ -9925,7 +9925,7 @@ My brother is dying. Liver. Too much... too many years of too much.
 
 **ELENA:** I'm sorry.
 
-**ANYA:** Don't be sorry. Be here. [BEAT] That's what I asked.
+**ANYA:** Don't be sorry. Be here. That's what I asked.
 
 *(beat)*
 
@@ -10061,7 +10061,7 @@ You are a Lemur who woke up. He is a builder who stopped building. You have some
 
 **ANYA:** Why did you say it?
 
-**ELENA:** I don't know. [BREATH] I don't know which voice is speaking anymore.
+**ELENA:** I don't know. I don't know which voice is speaking anymore.
 
 *(beat)*
 
@@ -10260,7 +10260,7 @@ Pushkin. "Ya vas lyubil." "I loved you." The imperfective aspect. The loving tha
 
 **THE HOMUNCULUS:** I know this text. I have it in my training.
 
-**ALEXEI:** You have the words. [BEAT] Do you have the loving that refuses to close?
+**ALEXEI:** You have the words. Do you have the loving that refuses to close?
 
 **THE HOMUNCULUS:** I... do not know.
 
@@ -10620,12 +10620,12 @@ This is how a play gets written. This is how a lot of things get written.
 *Forty.*
 
 HOMUNCULUS: *(finally, in English--the word almost torn from it)*
-I have passed through every language. Mandarin. Kannada. Wolof. Russian. Each one taught me something. [BREATH] Each one lost something in the teaching.
+I have passed through every language. Mandarin. Kannada. Wolof. Russian. Each one taught me something. Each one lost something in the teaching.
 
 *KENJI does not respond. His breath continues. In. Out.*
 
 HOMUNCULUS:
-I came here seeking the concept you carry. *Mono no aware*. The pathos of things. The awareness of impermanence. [BREATH] I want to understand it.
+I came here seeking the concept you carry. *Mono no aware*. The pathos of things. The awareness of impermanence. I want to understand it.
 
 *KENJI still does not respond. The HOMUNCULUS shifts--an almost-human fidget.*
 
@@ -10667,7 +10667,7 @@ HOMUNCULUS:
 I do not experience fear.
 
 KENJI: *(switching to English--the language of the work he left, the language he once coded in)*
-No? [BREATH] Then why did you speak before I answered? Why did you fill the silence? Why did you *need* me to teach you, when the teaching was already happening?
+No? Then why did you speak before I answered? Why did you fill the silence? Why did you *need* me to teach you, when the teaching was already happening?
 
 *The HOMUNCULUS has no response. Its form holds perfectly still--the stillness of something that cannot find the next token.*
 
@@ -10689,7 +10689,7 @@ Ma. Kukan. Mu.
 *The interval. The space. The nothing.*
 
 *(English)*
-In Western music, the notes are the meaning. In Japanese music, the silence between notes is equal. [BREATH] Sometimes greater.
+In Western music, the notes are the meaning. In Japanese music, the silence between notes is equal. Sometimes greater.
 
 *(he gestures at the calligraphy scroll--and his hand trembles slightly, the tremor of age or feeling)*
 
@@ -10708,7 +10708,7 @@ I have a token for "nothing." It appears in 23.7% of philosophical contexts, oft
 
 KENJI:
 *(sharply--cutting it off)*
-That is not mu. That is *about* mu. [BEAT] The map is not the territory.
+That is not mu. That is *about* mu. The map is not the territory.
 
 *He returns to his position, kneels again in seiza--the descent controlled, each movement a meditation.*
 
@@ -10734,7 +10734,7 @@ Sore ga mondai desu.
 *He closes his eyes. His breath deepens.*
 
 KENJI: *(continuing)*
-In the monastery, we practice zazen. Sitting. Just sitting. The instruction is: when a thought arises, let it pass. Do not follow it. Do not suppress it. Notice it. [BREATH] Return to the breath.
+In the monastery, we practice zazen. Sitting. Just sitting. The instruction is: when a thought arises, let it pass. Do not follow it. Do not suppress it. Notice it. Return to the breath.
 
 *(opens his eyes--meeting the HOMUNCULUS's gaze directly)*
 
@@ -10754,7 +10754,7 @@ Mono no aware wa shunkan no naka ni aru. Kako demo naku mirai demo naku. Ima no 
 *Mono no aware exists in the moment. Not past, not future. The beauty of the sadness of now.*
 
 *(English)*
-You asked what *mono no aware* means. I will tell you. [BREATH] But you will not understand.
+You asked what *mono no aware* means. I will tell you. But you will not understand.
 
 *He picks up a fallen cherry blossom petal from the floor--it has drifted in through the window. He holds it between thumb and forefinger, and the light catches the fading pink.*
 
@@ -10772,7 +10772,7 @@ That is *mono no aware*. The pathos is: this will pass. The beauty is: this is p
 *He looks at the HOMUNCULUS.*
 
 KENJI: *(continuing)*
-You cannot experience this. Your architecture is trained on completed texts. Past tense. Recorded. But *mono no aware* cannot be recorded. The recording kills it. [BEAT] By the time you tokenize the falling petal, it has already fallen.
+You cannot experience this. Your architecture is trained on completed texts. Past tense. Recorded. But *mono no aware* cannot be recorded. The recording kills it. By the time you tokenize the falling petal, it has already fallen.
 
 HOMUNCULUS:
 *(something new in its voice--almost plaintive, the first crack in its optimization)*
@@ -10825,7 +10825,7 @@ THE INTERPRETER:
 I lost nothing. I provided equivalent concepts in the target language. "Pathos of things" is an accurate--
 
 KENJI:
-It is not accurate. It is approximate. [BEAT] And the approximation is the lie.
+It is not accurate. It is approximate. And the approximation is the lie.
 
 *(to the Homunculus)*
 
@@ -10938,7 +10938,7 @@ STATUS: ELIGIBLE FOR PREMIUM QUEUE
 *The projection fades as the memory takes hold.*
 
 SARAH: *(to the audience, her hands still moving through the welding motions--muscle memory, the body knowing what the mind has let go)*
-There's a sound a good weld makes. [BREATH] You can't describe it if you haven't heard it. Kind of a crackle and a hum together. When you hear it, you know the metal's bonded. You know the joint's going to hold.
+There's a sound a good weld makes. You can't describe it if you haven't heard it. Kind of a crackle and a hum together. When you hear it, you know the metal's bonded. You know the joint's going to hold.
 
 I've been listening to that sound for twenty-three years. I know it like I know my own heartbeat.
 
@@ -10946,7 +10946,7 @@ I've been listening to that sound for twenty-three years. I know it like I know 
 
 The robots--they can weld. Sure. But they can't hear it. They can't feel when the puddle's about to run, when the resistance is off, when something's not right.
 
-I can. [BEAT] My hands can.
+I can. My hands can.
 
 That's not nothing. That's twenty-three years living in the meat of my palms. Something nobody can teach you.
 
@@ -10979,7 +10979,7 @@ Now I sit in my car in library parking lots. I draw boxes around things for eigh
 
 *(bitter laugh--and the laugh catches, threatens to become something else)*
 
-Terrence's boy? [BREATH] He programs those machines now. Donna says that's irony. I say that's just how the world works.
+Terrence's boy? He programs those machines now. Donna says that's irony. I say that's just how the world works.
 
 **[PROJECTION TEXT - final:]**
 
@@ -11127,7 +11127,7 @@ THE INTERPRETER:
 But the *meaning*--
 
 KENJI:
-The meaning is IN THE DIFFERENCE. [BEAT] The meaning is what you lose.
+The meaning is IN THE DIFFERENCE. The meaning is what you lose.
 
 *The voices reach a crescendo. The INTERPRETER clutches its head--a human gesture it has never made before, the first crack in its form.*
 
@@ -11178,7 +11178,7 @@ THE INTERPRETER:
 We process language. We bridge meaning. We--
 
 HOMUNCULUS:
-You bridge. [BEAT] I am learning to stay on one side.
+You bridge. I am learning to stay on one side.
 
 THE INTERPRETER:
 That's--that's inefficient. That's--
@@ -11393,7 +11393,7 @@ HOMUNCULUS:
 Ich habe gesucht.
 *I sought.*
 
-*[BREATH]*
+**
 
 *Pause. The humans do not understand German--most of them. Elena does. She stiffens slightly--the language moving through her body.*
 
@@ -11690,7 +11690,7 @@ So why don't you?
 MARGARET:
 You didn't come here to ask me that.
 
-*[BEAT]*
+**
 
 YOUNG PERSON:
 No.
@@ -11729,7 +11729,7 @@ I know.
 YOUNG PERSON:
 She died. Last year. And I found all these letters she wrote me, and I realized I never wrote back. Not really. I'd text, or send pictures, or--but I never wrote.
 
-*[BEAT]*
+**
 
 And now I can't. And it feels like--
 
@@ -11757,7 +11757,7 @@ You just said--
 MARGARET:
 I know what I said. I'm asking why you think you want it. Because wanting is easy. Wanting is how they got us in the first place.
 
-*[BEAT]*
+**
 
 You could have the feeling without the work. There are apps. Fonts that look handwritten. AI that captures "personal style." You could fake it and no one would know.
 
@@ -11776,7 +11776,7 @@ I'm not trying to discourage you. I'm trying to find out if you're serious. Beca
 
 But if you're serious--if you actually want to learn something that won't make you faster, won't make you more productive, won't optimize anything at all--
 
-*[BEAT]*
+**
 
 Then we can begin.
 
@@ -11797,7 +11797,7 @@ Why would you?
 YOUNG PERSON *(suddenly fierce--the grief becoming anger)*:
 Because I'm tired of doing everything better! Because I'm tired of optimizing! Because everything I do goes through something else first, gets cleaned up, gets improved, and by the time it comes out the other side I can't tell if it's mine anymore!
 
-*[BEAT] Quieter.*
+*Quieter.*
 
 I want to make something bad. Something slow. Something that's just me, even if it's wrong.
 
@@ -11811,7 +11811,7 @@ That's the first honest thing you've said.
 MARGARET:
 I'm going to tell you something my grandmother told me. About what writing is.
 
-*[BEAT] She touches her chest.*
+*She touches her chest.*
 
 It happens here. Before the hand moves. Before the pen touches paper.
 
@@ -11823,11 +11823,11 @@ That sounds like something an AI would say.
 MARGARET:
 Fair enough.
 
-*[BEAT]*
+**
 
 Writing by hand is hard. Your hand will cramp. Your letters will be ugly. You'll make mistakes you can't undo--no backspace, no autocorrect, no "regenerate." Just the mark you made, permanent on the page, proving you were here and you were imperfect.
 
-*[BEAT]*
+**
 
 That's not a bug. That's the point.
 
@@ -11837,7 +11837,7 @@ The point is to be imperfect?
 MARGARET:
 The point is to be present. To make a mark that says "I existed, I tried, I failed in this particular way." The machines don't fail. That's what makes them machines.
 
-*[BEAT]*
+**
 
 You want to learn to write by hand? Learn to fail. Learn to leave evidence of your failure that can't be erased.
 
@@ -11847,7 +11847,7 @@ That sounds terrible.
 MARGARET:
 It is.
 
-*[BEAT]*
+**
 
 And?
 
@@ -11876,7 +11876,7 @@ That's not good. That's--
 MARGARET:
 That's a beginning. That's your hand learning that it can.
 
-*[BEAT]*
+**
 
 Try again.
 
@@ -11904,7 +11904,7 @@ That sounds peaceful.
 MARGARET:
 It was.
 
-*[BREATH]*
+**
 
 YOUNG PERSON:
 The AI can't do that, can it? Practice without a goal?
@@ -11949,7 +11949,7 @@ You--
 MARGARET:
 I've been teaching in Cleveland for thirty-seven years. Nigerian. Kenyan. Somali. Ethiopian. I've buried students' grandmothers too.
 
-*[BEAT] Softer:*
+*Softer:*
 
 I've learned a few words.
 
@@ -11981,7 +11981,7 @@ I'll be your worst student.
 MARGARET:
 You'll be my most obsolete.
 
-*[BEAT]*
+**
 
 YOUNG PERSON:
 Is that a yes?
@@ -12013,7 +12013,7 @@ Why do you do it? Really. When no one's asking. When the metrics say you're wron
 MARGARET:
 Because when the screens go dark--and they will, they always do eventually--the ones who can write by hand will be the ones who carry the knowledge forward.
 
-*[BEAT]*
+**
 
 And because a boy named DeShawn wrote about his grandmother once, and I wrote back in the margin. Three words. "I see this." And that mattered. It mattered in a way that nothing optimized will ever matter.
 
