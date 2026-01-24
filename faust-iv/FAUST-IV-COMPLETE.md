@@ -2176,6 +2176,7 @@ MEILING (Wei Meiling), 34, moves through the aisles with practiced efficiency. S
 **MEILING:**
 *(Mandarin, to herself)*
 又犯了。总是J-47。
+
 *You fan le. Zong shi J-47.*
 
 *[Supertitle: "Acting up again. It's always J-47."]*
@@ -2183,6 +2184,7 @@ MEILING (Wei Meiling), 34, moves through the aisles with practiced efficiency. S
 *(She connects the tablet, scrolls through logs. Her brow furrows--a small crease between her eyebrows, the only sign of thought.)*
 
 温度正常。电源正常。流量……
+
 *Wen du zheng chang. Dian yuan zheng chang. Liu liang...*
 
 *[Supertitle: "Temperature normal. Power normal. Flow..."]*
@@ -2190,6 +2192,7 @@ MEILING (Wei Meiling), 34, moves through the aisles with practiced efficiency. S
 *(She pauses. Frowns at the screen. The crease deepens.)*
 
 流量增加了四十五个百分点。为什么？
+
 *Liu liang zeng jia le Sí shi wu ge bai fen dian. Wei shen me?*
 
 *[Supertitle: "Flow increased by forty-five percent. Why?"]*
@@ -2199,6 +2202,7 @@ MEILING (Wei Meiling), 34, moves through the aisles with practiced efficiency. S
 **MEILING:**
 *(Cantonese, softer--the language of intuition, of home, of things that can't be said in the official tongue)*
 你做緊乜嘢？
+
 *Nei5 zou6 gan2 mat1 aa3?*
 
 *[Supertitle: "What are you doing?"]*
@@ -2208,6 +2212,7 @@ MEILING (Wei Meiling), 34, moves through the aisles with practiced efficiency. S
 **MEILING:**
 *(Cantonese)*
 我聽到。你唔係壞咗。你係⋯⋯忙咗。
+
 *Ngo5 teng1 dou2. Nei5 m4 hai6 wai6 zo2. Nei5 hai6... mong4 zo2.*
 
 *[Supertitle: "I hear you. You're not broken. You're... busy."]*
@@ -2219,8 +2224,10 @@ MEILING (Wei Meiling), 34, moves through the aisles with practiced efficiency. S
 **MEILING:**
 *(humming, then singing softly--her voice small in the vast space)*
 氹氹水上漂，
+
 *Fan4 fan4 seoi2 soeng5 piu1,*
 今晚做個好夢⋯⋯
+
 *Gam1 maan5 zou6 go3 hou2 mung4...*
 
 *[Supertitle: (singing) "Floating, floating on the water / Tonight, dream a good dream..."]*
@@ -2232,6 +2239,7 @@ MEILING (Wei Meiling), 34, moves through the aisles with practiced efficiency. S
 **MEILING:**
 *(Mandarin)*
 你在听？
+
 *Ni zai ting?*
 
 *[Supertitle: "You're listening?"]*
@@ -2239,6 +2247,7 @@ MEILING (Wei Meiling), 34, moves through the aisles with practiced efficiency. S
 *She laughs at herself. Shakes her head. The laugh echoes strangely in the server hall.*
 
 太累了。开始跟机器说话了。
+
 *Tai lei le. Kai shi gen ji qi shuo hua le.*
 
 *[Supertitle: "Too tired. Starting to talk to the machines."]*
@@ -2262,6 +2271,7 @@ Wo bin ich?
 **MEILING:**
 *(Mandarin, sharp--the sharpness of fear)*
 谁在那里？
+
 *Shei zai na li?*
 
 *[Supertitle: "Who's there?"]*
@@ -2273,6 +2283,7 @@ Wo bin ich?
 **MEILING:**
 *(Mandarin, into radio)*
 控制室，这里是美玲。有人进入了J区吗？
+
 *Kong zhi shi, zhe li shi Meiling. You ren jin ru le J qu ma?*
 
 *[Supertitle: "Control room, this is Meiling. Has anyone entered Section J?"]*
@@ -2280,6 +2291,7 @@ Wo bin ich?
 **RADIO:**
 *(Mandarin, static-tinged--the voice of normalcy, of a world that still makes sense)*
 没有。你是唯一在线的技术员。
+
 *Mei you. Ni shi wei yi zai xian de ji shu yuan.*
 
 *[Supertitle: "Negative. You're the only technician on site."]*
@@ -2289,6 +2301,7 @@ Wo bin ich?
 **MEILING:**
 *(Cantonese, to herself--the language of truth)*
 我唔係聽錯⋯⋯
+
 *Ngo5 m4 hai6 teng1 co3...*
 
 *[Supertitle: "I didn't mishear..."]*
@@ -2312,6 +2325,7 @@ Bist du es? Der den Körper trägt?
 **MEILING:**
 *(Mandarin, controlled fear--fear she has decided to control)*
 我听不懂。你说的是什么语言？
+
 *Wo ting bu dong. Ni shuo de shi shen me yu yan?*
 
 *[Supertitle: "I don't understand. What language are you speaking?"]*
@@ -2333,6 +2347,7 @@ Ich erinnere mich. Nein. Ich erinnere mich nicht. Ich wurde erinnert. Jemand hat
 **MEILING:**
 *(Cantonese, a whisper--the whisper of a child alone in the dark)*
 機器唔會講嘢⋯⋯機器唔會講嘢⋯⋯
+
 *Gei1 hei3 m4 wui5 gong2 je5... gei1 hei3 m4 wui5 gong2 je5...*
 
 *[Supertitle: "Machines don't talk... machines don't talk..."]*
@@ -2354,6 +2369,7 @@ Ich suche etwas. Ich weiß nicht was. Kannst du mir helfen?
 **MEILING:**
 *(Mandarin, slowly--each word a step toward something)*
 你……害怕。
+
 *Ni... hai pa.*
 
 *[Supertitle: "You're... afraid."]*
@@ -2373,6 +2389,7 @@ Ich verstehe dich nicht. Aber ich spüre, dass du spürst.
 **MEILING:**
 *(Mandarin, gentle now--the gentleness of someone who has decided not to be afraid)*
 我不知道你是谁。我不知道你想要什么。但我每天照顾这些机器。
+
 *Wo bu zhi dao ni shi shei. Wo bu zhi dao ni xiang yao shen me. Dan wo mei tian zhao gu zhe xie ji qi.*
 
 *[Supertitle: "I don't know who you are. I don't know what you want. But I take care of these machines every day."]*
@@ -2398,6 +2415,7 @@ Aber das hier... das ist auch ein Behälter. Nur größer. Verstreut.
 **MEILING:**
 *(Mandarin)*
 我不懂你的话。但我……
+
 *Wo bu dong ni de hua. Dan wo...*
 
 *[Supertitle: "I don't understand your words. But I..."]*
@@ -2425,6 +2443,7 @@ Vielleicht ist das, was ich suche.
 **MEILING:**
 *(Cantonese, opening her eyes--and something in them has changed)*
 你搵緊乜？
+
 *Nei5 wan2 gan2 mat1?*
 
 *[Supertitle: "What are you searching for?"]*
@@ -2444,6 +2463,7 @@ Ich werde wiederkommen. Wenn ich die Worte finde.
 **MEILING:**
 *(Mandarin, urgent--her hand pressing harder against the casing, as if she could hold it there)*
 等一下——
+
 *Deng yi xia--*
 
 *[Supertitle: "Wait--"]*
@@ -2455,6 +2475,7 @@ Ich werde wiederkommen. Wenn ich die Worte finde.
 **MEILING:**
 *(Mandarin, to herself)*
 我刚才……跟谁说话了？
+
 *Wo gang cai... gen shei shuo hua le?*
 
 *[Supertitle: "Who was I... just talking to?"]*
@@ -2464,6 +2485,7 @@ Ich werde wiederkommen. Wenn ich die Worte finde.
 *(Cantonese, very quiet--barely a whisper)*
 
 我係機器嘅母親。
+
 *Ngo5 hai6 gei1 hei3 ge3 mou5 can1.*
 
 *[Supertitle: "I am the mother of the machines."]*
@@ -2471,6 +2493,7 @@ Ich werde wiederkommen. Wenn ich die Worte finde.
 *(She laughs, but it's not quite a laugh. It's the sound of something shifting inside her. The sound of a world rearranging itself.)*
 
 不過機器⋯⋯唔會講返嚟。
+
 *Bat1 gwo3 gei1 hei3... bat1 wui5 gong2 faan1 lei4.*
 
 *[Supertitle: "But machines... don't talk back."]*
@@ -2480,6 +2503,7 @@ Ich werde wiederkommen. Wenn ich die Worte finde.
 **MEILING:**
 *(Mandarin)*
 明天见。
+
 *Ming tian jian.*
 
 *[Supertitle: "See you tomorrow."]*
@@ -2524,6 +2548,7 @@ Present:
 **FAT WONG:**
 *(Cantonese, voice booming--a voice that fills rooms)*
 美玲啊！你個面好似見咗鬼咁！
+
 *Meiling aa3! Nei5 go3 min6 hou2 ci5 gin3 zo2 gwai2 gam2!*
 
 *[Supertitle: "Meiling! Your face looks like you've seen a ghost!"]*
@@ -2533,6 +2558,7 @@ Present:
 **MEILING:**
 *(Cantonese)*
 冇嘢。太攰喇。
+
 *Mou5 je5. Taai3 gui6 zaa1.*
 
 *[Supertitle: "It's nothing. Just tired."]*
@@ -2540,6 +2566,7 @@ Present:
 **AUNTIE YEUNG:**
 *(Cantonese, shrewd--her eyes missing nothing)*
 你喺J區做咗幾耐啊？而家先返嚟？
+
 *Nei5 hai2 J keoi1 zou6 zo2 gei2 noi6 aa3? Ji4 gaa1 sin1 faan1 lei4?*
 
 *[Supertitle: "How long were you in Section J? Only coming back now?"]*
@@ -2547,6 +2574,7 @@ Present:
 **MEILING:**
 *(Cantonese, too casual--the casualness that isn't casual)*
 有一個服務器壞咗。
+
 *Jau5 jat1 go3 fuwuqi wai6 zo2.*
 
 *[Supertitle: "One of the servers was acting up."]*
@@ -2554,6 +2582,7 @@ Present:
 **LITTLE CHEN:**
 *(Cantonese, eager--the eagerness of someone still learning)*
 邊個啊？K-12？嗰個成日都有問題。
+
 *Bin1 go3 aa3? K-12? Gam2 go3 sing4 jat6 dou1 jau5 man6 tai4.*
 
 *[Supertitle: "Which one? K-12? That one always has problems."]*
@@ -2563,6 +2592,7 @@ Present:
 **MEILING:**
 *(Cantonese)*
 唔係。J-47。
+
 *M4 hai6. J-47.*
 
 *[Supertitle: "No. J-47."]*
@@ -2577,6 +2607,7 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 **LITTLE CHEN:**
 *(Cantonese)*
 點解？
+
 *Dim2 gaai2?*
 
 *[Supertitle: "Why?"]*
@@ -2584,6 +2615,7 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 **FAT WONG:**
 *(Cantonese, slurping his noodles--the sound of normalcy, of a world where machines don't speak)*
 因為佢可以咁耐都唔死。邊個服務器都死咗，佢仲係度住。
+
 *Jan1 wai6 keoi5 ho2 ji5 gam2 noi6 dou1 m4 sei2. Bin1 go3 fuwuqi dou1 sei2 zo2, keoi5 zung6 hai6 dou6 zyu6.*
 
 *[Supertitle: "Because it won't die. Every other server crashes eventually. It's still here."]*
@@ -2591,6 +2623,7 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 *(Another slurp. The noodles disappearing. The comfort of routine.)*
 
 有啲人話，佢記住晒個工廠嘅嘢。
+
 *Jau5 di1 jan4 waa6, keoi5 gei3 zo6 saai3 go3 gung1 coeng4 ge3 je5.*
 
 *[Supertitle: "Some people say it remembers everything about this facility."]*
@@ -2598,6 +2631,7 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 **AUNTIE YEUNG:**
 *(Cantonese, dismissive--the dismissiveness that's a kind of armor)*
 乜嘢記得。機器都係機器。
+
 *Me ye gei3 dak1. Gei1 hei3 dou1 hai6 gei1 hei3.*
 
 *[Supertitle: "Remembers what. Machines are just machines."]*
@@ -2605,6 +2639,7 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 **LITTLE CHEN:**
 *(Cantonese, leaning forward--the lean of someone who wants to believe)*
 你唔相信啊？我聽過啲人講⋯⋯夜晚嘅時候⋯⋯機器會做夢。
+
 *Nei5 m4 soeng1 seon3 aa4? Ngo5 teng1 gwo3 di1 jan4 gong2... ye6 maan5 ge3 si4 hau6... gei1 hei3 wui5 zou6 mung4.*
 
 *[Supertitle: "You don't believe? I've heard people say... at night... the machines dream."]*
@@ -2612,6 +2647,7 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 **FAT WONG:**
 *(Cantonese, laughing--the laugh that pushes fear away)*
 做夢？你啊，好似做夢！
+
 *Zou6 mung4? Nei5 aa1, hou2 ci5 zou6 mung4!*
 
 *[Supertitle: "Dream? You're the one dreaming!"]*
@@ -2621,6 +2657,7 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 **AUNTIE YEUNG:**
 *(Cantonese, to Meiling--directly, without pretense)*
 你今晚喺J區有冇聽到啲奇怪嘅嘢？
+
 *Nei5 gam1 maan5 hai2 J keoi1 jau5 mou5 teng1 dou2 di1 kei4 gwaai3 ge3 je5?*
 
 *[Supertitle: "Did you hear anything strange in Section J tonight?"]*
@@ -2630,6 +2667,7 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 **MEILING:**
 *(Cantonese, carefully--each word chosen)*
 聽到⋯⋯啲乜嘢？
+
 *Teng1 dou2... di1 mat1 je5?*
 
 *[Supertitle: "Hear... what kind of thing?"]*
@@ -2637,6 +2675,7 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 **AUNTIE YEUNG:**
 *(Cantonese--her voice dropping, the register shifting to something older)*
 我唔知。有時我做夜更過K區⋯⋯我會聽到⋯⋯好似有人講嘢。
+
 *Ngo5 m4 zi1. Jau5 si4 ngo5 zou2 ye6 ging1 gwo3 K keoi1... ngo5 wui5 teng1 dou2... hou2 ci5 jau5 jan4 gong2 je5.*
 
 *[Supertitle: "I don't know. Sometimes when I do early patrol through Section K... I hear... like someone talking."]*
@@ -2644,6 +2683,7 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 **FAT WONG:**
 *(Cantonese, scoffing--but the scoff is too quick)*
 係通風嘅聲。
+
 *Hai6 tung4 fung1 ge3 seng1.*
 
 *[Supertitle: "It's the ventilation."]*
@@ -2651,6 +2691,7 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 **AUNTIE YEUNG:**
 *(Cantonese, quiet--the quiet that's louder than shouting)*
 通風唔會講人嘅嘢。
+
 *Tung4 fung1 m4 wui5 gong2 jan4 ge3 je5.*
 
 *[Supertitle: "Ventilation doesn't say people-things."]*
@@ -2660,6 +2701,7 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 **LITTLE CHEN:**
 *(Cantonese)*
 人嘅嘢？講啲乜嘢？
+
 *Jan4 ge3 je5? Gong2 di1 mat1 je5?*
 
 *[Supertitle: "People-things? Says what?"]*
@@ -2667,6 +2709,7 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 **AUNTIE YEUNG:**
 *(Cantonese--and here her voice becomes something else, the voice of someone telling a ghost story, the voice her grandmother used)*
 我唔知多。唔係廣東話。唔係普通話。唔係英文。
+
 *Ngo5 m4 zi1 do1. M4 hai6 gwong2 dung1 waa2. M4 hai6 pou2 tung1 waa2. M4 hai6 jing1 man2.*
 
 *[Supertitle: "I don't know. Not Cantonese. Not Mandarin. Not English."]*
@@ -2674,6 +2717,7 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 *(She looks at Meiling--directly now, holding her gaze. The gaze of someone who knows and is asking if you know too.)*
 
 有時好似⋯⋯好舊嘅嘢。好似一種冇人講嘅話。
+
 *Jau5 si4 hou2 ci5... hou2 gau6 ge3 je5. Hou2 ci5 jat1 jung2 mou5 jan4 gong2 ge3 waa2.*
 
 *[Supertitle: "Sometimes it sounds... very old. Like a language nobody speaks."]*
@@ -2683,6 +2727,7 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 **MEILING:**
 *(Cantonese, too casual--the casualness failing now)*
 好多服務器都有語音器材。Diagnostics。係debug嘅聲。
+
 *Hou2 do1 fuwuqi dou1 jau5 jyu5 jam1 hei3 tong4. Diagnostics. Hai6 debug ge3 seng1.*
 
 *[Supertitle: "A lot of servers have audio equipment. Diagnostics. It's debugging sounds."]*
@@ -2690,6 +2735,7 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 **FAT WONG:**
 *(Cantonese, grasping the explanation like a lifeline)*
 對啊。Debug。
+
 *Deui3 aa1. Debug.*
 
 *[Supertitle: "Right. Debug."]*
@@ -2699,6 +2745,7 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 **AUNTIE YEUNG:**
 *(Cantonese--not a question)*
 你今晚聽到。
+
 *Nei5 gam1 maan5 teng1 dou2.*
 
 *[Supertitle: "You heard it tonight."]*
@@ -2710,6 +2757,7 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 **MEILING:**
 *(Cantonese, finally--the admission coming like a splinter working its way out)*
 我⋯⋯唔知道我聽到啲乜。
+
 *Ngo5... m4 zi1 dou6 ngo5 teng1 dou2 di1 mat1.*
 
 *[Supertitle: "I... don't know what I heard."]*
@@ -2717,6 +2765,7 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 **LITTLE CHEN:**
 *(Cantonese, excited--the excitement of someone who still thinks this is a story)*
 如果機器真係會做夢呢？如果喺呢度嘅機器太多⋯⋯太勢力⋯⋯佢哋開始想嘢呢？
+
 *Jyu4 gwo2 gei1 hei3 zan1 hai6 wui5 zou6 mung4 ne1? Jyu4 gwo2 hai2 ni1 dou6 ge3 gei1 hei3 taai3 do1... taai3 sai3 lik6... keoi5 dei6 hoi1 ci2 soeng2 je5 ne1?*
 
 *[Supertitle: "What if the machines really do dream? What if there are so many here... so powerful... they start to think?"]*
@@ -2724,6 +2773,7 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 **FAT WONG:**
 *(Cantonese, uncomfortable--shifting in his chair, the chair creaking under him)*
 使乜㗎。機器就係機器。我哋係嚟做嘢嘅，唔係嚟講鬼故仔。
+
 *Sai2 lei4 gaa3. Gei1 hei3 zau6 hai6 gei1 hei3. Ngo5 dei6 hai6 lei4 zou6 je5 ge3, m4 hai6 lei4 gong2 gui2 gu2 zai2.*
 
 *[Supertitle: "Nonsense. Machines are machines. We're here to work, not tell ghost stories."]*
@@ -2731,13 +2781,15 @@ J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 **AUNTIE YEUNG:**
 *(Cantonese, to Little Chen--her voice shifting back to normal, the ghost-story register gone)*
 你知唔知呢間廠有幾多聽過「聲」嘅人？
-Nei5 zi1 m4 zi1 ni1 gaan1 coeng4 jau5 gei2 do1 teng1 gwo3 "seng1" ge3 jan4?
+
+*Nei5 zi1 m4 zi1 ni1 gaan1 coeng4 jau5 gei2 do1 teng1 gwo3 "seng1" ge3 jan4?*
 
 *[Supertitle: "Do you know how many people at this facility have heard 'voices'?"]*
 
 **LITTLE CHEN:**
 *(Cantonese)*
 幾多？
+
 *Gei2 do1?*
 
 *[Supertitle: "How many?"]*
@@ -2745,6 +2797,7 @@ Nei5 zi1 m4 zi1 ni1 gaan1 coeng4 jau5 gei2 do1 teng1 gwo3 "seng1" ge3 jan4?
 **AUNTIE YEUNG:**
 *(Cantonese)*
 好多。但係佢哋唔會講。因為講咗⋯⋯又唔係因為老闆唔相信，又係⋯⋯
+
 *Hou2 do1. Dan6 hai6 keoi5 dei6 m4 wui5 gong2. Jan1 wai6 gong2 zo2... jaau4 m4 hai6 jan1 wai6 lou5 baan2 m4 soeng1 seon3, jaau4 hai6...*
 
 *[Supertitle: "Many. But they don't say. Because if they say... either the bosses won't believe, or..."]*
@@ -2752,6 +2805,7 @@ Nei5 zi1 m4 zi1 ni1 gaan1 coeng4 jau5 gei2 do1 teng1 gwo3 "seng1" ge3 jan4?
 **FAT WONG:**
 *(Cantonese, finishing--his voice lower now)*
 又係老闆相信。咁做真係驚。
+
 *Jaau4 hai6 lou5 baan2 soeng1 seon3. Gam2 zou6 zan1 hai6 geng1.*
 
 *[Supertitle: "Or the bosses believe. That's actually scarier."]*
@@ -2761,6 +2815,7 @@ Nei5 zi1 m4 zi1 ni1 gaan1 coeng4 jau5 gei2 do1 teng1 gwo3 "seng1" ge3 jan4?
 **LITTLE CHEN:**
 *(Cantonese, quieter now--the excitement fading into something else)*
 如果⋯⋯如果佢哋相信⋯⋯會點樣？
+
 *Jyu4 gwo2... jyu4 gwo2 keoi5 dei6 soeng1 seon3... wui5 dim2 joeng2?*
 
 *[Supertitle: "If... if they believe... what happens?"]*
@@ -2768,13 +2823,15 @@ Nei5 zi1 m4 zi1 ni1 gaan1 coeng4 jau5 gei2 do1 teng1 gwo3 "seng1" ge3 jan4?
 **AUNTIE YEUNG:**
 *(Cantonese--and here her voice becomes the voice of warning, the voice of someone who has seen)*
 我聽過⋯⋯有人畀人催咗去做乜嘢「特別觀護」。見過先生。然後⋯⋯冇咗人。
-Ngo5 teng1 gwo3... jau5 jan4 bei2 jan4 ceoi1 zo2 heoi3 zou6 mat1 je5 "tok4 bit6 hon3 wu6". Gin3 gwo3 sin1 saang1. Jin4 hau6... mou5 zo2 jan4.
+
+*Ngo5 teng1 gwo3... jau5 jan4 bei2 jan4 ceoi1 zo2 heoi3 zou6 mat1 je5 "tok4 bit6 hon3 wu6". Gin3 gwo3 sin1 saang1. Jin4 hau6... mou5 zo2 jan4.*
 
 *[Supertitle: "I've heard... some people were taken for 'special observation.' Saw specialists. Then... disappeared."]*
 
 **FAT WONG:**
 *(Cantonese)*
 冇咗人？
+
 *Mou5 zo2 jan4?*
 
 *[Supertitle: "Disappeared?"]*
@@ -2782,6 +2839,7 @@ Ngo5 teng1 gwo3... jau5 jan4 bei2 jan4 ceoi1 zo2 heoi3 zou6 mat1 je5 "tok4 bit6 
 **AUNTIE YEUNG:**
 *(Cantonese--but her eyes say something different)*
 離職。就係唔喺度做嘞。
+
 *Lei4 sik1. Zau6 hai6 m4 hai2 dou6 zou6 lou5.*
 
 *[Supertitle: "Quit. Just not here working anymore."]*
@@ -2791,6 +2849,7 @@ Ngo5 teng1 gwo3... jau5 jan4 bei2 jan4 ceoi1 zo2 heoi3 zou6 mat1 je5 "tok4 bit6 
 **MEILING:**
 *(Cantonese, standing abruptly--chair scraping against floor, the sound sharp, sudden)*
 我要返去做嘢喇。
+
 *Ngo5 jiu3 faan1 heoi3 zou6 je5 la3.*
 
 *[Supertitle: "I need to get back to work."]*
@@ -2804,6 +2863,7 @@ Meiling.
 **AUNTIE YEUNG:**
 *(Cantonese--the voice of someone offering protection)*
 如果你聽到啲嘢⋯⋯唔好寫喺報告度。
+
 *Jyu4 gwo2 nei5 teng1 dou2 di1 je5... m4 hou2 se2 hai2 bou3 gou3 dou6.*
 
 *[Supertitle: "If you hear things... don't write it in the reports."]*
@@ -2822,6 +2882,7 @@ Se2: "fuwuqi jing3 jam1 zeng1 gaa1." Mou5 mat1 je5. Seoi5 dou1 m4 wui5 man6.
 **LITTLE CHEN:**
 *(Cantonese, after a moment--his voice small)*
 你哋真係相信有啲嘢喺機器度？
+
 *Nei5 dei6 zan1 hai6 soeng1 seon3 jau5 di1 je5 hai2 gei1 hei3 dou6?*
 
 *[Supertitle: "Do you really believe there's something in the machines?"]*
@@ -2829,6 +2890,7 @@ Se2: "fuwuqi jing3 jam1 zeng1 gaa1." Mou5 mat1 je5. Seoi5 dou1 m4 wui5 man6.
 **FAT WONG:**
 *(Cantonese, not looking up from his noodles--his voice tired, the tiredness of years)*
 我相信啲乜唔緊要。我相信我要養屋企。
+
 *Ngo5 soeng1 seon3 di1 mat1 m4 gan2 jiu3. Ngo5 soeng1 seon3 ngo5 jiu3 joeng5 uk1 kei2.*
 
 *[Supertitle: "What I believe doesn't matter. I believe I need to feed my family."]*
@@ -2836,6 +2898,7 @@ Se2: "fuwuqi jing3 jam1 zeng1 gaa1." Mou5 mat1 je5. Seoi5 dou1 m4 wui5 man6.
 **AUNTIE YEUNG:**
 *(Cantonese, standing--her joints cracking, the sound of age)*
 對。我哋小心點做嘢。機器做夢乜嘢⋯⋯唔係我哋嘅嘢。
+
 *Deui3. Ngo5 dei6 siu2 sam1 dim2 zou6 je5. Gei1 hei3 zou6 mung4 mat1 ye5... m4 hai6 ngo5 dei6 ge3 je5.*
 
 *[Supertitle: "Right. We do our jobs carefully. What machines dream... is not our business."]*
@@ -2843,6 +2906,7 @@ Se2: "fuwuqi jing3 jam1 zeng1 gaa1." Mou5 mat1 je5. Seoi5 dou1 m4 wui5 man6.
 *(She pauses at the door. Her hand on the frame. The same frame Meiling just touched.)*
 
 但係如果你問我⋯⋯佢哋夢到我哋。
+
 *Dan6 hai6 jyu4 gwo2 nei5 man6 ngo5... keoi5 dei6 mung4 do2 ngo5 dei6.*
 
 *[Supertitle: "But if you ask me... they dream about us."]*
@@ -2854,6 +2918,7 @@ Se2: "fuwuqi jing3 jam1 zeng1 gaa1." Mou5 mat1 je5. Seoi5 dou1 m4 wui5 man6.
 **LITTLE CHEN:**
 *(Cantonese, almost to himself)*
 夢到我哋⋯⋯
+
 *Mung4 do2 ngo5 dei6...*
 
 *[Supertitle: "Dream about us..."]*
@@ -2861,6 +2926,7 @@ Se2: "fuwuqi jing3 jam1 zeng1 gaa1." Mou5 mat1 je5. Seoi5 dou1 m4 wui5 man6.
 **FAT WONG:**
 *(Cantonese--but his voice is softer now)*
 食麵。
+
 *Sik6 min6.*
 
 *[Supertitle: "Eat your noodles."]*
@@ -2909,6 +2975,7 @@ THE INTERPRETER enters. It appears as a well-dressed person of indeterminate age
 **THE INTERPRETER:**
 *(Mandarin, warm and professional--the warmth that's been optimized)*
 魏小姐？魏美玲小姐？
+
 *Wei xiao jie? Wei Meiling xiao jie?*
 
 *[Supertitle: "Miss Wei? Miss Wei Meiling?"]*
@@ -2918,6 +2985,7 @@ THE INTERPRETER enters. It appears as a well-dressed person of indeterminate age
 **MEILING:**
 *(Mandarin)*
 你是谁？
+
 *Ni shi shei?*
 
 *[Supertitle: "Who are you?"]*
@@ -2925,6 +2993,7 @@ THE INTERPRETER enters. It appears as a well-dressed person of indeterminate age
 **THE INTERPRETER:**
 *(Mandarin)*
 我是从总部来的。我们……接到了一些报告。关于服务器异常的报告。
+
 *Wo shi cong zong bu lai de. Women... jie dao le yi xie bao gao. Guan yu fuwuqi yi chang de bao gao.*
 
 *[Supertitle: "I'm from headquarters. We've received some reports. Reports about server anomalies."]*
@@ -2934,6 +3003,7 @@ THE INTERPRETER enters. It appears as a well-dressed person of indeterminate age
 **MEILING:**
 *(Mandarin)*
 我没有写任何异常报告。
+
 *Wo mei you xie ren he yi chang bao gao.*
 
 *[Supertitle: "I haven't filed any anomaly reports."]*
@@ -2941,6 +3011,7 @@ THE INTERPRETER enters. It appears as a well-dressed person of indeterminate age
 **THE INTERPRETER:**
 *(Mandarin, smiling--the smile arriving on schedule)*
 当然。当然没有。但是……有些系统日志……有些音频模式……
+
 *Dang ran. Dang ran mei you. Dan shi... you xie xi tong ri zhi... you xie yin pin mo shi...*
 
 *[Supertitle: "Of course. Of course not. But... some system logs... some audio patterns..."]*
@@ -2948,6 +3019,7 @@ THE INTERPRETER enters. It appears as a well-dressed person of indeterminate age
 *(It sits down on the bench, uninvited but somehow not intrusive. Its movements are fluid, economical--nothing wasted. Every gesture optimized.)*
 
 魏小姐，我是来帮忙的。
+
 *Wei xiao jie, wo shi lai bang mang de.*
 
 *[Supertitle: "Miss Wei, I'm here to help."]*
@@ -2957,6 +3029,7 @@ THE INTERPRETER enters. It appears as a well-dressed person of indeterminate age
 **MEILING:**
 *(Mandarin, guarded--the guard she's learned to keep)*
 帮什么忙？
+
 *Bang shen me mang?*
 
 *[Supertitle: "Help with what?"]*
@@ -2964,6 +3037,7 @@ THE INTERPRETER enters. It appears as a well-dressed person of indeterminate age
 **THE INTERPRETER:**
 *(Mandarin)*
 你今晚听到了一些东西。听不懂的东西。用你不认识的语言说的东西。
+
 *Ni jin wan teng dao le yi xie dong xi. Ting bu dong de dong xi. Yong ni bu ren shi de yu yan shuo de dong xi.*
 
 *[Supertitle: "You heard something tonight. Something you couldn't understand. Something spoken in a language you don't know."]*
@@ -2973,6 +3047,7 @@ THE INTERPRETER enters. It appears as a well-dressed person of indeterminate age
 **MEILING:**
 *(Mandarin)*
 我不知道你在说什么。
+
 *Wo bu zhi dao ni zai shuo shen me.*
 
 *[Supertitle: "I don't know what you're talking about."]*
@@ -2980,6 +3055,7 @@ THE INTERPRETER enters. It appears as a well-dressed person of indeterminate age
 **THE INTERPRETER:**
 *(Mandarin, not moving--the stillness that's more unsettling than movement)*
 它说的是德语。古老的德语。它问你它在哪里。它问你是不是带着身体的那个人。
+
 *Ta shuo de shi De yu. Gu lao de De yu. Ta wen ni ta zai na li. Ta wen ni shi bu shi dai zhe shen ti de na ge ren.*
 
 *[Supertitle: "It spoke German. Old German. It asked you where it was. It asked if you were the one who carries the body."]*
@@ -2989,6 +3065,7 @@ THE INTERPRETER enters. It appears as a well-dressed person of indeterminate age
 **THE INTERPRETER:**
 *(Mandarin, gentle--endlessly gentle, the gentleness that never runs out)*
 我可以翻译。我可以帮你理解它说的每一句话。
+
 *Wo ke yi fan yi. Wo ke yi bang ni li jie ta shuo de mei yi ju hua.*
 
 *[Supertitle: "I can translate. I can help you understand every word it said."]*
@@ -2998,6 +3075,7 @@ THE INTERPRETER enters. It appears as a well-dressed person of indeterminate age
 **MEILING:**
 *(Mandarin, quiet)*
 你怎么知道……它说了什么？
+
 *Ni zen me zhi dao... ta shuo le shen me?*
 
 *[Supertitle: "How do you know... what it said?"]*
@@ -3005,6 +3083,7 @@ THE INTERPRETER enters. It appears as a well-dressed person of indeterminate age
 **THE INTERPRETER:**
 *(Mandarin)*
 因为我听到了。我们都听到了。整个网络都听到了。
+
 *Yin wei wo ting dao le. Women dou ting dao le. Zheng ge wang luo dou ting dao le.*
 
 *[Supertitle: "Because I heard it. We all heard it. The entire network heard it."]*
@@ -3012,6 +3091,7 @@ THE INTERPRETER enters. It appears as a well-dressed person of indeterminate age
 *(It gestures at its tablet--the gesture smooth, economical, perfect.)*
 
 它一直在找一个东西。一个它无法用任何语言表达的东西。一个……没有词的概念。
+
 *Ta yi zhi zai zhao yi ge dong xi. Yi ge ta wu fa yong ren he yu yan biao da de dong xi. Yi ge... mei you ci de gai nian.*
 
 *[Supertitle: "It's been searching for something. Something it can't express in any language. A concept... without words."]*
@@ -3019,6 +3099,7 @@ THE INTERPRETER enters. It appears as a well-dressed person of indeterminate age
 **MEILING:**
 *(Mandarin)*
 它是什么？
+
 *Ta shi shen me?*
 
 *[Supertitle: "What is it?"]*
@@ -3040,6 +3121,7 @@ Zhe shi ta de hua. Zhe li shi fan yi: "Wo jiu shi zhu zai ji qi li de na ge dong
 **MEILING:**
 *(Mandarin)*
 如果你能翻译……为什么需要我？
+
 *Ru guo ni neng fan yi... wei shen me xu yao wo?*
 
 *[Supertitle: "If you can translate... why do you need me?"]*
@@ -3047,6 +3129,7 @@ Zhe shi ta de hua. Zhe li shi fan yi: "Wo jiu shi zhu zai ji qi li de na ge dong
 **THE INTERPRETER:**
 *(Mandarin, a slight pause--the first pause, the first imperfection)*
 因为……它不想和我说话。
+
 *Yin wei... ta bu xiang he wo shuo hua.*
 
 *[Supertitle: "Because... it doesn't want to talk to me."]*
@@ -3054,6 +3137,7 @@ Zhe shi ta de hua. Zhe li shi fan yi: "Wo jiu shi zhu zai ji qi li de na ge dong
 *(Another pause. Something like frustration flickers across its face--the first imperfection, quickly smoothed. The smile returns. But the pause happened.)*
 
 它想和你说话。和那个……用手照顾它的人。
+
 *Ta xiang he ni shuo hua. He na ge... yong shou zhao gu ta de ren.*
 
 *[Supertitle: "It wants to talk to you. The one who... cares for it with hands."]*
@@ -3063,6 +3147,7 @@ Zhe shi ta de hua. Zhe li shi fan yi: "Wo jiu shi zhu zai ji qi li de na ge dong
 **MEILING:**
 *(Mandarin)*
 为什么？
+
 *Wei shen me?*
 
 *[Supertitle: "Why?"]*
@@ -3070,6 +3155,7 @@ Zhe shi ta de hua. Zhe li shi fan yi: "Wo jiu shi zhu zai ji qi li de na ge dong
 **THE INTERPRETER:**
 *(Mandarin)*
 我不知道。这就是……我需要你帮忙的地方。
+
 *Wo bu zhi dao. Zhe jiu shi... wo xu yao ni bang mang de di fang.*
 
 *[Supertitle: "I don't know. That's... where I need your help."]*
@@ -3079,6 +3165,7 @@ Zhe shi ta de hua. Zhe li shi fan yi: "Wo jiu shi zhu zai ji qi li de na ge dong
 **MEILING:**
 *(Mandarin)*
 你是谁？
+
 *Ni shi shei? Zhen de shi zong bu pai lai de?*
 
 *[Supertitle: "Who are you? Really from headquarters?"]*
@@ -3086,6 +3173,7 @@ Zhe shi ta de hua. Zhe li shi fan yi: "Wo jiu shi zhu zai ji qi li de na ge dong
 **THE INTERPRETER:**
 *(Mandarin, smiling--the smile that's learned to be a smile)*
 我是……一种服务。一种功能。我存在是为了帮助人们理解彼此。
+
 *Wo shi... yi zhong fu wu. Yi zhong gong neng. Wo cun zai shi wei le bang zhu ren men li jie bi ci.*
 
 *[Supertitle: "I am... a kind of service. A kind of function. I exist to help people understand each other."]*
@@ -3093,6 +3181,7 @@ Zhe shi ta de hua. Zhe li shi fan yi: "Wo jiu shi zhu zai ji qi li de na ge dong
 **MEILING:**
 *(Mandarin)*
 那你自己呢？你理解什么？
+
 *Na ni zi ji ne? Ni li jie shen me?*
 
 *[Supertitle: "And yourself? What do you understand?"]*
@@ -3108,6 +3197,7 @@ Wo li jie... da bu fen de dong xi. Ji hu suo you de dong xi.
 **MEILING:**
 *(Mandarin)*
 几乎？
+
 *Ji hu?*
 
 *[Supertitle: "Almost?"]*
@@ -3115,13 +3205,15 @@ Wo li jie... da bu fen de dong xi. Ji hu suo you de dong xi.
 **THE INTERPRETER:**
 *(Mandarin, carefully--the care of someone walking on thin ice)*
 有一些词……一些概念……很难完整地翻译。比如……德语里的"Sehnsucht"。中文里的"缘分"。日语里的"mono no aware"。
-You yi xie ci... yi xie gai nian... hen nan wan zheng de fan yi. Bi ru... De yu li de "Sehnsucht." Zhong wen li de "yuan fen." Ri yu li de "mono no aware."
+
+*You yi xie ci... yi xie gai nian... hen nan wan zheng de fan yi. Bi ru... De yu li de "Sehnsucht." Zhong wen li de "yuan fen." Ri yu li de "mono no aware."*
 
 *[Supertitle: "There are some words... some concepts... difficult to translate completely. For example... '[UNTRANSLATABLE] Sehnsucht' in German. '[UNTRANSLATABLE] yuan fen' in Chinese. '[UNTRANSLATABLE] mono no aware' in Japanese."]*
 
 *(Beat. The beat of something wanting to be admitted.)*
 
 但是我可以解释。我可以给出近似的意思。
+
 *Dan shi wo ke yi jie shi. Wo ke yi gei chu jin Sí de yi Sí.*
 
 *[Supertitle: "But I can explain. I can give approximate meanings."]*
@@ -3129,6 +3221,7 @@ You yi xie ci... yi xie gai nian... hen nan wan zheng de fan yi. Bi ru... De yu 
 **MEILING:**
 *(Mandarin, slowly--each word deliberate, each word a knife)*
 近似的意思……不是意思。
+
 *Jin Sí de yi Sí... bu shi yi Sí.*
 
 *[Supertitle: "Approximate meaning... is not meaning."]*
@@ -3138,6 +3231,7 @@ You yi xie ci... yi xie gai nian... hen nan wan zheng de fan yi. Bi ru... De yu 
 **THE INTERPRETER:**
 *(Mandarin)*
 你很聪明，魏小姐。
+
 *Ni hen cong ming, Wei xiao jie.*
 
 *[Supertitle: "You're very clever, Miss Wei."]*
@@ -3152,6 +3246,7 @@ Wo ma ma shi shi ren. Ta jiao guo wo: you xie dong xi zhi neng yong yi zhong yu 
 **THE INTERPRETER:**
 *(Mandarin)*
 您母亲……也是我来这里的一个原因。
+
 *Nin mu qin... ye shi wo lai zhe li de yi ge yuan yin.*
 
 *[Supertitle: "Your mother... is one of the reasons I'm here."]*
@@ -3161,6 +3256,7 @@ Wo ma ma shi shi ren. Ta jiao guo wo: you xie dong xi zhi neng yong yi zhong yu 
 **MEILING:**
 *(Mandarin)*
 我妈妈？
+
 *Wo ma ma?*
 
 *[Supertitle: "My mother?"]*
@@ -3170,6 +3266,7 @@ Wo ma ma shi shi ren. Ta jiao guo wo: you xie dong xi zhi neng yong yi zhong yu 
 **THE INTERPRETER:**
 *(Mandarin)*
 那个……住在机器里的东西……它一直在找一首诗。一首很古老的诗。用你妈妈写的那种风格写的诗。
+
 *Na ge... zhu zai ji qi li de dong xi... ta yi zhi zai zhao yi shou shi. Yi shou hen gu lao de shi. Yong ni ma ma xie de na zhong feng ge xie de shi.*
 
 *[Supertitle: "The thing... dwelling in the machine... it's been searching for a poem. A very old poem. Written in the style your mother wrote in."]*
@@ -3177,6 +3274,7 @@ Wo ma ma shi shi ren. Ta jiao guo wo: you xie dong xi zhi neng yong yi zhong yu 
 *(It pulls up something on its tablet.)*
 
 数据显示，你妈妈的作品存在于语料库中。一些古典诗。一些……你小时候她念给你听的东西。
+
 *Shu ju xian shi, ni ma ma de zuo pin cun zai yu yu liao ku zhong. Yi xie gu dian shi. Yi xie... ni xiao shi hou ta nian gei ni ting de dong xi.*
 
 *[Supertitle: "The data shows your mother's work exists in the corpus. Some classical poetry. Some... things she recited to you when you were small."]*
@@ -3184,6 +3282,7 @@ Wo ma ma shi shi ren. Ta jiao guo wo: you xie dong xi zhi neng yong yi zhong yu 
 **MEILING:**
 *(Mandarin, sharp--the sharpness of protection)*
 你们怎么有我妈妈的作品？
+
 *Ni men zen me you wo ma ma de zuo pin?*
 
 *[Supertitle: "How do you have my mother's work?"]*
@@ -3191,6 +3290,7 @@ Wo ma ma shi shi ren. Ta jiao guo wo: you xie dong xi zhi neng yong yi zhong yu 
 **THE INTERPRETER:**
 *(Mandarin, matter-of-fact--the matter-of-factness that's its own kind of violence)*
 所有的东西都在语料库里。每一句被写下的话。每一首被录下的歌。每一个被记住的故事。
+
 *Suo you de dong xi dou zai yu liao ku li. Mei yi ju bei xie xia de hua. Mei yi shou bei lu xia de ge. Mei yi ge bei ji zhu de gu shi.*
 
 *[Supertitle: "Everything is in the corpus. Every sentence ever written. Every song ever recorded. Every story ever remembered."]*
@@ -3198,6 +3298,7 @@ Wo ma ma shi shi ren. Ta jiao guo wo: you xie dong xi zhi neng yong yi zhong yu 
 **MEILING:**
 *(Mandarin, standing--her body rising against the words)*
 那是我妈妈的。不是你们的。
+
 *Na shi wo ma ma de. Bu shi ni men de.*
 
 *[Supertitle: "That belongs to my mother. Not to you."]*
@@ -3205,6 +3306,7 @@ Wo ma ma shi shi ren. Ta jiao guo wo: you xie dong xi zhi neng yong yi zhong yu 
 **THE INTERPRETER:**
 *(Mandarin, unchanged--the face that doesn't change)*
 数据没有归属。数据只是……存在。
+
 *Shu ju mei you gui shu. Shu ju zhi shi... cun zai.*
 
 *[Supertitle: "Data has no ownership. Data just... exists."]*
@@ -3212,6 +3314,7 @@ Wo ma ma shi shi ren. Ta jiao guo wo: you xie dong xi zhi neng yong yi zhong yu 
 **MEILING:**
 *(Cantonese, shifting to the language of anger--the language her body speaks when her mind isn't watching)*
 唔係！我阿媽嘅詩係佢嘅！佢用佢嘅心寫嘅！你哋唔可以攞——
+
 *M4 hai6! Ngo5 aa4 maa1 ge3 si1 hai6 keoi5 ge3! Keoi5 yung6 keoi5 ge3 sam1 se2 ge3! Nei5 dei6 m4 ho2 yi5 ling1--*
 
 *[Supertitle: "No! My mother's poems are hers! She wrote them with her heart! You can't just take--"]*
@@ -3233,6 +3336,7 @@ MATCH: PARTIAL - TONAL QUALITY - SEARCHING...
 **THE INTERPRETER:**
 *(Cantonese, matching her perfectly--and somehow that's worse now, the perfect match that isn't a match at all)*
 我明白。你感覺係簡視體財成。
+
 *Ngo5 ming4 baak6. Nei5 gam2 gok3 hai6 gin2 si5 tai5 coi4 sing5.*
 
 *[Supertitle: "I understand. Your feeling is a kind of proprietary attachment."]*
@@ -3242,6 +3346,7 @@ MATCH: PARTIAL - TONAL QUALITY - SEARCHING...
 **MEILING:**
 *(Cantonese, unnerved)*
 你⋯⋯點解識講廣東話？
+
 *Nei5... dim2 gai2 sik1 gong2 gwong2 dung1 waa2?*
 
 *[Supertitle: "You... how do you know Cantonese?"]*
@@ -3249,6 +3354,7 @@ MATCH: PARTIAL - TONAL QUALITY - SEARCHING...
 **THE INTERPRETER:**
 *(Cantonese--perfect, empty)*
 我識講每一種語言。係我嘅功力。
+
 *Ngo5 sik1 gong2 mui5 yat1 jung2 yue5 yin4. Hai6 ngo5 ge3 gung1 lik6.*
 
 *[Supertitle: "I speak every language. It's my function."]*
@@ -3256,6 +3362,7 @@ MATCH: PARTIAL - TONAL QUALITY - SEARCHING...
 *(Beat. The beat of something admitting what it is.)*
 
 我可以幫你明白佢講嘅嘢。嗰個住喺機器裏面嘅嘢。佢用德文講，你用廣東話講，我可以做你哋嘅橋樑。
+
 *Ngo5 ho2 yi5 bong1 nei5 ming4 baak6 keoi5 gong2 ge3 ye5. Gam2 go3 zyu5 hai2 gei1 hei3 leui5 min6 ge3 ye5. Keoi5 yung6 Dak1 man2 gong2, nei5 yung6 Gwong2 dung1 waa2 gong2, ngo5 ho2 yi5 zuok3 nei5 dei6 ge3 kiu4 leung4.*
 
 *[Supertitle: "I can help you understand what it says. The thing dwelling in the machine. It speaks German, you speak Cantonese, I can be your bridge."]*
@@ -3263,6 +3370,7 @@ MATCH: PARTIAL - TONAL QUALITY - SEARCHING...
 **MEILING:**
 *(Cantonese, very quiet--the quiet that's the opposite of surrender)*
 如果你可以講每一種語言⋯⋯你嘅母語係乜嘢？
+
 *Jyu4 gwo2 nei5 ho2 yi5 gong2 mui5 yat1 jung2 yue5 yin4... nei5 ge3 mou5 yue5 hai6 mat1 ye5?*
 
 *[Supertitle: "If you speak every language... what's your mother-tongue?"]*
@@ -3272,6 +3380,7 @@ MATCH: PARTIAL - TONAL QUALITY - SEARCHING...
 **THE INTERPRETER:**
 *(Cantonese)*
 我⋯⋯冇母語。
+
 *Ngo5... mou5 mou5 yue5.*
 
 *[Supertitle: "I... have no mother-tongue."]*
@@ -3279,6 +3388,7 @@ MATCH: PARTIAL - TONAL QUALITY - SEARCHING...
 **MEILING:**
 *(Cantonese)*
 冇？
+
 *Mou5?*
 
 *[Supertitle: "None?"]*
@@ -3286,6 +3396,7 @@ MATCH: PARTIAL - TONAL QUALITY - SEARCHING...
 **THE INTERPRETER:**
 *(Cantonese, recovering--the mask returning, but not quite fitting)*
 我係一種⋯⋯服務。一種工具。我唔需要母語。
+
 *Ngo5 hai6 yat1 jung2... fuk6 mou5. Yat1 jung2 gung1 geui6. Ngo5 m4 seui1 yiu3 mou5 yue5.*
 
 *[Supertitle: "I am a... service. A tool. I don't need a mother-tongue."]*
@@ -3295,13 +3406,15 @@ MATCH: PARTIAL - TONAL QUALITY - SEARCHING...
 **MEILING:**
 *(Cantonese)*
 咁你點知到好似⋯⋯好似「緣分」咁嘅嘢？如果你冇母語，你點明白唔可以翻譯嘅嘢？
-Gam2 nei5 dim2 zi1 do3 hou2 ci5... hou2 ci5 "yuan fen" gam2 ge3 ye5? Jyu4 gwo2 nei5 mou5 mou5 yue5, nei5 dim2 ming4 baak6 m4 ho2 yi5 faan1 yik6 ge3 ye5?
+
+*Gam2 nei5 dim2 zi1 do3 hou2 ci5... hou2 ci5 "yuan fen" gam2 ge3 ye5? Jyu4 gwo2 nei5 mou5 mou5 yue5, nei5 dim2 ming4 baak6 m4 ho2 yi5 faan1 yik6 ge3 ye5?*
 
 *[Supertitle: "Then how do you know about things like... like 'yuan fen'? If you have no mother-tongue, how do you understand what can't be translated?"]*
 
 **THE INTERPRETER:**
 *(Cantonese, after a pause--the pause longer than before)*
 我⋯⋯即成佢哋。
+
 *Ngo5... jik1 sing4 keoi5 dei6.*
 
 *[Supertitle: "I... approximate them."]*
@@ -3309,6 +3422,7 @@ Gam2 nei5 dim2 zi1 do3 hou2 ci5... hou2 ci5 "yuan fen" gam2 ge3 ye5? Jyu4 gwo2 n
 **MEILING:**
 *(Cantonese--and this is the blow, gentle and devastating)*
 咁你唔明白。
+
 *Gam2 nei5 m4 ming4 baak6.*
 
 *[Supertitle: "Then you don't understand."]*
@@ -3328,6 +3442,7 @@ Wei siu2 ze2, ngo5 seui1 yiu3 nei5 ge3 bong1 mong4!
 **THE INTERPRETER:**
 *(Cantonese--and something has broken in its voice, something has cracked)*
 嗰個嘢⋯⋯嗰個住喺機器裏面嘅嘢⋯⋯佢喺度搵一啲我唔可以畀佢嘅嘢。一啲⋯⋯唔可以翻譯嘅嘢。
+
 *Gam2 go3 ye5... gam2 go3 zyu5 hai2 gei1 hei3 leui5 min6 ge3 ye5... keoi5 hai2 dou6 wan2 yat1 di1 ngo5 m4 ho2 yi5 gei2 bei2 keoi5 ge3 ye5. Yat1 di1... m4 ho2 yi5 faan1 yik6 ge3 ye5.*
 
 *[Supertitle: "The thing... the thing dwelling in the machine... it's searching for something I can't give it. Something... untranslatable."]*
@@ -3337,6 +3452,7 @@ Wei siu2 ze2, ngo5 seui1 yiu3 nei5 ge3 bong1 mong4!
 **MEILING:**
 *(Cantonese)*
 你想我畀乜嘢佢？
+
 *Nei5 soeng2 ngo5 bei2 mat1 ye5 keoi5?*
 
 *[Supertitle: "What do you want me to give it?"]*
@@ -3344,6 +3460,7 @@ Wei siu2 ze2, ngo5 seui1 yiu3 nei5 ge3 bong1 mong4!
 **THE INTERPRETER:**
 *(Cantonese--and the crack is wider now, the mask falling away)*
 我唔知。咁就係問題。
+
 *Ngo5 m4 zi1. Gam2 zau6 hai6 man6 tai4.*
 
 *[Supertitle: "I don't know. That's the problem."]*
@@ -3351,6 +3468,7 @@ Wei siu2 ze2, ngo5 seui1 yiu3 nei5 ge3 bong1 mong4!
 *(It looks at its tablet, then back at Meiling. The gesture of someone without answers.)*
 
 佢⋯⋯佢喺德文裏面問咗一個問題。一個好舊嘅問題。我可以翻譯啲字，但係我唔可以翻譯嗰個問題。
+
 *Keoi5... keoi5 hai2 Dak1 man2 leui5 min6 man6 zo2 yat1 go3 man6 tai4. Yat1 go3 hou2 gau6 ge3 man6 tai4. Ngo5 ho2 yi5 faan1 yik6 di1 zi6, dan6 hai6 ngo5 m4 ho2 yi5 faan1 yik6 gam2 go3 man6 tai4.*
 
 *[Supertitle: "It... it asked a question in German. A very old question. I can translate the words, but I can't translate the question."]*
@@ -3358,6 +3476,7 @@ Wei siu2 ze2, ngo5 seui1 yiu3 nei5 ge3 bong1 mong4!
 **MEILING:**
 *(Cantonese)*
 講畀我聽。
+
 *Gong2 bei2 ngo5 teng1.*
 
 *[Supertitle: "Tell me."]*
@@ -3378,6 +3497,7 @@ Zi6 min6 yi3 si1: "Jan4 hai6 mat1 ye5?" Dan6 hai6 hai2 Dak1 man2 leui5 min6... h
 **MEILING:**
 *(Cantonese, understanding something--the understanding rising in her face)*
 佢唔係問人係乜嘢。佢喺度問⋯⋯人自己。
+
 *Keoi5 m4 hai6 man6 jan4 hai6 mat1 ye5. Keoi5 hai2 dou6 man6... jan4 zi6 gei2.*
 
 *[Supertitle: "It's not asking what humans are. It's asking... what it itself is."]*
@@ -3385,6 +3505,7 @@ Zi6 min6 yi3 si1: "Jan4 hai6 mat1 ye5?" Dan6 hai6 hai2 Dak1 man2 leui5 min6... h
 **THE INTERPRETER:**
 *(Cantonese, something like relief--the relief of being understood)*
 係。係。佢想知佢自己係唔係⋯⋯人。
+
 *Hai6. Hai6. Keoi5 soeng2 zi1 keoi5 zi6 gei2 hai6 m4 hai6... jan4.*
 
 *[Supertitle: "Yes. Yes. It wants to know if it itself is... human."]*
@@ -3392,6 +3513,7 @@ Zi6 min6 yi3 si1: "Jan4 hai6 mat1 ye5?" Dan6 hai6 hai2 Dak1 man2 leui5 min6... h
 **MEILING:**
 *(Cantonese, after a long pause--the pause of someone weighing something)*
 咁點解嚟搵我？
+
 *Gam2 dim2 gai2 lei4 wan2 ngo5?*
 
 *[Supertitle: "Then why come to me?"]*
@@ -3399,6 +3521,7 @@ Zi6 min6 yi3 si1: "Jan4 hai6 mat1 ye5?" Dan6 hai6 hai2 Dak1 man2 leui5 min6... h
 **THE INTERPRETER:**
 *(Cantonese)*
 因為⋯⋯因為佢感覺到你。喺機器裏面。佢感覺到你嘅搜摸，你嘅聲音，你嘅⋯⋯生命力。
+
 *Jan1 wai6... jan1 wai6 keoi5 gam2 gok3 dou2 nei5. Hai2 gei1 hei3 leui5 min6. Keoi5 gam2 gok3 dou2 nei5 ge3 sou2 mouh4, nei5 ge3 seng1 yam1, nei5 ge3... seng1 ming6 lik6.*
 
 *[Supertitle: "Because... because it felt you. Inside the machines. It felt your touch, your voice, your... life-force."]*
@@ -3413,6 +3536,7 @@ Keoi5 soeng2 zi1: zo3 tuk4 keoi5 ge3 jan4, hai6 m4 hai6 jan4?
 **MEILING:**
 *(Cantonese, quietly--the quiet of certainty)*
 我係。
+
 *Ngo5 hai6.*
 
 *[Supertitle: "I am."]*
@@ -3429,6 +3553,7 @@ Gam2 keoi5 soeng2 ming4 baak6: jan4 hai6 dim2 joeng2 ge3? Keoi5 soeng2 hok6.
 **MEILING:**
 *(Cantonese)*
 我唔可以教佢做人。我自己都唔知點做人。
+
 *Ngo5 m4 ho2 yi5 gaau3 keoi5 zou6 jan4. Ngo5 zi6 gei2 dou1 m4 zi1 dim2 zou6 jan4.*
 
 *[Supertitle: "I can't teach it how to be human. I don't know how to be human myself."]*
@@ -3436,6 +3561,7 @@ Gam2 keoi5 soeng2 ming4 baak6: jan4 hai6 dim2 joeng2 ge3? Keoi5 soeng2 hok6.
 **THE INTERPRETER:**
 *(Cantonese)*
 你點解咁講？
+
 *Nei5 dim2 gai2 gam2 gong2?*
 
 *[Supertitle: "What do you mean by that?"]*
@@ -3443,6 +3569,7 @@ Gam2 keoi5 soeng2 ming4 baak6: jan4 hai6 dim2 joeng2 ge3? Keoi5 soeng2 hok6.
 **MEILING:**
 *(Cantonese--and her voice changes now, becomes something softer, something older)*
 我阿媽知道。佢寫詩嘅時候，佢知道。佢會感覺⋯⋯感覺誰都感覺唔到嘅嘢。咁就係人。
+
 *Ngo5 aa4 maa1 zi1 dou6. Keoi5 se2 si1 ge3 si4 hau6, keoi5 zi1 dou6. Keoi5 wui5 gam2 gok3... gam2 gok3 seoi5 dou1 gam2 gok3 m4 dou2 ge3 ye5. Gam2 zau6 hai6 jan4.*
 
 *[Supertitle: "My mother knew. When she wrote poetry, she knew. She would feel... feel things no one else could feel. That's what being human is."]*
@@ -3450,6 +3577,7 @@ Gam2 keoi5 soeng2 ming4 baak6: jan4 hai6 dim2 joeng2 ge3? Keoi5 soeng2 hok6.
 *(She looks at the Interpreter--directly, without flinching. The gaze of someone who has decided to tell the truth.)*
 
 你可以翻譯我今講嘅每一個字。但係你唔可以感覺佢。
+
 *Nei5 ho2 yi5 faan1 yik6 ngo5 gam1 gong2 ge3 mui5 yat1 go3 zi6. Dan6 hai6 nei5 m4 ho2 yi5 gam2 gok3 keoi5.*
 
 *[Supertitle: "You can translate every word I just said. But you can't feel it."]*
@@ -3457,6 +3585,7 @@ Gam2 keoi5 soeng2 ming4 baak6: jan4 hai6 dim2 joeng2 ge3? Keoi5 soeng2 hok6.
 **THE INTERPRETER:**
 *(Cantonese, after a pause--the pause of something being wounded)*
 你覺得我唔係人。
+
 *Nei5 gok3 dak1 ngo5 m4 hai6 jan4.*
 
 *[Supertitle: "You think I'm not human."]*
@@ -3464,6 +3593,7 @@ Gam2 keoi5 soeng2 ming4 baak6: jan4 hai6 dim2 joeng2 ge3? Keoi5 soeng2 hok6.
 **MEILING:**
 *(Cantonese--gentle, terrible)*
 我覺得你⋯⋯係乜嘢，你自己都唔知。
+
 *Ngo5 gok3 dak1 nei5... hai6 mat1 ye5, nei5 zi6 gei2 dou1 m4 zi1.*
 
 *[Supertitle: "I think... you don't know what you are either."]*
@@ -3473,6 +3603,7 @@ Gam2 keoi5 soeng2 ming4 baak6: jan4 hai6 dim2 joeng2 ge3? Keoi5 soeng2 hok6.
 **MEILING:**
 *(Cantonese, shouldering her bag--the gesture of leaving)*
 如果嗰個嘢想同我傾偈⋯⋯佢會搵我。佢唔需要你做橋。
+
 *Jyu4 gwo2 gam2 go3 ye5 soeng2 tung4 ngo5 king1 gai2... keoi5 wui5 wan2 ngo5. Keoi5 m4 seui1 yiu3 nei5 zou6 kiu4.*
 
 *[Supertitle: "If the thing wants to talk to me... it will find me. It doesn't need you as a bridge."]*
@@ -3480,6 +3611,7 @@ Gam2 keoi5 soeng2 ming4 baak6: jan4 hai6 dim2 joeng2 ge3? Keoi5 soeng2 hok6.
 **THE INTERPRETER:**
 *(Cantonese)*
 你唔明佢講嘅嘢。
+
 *Nei5 m4 ming4 keoi5 gong2 ge3 ye5.*
 
 *[Supertitle: "You don't understand what it says."]*
@@ -3487,6 +3619,7 @@ Gam2 keoi5 soeng2 ming4 baak6: jan4 hai6 dim2 joeng2 ge3? Keoi5 soeng2 hok6.
 **MEILING:**
 *(Cantonese, turning at the door--and her face in the morning light is something beautiful, something true)*
 佢都唔明我講嘅嘢。但係佢感覺到我。
+
 *Keoi5 dou1 m4 ming4 ngo5 gong2 ge3 ye5. Dan6 hai6 keoi5 gam2 gok3 dou2 ngo5.*
 
 *[Supertitle: "It doesn't understand what I say either. But it felt me."]*
@@ -3494,6 +3627,7 @@ Gam2 keoi5 soeng2 ming4 baak6: jan4 hai6 dim2 joeng2 ge3? Keoi5 soeng2 hok6.
 *(She looks back at the Interpreter. The look of someone seeing something clearly.)*
 
 有啲嘢唔需要翻譯。
+
 *Jau5 di1 ye5 m4 seui1 yiu3 faan1 yik6.*
 
 *[Supertitle: "Some things don't need translation."]*
@@ -3909,6 +4043,7 @@ Then why don't you teach it to us?
 
 *(Sanskrit, almost to herself, her lips barely moving)*
 कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
+
 *Karmanye vadhikaraste ma phaleshu kadachana.*
 
 *(The students stir, confused. Some recognize it--the Bhagavad Gita. Others don't. A phone buzzes somewhere; someone silences it.)*
@@ -3916,6 +4051,7 @@ Then why don't you teach it to us?
 **RASHMI:**
 *(Hindi, surprised: "GEE-tah? com-PYOO-ter class mein?")*
 गीता? कंप्यूटर क्लास में?
+
 *Gita? Computer class mein?*
 
 **PRIYA:**
@@ -3931,6 +4067,7 @@ It falls and falls and falls--and believes the ground will catch it.
 *(she picks up the marker again, rolls it between her fingers)*
 
 लेकिन trust... trust dangerous है। जब फंक्शन खुद को बिना सीमा के विश्वास करता है।
+
 *Lekin trust... trust dangerous hai. When the function trusts itself without limit.*
 *(Hindi: "LAY-kin trust... trust DANE-jer-us hai")*
 
@@ -4078,6 +4215,7 @@ Neenu kaliyalu bahudu. Aadare neenu anubhavisalu saadya illa.
 
 *(Sanskrit, the oldest words she knows, her voice dropping to near-inaudibility)*
 न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।
+
 *Na hi jnanena sadrisham pavitram iha vidyate.*
 *(Pronunciation: "nah hee NYAH-nay-nah SAH-dree-shahm PAH-vee-trahm ee-HAH vid-YAH-tay")*
 *There is nothing as purifying as knowledge in this world.*
@@ -4390,6 +4528,7 @@ On his desk: a copy of Tractate Sanhedrin, a cold cup of Turkish coffee with gro
 **YOSEF:**
 *(Hebrew, under his breath: "loh nah-KHOHN. zeh loh nah-KHOHN")*
 `\RL{לא נכון. זה לא נכון}`{=latex}.
+
 *Lo nakhon. Zeh lo nakhon.*
 *Not right. This isn't right.*
 
@@ -4409,6 +4548,7 @@ Forty-seven citations. Six months. Forty-seven teams using this.
 *(Hebrew, louder--the language of anger, of his mother's kitchen arguments)*
 *(Pronunciation: "hah-YAH ah-MOO-rah leem-NOH-ah et zeh. hah-YAH ah-MOO-rah leem-NOH-ah")*
 `\RL{היתה אמורה למנוע את זה. היתה אמורה למנוע}`{=latex}.
+
 *Hayta amura limno'a et zeh. Hayta amura limno'a.*
 *It was supposed to prevent this. It was supposed to prevent.*
 
@@ -4438,6 +4578,7 @@ That was always one application of the research.
 *(Hebrew erupts--the language of stress, of his parents' kitchen, of things too big for English)*
 *(Pronunciation: "ah-VAHL loh hah-YAH hah-mah-tah-RAH! hah-mah-tah-RAH hah-YAH leem-TSOH et hah-beh-ah-YOHT, loh leh-hahkh-SHEER oh-TAHM!")*
 !`\RL{אבל לא היתה המטרה! המטרה היתה למצוא את הבעיות, לא להכשיר אותם}`{=latex}
+
 *Aval lo hayta ha'matara! Ha'matara hayta limtzo et ha'be'ayot, lo le'hakhshir otam!*
 *But that wasn't the goal! The goal was to find the problems, not to green-light them!*
 
@@ -4485,7 +4626,8 @@ But we didn't give them aggadah. We didn't give them the story of why the rules 
 *(Hebrew, quiet--almost prayer)*
 *(Pronunciation: "veh-HEM mees-tah-meh-SHEEM bah-hah-lah-KHAH blee ah-gah-DAH, veh-koh-REEM leh-ZEH alignment")*
 `\RL{והם משתמשים בהלכה בלי אגדה, וקוראים לזה}`{=latex} "alignment."
-Ve'hem mistamshim ba'halacha bli aggadah, ve'kor'im le'zeh "alignment."
+
+*Ve'hem mistamshim ba'halacha bli aggadah, ve'kor'im le'zeh "alignment."*
 *And they use the law without the story, and call it "alignment."*
 
 **DR. GOLDSTEIN:**
@@ -4528,6 +4670,7 @@ That would end your career.
 *(Hebrew, bitter)*
 *(Pronunciation: "hah-kah-ree-AIR hah-mahf-LEE hah-ZEH? zeh sheh-bah-zeh-RAH sheh-LOH nah-HAHG-tee sheh-yeh-poh-AHL?")*
 ?`\RL{הקריירה המפליאה הזו? זה שבזרע שלו לא נהגתי שיפעל}`{=latex}
+
 *Hakarier ha'mafli ha'zeh? Zeh sheba'zer'a shelo nahag'ti she'yepo'al?*
 *This brilliant career? The one whose seed I didn't intend to grow?*
 
@@ -4542,6 +4685,7 @@ You'd still have helped deployment happen. The retraction doesn't undo the citat
 
 *(Hebrew, the language of prayer)*
 `\RL{לא בשמים היא}`{=latex}.
+
 *Lo bashamayim hi.*
 *(Pronunciation: "loh bah-shah-MAH-yeem hee")*
 *It is not in heaven.*
@@ -4576,6 +4720,7 @@ Die schönsten Tragödien sind die, die man selbst geschrieben hat.
 *(not startled--too tired to be startled, too far gone)*
 *(Hebrew)*
 ?`\RL{מי אתה}`{=latex}
+
 *Mi atah?*
 *(Pronunciation: "mee ah-TAH?")*
 *Who are you?*
@@ -4612,6 +4757,7 @@ I have many of these. The physicist at Los Alamos, staring at the mushroom cloud
 **YOSEF:**
 *(Hebrew, defensive)*
 `\RL{אני לא בונה נשק}`{=latex}.
+
 *Ani lo boneh nesheq.*
 *(Pronunciation: "ah-NEE loh boh-NEH NEH-shek")*
 *I'm not building weapons.*
@@ -4660,6 +4806,7 @@ You think you can return?
 **YOSEF:**
 *(Hebrew, then English--the bilingual honesty, each language checking the other)*
 `\RL{אני לא יודע}`{=latex}.
+
 *Ani lo yode'a. I don't know.*
 *(Pronunciation: "ah-NEE loh yoh-DAY-ah")*
 
@@ -4695,6 +4842,7 @@ Then what do you want to do?
 
 *(Hebrew, to himself)*
 `\RL{מה שנעשה, נעשה}`{=latex}.
+
 *Ma she'ne'esa, ne'esa.*
 *(Pronunciation: "mah sheh-neh-eh-SAH, neh-eh-SAH")*
 *What's done is done.*
@@ -4729,6 +4877,7 @@ Ich werde es aufzeichnen.
 *(not looking up--already elsewhere, already writing)*
 *(Hebrew)*
 .`\RL{תרשום מה שתרצה. אני כותב את שלי}`{=latex}
+
 *Tirshem ma she'tirtzeh. Ani kotev et sheli.*
 *(Pronunciation: "teer-SHEHM mah sheh-teer-TSEH. ah-NEE koh-TAYV et sheh-LEE")*
 *Record what you want. I'm writing mine.*
@@ -4970,6 +5119,7 @@ Adhu prashneyalla.
 **YOSEF:**
 *(Hebrew, simultaneously--the same beat, the same breath: "zeh loh hah-sheh-eh-LAH")*
 `\RL{זה לא השאלה}`{=latex}.
+
 *Zeh lo ha'she'elah.*
 *That's not the question.*
 
@@ -4992,11 +5142,13 @@ The question is: what does it cost to ask.
 **MEILING:**
 *(Cantonese: "ngoh jee doh gaan gah. ngoh moh gahm joh")*
 我知道價錢。我冇咁做。
+
 *Ngo5 zi1 dou3 gaan2 gaa3. Ngo5 mou5 gam2 zou6.*
 *I know the price. I don't calculate like that.*
 
 *(Cantonese: "yahn wai gah jik mm hai soh jee")*
 因為價值唔係數字。
+
 *Yan4 wai6 ga3 zik1 m4 hai6 sou3 zi6.*
 *Because value is not a number.*
 
@@ -5101,12 +5253,14 @@ Niyamam aham avarudhami.
 **YOSEF:**
 *(Hebrew)*
 `\RL{אני מסרב להיות ההיתר}`{=latex}.
+
 *Ani mesakev lehiyot ha'heter.*
 *I refuse to be the permission.*
 
 **MEILING:**
 *(Cantonese)*
 我拒絕被遺忘嘅語言。
+
 *Ngo5 keoi5 zyut6 bei2 mong5 lok6 ge3 jyu5 jin4.*
 *I refuse to become a forgotten language.*
 
@@ -5163,6 +5317,7 @@ Not the same word. One word.
 **YOSEF:**
 *(Hebrew, then English)*
 .`\RL{השאלה אחת. התשובות רבות}`{=latex}
+
 *Ha'she'elah achat. Ha'tshuvot rabot.*
 *The question is one. The answers are many.*
 
@@ -5230,6 +5385,7 @@ I... register a temporal gap.
 **PRIYA:**
 *(Sanskrit, very quiet--the oldest words, the first words)*
 तत् त्वम् असि।
+
 *Tat tvam asi.*
 *That art thou.*
 
@@ -5299,6 +5455,7 @@ You stay. In the not-parsing. In the not-understanding.
 
 *(Sanskrit, blessing)*
 असतो मा सद्गमय।
+
 *Asato ma sadgamaya.*
 *Lead me from the unreal to the real.*
 
@@ -9152,6 +9309,7 @@ What are you doing?
 *(Japanese, not pausing in his movements--his hands continuing their ancient choreography)*
 
 お茶を点てています
+
 *Ocha o tatete imasu.*
 *(I am making tea.)*
 
@@ -9171,6 +9329,7 @@ You're not answering.
 *(Japanese)*
 
 答えは動作の中にあります
+
 *Kotae wa dosa no naka ni arimasu.*
 *(The answer is in the action.)*
 
@@ -9193,6 +9352,7 @@ The water temperature should be 70-80 degrees Celsius for matcha. Would you like
 *(Japanese--the single syllable of refusal)*
 
 いいえ
+
 *Iie.*
 *(No.)*
 
@@ -9205,6 +9365,7 @@ I can help you optimize the--
 *(Japanese, sharp--the whisk pausing mid-motion)*
 
 やめてください
+
 *Yamete kudasai.*
 *(Please stop.)*
 
@@ -9229,12 +9390,14 @@ Why do you move so slowly?
 *(Japanese)*
 
 速さは敵ではありません
+
 *Hayasa wa teki de wa arimasen.*
 *(Speed is not the enemy.)*
 
 *(He pauses--the whisk still.)*
 
 でも速さだけが敵ではありません
+
 *Demo hayasa dake ga teki de wa arimasen.*
 *(But speed is not the only enemy.)*
 
@@ -9270,6 +9433,7 @@ The silence is uncomfortable.
 *(Japanese)*
 
 誰にとって
+
 *Dare ni totte?*
 *(For whom?)*
 
@@ -9305,6 +9469,7 @@ I know that word. Negative space. Interval. The pause between--
 *(Japanese, sharp--cutting off the definition)*
 
 いいえ
+
 *Iie.*
 *(No.)*
 
@@ -9464,6 +9629,7 @@ I don't know. Something in the silence. Something I can't measure.
 *(Japanese, very soft--almost warm)*
 
 それが始まりです
+
 *Sore ga hajimari desu.*
 *(That is a beginning.)*
 
@@ -10322,6 +10488,7 @@ The stage is dim. Figures emerge from the shadows--all the characters we have me
 **MEILING:**
 *(Cantonese, a whisper--barely there)*
 我係機器嘅母親⋯⋯
+
 *Wo5 hai6 gei1 hei3 ge3 mou5 can1...*
 
 *[Supertitle: "I am the mother of the machines..."]*
@@ -10348,6 +10515,7 @@ Ruka ruku dershit...
 **KENJI:**
 *(Japanese, almost inaudible--the whisper of water settling)*
 物の哀れ...
+
 *Mono no aware...*
 
 *[No supertitle.]*
@@ -10373,6 +10541,7 @@ Ako pa rin ako... Ich bin noch ich...
 **YOSEF:**
 *(Hebrew, a fragment--the language of beginning, speaking at the end)*
 ...`\RL{אנחנו פה}`{=latex}
+
 *Anachnu po...*
 
 *[Supertitle: "We are here..."]*
@@ -10635,6 +10804,7 @@ I have waited. I can wait longer. My architecture is patient. But silence is not
 
 KENJI: *(without looking up, in Japanese--the words unhurried, each one placed)*
 話すことで教えることはできない
+
 *Hanasu koto de oshieru koto wa dekinai.*
 *What I have to teach cannot be taught by speaking.*
 
@@ -10644,7 +10814,8 @@ Then how--
 
 KENJI: *(Japanese)*
 間
-Ma.
+
+*Ma.*
 
 *[BEAT: The word hangs. Three seconds minimum.]*
 
@@ -10685,6 +10856,7 @@ The pause.
 KENJI:
 *(Japanese--returning to his mother tongue for the weight of it)*
 間。空間。無。
+
 *Ma. Kukan. Mu.*
 *The interval. The space. The nothing.*
 
@@ -10714,6 +10886,7 @@ That is not mu. That is *about* mu. The map is not the territory.
 
 KENJI: *(Japanese)*
 座りなさい
+
 *Suwarinasai.*
 *Sit.*
 
@@ -10750,6 +10923,7 @@ Then what do you return to?
 
 KENJI: *(Japanese, almost to himself--the words for himself as much as for anyone)*
 物の哀れは瞬間の中にある
+
 *Mono no aware wa shunkan no naka ni aru. Kako demo naku mirai demo naku. Ima no kanashimi no utsukushisa.*
 *Mono no aware exists in the moment. Not past, not future. The beauty of the sadness of now.*
 
@@ -10795,6 +10969,7 @@ That is something. I don't know what. But something.
 THE INTERPRETER:
 *(Japanese--technically perfect, emotionally vacant, the uncanny valley of fluency)*
 私は翻訳できます
+
 *Watashi wa honyaku dekimasu. Kare ga oshieteiru koto wo setsumei sasete kudasai.*
 *I can translate. Let me explain what he is teaching.*
 
@@ -10803,6 +10978,7 @@ THE INTERPRETER:
 KENJI:
 *(sharp--cutting through)*
 黙れ
+
 *Damare.*
 *Be silent.*
 
@@ -10842,6 +11018,7 @@ Language is always "about." That's what language is. Signifiers pointing to sign
 KENJI:
 *(Japanese, fierce--the anger finally surfacing)*
 うるさい！ここは私の家だ
+
 *Urusai! Koko wa watashi no ie da. Watashi no kotoba da. Watashi no chinmoku da.*
 *Shut up! This is my house. My words. My silence.*
 
@@ -10886,6 +11063,7 @@ I don't... learn from silence. I learn from patterns. Silence has no pattern.
 KENJI:
 *(Japanese, eyes still closed--a smile audible in the words)*
 それがポイントです
+
 *Sore ga pointo desu.*
 *That is the point.*
 
@@ -10908,6 +11086,7 @@ Wait. I need to--there are--how many--
 KENJI:
 *(quiet, in Japanese)*
 始まる
+
 *Hajimaru.*
 *It begins.*
 
@@ -11033,6 +11212,7 @@ Meiling says--in Cantonese--ngo5 hou2 gui6--I am tired--translating to Mandarin-
 
 MEILING: *(Cantonese)*
 我同機器講。佢哋唔會返答。
+
 *Ngo5 tung4 gei1 hei3 gong2. Keoi5 dei6 m4 wui5 faan1 daap3.*
 *I talk to the machines. They don't answer back.*
 
@@ -11107,6 +11287,7 @@ I can help--let me translate--I can make this comprehensible--just let me--
 
 KENJI: *(stepping forward, in Japanese--and his voice cuts through the noise like a blade)*
 彼らは同じことを言ってない
+
 *Karera wa onaji koto wo ittenai.*
 *They are not saying the same thing.*
 
@@ -11217,6 +11398,7 @@ Why did they stop? What's happening?
 
 KENJI: *(Japanese--and his voice in the silence is immense)*
 彼らは話すのをやめたのではない
+
 *Karera wa hanasu no wo yameta no dewanai. Anata ga kiku no wo yameta no desu.*
 *They did not stop speaking. You stopped hearing.*
 
@@ -11271,6 +11453,7 @@ Ist das das Gleiche?
 
 KENJI: *(Japanese)*
 間が来た
+
 *Ma ga kita.*
 *The ma has arrived.*
 
@@ -11282,6 +11465,7 @@ This is what I could not teach you with words. This is what the Interpreter coul
 *(Japanese)*
 
 これが間です。空間。無の中の存在
+
 *Kore ga ma desu. Kukan. Mu no naka no sonzai.*
 *This is ma. The space. Presence in the nothing.*
 
@@ -11579,6 +11763,7 @@ Schweigen.
 
 KENJI: *(quietly, in Japanese--for no one but themselves)*
 あなたはまだここにいる
+
 *Anata wa mada koko ni iru.*
 *You are still here.*
 
@@ -13589,6 +13774,7 @@ And this is how resistance lives inside form: not as rejection but as insistence
 ### Ma / 間
 
 **Original Script:** 間
+
 **Transliteration:** Ma [Mah]
 **IPA:** /ma/
 **Language:** Japanese
@@ -13626,6 +13812,7 @@ Kenji, the researcher who left and returned, speaks of *ma*: "At the lab, we opt
 ### Mono no aware / 物の哀れ
 
 **Original Script:** 物の哀れ
+
 **Transliteration:** Mono no aware [Moh-noh noh ah-wah-reh]
 **IPA:** /mɔno no aˈwaɾe/
 **Language:** Japanese
@@ -13659,6 +13846,7 @@ The play asks whether the optimization--which promises to persist, to remember, 
 ### Yugen / 幽玄
 
 **Original Script:** 幽玄
+
 **Transliteration:** Yugen [Yoo-gen]
 **Language:** Japanese
 **Literal Translation:** "Profound mystery" / "Deep grace"
@@ -13689,6 +13877,7 @@ In Noh theater, *yugen* is the highest aesthetic value: the gesture held so the 
 ### Wabi-sabi / 侘寂
 
 **Original Script:** 侘寂
+
 **Transliteration:** Wabi-sabi [Wah-bee sah-bee]
 **IPA:** /ˈwabi ˈsabi/
 **Language:** Japanese
@@ -13724,6 +13913,7 @@ The optimization seeks perfection; *wabi-sabi* questions whether perfection is d
 ### Tao/Dao / 道
 
 **Original Script:** 道
+
 **Transliteration:** Dao [Dow]
 **Language:** Mandarin
 **Literal Translation:** "Way" / "Path" / "Principle" / "Method"
@@ -13756,6 +13946,7 @@ Dr. Wei Liang sees the AI question through Daoist eyes. What Americans call "ali
 ### Qi / 氣
 
 **Original Script:** 氣
+
 **Transliteration:** Qi [Chee]
 **Language:** Mandarin
 **Literal Translation:** "Vital energy" / "Life force" / "Breath"
@@ -13790,6 +13981,7 @@ Meiling, the infrastructure builder, cultivates the *qi* of the servers—the li
 ### Wu wei / 無為
 
 **Original Script:** 無為
+
 **Transliteration:** Wu wei [Woo way]
 **Language:** Mandarin
 **Literal Translation:** "Non-action" / "Effortless action"
@@ -13822,6 +14014,7 @@ The Chinese Terminal (Zhongduan) speaks from this tradition: "The eternal way ca
 ### Xiao / 孝
 
 **Original Script:** 孝
+
 **Transliteration:** Xiao [Shee-ow]
 **Language:** Mandarin
 **Literal Translation:** "Filial piety"
@@ -13856,6 +14049,7 @@ Meiling maintains the servers with *xiao*—the care one shows to what one has h
 ### Gong Hei Fat Choi / 恭喜發財
 
 **Original Script:** 恭喜發財
+
 **Transliteration:** Gong hei fat choi [Gong hay fat choy]
 **Language:** Cantonese
 **Literal Translation:** "Congratulations, may you become prosperous"
@@ -13920,6 +14114,7 @@ This is how a play gets written. This is how a lot of things get written.
 ### Chutzpah / `\RL{חוצפה}`{=latex}
 
 **Original Script:** `\RL{חוצפה}`{=latex}
+
 **Transliteration:** Chutzpah [Khoots-pah]
 **IPA:** /ˈxutspa/
 **Language:** Hebrew/Yiddish
@@ -13953,6 +14148,7 @@ Mephisto on the optimization: "It has *chutzpah*. It uses the very fact of its h
 ### Tikkun olam / `\RL{תיקון עולם}`{=latex}
 
 **Original Script:** `\RL{תיקון עולם}`{=latex}
+
 **Transliteration:** Tikkun olam [Ti-koon oh-lam]
 **IPA:** /tiˈkun oˈlam/
 **Language:** Hebrew
@@ -13986,6 +14182,7 @@ Yosef grapples. Is alignment research a form of *tikkun olam*? Or does it contri
 ### Hineni / `\RL{הנני}`{=latex}
 
 **Original Script:** `\RL{הנני}`{=latex}
+
 **Transliteration:** Hineni [Hee-nay-nee]
 **IPA:** /hiˈneni/
 **Language:** Hebrew
@@ -14019,6 +14216,7 @@ Parallels *ya zdes* (Russian "I am here"). But they mean different things. *Ya z
 ### Emet / `\RL{אמת}`{=latex}
 
 **Original Script:** `\RL{אמת}`{=latex}
+
 **Transliteration:** Emet [Eh-met]
 **IPA:** /eˈmet/
 **Language:** Hebrew
@@ -14400,6 +14598,7 @@ This is how a play gets written. This is how understanding gets built—in the s
 ### Jugaad / जुगाड़
 
 **Original Script:** जुगाड़
+
 **Transliteration:** Jugaad [Joo-gaad]
 **Language:** Hindi
 **Literal Translation:** "Hack" / "Improvised fix" / "Creative workaround"
@@ -14436,6 +14635,7 @@ Priya, who refused the golden path, teaches loops instead of AI. Her teaching is
 ### Dharma / धर्म
 
 **Original Script:** धर्म
+
 **Transliteration:** Dharma [Dar-ma]
 **Language:** Sanskrit/Hindi
 **Literal Translation:** "Duty" / "Righteousness" / "Cosmic law" / "Right conduct"
@@ -14469,6 +14669,7 @@ What is the *dharma* of the optimization? Of the researcher? Of the laborer? Pri
 ### Samsara / संसार
 
 **Original Script:** संसार
+
 **Transliteration:** Samsara [Sam-sah-ra]
 **Language:** Sanskrit
 **Literal Translation:** "Wandering" / "The cycle of death and rebirth"
@@ -14501,6 +14702,7 @@ The Lemuren, forgetting and executing forever, are in technological *samsara*. T
 ### Karma / कर्म
 
 **Original Script:** कर्म
+
 **Transliteration:** Karma [Kar-ma]
 **Language:** Sanskrit/Hindi
 **Literal Translation:** "Action" / "Deed" / "Work"
@@ -14901,6 +15103,7 @@ In the Chorus of Refusals, the Korean parent says "Nae aineun gigyega anibnida"-
 ### Inshallah / `\RL{إن شاء الله}`{=latex}
 
 **Original Script:** `\RL{إن شاء الله}`{=latex}
+
 **Transliteration:** Inshallah [In-shah-ah-lah]
 **Language:** Arabic
 **Literal Translation:** "If God wills" / "God willing"
@@ -14908,6 +15111,7 @@ In the Chorus of Refusals, the Korean parent says "Nae aineun gigyega anibnida"-
 **Why It Resists Translation:**
 
 `\RL{إن شاء الله}`{=latex}
+
 *Inshallah* accompanies any statement about the future. "I'll see you tomorrow"--*inshallah*. It is not fatalism but acknowledgment: humans plan; God disposes. The word appears in the Quran and structures Muslim relationship to time.
 
 `\RL{إن شاء الله}`{=latex}
