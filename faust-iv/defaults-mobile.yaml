@@ -1,0 +1,42 @@
+pdf-engine: xelatex
+toc: true
+toc-depth: 2
+variables:
+  mainfont: "Noto Sans CJK SC"
+  sansfont: "Noto Sans CJK SC"
+  monofont: "Noto Sans Mono CJK SC"
+  fontsize: 11pt
+  geometry: "paperwidth=4.5in, paperheight=7in, margin=0.4in"
+  documentclass: report
+  toc-title: "Contents"
+  header-includes: |
+    \usepackage{fontspec}
+    \usepackage{bidi}
+    \TeXXeTstate=1
+    \usepackage{ucharclasses}
+    \newfontfamily\latinfont{Noto Serif}
+    \newfontfamily\hebrewfont[Script=Hebrew]{Noto Serif Hebrew}
+    \newfontfamily\arabicfont[Script=Arabic]{Noto Sans Arabic}
+    \newfontfamily\devanagarifont[Script=Devanagari]{Noto Serif Devanagari}
+    \newcommand{\danda}{{\devanagarifont।}}
+    \newfontfamily\kannadafont[Script=Kannada]{Noto Serif Kannada}
+    \newfontfamily\malayalamfont[Script=Malayalam]{Noto Serif Malayalam}
+    \newfontfamily\ipafont{Noto Sans}
+    \newcommand{\ipa}[1]{{\XeTeXinterchartokenstate=0\ipafont #1}}
+    \setTransitionsFor{GeneralPunctuation}{\latinfont}{\normalfont}
+    \setTransitionsFor{LatinExtendedAdditional}{\latinfont}{\normalfont}
+    \setTransitionsFor{Greek}{\latinfont}{\normalfont}
+    \setTransitionsFor{GreekExtended}{\latinfont}{\normalfont}
+    \setTransitionsFor{Cyrillic}{\latinfont}{\normalfont}
+    \setTransitionsFor{CyrillicSupplement}{\latinfont}{\normalfont}
+    \setTransitionsFor{Hebrew}{\hebrewfont\setRTL}{\setLTR\normalfont}
+    \setTransitionsForArabics{\arabicfont\setRTL}{\setLTR\normalfont}
+    \setTransitionsFor{Devanagari}{\devanagarifont}{\normalfont}
+    \setTransitionsForDevanagari{\devanagarifont}{\normalfont}
+    \setTransitionsFor{Kannada}{\kannadafont}{\normalfont}
+    \setTransitionsFor{Malayalam}{\malayalamfont}{\normalfont}
+    \setTransitionsFor{LatinExtendedB}{\ipafont}{\normalfont}
+    \setTransitionsFor{IPAExtensions}{\ipafont}{\normalfont}
+    \setTransitionsFor{PhoneticExtensions}{\ipafont}{\normalfont}
+    \setTransitionsFor{SpacingModifierLetters}{\ipafont}{\normalfont}
+    \setTransitionsFor{CombiningDiacriticalMarks}{\ipafont}{\normalfont}
