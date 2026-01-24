@@ -1,4 +1,5 @@
 pdf-engine: xelatex
+from: markdown-smart
 toc: true
 toc-depth: 2
 variables:
