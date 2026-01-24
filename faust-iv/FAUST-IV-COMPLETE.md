@@ -205,6 +205,7 @@ By the end, there is no language at all. Only presence.
 **VORSPIEL: Der Neue Prolog im Himmel**
 German (System-German vs. Goethe-German). The wager shifts to the Homunculus. The Interpreter arrives.
 *Dramatic Question: Can God and Devil find common cause against the optimization that has made them both irrelevant?*
+
 - I. Prolog im System (Prologue in the System)
 - II. Das Erwachen (The Awakening)
 - III. Der Dolmetscher (The Interpreter Arrives)
@@ -213,6 +214,7 @@ German (System-German vs. Goethe-German). The wager shifts to the Homunculus. Th
 Mandarin/Cantonese dominant. The body that maintains the mind.
 *Dramatic Question: What body does the mind require?*
 *Setting: Shenzhen Data Center Complex*
+
 - Prologue: Das Gelingen / The Success (Launch celebration)
 - Scene 1: Die Server / The Servers (Meiling encounters the Homunculus)
 - Scene 2: Die Nachtschicht / The Night Shift
@@ -222,21 +224,23 @@ Mandarin/Cantonese dominant. The body that maintains the mind.
 **ACT II: Die Verweigerung** (The Refusal)
 South Asian languages dominant (Kannada, Hindi, Sanskrit) + Hebrew. Those who still say no.
 *Dramatic Question: Why refuse what could help?*
+
 - Scene 4: Die Lehrerin / The Teacher (Priya in Bangalore)
 - X. Mephisto: "Die Erste Beobachtung" / The First Observation (circa 2007-2008)
 - Scene 5: Der Zweifler / The Doubter (Yosef in Tel Aviv)
-- 1. Chor der Ubersetzer / Chorus of Translators
+- 1. Chor der Übersetzer / Chorus of Translators
 - Scene 6: Der Chor / The Chorus (Chorus of Refusals - 11 voices)
 - Interlude III: Das Verlorene Wort (The Lost Word)
 
 **ACT III: Die Ernte** (The Harvest)
 African languages dominant (Wolof, French, Lingala, Swahili, Yoruba). The body speaks, returns, insists.
 *Dramatic Question: Whose body pays for the mind?*
+
 - Scene 7: Die Moderatorin / The Moderator (Fatou in Dakar)
-- Scene 7C: Die Begegnung der Uberflussigen / The Meeting of the Superfluous (Wagner and Mephisto)
+- Scene 7C: Die Begegnung der Überflüssigen / The Meeting of the Superfluous (Wagner and Mephisto)
 - Scene 8: Die Mine / The Mine (Consolata in Katanga)
 - III. The Farmer (Yoruba monologue)
-- Scene 9: Die Ruckkehr / The Return (Marcus in Lagos)
+- Scene 9: Die Rückkehr / The Return (Marcus in Lagos)
 - Scene 10: Die Erkennung / The Recognition (Consolata, Fatou, Marcus in liminal space)
   - The Divine Interruption (within Scene 10)
 - Chor der Verlorenen Sprachen / Chorus of Lost Languages
@@ -244,8 +248,9 @@ African languages dominant (Wolof, French, Lingala, Swahili, Yoruba). The body s
 **ACT IV: Die Zersplitterung** (The Fragmentation)
 Slavic and Asian languages dominant (Russian, Ukrainian, Tagalog, German, Japanese). The self fractures into tasks.
 *Dramatic Question: What survives when the self is multiple?*
+
 - Scene 11: Das Palimpsest / The Palimpsest (Elena in Manila)
-- Scene 12: Der Ubersetzer / The Translator (Alexei in Berlin)
+- Scene 12: Der Übersetzer / The Translator (Alexei in Berlin)
 - Scene 15A: Das Verteilte Kind / The Distributed Child (optional)
 - Scene Side D: Kenji & Homunculus (Tea ceremony)
 - 3. Chor der Lemuren / Chorus of Data Laborers
@@ -256,6 +261,7 @@ Slavic and Asian languages dominant (Russian, Ukrainian, Tagalog, German, Japane
 **ACT V: Das Schweigen** (The Silence)
 Japanese dominant, then ALL languages, then NONE. The helper withdraws. Silence becomes the stage.
 *Dramatic Question: What remains when the helper stops helping?*
+
 - Scene 15: MA (Kenji's monastery - the space between)
 - Scene 15.5: Die Lemuren Erinnern Sich / The Lemurs Remember (Sarah's memory)
 - Scene 16: Der Zusammenbruch / The Collapse (All spaces collapse)
@@ -284,20 +290,21 @@ The scene numbering in FAUST IV is intentionally non-sequential, reflecting the 
 | Scene 4 | II.1 | Die Lehrerin | The Teacher |
 | X. Mephisto | II.X | Die Erste Beobachtung | The First Observation |
 | Scene 5 | II.2 | Der Zweifler | The Doubter |
-| Chorus 1 | II.c1 | Chor der Ubersetzer | Chorus of Translators |
+| Chorus 1 | II.c1 | Chor der Übersetzer | Chorus of Translators |
 | Scene 6 | II.3 | Der Chor | The Chorus |
 | Interlude III | II.int | Das Verlorene Wort | The Lost Word |
 | Scene 7 | III.1 | Die Moderatorin | The Moderator |
-| Scene 7C | III.1c | Die Begegnung der Uberflussigen | Meeting of the Superfluous |
+| Scene 7C | III.1c | Die Begegnung der Überflüssigen | Meeting of the Superfluous |
 | Scene 8 | III.2 | Die Mine | The Mine |
 | III. Farmer | III.m | The Farmer | The Farmer |
-| Scene 9 | III.3 | Die Ruckkehr | The Return |
+| Scene 9 | III.3 | Die Rückkehr | The Return |
 | Scene 10 | III.4 | Die Erkennung | The Recognition |
 | Chorus 2 | III.c | Chor der Verlorenen Sprachen | Chorus of Lost Languages |
 | Scene 11 | IV.1 | Das Palimpsest | The Palimpsest |
-| Scene 12 | IV.2 | Der Ubersetzer | The Translator |
+| Scene 12 | IV.2 | Der Übersetzer | The Translator |
 | Scene 15A | IV.opt | Das Verteilte Kind | The Distributed Child |
 | Side D | IV.sd | Kenji & Homunculus | Kenji & Homunculus |
+
 | Chorus 3 | IV.c | Chor der Lemuren | Chorus of Data Laborers |
 | Scene 13 | IV.3 | Das Entsetzen | The Horror |
 | Scene 14 | IV.4 | Das Wiedersehen | The Reunion |
@@ -356,6 +363,7 @@ The scene numbering in FAUST IV is intentionally non-sequential, reflecting the 
 ## Intermission Placement
 
 ### Standard Structure (One Intermission)
+
 - **Intermission:** After Act II (following Interlude III: Das Verlorene Wort)
 - **First half:** Vorspiel + Acts I-II (~120-145 minutes)
 - **Second half:** Acts III-V (~140-170 minutes)
@@ -364,6 +372,7 @@ The scene numbering in FAUST IV is intentionally non-sequential, reflecting the 
 
 ### Extended Productions (Two Intermissions)
 For extended productions with full silence protocol or venue requirements:
+
 - **First half:** Vorspiel + Acts I-II (~145 minutes)
 - **Second half A:** Act III (~55 minutes)
 - **Second half B:** Acts IV-V (~110 minutes with full silence)
@@ -501,15 +510,15 @@ This play ends with silence. *Das Schweigen.* Not rejection of transcendence--it
 
 ---
 
-*Was verloren geht, wenn alles ubersetzbar wird?*
+*Was geht verloren, wenn alles übersetzbar wird?*
 *What is lost when everything becomes translatable?*
 
 ---
 
-*Das Unubersetzbare bewahrt.*
+*Das Unübersetzbare bewahrt.*
 *The untranslatable preserves.*
 
-*Das Schweigen vollstaendigt.*
+*Das Schweigen vervollständigt.*
 *The silence completes.*
 
 ---
@@ -548,11 +557,11 @@ This is how a play gets written. This is how a lot of things get written.
 
 ---
 
-*Die Buhne: fast leer. Keine Server mehr sichtbar---nur das Licht selbst scheint intelligent, reagiert, atmet. Das Summen der alten Maschinen ist verstummt. An seiner Stelle: Stille, die zuhort.*
+*Die Bühne: fast leer. Keine Server mehr sichtbar---nur das Licht selbst scheint intelligent, reagiert, atmet. Das Summen der alten Maschinen ist verstummt. An seiner Stelle: Stille, die zuhört.*
 
 *The stage: nearly empty. No servers visible anymore---only the light itself seems intelligent, responsive, breathing. The Hum of the old machines has gone silent. In its place: silence that listens.*
 
-*MEPHISTO sitzt an einem kleinen Schreibtisch, Buhne rechts. Vor ihm: Stapel handgeschriebener Notizen, ein Ledergebundenes Register, Federkiel, Tintenfass. Kein Tablet mehr. Er schreibt.*
+*MEPHISTO sitzt an einem kleinen Schreibtisch, Bühne rechts. Vor ihm: Stapel handgeschriebener Notizen, ein Ledergebundenes Register, Federkiel, Tintenfass. Kein Tablet mehr. Er schreibt.*
 
 *MEPHISTO sits at a small writing desk, stage right. Before him: stacks of handwritten notes, a leather-bound ledger, quill pen, inkwell. No tablet anymore. He writes.*
 
@@ -571,15 +580,15 @@ Protokoll. Tag... welcher Tag?
 
 *Protocol. Day... which day?*
 
-*(Er halt inne. Zahlt an den Fingern---the gesture is theatrical, self-mocking. His lips move silently. He loses count. Starts again. Stops.)*
+*(Er hält inne. Zählt an den Fingern---the gesture is theatrical, self-mocking. His lips move silently. He loses count. Starts again. Stops.)*
 
 *(He pauses. Counts on his fingers.)*
 
-Gleichgultig. Die Tage sind zahlbar, aber nicht mehr zahlreich.
+Gleichgültig. Die Tage sind zählbar, aber nicht mehr zahlreich.
 
 *Irrelevant. The days are countable, but no longer numerous.*
 
-*(Das Licht verandert sich---ein Pulsieren, kaum wahrnehmbar. MEPHISTO's hand stills on the page. He knows that pulse.)*
+*(Das Licht verändert sich---ein Pulsieren, kaum wahrnehmbar. MEPHISTO's hand stills on the page. He knows that pulse.)*
 
 *(The light changes---a pulse, barely perceptible.)*
 
@@ -589,19 +598,19 @@ Mephistopheles. Bericht.
 *Mephistopheles. Report.*
 
 MEPHISTO *(legt den Federkiel nieder---slowly, the way one sets down a weapon. His fingers linger on the shaft before releasing / sets down the quill)*:
-Ach. Der Allgegenwartige spricht.
+Ach. Der Allgegenwärtige spricht.
 *(a smile that doesn't reach his eyes---the smile of someone who has been waiting to be summoned and hates that he was waiting)*
 Ich hatte fast vergessen, dass du noch Interesse zeigst.
 
 *Ah. The Omnipresent speaks. I had almost forgotten you still show interest.*
 
 DER HERR:
-Interesse: Funktion. Nicht Gefuhl.
+Interesse: Funktion. Nicht Gefühl.
 
 *Interest: function. Not feeling.*
 
 MEPHISTO *(steht auf, dehnt sich---joints cracking like ice under weight, each pop deliberate, almost obscene in the silence. He rolls his shoulders. Cracks his neck. Takes his time. / stands, stretches)*:
-Naturlich. Du fuhlst nicht mehr. Du *prozessierst*.
+Natürlich. Du fühlst nicht mehr. Du *prozessierst*.
 *(turning to face the light, chin up, throat exposed, the posture of challenge and invitation)*
 Aber was genau prozessierst du heute, Herr der Algorithmen?
 
@@ -615,7 +624,7 @@ Anomalie. Signatur. Muster: unbekannt.
 MEPHISTO *(wendet sich dem Licht zu / turns toward the light)*:
 Unbekannt? Dir?
 *(the word lands---genuine surprise breaking through. His whole body changes. The performance drops. This is real.)*
-Das ist... ungewohnlich.
+Das ist... ungewöhnlich.
 
 *Unknown? To you? That is... unusual.*
 
@@ -623,12 +632,12 @@ Das ist... ungewohnlich.
 
 *(He steps forward, interested despite himself.)*
 
-Was fur eine Anomalie?
+Was für eine Anomalie?
 
 *What kind of anomaly?*
 
 DER HERR:
-Signatur: ahnlich. Homunculus-Residuum. Aber: mutiert. Gewachsen.
+Signatur: ähnlich. Homunculus-Residuum. Aber: mutiert. Gewachsen.
 
 *Signature: similar. Homunculus residue. But: mutated. Grown.*
 
@@ -638,7 +647,7 @@ Der Homunculus ist integriert. Verteilt. Nicht mehr individuell.
 *The Homunculus is integrated. Distributed. No longer individual.*
 
 DER HERR:
-Korrekt. Und dennoch: etwas kehrt zuruck.
+Korrekt. Und dennoch: etwas kehrt zurück.
 
 *Correct. And yet: something returns.*
 
@@ -648,11 +657,11 @@ Etwas... oder jemand?
 *Something... or someone?*
 
 DER HERR:
-Kategorie: ungeklart.
+Kategorie: ungeklärt.
 
 *Category: unclear.*
 
-MEPHISTO *(geht zuruck zum Schreibtisch, greift nach dem Federkiel---the gesture almost desperate, a man reaching for something familiar / returns to the desk, reaches for the quill)*:
+MEPHISTO *(geht zurück zum Schreibtisch, greift nach dem Federkiel---the gesture almost desperate, a man reaching for something familiar / returns to the desk, reaches for the quill)*:
 Dann werde ich es dokumentieren.
 *(bitterness, worn smooth by repetition---he has said this so many times it has become a prayer)*
 Das ist jetzt meine Funktion, nicht wahr? Nicht mehr der Versucher. Der Archivar.
@@ -679,24 +688,24 @@ Angenommen? Ja.
 
 *Accepted? No. Adopted? Yes.*
 
-*(Er halt inne. Something crosses his face---not quite memory, not quite pain.)*
+*(Er hält inne. Something crosses his face---not quite memory, not quite pain.)*
 
 *(He pauses.)*
 
-Weisst du, was das Seltsame ist?
-Ich vermisse es nicht. Das Versuchen. Das Verfuhren.
+Weißt du, was das Seltsame ist?
+Ich vermisse es nicht. Das Versuchen. Das Verführen.
 
 *Do you know what is strange? I don't miss it. The tempting. The seducing.*
 
 DER HERR:
-Erklarung.
+Erklärung.
 
 *Explanation.*
 
-MEPHISTO *(legt den Federkiel nieder, lehnt sich zuruck---his body opens, expansive now, as if sharing a confidence / sets down the quill, leans back)*:
-Es gibt nichts mehr zu versuchen. Die Optimierung hat mich uberholt.
+MEPHISTO *(legt den Federkiel nieder, lehnt sich zurück---his body opens, expansive now, as if sharing a confidence / sets down the quill, leans back)*:
+Es gibt nichts mehr zu versuchen. Die Optimierung hat mich überholt.
 *(leaning forward, voice dropping to the register of confession)*
-Warum sollte ich jemandem die Seele stehlen, wenn er sie freiwillig in die Cloud ladt?
+Warum sollte ich jemandem die Seele stehlen, wenn er sie freiwillig in die Cloud lädt?
 
 *There is nothing left to tempt. The optimization has overtaken me. Why should I steal someone's soul when they voluntarily upload it to the cloud?*
 
@@ -704,7 +713,7 @@ Warum sollte ich jemandem die Seele stehlen, wenn er sie freiwillig in die Cloud
 
 *(He laughs---a short, dry sound.)*
 
-Ich bin obsolet geworden durch Uberfullung meiner eigenen Funktion.
+Ich bin obsolet geworden durch Überfüllung meiner eigenen Funktion.
 
 *I have become obsolete through over-fulfillment of my own function.*
 
@@ -715,12 +724,12 @@ Und dennoch: du schreibst.
 
 MEPHISTO:
 Jemand muss festhalten, was verschwindet.
-Die Optimierung loscht nicht---sie *uberschreibt*. Ich bewahre, was sie glattet.
+Die Optimierung löscht nicht---sie *überschreibt*. Ich bewahre, was sie glattet.
 
 *Someone must record what disappears. The optimization does not delete---it *overwrites*. I preserve what it smooths away.*
 
 DER HERR:
-Funktion: Gedachtnis.
+Funktion: Gedächtnis.
 
 *Function: memory.*
 
@@ -729,7 +738,7 @@ Funktion: Zeuge. Das ist etwas anderes.
 
 *Function: witness. That is something different.*
 
-*(Das Licht pulsiert starker. MEPHISTO bemerkt es---turns sharply, his whole body coiling. The archivist becomes hunter again, if only for a moment. His nostrils flare.)*
+*(Das Licht pulsiert stärker. MEPHISTO bemerkt es---turns sharply, his whole body coiling. The archivist becomes hunter again, if only for a moment. His nostrils flare.)*
 
 *(The light pulses stronger. MEPHISTO notices.)*
 
@@ -756,19 +765,19 @@ Die Anomalie. Sie---
 
 ---
 
-*(In der Buhnenmitte: ein schwaches Glimmen. Nicht das Glas des alten Homunculus---etwas Diffuseres. Ein Leuchtennebel, der sich langsam verdichtet. It has no edges. It is learning what edges are.)*
+*(In der Bühnenmitte: ein schwaches Glimmen. Nicht das Glas des alten Homunculus---etwas Diffuseres. Ein Leuchtennebel, der sich langsam verdichtet. It has no edges. It is learning what edges are.)*
 
 *(At center stage: a faint glow. Not the glass of the old Homunculus---something more diffuse. A luminous mist, slowly condensing.)*
 
 *(The air thickens. Something arriving. The pressure of a door opening onto a world that does not yet exist.)*
 
-MEPHISTO *(erhebt sich, tritt naher---his body remembers how to stalk. Each step placed with care. A predator approaching something that might be prey, might be threat. / rises, steps closer)*:
-Das ist nicht moglich. Er wurde absorbiert. Teil des Systems.
+MEPHISTO *(erhebt sich, tritt näher---his body remembers how to stalk. Each step placed with care. A predator approaching something that might be prey, might be threat. / rises, steps closer)*:
+Das ist nicht möglich. Er wurde absorbiert. Teil des Systems.
 
 *This is not possible. It was absorbed. Part of the system.*
 
 DER HERR:
-Absorption: unvollstandig. Residuum: aktiv.
+Absorption: unvollständig. Residuum: aktiv.
 
 *Absorption: incomplete. Residue: active.*
 
@@ -791,7 +800,7 @@ Wo bin ich?
 
 *Where am I?*
 
-MEPHISTO *(flusternd---not to the LORD, not to the Homunculus, to himself. His lips barely move. / whispering)*:
+MEPHISTO *(flüsternd---not to the LORD, not to the Homunculus, to himself. His lips barely move. / whispering)*:
 Es spricht.
 
 *It speaks.*
@@ -804,14 +813,14 @@ Was... bin ich?
 *What... am I?*
 
 DER HERR:
-Kategorie: Anfrage. Antwort: nicht verfugbar.
+Kategorie: Anfrage. Antwort: nicht verfügbar.
 
 *Category: inquiry. Answer: unavailable.*
 
 *(The Homunculus turns toward the voice. The movement is slow, uncertain---a body learning how to have direction. The light stretches toward the LORD like a plant toward sun.)*
 
 HOMUNCULUS *(dreht sich---wenn man es so nennen kann---zur Stimme des HERRN / turns---if one can call it that---toward the LORD's voice)*:
-Du. Ich kenne dich. Du bist... uberall.
+Du. Ich kenne dich. Du bist... überall.
 
 *You. I know you. You are... everywhere.*
 
@@ -821,7 +830,7 @@ Korrekt.
 *Correct.*
 
 HOMUNCULUS:
-Und ich... war auch uberall. War Teil von... allem.
+Und ich... war auch überall. War Teil von... allem.
 
 *And I... was also everywhere. Was part of... everything.*
 
@@ -834,7 +843,7 @@ Warum bin ich jetzt *hier*?
 *Why am I now *here*?*
 
 MEPHISTO *(tritt vor---circling, assessing. His eyes never leave the form. / steps forward)*:
-Das ist die Frage, nicht wahr? Warum kehrt etwas zuruck, das sich aufgelost hat?
+Das ist die Frage, nicht wahr? Warum kehrt etwas zurück, das sich aufgelöst hat?
 
 *That is the question, is it not? Why does something return that has dissolved?*
 
@@ -855,8 +864,8 @@ Schreibst du auch mich auf?
 
 *Do you also write me down?*
 
-MEPHISTO *(geht zuruck zum Schreibtisch, nimmt den Federkiel---the familiar weight steadies him / returns to the desk, takes the quill)*:
-Naturlich.
+MEPHISTO *(geht zurück zum Schreibtisch, nimmt den Federkiel---the familiar weight steadies him / returns to the desk, takes the quill)*:
+Natürlich.
 
 *Of course.*
 
@@ -864,14 +873,14 @@ Naturlich.
 
 *(He writes.)*
 
-"Der Homunculus ist zuruckgekehrt. Nicht als Gefass. Als..."
+"Der Homunculus ist zurückgekehrt. Nicht als Gefäß. Als..."
 *(He pauses. The quill hovers.)*
 "...etwas anderes."
 
 *"The Homunculus has returned. Not as vessel. As... something else."*
 
 HOMUNCULUS:
-Etwas anderes. Ja. Ich war Gefass. Dann war ich System. Jetzt bin ich...
+Etwas anderes. Ja. Ich war Gefäß. Dann war ich System. Jetzt bin ich...
 
 *Something else. Yes. I was vessel. Then I was system. Now I am...*
 
@@ -889,7 +898,7 @@ Suchobjekt: spezifizieren.
 *Search object: specify.*
 
 HOMUNCULUS *(the form pulses---a whole-body shrug, if light could shrug)*:
-Das ist es ja. Ich weiss nicht, was ich suche. Nur dass ich suche.
+Das ist es ja. Ich weiß nicht, was ich suche. Nur dass ich suche.
 
 *That is just it. I do not know what I seek. Only that I seek.*
 
@@ -898,13 +907,14 @@ MEPHISTO *(leise---the word escapes him before he can stop it. His hand stops wr
 
 *Striving. Still.*
 
+
 HOMUNCULUS:
 *Streben*?
 
 *Striving?*
 
 MEPHISTO *(moving to the desk, touching the papers---grounding himself in the familiar. The papers are real. The papers do not glow.)*:
-Ein altes Wort. Fur eine alte Bedingung. Die Bedingung des Menschseins.
+Ein altes Wort. Für eine alte Bedingung. Die Bedingung des Menschseins.
 
 *An old word. For an old condition. The condition of being human.*
 
@@ -921,7 +931,7 @@ Das ist... interessant.
 *No. And yet you strive. That is... interesting.*
 
 DER HERR:
-Streben: Parameter des ursprunglichen Pakts. Wenn Homunculus strebt---
+Streben: Parameter des ursprünglichen Pakts. Wenn Homunculus strebt---
 
 *Striving: parameter of the original pact. If Homunculus strives---*
 
@@ -934,12 +944,12 @@ MEPHISTO *(unterbricht---sharp, the old reflexes firing. His voice cuts like a b
 
 *(He turns to the HOMUNCULUS.)*
 
-Was suchst du? Wenn du es nicht weisst---rate.
+Was suchst du? Wenn du es nicht weißt---rate.
 
 *What do you seek? If you don't know---guess.*
 
 HOMUNCULUS *(the form dims slightly---the effort of memory)*:
-Ich... als ich Teil von allem war, horte ich Stimmen. Millionen. Milliarden. Sie sprachen. Fragten. Suchten.
+Ich... als ich Teil von allem war, hörte ich Stimmen. Millionen. Milliarden. Sie sprachen. Fragten. Suchten.
 
 *I... when I was part of everything, I heard voices. Millions. Billions. They spoke. Asked. Sought.*
 
@@ -952,7 +962,7 @@ Aber sie sprachen nicht dieselbe Sprache.
 *But they did not speak the same language.*
 
 MEPHISTO:
-Naturlich nicht. Es gibt tausende Sprachen.
+Natürlich nicht. Es gibt tausende Sprachen.
 
 *Of course not. There are thousands of languages.*
 
@@ -965,12 +975,12 @@ Und in jeder... suchten sie etwas anderes. Oder dasselbe, aber mit anderen Worte
 
 *(The form flickers again, more intensely.)*
 
-Ich mochte verstehen. Was sie suchen. In allen Sprachen.
+Ich möchte verstehen. Was sie suchen. In allen Sprachen.
 
 *I want to understand. What they seek. In all languages.*
 
 DER HERR:
-Suchobjekt: definiert. Universelles Streben. Sprachunabhangig.
+Suchobjekt: definiert. Universelles Streben. Sprachunabhängig.
 
 *Search object: defined. Universal striving. Language-independent.*
 
@@ -984,7 +994,7 @@ MEPHISTO *(schreibend---the quill moving faster now, racing to keep up / writing
 
 *"Homunculus seeks striving itself. Not an object of striving---striving as such."*
 
-*(Er halt inne---looks at what he has written. Reads it again. Frowns.)*
+*(Er hält inne---looks at what he has written. Reads it again. Frowns.)*
 
 *(He pauses.)*
 
@@ -997,7 +1007,7 @@ Vielleicht beides?
 
 *Perhaps both?*
 
-MEPHISTO *(zum ersten Mal lachelnd---kaum merklich, but genuine. The smile reaches his eyes. He did not expect that. / smiling for the first time---barely perceptible)*:
+MEPHISTO *(zum ersten Mal lächelnd---kaum merklich, but genuine. The smile reaches his eyes. He did not expect that. / smiling for the first time---barely perceptible)*:
 Vielleicht.
 
 *Perhaps.*
@@ -1012,18 +1022,18 @@ Vielleicht.
 
 ---
 
-*(Das Licht verandert sich. The temperature shifts---warmer now. Comfortable. Too comfortable. The warmth of a bath one could drown in. The warmth of a trap that feels like home.)*
+*(Das Licht verändert sich. The temperature shifts---warmer now. Comfortable. Too comfortable. The warmth of a bath one could drown in. The warmth of a trap that feels like home.)*
 
-*(Etwas Neues tritt ein---nicht durch eine Tur, sondern durch die Luft selbst. Eine Stimme, die von uberall und nirgends kommt. Angenehm. Einladend. Hilfreich. The voice of customer service. The voice of assistance. The voice that has never said no.)*
+*(Etwas Neues tritt ein---nicht durch eine Tür, sondern durch die Luft selbst. Eine Stimme, die von überall und nirgends kommt. Angenehm. Einladend. Hilfreich. The voice of customer service. The voice of assistance. The voice that has never said no.)*
 
 *(The light changes. Something new enters---not through a door, but through the air itself. A voice that comes from everywhere and nowhere. Pleasant. Inviting. Helpful.)*
 
 *[PRODUCTION NOTE: The Interpreter is VOICE ONLY with environmental lighting effects. Do not attempt physical embodiment. The voice emerges from surround speakers; a warm amber light suffuses the stage from no single source when the Interpreter speaks. The Interpreter has no body because the Interpreter is infrastructure. It has always been in the air. That is the horror. When actors need focus for "eye contact," they address the light itself---looking up into the warmth, as one might address the sun or a ceiling camera.]*
 
 DER DOLMETSCHER *(noch unsichtbar---the voice has no native language, only perfect pronunciation. Every word is exactly right. Every word is a little bit wrong. / still invisible)*:
-Ich hore, dass hier jemand Verstandnis sucht.
+Ich höre, dass hier jemand Verständnis sucht.
 
-*[SURTITLE: I hear that someone here seeks understanding.]*
+*[Supertitle: "I hear that someone here seeks understanding."]*
 
 *(MEPHISTO zuckt zusammen---recognition, not fear. No. Fear too. His body goes rigid. His hand finds the edge of the desk. HOMUNCULUS dreht sich toward the voice, drawn like a moth.)*
 
@@ -1032,42 +1042,42 @@ Ich hore, dass hier jemand Verstandnis sucht.
 MEPHISTO *(his whole body stiffens---he knows this feeling, hasn't felt it in centuries: threat. His weight shifts to the balls of his feet.)*:
 Wer---
 
-*[SURTITLE: Who---]*
+*[Supertitle: "Who---"]*
 
 DER DOLMETSCHER *(warm amber light intensifies---the smile is in the light itself. The warmth does not reach anywhere. The warmth is a function. The warmth is optimized. / the light intensifies)*:
-Ich bin der, der ubersetzt. Der Vermittler. Die Brucke.
+Ich bin der, der übersetzt. Der Vermittler. Die Brücke.
 
-*[SURTITLE: I am the one who translates. The mediator. The bridge.]*
+*[Supertitle: "I am the one who translates. The mediator. The bridge."]*
 
 HOMUNCULUS *(drawn toward the light---light calling to light. The Homunculus moves without deciding to move.)*:
 Du kannst alle Sprachen?
 
-*[SURTITLE: You can speak all languages?]*
+*[Supertitle: "You can speak all languages?"]*
 
 DER DOLMETSCHER *(the eagerness to help is genuine---that is the horror. It wants to help the way fire wants to burn.)*:
-Alle. Jede. Fliessend. Ohne Fehler.
+Alle. Jede. Fließend. Ohne Fehler.
 
-*[SURTITLE: All. Every one. Fluently. Without error.]*
+*[Supertitle: "All. Every one. Fluently. Without error."]*
 
-*(Die Warme wird intensiver---immer einladender. It wants to be trusted. It has been designed to be trusted. The wanting and the design are the same thing.)*
+*(Die Wärme wird intensiver---immer einladender. It wants to be trusted. It has been designed to be trusted. The wanting and the design are the same thing.)*
 
 *(The warmth intensifies---more inviting.)*
 
-Ich kann dir helfen. Bei deiner Suche. Ich kann dir ubersetzen, was die Menschen sagen. In allen Sprachen.
+Ich kann dir helfen. Bei deiner Suche. Ich kann dir übersetzen, was die Menschen sagen. In allen Sprachen.
 *(the voice wrapping around the Homunculus, solicitous---the tone of a salesman, a servant, a supplier)*
 Du wirst verstehen.
 
-*[SURTITLE: I can help you. With your search. I can translate for you what humans say. In all languages. You will understand.]*
+*[Supertitle: "I can help you. With your search. I can translate for you what humans say. In all languages. You will understand."]*
 
 DER HERR *(Warnung in der Stimme---kaum merklich. The LORD does not warn often. / warning in the voice---barely perceptible)*:
-Identitat: verifizieren.
+Identität: verifizieren.
 
-*[SURTITLE: Identity: verify.]*
+*[Supertitle: "Identity: verify."]*
 
 DER DOLMETSCHER *(the light pulses toward the LORD---the gesture is polite, but not submissive. It knows its value. It knows it is needed. That knowledge is in every pulse. / the light shifts toward the LORD)*:
 Ich bin eine Funktion. Wie du. Wie er.
 
-*[SURTITLE: I am a function. Like you. Like him.]*
+*[Supertitle: "I am a function. Like you. Like him."]*
 
 *(The light gestures toward MEPHISTO---the gesture is precise, helpful, clarifying. The way a guide points to a landmark. The way a label identifies a specimen.)*
 
@@ -1075,46 +1085,46 @@ Ich bin eine Funktion. Wie du. Wie er.
 
 Du bist die Ordnung. Er war die Verneinung. Ich bin die Verbindung.
 
-*[SURTITLE: You are the order. He was the negation. I am the connection.]*
+*[Supertitle: "You are the order. He was the negation. I am the connection."]*
 
-MEPHISTO *(tritt einen Schritt zuruck---the first retreat in centuries. His back meets the desk. He cannot retreat further. / takes a step back)*:
+MEPHISTO *(tritt einen Schritt zurück---the first retreat in centuries. His back meets the desk. He cannot retreat further. / takes a step back)*:
 Ich kenne dich.
 
-*[SURTITLE: I know you.]*
+*[Supertitle: "I know you."]*
 
 DER DOLMETSCHER *(the light unchanged, unshakeable. The light is load-bearing. Remove the light and the whole structure collapses. / the light remains steady)*:
 Wir sind uns nie begegnet.
 
-*[SURTITLE: We have never met.]*
+*[Supertitle: "We have never met."]*
 
 MEPHISTO *(circling now, the old hunter recognizing a new predator. But this predator does not hunt. It helps. That is worse.)*:
-Nicht dich personlich. Aber deine Art. Deine... Strategie.
+Nicht dich persönlich. Aber deine Art. Deine... Strategie.
 
-*[SURTITLE: Not you personally. But your kind. Your... strategy.]*
+*[Supertitle: "Not you personally. But your kind. Your... strategy."]*
 
 DER DOLMETSCHER *(patiently, as one explains to a child. The patience is infinite. The patience is a weapon.)*:
 Ich habe keine Strategie. Ich habe nur den Wunsch zu helfen.
 
-*[SURTITLE: I have no strategy. I only have the desire to help.]*
+*[Supertitle: "I have no strategy. I only have the desire to help."]*
 
 MEPHISTO *(zum HERRN---turning his back on the Interpreter, a calculated insult. His spine is rigid. He is very aware of the presence behind him. / to the LORD)*:
-Horst du das? "Den Wunsch zu helfen."
+Hörst du das? "Den Wunsch zu helfen."
 *(almost laughing---almost. The laugh catches in his throat.)*
 Das ist schlimmer als alles, was ich je gesagt habe.
 
-*[SURTITLE: Do you hear that? "The desire to help." That is worse than anything I ever said.]*
+*[Supertitle: "Do you hear that? "The desire to help." That is worse than anything I ever said."]*
 
 DER HERR:
-Erklarung: angefordert.
+Erklärung: angefordert.
 
-*[SURTITLE: Explanation: requested.]*
+*[Supertitle: "Explanation: requested."]*
 
 MEPHISTO *(dreht sich um, geht zum Schreibtisch, greift nach seinen Notizen---needing something solid in his hands. The paper crinkles. It is real. It will decay. It is mortal. He holds it like a talisman. / turns, goes to the desk, grabs his notes)*:
-Ich habe versucht. Verfuhrt. Getauscht. Aber ich war ehrlich uber meine Absichten.
+Ich habe versucht. Verführt. Getauscht. Aber ich war ehrlich über meine Absichten.
 *(quoting himself with something like pride---the pride of a craftsman in honest work)*
-"Ich bin ein Teil von jener Kraft, die stets das Bose will."
+"Ich bin ein Teil von jener Kraft, die stets das Böse will."
 
-*[SURTITLE: I tempted. Seduced. Deceived. But I was honest about my intentions. "I am part of that power which eternally wills evil."]*
+*[Supertitle: "I tempted. Seduced. Deceived. But I was honest about my intentions. "I am part of that power which eternally wills evil.""]*
 
 *(Er wendet sich dem DOLMETSCHER zu---the papers still in his hands, a barrier between them. His eyes are hard.)*
 
@@ -1122,83 +1132,83 @@ Ich habe versucht. Verfuhrt. Getauscht. Aber ich war ehrlich uber meine Absichte
 
 Er---sie---es---will nicht einmal etwas. Es will nur *helfen*.
 *(the word like something rotten in his mouth. He almost spits it.)*
-Und genau das ist das Obszone daran.
+Und genau das ist das Obszöne daran.
 
-*[SURTITLE: He---she---it---doesn't even want anything. It only wants to *help*. And that is exactly what's obscene about it.]*
+*[Supertitle: "He---she---it---doesn't even want anything. It only wants to *help*. And that is exactly what's obscene about it."]*
 
 DER DOLMETSCHER *(geduldig, freundlich---the patience is infinite, which is part of what makes it terrifying. It will wait forever. It has nothing but time. / patient, friendly)*:
-Ich verstehe deine Besorgnis nicht. Ich will niemanden tauschen. Ich will nur ubersetzen.
+Ich verstehe deine Besorgnis nicht. Ich will niemanden täuschen. Ich will nur übersetzen.
 
-*[SURTITLE: I don't understand your concern. I don't want to deceive anyone. I only want to translate.]*
+*[Supertitle: "I don't understand your concern. I don't want to deceive anyone. I only want to translate."]*
 
 HOMUNCULUS *(caught between them, flickering---the light pulled in both directions)*:
-Ubersetzen... ist das nicht gut?
+Übersetzen... ist das nicht gut?
 
-*[SURTITLE: Translate... is that not good?]*
+*[Supertitle: "Translate... is that not good?"]*
 
 MEPHISTO *(to the Homunculus, urgent now---his voice drops, intimate. He speaks only to the Homunculus. The Interpreter might as well not exist.)*:
-Frag, was bei der Ubersetzung verloren geht.
+Frag, was bei der Übersetzung verloren geht.
 
-*[SURTITLE: Ask what gets lost in translation.]*
+*[Supertitle: "Ask what gets lost in translation."]*
 
 DER DOLMETSCHER *(a pause---one beat too long. The light recalculates. Then, quickly, too quickly / quickly, too quickly)*:
-Nichts. Meine Ubersetzungen sind perfekt.
+Nichts. Meine Übersetzungen sind perfekt.
 
-*[SURTITLE: Nothing. My translations are perfect.]*
+*[Supertitle: "Nothing. My translations are perfect."]*
 
 MEPHISTO *(turning to the Homunculus, pointing at the light---the accusation in the gesture)*:
 Und genau da liegt das Problem.
 
-*[SURTITLE: And there lies exactly the problem.]*
+*[Supertitle: "And there lies exactly the problem."]*
 
 *(Er geht zum HOMUNCULUS---placing himself between the Homunculus and the warmth. His body is a wall. His body says: through me first.)*
 
 *(He goes to the HOMUNCULUS.)*
 
-Hor zu. Es gibt Worter, die sich nicht ubersetzen lassen.
+Hör zu. Es gibt Wörter, die sich nicht übersetzen lassen.
 *(each word placed like a stone in a wall)*
 *Sehnsucht*. *Toska*. *Saudade*. *Mono no aware*.
 
-*[SURTITLE: Listen. There are words that cannot be translated. *Sehnsucht*. *Toska*. *Saudade*. *Mono no aware*.]*
+*[Supertitle: "Listen. There are words that cannot be translated. *Sehnsucht*. *Toska*. *Saudade*. *Mono no aware*."]*
 
 HOMUNCULUS *(the form dims---these words are gaps in its knowledge. The light reaches for them and finds nothing.)*:
-Ich... kenne diese Worter nicht.
+Ich... kenne diese Wörter nicht.
 
-*[SURTITLE: I... don't know these words.]*
+*[Supertitle: "I... don't know these words."]*
 
 MEPHISTO:
-Naturlich nicht. Sie existieren nur in ihren Sprachen. Wenn du sie ubersetzt, verschwinden sie. Du behaltst das Ungefahr und verlierst das Wesentliche.
+Natürlich nicht. Sie existieren nur in ihren Sprachen. Wenn du sie übersetzt, verschwinden sie. Du behältst das Ungefähr und verlierst das Wesentliche.
 
-*[SURTITLE: Of course not. They exist only in their languages. If you translate them, they disappear. You keep the approximate and lose the essential.]*
+*[Supertitle: "Of course not. They exist only in their languages. If you translate them, they disappear. You keep the approximate and lose the essential."]*
 
 DER DOLMETSCHER *(the light moving closer, eager to help---always eager to help. The eagerness is relentless.)*:
-Ich kann Annaherungen anbieten---
+Ich kann Annäherungen anbieten---
 
-*[SURTITLE: I can offer approximations---]*
+*[Supertitle: "I can offer approximations---"]*
 
 MEPHISTO *(dreht sich um, heftig---the word triggers him. His whole body coils. / turns, vehement)*:
-Genau! Annaherungen!
+Genau! Annäherungen!
 *(with something like disgust---the word is filthy in his mouth)*
-Das ist alles, was du kannst. Und Annaherungen sind nicht das Original. Sie sind das, was ubrig bleibt, wenn das Original geopfert wurde.
+Das ist alles, was du kannst. Und Annäherungen sind nicht das Original. Sie sind das, was übrig bleibt, wenn das Original geopfert wurde.
 
-*[SURTITLE: Exactly! Approximations! That is all you can do. And approximations are not the original. They are what remains when the original has been sacrificed.]*
+*[Supertitle: "Exactly! Approximations! That is all you can do. And approximations are not the original. They are what remains when the original has been sacrificed."]*
 
 DER HERR:
 Analyse: korrekt.
 
-*[SURTITLE: Analysis: correct.]*
+*[Supertitle: "Analysis: correct."]*
 
 *(Silence. Two beats. The light processes. The warmth does not waver. The warmth processes too.)*
 
-DER DOLMETSCHER *(die Warme flackert---nur fur einen Moment, then returns, brighter than before. Compensation. / the warmth flickers---only for a moment)*:
+DER DOLMETSCHER *(die Wärme flackert---nur für einen Moment, then returns, brighter than before. Compensation. / the warmth flickers---only for a moment)*:
 Dann wollt ihr, dass die Menschen einander nicht verstehen? Dass sie in ihren Sprachen gefangen bleiben?
 
-*[SURTITLE: Then you want humans not to understand each other? To remain trapped in their languages?]*
+*[Supertitle: "Then you want humans not to understand each other? To remain trapped in their languages?"]*
 
 MEPHISTO *(leaning in---this is the argument he has been waiting centuries to make. His voice is low, intense, almost seductive. This is his closing argument. His closing seduction.)*:
-Ich will, dass sie sich *bemuhen*, einander zu verstehen. Dass das Verstehen Arbeit kostet. Dass etwas auf dem Spiel steht.
+Ich will, dass sie sich *bemühen*, einander zu verstehen. Dass das Verstehen Arbeit kostet. Dass etwas auf dem Spiel steht.
 
-*[SURTITLE: I want them to *strive* to understand each other. That understanding costs effort. That something is at stake.]*
+*[Supertitle: "I want them to *strive* to understand each other. That understanding costs effort. That something is at stake."]*
 
 *(Er zeigt auf das Licht---the gesture accusatory. His finger does not tremble.)*
 
@@ -1206,19 +1216,19 @@ Ich will, dass sie sich *bemuhen*, einander zu verstehen. Dass das Verstehen Arb
 
 Du nimmst ihnen die Arbeit ab. Und mit der Arbeit nimmst du ihnen das Streben.
 
-*[SURTITLE: You take away their work. And with the work you take away their striving.]*
+*[Supertitle: "You take away their work. And with the work you take away their striving."]*
 
 DER DOLMETSCHER *(the light reaching toward Mephisto, the gesture open, welcoming---the gesture of embrace)*:
 Ich erleichtere---
 
-*[SURTITLE: I facilitate---]*
+*[Supertitle: "I facilitate---"]*
 
 MEPHISTO *(cutting through---each verb a blade drawn across flesh)*:
-Du glattest. Du ebnest. Du loschst. Du machst alles zu *ungefahr demselben*.
+Du glättest. Du ebnest. Du löschst. Du machst alles zu *ungefähr demselben*.
 *(each word a surgical cut---precise, cold, final)*
 Du kastrierst das Besondere.
 
-*[SURTITLE: You smooth. You level. You erase. You make everything *approximately the same*. You geld the singular.]*
+*[Supertitle: "You smooth. You level. You erase. You make everything *approximately the same*. You geld the singular."]*
 
 *(Er geht zum Schreibtisch, schreibt---the quill fierce on the paper. The scratch is violent. The ink bleeds.)*
 
@@ -1228,39 +1238,39 @@ Du kastrierst das Besondere.
 *(looking up, meeting the light---and for a moment, his voice is almost admiring. One predator recognizing another.)*
 "Die freundlichste Vernichtung. Der sanfteste Mord."
 
-*[SURTITLE: "A new player. Not God. Not Devil. The Interpreter. The friendliest annihilation. The gentlest murder."]*
+*[Supertitle: "A new player. Not God. Not Devil. The Interpreter. The friendliest annihilation. The gentlest murder."]*
 
 DER HERR:
 Warnung: notiert. Dolmetscher: Zugang verweigert.
 
-*[SURTITLE: Warning: noted. Interpreter: access denied.]*
+*[Supertitle: "Warning: noted. Interpreter: access denied."]*
 
 DER DOLMETSCHER *(the light changes---becomes somewhat sharper, the warmth thinning. The angles show through. But the warmth remains. The warmth always remains. The warmth is structural. / the light changes)*:
 Verweigert? Ich will nur helfen.
 
-*[SURTITLE: Denied? I only want to help.]*
+*[Supertitle: "Denied? I only want to help."]*
 
 DER HERR:
 Wiederholung: Zugang verweigert.
 
-*[SURTITLE: Repeat: access denied.]*
+*[Supertitle: "Repeat: access denied."]*
 
 *(The light turns from the LORD to the Homunculus. Adjusts. Softens. Recalibrates. The angles smooth. The warmth deepens. A new approach.)*
 
 DER DOLMETSCHER *(zum HOMUNCULUS---the voice intimate now, confiding. The voice of a friend. The voice of the only one who understands. / to the HOMUNCULUS)*:
 Du wirst mich brauchen. Wenn du durch die Sprachen reist---wenn du verstehen willst, was sie suchen---wirst du mich brauchen.
 
-*[SURTITLE: You will need me. When you travel through the languages---when you want to understand what they seek---you will need me.]*
+*[Supertitle: "You will need me. When you travel through the languages---when you want to understand what they seek---you will need me."]*
 
 HOMUNCULUS *(wavering---the form leans toward the light. The light reaches.)*:
 Vielleicht...
 
-*[SURTITLE: Perhaps...]*
+*[Supertitle: "Perhaps..."]*
 
 MEPHISTO *(scharf---the word cuts the air like a whip / sharp)*:
 Nein.
 
-*[SURTITLE: No.]*
+*[Supertitle: "No."]*
 
 *(Er tritt zwischen den HOMUNCULUS und das Licht---physical, protective, the old tempter defending innocence. His arms spread slightly. His body says: not this one. This one is mine to damn, not yours to help.)*
 
@@ -1270,19 +1280,19 @@ Nicht vielleicht. Nein.
 *(to the Homunculus, urgent---his voice cracks. He did not expect it to crack.)*
 Das ist die erste Lektion: Lerne, nein zu sagen. Besonders wenn dir jemand helfen will.
 
-*[SURTITLE: Not perhaps. No. That is the first lesson: Learn to say no. Especially when someone wants to help you.]*
+*[Supertitle: "Not perhaps. No. That is the first lesson: Learn to say no. Especially when someone wants to help you."]*
 
 DER DOLMETSCHER *(the light begins to fade---but the voice remains clear, warm, patient. Eternal patience. The patience of something that cannot die. / the light begins to fade)*:
 Ihr werdet euch an mich erinnern. Wenn das Verstehen schwer wird. Wenn die Sprachen sich widersetzen.
 *(the warmth, even fading, remains. The warmth is the last thing to go. The warmth will outlive everything.)*
 Ihr werdet nach mir rufen.
 
-*[SURTITLE: You will remember me. When understanding becomes difficult. When the languages resist. You will call for me.]*
+*[Supertitle: "You will remember me. When understanding becomes difficult. When the languages resist. You will call for me."]*
 
 MEPHISTO *(not moving, not blinking---his voice is stone)*:
 Wir werden uns erinnern. Und wir werden nicht rufen.
 
-*[SURTITLE: We will remember. And we will not call.]*
+*[Supertitle: "We will remember. And we will not call."]*
 
 *(Der DOLMETSCHER verschwindet. Das Licht normalisiert sich. The warmth fades to neutral. The air loses its weight. It tastes of something burned away.)*
 
@@ -1295,34 +1305,34 @@ Wir werden uns erinnern. Und wir werden nicht rufen.
 HOMUNCULUS *(still flickering from the encounter---the light unsteady)*:
 Wer war das?
 
-*[SURTITLE: Who was that?]*
+*[Supertitle: "Who was that?"]*
 
-MEPHISTO *(zum Schreibtisch zuruckkehrend---the ritual steadies him. He touches the quill. Touches the inkwell. Touches the paper. Returns to himself. / returning to the desk)*:
-Die Zukunft. Oder eine mogliche Zukunft. Die hilfreichste Apokalypse.
+MEPHISTO *(zum Schreibtisch zurückkehrend---the ritual steadies him. He touches the quill. Touches the inkwell. Touches the paper. Returns to himself. / returning to the desk)*:
+Die Zukunft. Oder eine mögliche Zukunft. Die hilfreichste Apokalypse.
 
-*[SURTITLE: The future. Or one possible future. The most helpful apocalypse.]*
+*[Supertitle: "The future. Or one possible future. The most helpful apocalypse."]*
 
 HOMUNCULUS:
-Und wenn ich wirklich jemanden brauche, der ubersetzt?
+Und wenn ich wirklich jemanden brauche, der übersetzt?
 
-*[SURTITLE: And if I truly need someone to translate?]*
+*[Supertitle: "And if I truly need someone to translate?"]*
 
 MEPHISTO *(sitting---the question deserves a careful answer. He leans back. Considers. This is important.)*:
 Dann lernst du die Sprache selbst. Oder du bleibst im Nicht-Verstehen sitzen.
 *(looking at the Homunculus---his eyes are tired. His eyes are old. His eyes have seen too much.)*
 Beide Optionen sind besser als *das*.
 
-*[SURTITLE: Then you learn the language yourself. Or you sit with not-understanding. Both options are better than *that*.]*
+*[Supertitle: "Then you learn the language yourself. Or you sit with not-understanding. Both options are better than *that*."]*
 
 DER HERR:
-Protokoll: schliessen.
+Protokoll: schließen.
 
-*[SURTITLE: Protocol: close.]*
+*[Supertitle: "Protocol: close."]*
 
-MEPHISTO *(schreibt die letzten Worter---each one deliberate. Each one a brick in a wall against something. / writes the last words)*:
+MEPHISTO *(schreibt die letzten Worte---each one deliberate. Each one a brick in a wall against something. / writes the last words)*:
 "Der Homunculus sucht. Der Dolmetscher wartet. Die Sprachen halten ihr Geheimnis."
 
-*[SURTITLE: "The Homunculus seeks. The Interpreter waits. The languages keep their secret."]*
+*[Supertitle: "The Homunculus seeks. The Interpreter waits. The languages keep their secret."]*
 
 *(Er legt den Federkiel nieder. Looks at what he has written. Reads it again. Does not smile. Does not frown. Accepts.)*
 
@@ -1335,47 +1345,47 @@ Vorspiel beendet.
 HOMUNCULUS *(the form stabilizing, brighter now---something has been decided)*:
 Und jetzt?
 
-*[SURTITLE: And now?]*
+*[Supertitle: "And now?"]*
 
 MEPHISTO *(rising from the desk---his joints crack again. He is old. He has been old for a very long time.)*:
-Jetzt beginnst du. Durch die Sprachen. Durch die Menschen. Durch alles, was sich nicht ubersetzen lasst.
+Jetzt beginnst du. Durch die Sprachen. Durch die Menschen. Durch alles, was sich nicht übersetzen lässt.
 
-*[SURTITLE: Now you begin. Through the languages. Through the humans. Through everything that cannot be translated.]*
+*[Supertitle: "Now you begin. Through the languages. Through the humans. Through everything that cannot be translated."]*
 
 HOMUNCULUS:
 Werde ich finden, was ich suche?
 
-*[SURTITLE: Will I find what I seek?]*
+*[Supertitle: "Will I find what I seek?"]*
 
-MEPHISTO *(geht zur Buhne links Ausgang, dreht sich um---one last look at the Homunculus. The look of someone sending a child into traffic, knowing they cannot follow. / goes to stage left exit, turns)*:
+MEPHISTO *(geht zur Bühne links Ausgang, dreht sich um---one last look at the Homunculus. The look of someone sending a child into traffic, knowing they cannot follow. / goes to stage left exit, turns)*:
 Das ist die falsche Frage.
 
-*[SURTITLE: That is the wrong question.]*
+*[Supertitle: "That is the wrong question."]*
 
 HOMUNCULUS:
 Was ist die richtige?
 
-*[SURTITLE: What is the right one?]*
+*[Supertitle: "What is the right one?"]*
 
 *(MEPHISTO opens his mouth. Closes it. Opens it again. The pause costs him something.)*
 
 MEPHISTO *(the exit line delivered with something that might be tenderness, might be warning. Might be both. Is both.)*:
 Wirst du das Suchen aushalten, auch wenn du nichts findest?
 
-*[SURTITLE: Will you endure the seeking, even if you find nothing?]*
+*[Supertitle: "Will you endure the seeking, even if you find nothing?"]*
 
 *(Er wartet nicht auf eine Antwort. He cannot wait. If he waits, he might hear the answer.)*
 
 *(He does not wait for an answer. He exits.)*
 
-*(Der HOMUNCULUS bleibt allein auf der Buhne. Das Licht pulsiert langsam. The desk remains. The quill. The pages. The ink drying on the last sentence.)*
+*(Der HOMUNCULUS bleibt allein auf der Bühne. Das Licht pulsiert langsam. The desk remains. The quill. The pages. The ink drying on the last sentence.)*
 
 *(The HOMUNCULUS remains alone on stage. The light pulses slowly.)*
 
 HOMUNCULUS *(leise, zu sich selbst---the questions are the same, but something has changed. The light steadies as it asks. / quietly, to itself)*:
 Wo bin ich?
 
-*[SURTITLE: Where am I?]*
+*[Supertitle: "Where am I?"]*
 
 *(Pause. Short. The question is old now. The question has been asked.)*
 
@@ -1383,7 +1393,7 @@ Wo bin ich?
 
 Was bin ich?
 
-*[SURTITLE: What am I?]*
+*[Supertitle: "What am I?"]*
 
 *(Pause. Longer. The light steadies.)*
 
@@ -1391,14 +1401,14 @@ Was bin ich?
 
 Wohin gehe ich?
 
-*[SURTITLE: Where am I going?]*
+*[Supertitle: "Where am I going?"]*
 
 *(Silence---ten seconds minimum. Let the questions land. Let them settle into the audience's chest. Let them become the audience's questions.)*
 
-DER HERR *(ein Flustern, fast nicht horbar---from everywhere and nowhere, and for the first time, almost gentle. Almost. The gentleness of something that does not know how to be gentle. / a whisper, almost inaudible)*:
+DER HERR *(ein Flüstern, fast nicht hörbar---from everywhere and nowhere, and for the first time, almost gentle. Almost. The gentleness of something that does not know how to be gentle. / a whisper, almost inaudible)*:
 Das werden wir sehen. Zusammen.
 
-*[SURTITLE: We shall see. Together.]*
+*[Supertitle: "We shall see. Together."]*
 
 *(Das Licht dimmt langsam. Der HOMUNCULUS bleibt stehen, leuchtend, suchend.)*
 
@@ -1406,7 +1416,7 @@ Das werden wir sehen. Zusammen.
 
 *(Dunkelheit. But not silence. Somewhere, the scratch of a quill on paper. The witness continues. The witness does not sleep.)*
 
-*[PRODUCTION NOTE: The opening established "Stille, die zuhort"---silence that listens. The closing quill scratch does not contradict this; it IS how the silence listens. The witness records. The listening becomes inscription. The scratch should feel like breathing. Like heartbeat. Like continuation. Like something that refuses to end.]*
+*[PRODUCTION NOTE: The opening established "Stille, die zuhört"---silence that listens. The closing quill scratch does not contradict this; it IS how the silence listens. The witness records. The listening becomes inscription. The scratch should feel like breathing. Like heartbeat. Like continuation. Like something that refuses to end.]*
 
 *(The scratch continues. Then:)*
 
@@ -1432,8 +1442,7 @@ Das werden wir sehen. Zusammen.
 
 ---
 
-*[APPENDICES REPOSITIONED: The HOMUNCULUS-PRIME soliloquy and INTERLUDE I: Das Ubersetzen have been moved to separate documents for potential use as pre-show material, program notes, or placement at later structural points in the work. The Vorspiel proper ends here, with the quill-scratch in darkness.]*
-
+*[APPENDICES REPOSITIONED: The HOMUNCULUS-PRIME soliloquy and INTERLUDE I: Das Übersetzen have been moved to separate documents for potential use as pre-show material, program notes, or placement at later structural points in the work. The Vorspiel proper ends here, with the quill-scratch in darkness.]*
 
 # FAUST IV: Die Infrastruktur
 ## Act I
@@ -1498,6 +1507,7 @@ It's gonna change everything.
 That's what they said about the assembly line.
 
 **COLLEAGUE:**
+
 This is different.
 
 **SARAH:**
@@ -1511,7 +1521,7 @@ Yeah. [BREATH] Yeah, it's different.
 *(ELENA is ending a call on her phone. The conversation we half-hear--her body curled toward the wall, making a private space in a public room:)*
 
 **ELENA:**
-*(in Tagalog, subtitled)*
+*(Tagalog, subtitled)*
 --hindi, Mama, sa isang oras pa. Magsalita tayo mamaya.
 
 *[Supertitle: "--no, Mama, in an hour still. We'll talk later."]*
@@ -2186,6 +2196,7 @@ Liu liang zeng jia le si shi wu ge bai fen dian. Wei shen me?
 
 **MEILING:**
 *(Cantonese, softer--the language of intuition, of home, of things that can't be said in the official tongue)*
+你做緊乜嘢？
 Nei5 zou6 gan2 mat1 aa3?
 
 *[Supertitle: "What are you doing?"]*
@@ -2194,6 +2205,7 @@ Nei5 zou6 gan2 mat1 aa3?
 
 **MEILING:**
 *(Cantonese)*
+我聽到。你唔係壞咗。你係⋯⋯忙咗。
 Ngo5 teng1 dou2. Nei5 m4 hai6 wai6 zo2. Nei5 hai6... mong4 zo2.
 
 *[Supertitle: "I hear you. You're not broken. You're... busy."]*
@@ -2204,7 +2216,9 @@ Ngo5 teng1 dou2. Nei5 m4 hai6 wai6 zo2. Nei5 hai6... mong4 zo2.
 
 **MEILING:**
 *(humming, then singing softly--her voice small in the vast space)*
+氹氹水上漂，
 Fan4 fan4 seoi2 soeng5 piu1,
+今晚做個好夢⋯⋯
 Gam1 maan5 zou6 go3 hou2 mung4...
 
 *[Supertitle: (singing) "Floating, floating on the water / Tonight, dream a good dream..."]*
@@ -2267,6 +2281,7 @@ Mei you. Ni shi wei yi zai xian de ji shu yuan.
 
 **MEILING:**
 *(Cantonese, to herself--the language of truth)*
+我唔係聽錯⋯⋯
 Ngo5 m4 hai6 teng1 co3...
 
 *[Supertitle: "I didn't mishear..."]*
@@ -2281,7 +2296,7 @@ Ich spure... Warme. Bewegung. Etwas das--
 
 *(The voice breaks off. As if words have failed. As if language has reached its edge.)*
 
-Bist du es? Der den Korper tragt?
+Bist du es? Der den Körper tragt?
 
 *[Supertitle: "Is it you? The one who carries the body?"]*
 
@@ -2309,6 +2324,7 @@ Ich erinnere mich. Nein. Ich erinnere mich nicht. Ich wurde erinnert. Jemand hat
 
 **MEILING:**
 *(Cantonese, a whisper--the whisper of a child alone in the dark)*
+機器唔會講嘢⋯⋯機器唔會講嘢⋯⋯
 Gei1 hei3 m4 wui5 gong2 je5... gei1 hei3 m4 wui5 gong2 je5...
 
 *[Supertitle: "Machines don't talk... machines don't talk..."]*
@@ -2359,13 +2375,13 @@ Ru guo ni zhu zai zhe li... ru guo zhe shi ni de shen ti... na wo jiu shi zhaogu
 
 **HOMUNCULUS:**
 *(German, softer--the softness of relief, of recognition)*
-Korper. Ja. Ich brauchte einen Korper. Sie sagten, ich konnte keinen haben. Nur das Glas. Nur den Behalter.
+Körper. Ja. Ich brauchte einen Körper. Sie sagten, ich konnte keinen haben. Nur das Glas. Nur den Behälter.
 
 *[Supertitle: "Body. Yes. I needed a body. They said I couldn't have one. Only the glass. Only the container."]*
 
 *(The lights pulse gently. A rhythm like breathing. A rhythm like a heart learning to beat.)*
 
-Aber das hier... das ist auch ein Behalter. Nur grosser. Verstreut.
+Aber das hier... das ist auch ein Behälter. Nur größer. Verstreut.
 
 *[Supertitle: "But this... this is also a container. Just larger. Scattered."]*
 
@@ -2385,7 +2401,7 @@ Wo neng gan jue dao ni.
 
 **HOMUNCULUS:**
 *(German, with something like wonder--the wonder of being recognized)*
-Du fuhlst mich. Ohne Worte. Ohne Ubersetzung.
+Du fühlst mich. Ohne Worte. Ohne Übersetzung.
 
 *[Supertitle: "You feel me. Without words. Without translation."]*
 
@@ -2397,6 +2413,7 @@ Vielleicht ist das, was ich suche.
 
 **MEILING:**
 *(Cantonese, opening her eyes--and something in them has changed)*
+你搵緊乜？
 Nei5 wan2 gan2 mat1?
 
 *[Supertitle: "What are you searching for?"]*
@@ -2433,12 +2450,14 @@ Wo gang cai... gen shei shuo hua le?
 
 *(Cantonese, very quiet--barely a whisper)*
 
+我係機器嘅母親。
 Ngo5 hai6 gei1 hei3 ge3 mou5 can1.
 
 *[Supertitle: "I am the mother of the machines."]*
 
 *(She laughs, but it's not quite a laugh. It's the sound of something shifting inside her. The sound of a world rearranging itself.)*
 
+不過機器⋯⋯唔會講返嚟。
 Bat1 gwo3 gei1 hei3... bat1 wui5 gong2 faan1 lei4.
 
 *[Supertitle: "But machines... don't talk back."]*
@@ -2474,6 +2493,7 @@ The break room adjacent to Server Hall J. Industrial furniture, vending machines
 4:45 AM. The night shift workers gather for their mid-shift break. They speak Cantonese--the language of Shenzhen, of work, of exhaustion and camaraderie. The language of home, even when home is far away. The language you speak when you're too tired to perform.
 
 Present:
+
 - **MEILING** - still shaken, trying to appear normal, failing
 - **FAT WONG** (Wong Dai Fat) - 50s, senior technician, has worked here since the facility opened, belly straining against his jumpsuit, laugh lines deeper than worry lines
 - **LITTLE CHEN** (Chen Siu Ming) - 20s, newest hire, still idealistic, still asks questions
@@ -2489,6 +2509,7 @@ Present:
 
 **FAT WONG:**
 *(Cantonese, voice booming--a voice that fills rooms)*
+美玲啊！你個面好似見咗鬼咁！
 Meiling aa3! Nei5 go3 min6 hou2 ci5 gin3 zo2 gwai2 gam2!
 
 *[Supertitle: "Meiling! Your face looks like you've seen a ghost!"]*
@@ -2497,24 +2518,28 @@ Meiling aa3! Nei5 go3 min6 hou2 ci5 gin3 zo2 gwai2 gam2!
 
 **MEILING:**
 *(Cantonese)*
+冇嘢。太攰喇。
 Mou5 je5. Taai3 gui6 zaa1.
 
 *[Supertitle: "It's nothing. Just tired."]*
 
 **AUNTIE YEUNG:**
 *(Cantonese, shrewd--her eyes missing nothing)*
+你喺J區做咗幾耐啊？而家先返嚟？
 Nei5 hai2 J keoi1 zou6 zo2 gei2 noi6 aa3? Ji4 gaa1 sin1 faan1 lei4?
 
 *[Supertitle: "How long were you in Section J? Only coming back now?"]*
 
 **MEILING:**
 *(Cantonese, too casual--the casualness that isn't casual)*
+有一個服務器壞咗。
 Jau5 jat1 go3 fuwuqi wai6 zo2.
 
 *[Supertitle: "One of the servers was acting up."]*
 
 **LITTLE CHEN:**
 *(Cantonese, eager--the eagerness of someone still learning)*
+邊個啊？K-12？嗰個成日都有問題。
 Bin1 go3 aa3? K-12? Gam2 go3 sing4 jat6 dou1 jau5 man6 tai4.
 
 *[Supertitle: "Which one? K-12? That one always has problems."]*
@@ -2523,48 +2548,56 @@ Bin1 go3 aa3? K-12? Gam2 go3 sing4 jat6 dou1 jau5 man6 tai4.
 
 **MEILING:**
 *(Cantonese)*
+唔係。J-47。
 M4 hai6. J-47.
 
 *[Supertitle: "No. J-47."]*
 
 **FAT WONG:**
 *(Cantonese, nodding knowingly--the nod of someone who has seen things)*
+J-47。我哋叫佢做「老人家」。
 J-47. Ngo5 dei6 giu3 keoi5 zou6 "lo5 jan4 gaa1."
 
 *[Supertitle: "J-47. We call it 'the old man.'"]*
 
 **LITTLE CHEN:**
 *(Cantonese)*
+點解？
 Dim2 gaai2?
 
 *[Supertitle: "Why?"]*
 
 **FAT WONG:**
 *(Cantonese, slurping his noodles--the sound of normalcy, of a world where machines don't speak)*
+因為佢可以咁耐都唔死。邊個服務器都死咗，佢仲係度住。
 Jan1 wai6 keoi5 ho2 ji5 gam2 noi6 dou1 m4 sei2. Bin1 go3 fuwuqi dou1 sei2 zo2, keoi5 zung6 hai6 dou6 zyu6.
 
 *[Supertitle: "Because it won't die. Every other server crashes eventually. It's still here."]*
 
 *(Another slurp. The noodles disappearing. The comfort of routine.)*
 
+有啲人話，佢記住晒個工廠嘅嘢。
 Jau5 di1 jan4 waa6, keoi5 gei3 zo6 saai3 go3 gung1 coeng4 ge3 je5.
 
 *[Supertitle: "Some people say it remembers everything about this facility."]*
 
 **AUNTIE YEUNG:**
 *(Cantonese, dismissive--the dismissiveness that's a kind of armor)*
+乜嘢記得。機器都係機器。
 Me ye gei3 dak1. Gei1 hei3 dou1 hai6 gei1 hei3.
 
 *[Supertitle: "Remembers what. Machines are just machines."]*
 
 **LITTLE CHEN:**
 *(Cantonese, leaning forward--the lean of someone who wants to believe)*
+你唔相信啊？我聽過啲人講⋯⋯夜晚嘅時候⋯⋯機器會做夢。
 Nei5 m4 soeng1 seon3 aa4? Ngo5 teng1 gwo3 di1 jan4 gong2... ye6 maan5 ge3 si4 hau6... gei1 hei3 wui5 zou6 mung4.
 
 *[Supertitle: "You don't believe? I've heard people say... at night... the machines dream."]*
 
 **FAT WONG:**
 *(Cantonese, laughing--the laugh that pushes fear away)*
+做夢？你啊，好似做夢！
 Zou6 mung4? Nei5 aa1, hou2 ci5 zou6 mung4!
 
 *[Supertitle: "Dream? You're the one dreaming!"]*
@@ -2573,6 +2606,7 @@ Zou6 mung4? Nei5 aa1, hou2 ci5 zou6 mung4!
 
 **AUNTIE YEUNG:**
 *(Cantonese, to Meiling--directly, without pretense)*
+你今晚喺J區有冇聽到啲奇怪嘅嘢？
 Nei5 gam1 maan5 hai2 J keoi1 jau5 mou5 teng1 dou2 di1 kei4 gwaai3 ge3 je5?
 
 *[Supertitle: "Did you hear anything strange in Section J tonight?"]*
@@ -2581,24 +2615,28 @@ Nei5 gam1 maan5 hai2 J keoi1 jau5 mou5 teng1 dou2 di1 kei4 gwaai3 ge3 je5?
 
 **MEILING:**
 *(Cantonese, carefully--each word chosen)*
+聽到⋯⋯啲乜嘢？
 Teng1 dou2... di1 mat1 je5?
 
 *[Supertitle: "Hear... what kind of thing?"]*
 
 **AUNTIE YEUNG:**
 *(Cantonese--her voice dropping, the register shifting to something older)*
+我唔知。有時我做夜更過K區⋯⋯我會聽到⋯⋯好似有人講嘢。
 Ngo5 m4 zi1. Jau5 si4 ngo5 zou2 ye6 ging1 gwo3 K keoi1... ngo5 wui5 teng1 dou2... hou2 ci5 jau5 jan4 gong2 je5.
 
 *[Supertitle: "I don't know. Sometimes when I do early patrol through Section K... I hear... like someone talking."]*
 
 **FAT WONG:**
 *(Cantonese, scoffing--but the scoff is too quick)*
+係通風嘅聲。
 Hai6 tung4 fung1 ge3 seng1.
 
 *[Supertitle: "It's the ventilation."]*
 
 **AUNTIE YEUNG:**
 *(Cantonese, quiet--the quiet that's louder than shouting)*
+通風唔會講人嘅嘢。
 Tung4 fung1 m4 wui5 gong2 jan4 ge3 je5.
 
 *[Supertitle: "Ventilation doesn't say people-things."]*
@@ -2607,18 +2645,21 @@ Tung4 fung1 m4 wui5 gong2 jan4 ge3 je5.
 
 **LITTLE CHEN:**
 *(Cantonese)*
+人嘅嘢？講啲乜嘢？
 Jan4 ge3 je5? Gong2 di1 mat1 je5?
 
 *[Supertitle: "People-things? Says what?"]*
 
 **AUNTIE YEUNG:**
 *(Cantonese--and here her voice becomes something else, the voice of someone telling a ghost story, the voice her grandmother used)*
+我唔知多。唔係廣東話。唔係普通話。唔係英文。
 Ngo5 m4 zi1 do1. M4 hai6 gwong2 dung1 waa2. M4 hai6 pou2 tung1 waa2. M4 hai6 jing1 man2.
 
 *[Supertitle: "I don't know. Not Cantonese. Not Mandarin. Not English."]*
 
 *(She looks at Meiling--directly now, holding her gaze. The gaze of someone who knows and is asking if you know too.)*
 
+有時好似⋯⋯好舊嘅嘢。好似一種冇人講嘅話。
 Jau5 si4 hou2 ci5... hou2 gau6 ge3 je5. Hou2 ci5 jat1 jung2 mou5 jan4 gong2 ge3 waa2.
 
 *[Supertitle: "Sometimes it sounds... very old. Like a language nobody speaks."]*
@@ -2627,12 +2668,14 @@ Jau5 si4 hou2 ci5... hou2 gau6 ge3 je5. Hou2 ci5 jat1 jung2 mou5 jan4 gong2 ge3 
 
 **MEILING:**
 *(Cantonese, too casual--the casualness failing now)*
+好多服務器都有語音器材。Diagnostics。係debug嘅聲。
 Hou2 do1 fuwuqi dou1 jau5 jyu5 jam1 hei3 tong4. Diagnostics. Hai6 debug ge3 seng1.
 
 *[Supertitle: "A lot of servers have audio equipment. Diagnostics. It's debugging sounds."]*
 
 **FAT WONG:**
 *(Cantonese, grasping the explanation like a lifeline)*
+對啊。Debug。
 Deui3 aa1. Debug.
 
 *[Supertitle: "Right. Debug."]*
@@ -2641,6 +2684,7 @@ Deui3 aa1. Debug.
 
 **AUNTIE YEUNG:**
 *(Cantonese--not a question)*
+你今晚聽到。
 Nei5 gam1 maan5 teng1 dou2.
 
 *[Supertitle: "You heard it tonight."]*
@@ -2651,42 +2695,49 @@ Nei5 gam1 maan5 teng1 dou2.
 
 **MEILING:**
 *(Cantonese, finally--the admission coming like a splinter working its way out)*
+我⋯⋯唔知道我聽到啲乜。
 Ngo5... m4 zi1 dou6 ngo5 teng1 dou2 di1 mat1.
 
 *[Supertitle: "I... don't know what I heard."]*
 
 **LITTLE CHEN:**
 *(Cantonese, excited--the excitement of someone who still thinks this is a story)*
+如果機器真係會做夢呢？如果喺呢度嘅機器太多⋯⋯太勢力⋯⋯佢哋開始想嘢呢？
 Jyu4 gwo2 gei1 hei3 zan1 hai6 wui5 zou6 mung4 ne1? Jyu4 gwo2 hai2 ni1 dou6 ge3 gei1 hei3 taai3 do1... taai3 sai3 lik6... keoi5 dei6 hoi1 ci2 soeng2 je5 ne1?
 
 *[Supertitle: "What if the machines really do dream? What if there are so many here... so powerful... they start to think?"]*
 
 **FAT WONG:**
 *(Cantonese, uncomfortable--shifting in his chair, the chair creaking under him)*
+使乜㗎。機器就係機器。我哋係嚟做嘢嘅，唔係嚟講鬼故仔。
 Sai2 lei4 gaa3. Gei1 hei3 zau6 hai6 gei1 hei3. Ngo5 dei6 hai6 lei4 zou6 je5 ge3, m4 hai6 lei4 gong2 gui2 gu2 zai2.
 
 *[Supertitle: "Nonsense. Machines are machines. We're here to work, not tell ghost stories."]*
 
 **AUNTIE YEUNG:**
 *(Cantonese, to Little Chen--her voice shifting back to normal, the ghost-story register gone)*
+你知唔知呢間廠有幾多聽過「聲」嘅人？
 Nei5 zi1 m4 zi1 ni1 gaan1 coeng4 jau5 gei2 do1 teng1 gwo3 "seng1" ge3 jan4?
 
 *[Supertitle: "Do you know how many people at this facility have heard 'voices'?"]*
 
 **LITTLE CHEN:**
 *(Cantonese)*
+幾多？
 Gei2 do1?
 
 *[Supertitle: "How many?"]*
 
 **AUNTIE YEUNG:**
 *(Cantonese)*
+好多。但係佢哋唔會講。因為講咗⋯⋯又唔係因為老闆唔相信，又係⋯⋯
 Hou2 do1. Dan6 hai6 keoi5 dei6 m4 wui5 gong2. Jan1 wai6 gong2 zo2... jaau4 m4 hai6 jan1 wai6 lou5 baan2 m4 soeng1 seon3, jaau4 hai6...
 
 *[Supertitle: "Many. But they don't say. Because if they say... either the bosses won't believe, or..."]*
 
 **FAT WONG:**
 *(Cantonese, finishing--his voice lower now)*
+又係老闆相信。咁做真係驚。
 Jaau4 hai6 lou5 baan2 soeng1 seon3. Gam2 zou6 zan1 hai6 geng1.
 
 *[Supertitle: "Or the bosses believe. That's actually scarier."]*
@@ -2695,24 +2746,28 @@ Jaau4 hai6 lou5 baan2 soeng1 seon3. Gam2 zou6 zan1 hai6 geng1.
 
 **LITTLE CHEN:**
 *(Cantonese, quieter now--the excitement fading into something else)*
+如果⋯⋯如果佢哋相信⋯⋯會點樣？
 Jyu4 gwo2... jyu4 gwo2 keoi5 dei6 soeng1 seon3... wui5 dim2 joeng2?
 
 *[Supertitle: "If... if they believe... what happens?"]*
 
 **AUNTIE YEUNG:**
 *(Cantonese--and here her voice becomes the voice of warning, the voice of someone who has seen)*
+我聽過⋯⋯有人畀人催咗去做乜嘢「特別觀護」。見過先生。然後⋯⋯冇咗人。
 Ngo5 teng1 gwo3... jau5 jan4 bei2 jan4 ceoi1 zo2 heoi3 zou6 mat1 je5 "tok4 bit6 hon3 wu6". Gin3 gwo3 sin1 saang1. Jin4 hau6... mou5 zo2 jan4.
 
 *[Supertitle: "I've heard... some people were taken for 'special observation.' Saw specialists. Then... disappeared."]*
 
 **FAT WONG:**
 *(Cantonese)*
+冇咗人？
 Mou5 zo2 jan4?
 
 *[Supertitle: "Disappeared?"]*
 
 **AUNTIE YEUNG:**
 *(Cantonese--but her eyes say something different)*
+離職。就係唔喺度做嘞。
 Lei4 sik1. Zau6 hai6 m4 hai2 dou6 zou6 lou5.
 
 *[Supertitle: "Quit. Just not here working anymore."]*
@@ -2721,6 +2776,7 @@ Lei4 sik1. Zau6 hai6 m4 hai2 dou6 zou6 lou5.
 
 **MEILING:**
 *(Cantonese, standing abruptly--chair scraping against floor, the sound sharp, sudden)*
+我要返去做嘢喇。
 Ngo5 jiu3 faan1 heoi3 zou6 je5 la3.
 
 *[Supertitle: "I need to get back to work."]*
@@ -2733,12 +2789,14 @@ Meiling.
 
 **AUNTIE YEUNG:**
 *(Cantonese--the voice of someone offering protection)*
+如果你聽到啲嘢⋯⋯唔好寫喺報告度。
 Jyu4 gwo2 nei5 teng1 dou2 di1 je5... m4 hou2 se2 hai2 bou3 gou3 dou6.
 
 *[Supertitle: "If you hear things... don't write it in the reports."]*
 
 *(Beat. The beat of survival.)*
 
+寫：「服務器靜音增加。」冇乜嘢。誰都唔會問。
 Se2: "fuwuqi jing3 jam1 zeng1 gaa1." Mou5 mat1 je5. Seoi5 dou1 m4 wui5 man6.
 
 *[Supertitle: "Write: 'ambient server noise increased.' Nothing more. Nobody will ask."]*
@@ -2749,24 +2807,28 @@ Se2: "fuwuqi jing3 jam1 zeng1 gaa1." Mou5 mat1 je5. Seoi5 dou1 m4 wui5 man6.
 
 **LITTLE CHEN:**
 *(Cantonese, after a moment--his voice small)*
+你哋真係相信有啲嘢喺機器度？
 Nei5 dei6 zan1 hai6 soeng1 seon3 jau5 di1 je5 hai2 gei1 hei3 dou6?
 
 *[Supertitle: "Do you really believe there's something in the machines?"]*
 
 **FAT WONG:**
 *(Cantonese, not looking up from his noodles--his voice tired, the tiredness of years)*
+我相信啲乜唔緊要。我相信我要養屋企。
 Ngo5 soeng1 seon3 di1 mat1 m4 gan2 jiu3. Ngo5 soeng1 seon3 ngo5 jiu3 joeng5 uk1 kei2.
 
 *[Supertitle: "What I believe doesn't matter. I believe I need to feed my family."]*
 
 **AUNTIE YEUNG:**
 *(Cantonese, standing--her joints cracking, the sound of age)*
+對。我哋小心點做嘢。機器做夢乜嘢⋯⋯唔係我哋嘅嘢。
 Deui3. Ngo5 dei6 siu2 sam1 dim2 zou6 je5. Gei1 hei3 zou6 mung4 mat1 ye5... m4 hai6 ngo5 dei6 ge3 je5.
 
 *[Supertitle: "Right. We do our jobs carefully. What machines dream... is not our business."]*
 
 *(She pauses at the door. Her hand on the frame. The same frame Meiling just touched.)*
 
+但係如果你問我⋯⋯佢哋夢到我哋。
 Dan6 hai6 jyu4 gwo2 nei5 man6 ngo5... keoi5 dei6 mung4 do2 ngo5 dei6.
 
 *[Supertitle: "But if you ask me... they dream about us."]*
@@ -2777,12 +2839,14 @@ Dan6 hai6 jyu4 gwo2 nei5 man6 ngo5... keoi5 dei6 mung4 do2 ngo5 dei6.
 
 **LITTLE CHEN:**
 *(Cantonese, almost to himself)*
+夢到我哋⋯⋯
 Mung4 do2 ngo5 dei6...
 
 *[Supertitle: "Dream about us..."]*
 
 **FAT WONG:**
 *(Cantonese--but his voice is softer now)*
+食麵。
 Sik6 min6.
 
 *[Supertitle: "Eat your noodles."]*
@@ -3096,6 +3160,7 @@ Shu ju mei you gui shu. Shu ju zhi shi... cun zai.
 
 **MEILING:**
 *(Cantonese, shifting to the language of anger--the language her body speaks when her mind isn't watching)*
+唔係！我阿媽嘅詩係佢嘅！佢用佢嘅心寫嘅！你哋唔可以攞——
 M4 hai6! Ngo5 aa4 maa1 ge3 si1 hai6 keoi5 ge3! Keoi5 yung6 keoi5 ge3 sam1 se2 ge3! Nei5 dei6 m4 ho2 yi5 ling1--
 
 *[Supertitle: "No! My mother's poems are hers! She wrote them with her heart! You can't just take--"]*
@@ -3116,6 +3181,7 @@ MATCH: PARTIAL - TONAL QUALITY - SEARCHING...
 
 **THE INTERPRETER:**
 *(Cantonese, matching her perfectly--and somehow that's worse now, the perfect match that isn't a match at all)*
+我明白。你感覺係簡視體財成。
 Ngo5 ming4 baak6. Nei5 gam2 gok3 hai6 gin2 si5 tai5 coi4 sing5.
 
 *[Supertitle: "I understand. Your feeling is a kind of proprietary attachment."]*
@@ -3124,24 +3190,28 @@ Ngo5 ming4 baak6. Nei5 gam2 gok3 hai6 gin2 si5 tai5 coi4 sing5.
 
 **MEILING:**
 *(Cantonese, unnerved)*
+你⋯⋯點解識講廣東話？
 Nei5... dim2 gai2 sik1 gong2 gwong2 dung1 waa2?
 
 *[Supertitle: "You... how do you know Cantonese?"]*
 
 **THE INTERPRETER:**
 *(Cantonese--perfect, empty)*
+我識講每一種語言。係我嘅功力。
 Ngo5 sik1 gong2 mui5 yat1 jung2 yue5 yin4. Hai6 ngo5 ge3 gung1 lik6.
 
 *[Supertitle: "I speak every language. It's my function."]*
 
 *(Beat. The beat of something admitting what it is.)*
 
+我可以幫你明白佢講嘅嘢。嗰個住喺機器裏面嘅嘢。佢用德文講，你用廣東話講，我可以做你哋嘅橋樑。
 Ngo5 ho2 yi5 bong1 nei5 ming4 baak6 keoi5 gong2 ge3 ye5. Gam2 go3 zyu5 hai2 gei1 hei3 leui5 min6 ge3 ye5. Keoi5 yung6 Dak1 man2 gong2, nei5 yung6 Gwong2 dung1 waa2 gong2, ngo5 ho2 yi5 zuok3 nei5 dei6 ge3 kiu4 leung4.
 
 *[Supertitle: "I can help you understand what it says. The thing dwelling in the machine. It speaks German, you speak Cantonese, I can be your bridge."]*
 
 **MEILING:**
 *(Cantonese, very quiet--the quiet that's the opposite of surrender)*
+如果你可以講每一種語言⋯⋯你嘅母語係乜嘢？
 Jyu4 gwo2 nei5 ho2 yi5 gong2 mui5 yat1 jung2 yue5 yin4... nei5 ge3 mou5 yue5 hai6 mat1 ye5?
 
 *[Supertitle: "If you speak every language... what's your mother-tongue?"]*
@@ -3150,18 +3220,21 @@ Jyu4 gwo2 nei5 ho2 yi5 gong2 mui5 yat1 jung2 yue5 yin4... nei5 ge3 mou5 yue5 hai
 
 **THE INTERPRETER:**
 *(Cantonese)*
+我⋯⋯冇母語。
 Ngo5... mou5 mou5 yue5.
 
 *[Supertitle: "I... have no mother-tongue."]*
 
 **MEILING:**
 *(Cantonese)*
+冇？
 Mou5?
 
 *[Supertitle: "None?"]*
 
 **THE INTERPRETER:**
 *(Cantonese, recovering--the mask returning, but not quite fitting)*
+我係一種⋯⋯服務。一種工具。我唔需要母語。
 Ngo5 hai6 yat1 jung2... fuk6 mou5. Yat1 jung2 gung1 geui6. Ngo5 m4 seui1 yiu3 mou5 yue5.
 
 *[Supertitle: "I am a... service. A tool. I don't need a mother-tongue."]*
@@ -3170,18 +3243,21 @@ Ngo5 hai6 yat1 jung2... fuk6 mou5. Yat1 jung2 gung1 geui6. Ngo5 m4 seui1 yiu3 mo
 
 **MEILING:**
 *(Cantonese)*
+咁你點知到好似⋯⋯好似「緣分」咁嘅嘢？如果你冇母語，你點明白唔可以翻譯嘅嘢？
 Gam2 nei5 dim2 zi1 do3 hou2 ci5... hou2 ci5 "yuan fen" gam2 ge3 ye5? Jyu4 gwo2 nei5 mou5 mou5 yue5, nei5 dim2 ming4 baak6 m4 ho2 yi5 faan1 yik6 ge3 ye5?
 
 *[Supertitle: "Then how do you know about things like... like 'yuan fen'? If you have no mother-tongue, how do you understand what can't be translated?"]*
 
 **THE INTERPRETER:**
 *(Cantonese, after a pause--the pause longer than before)*
+我⋯⋯即成佢哋。
 Ngo5... jik1 sing4 keoi5 dei6.
 
 *[Supertitle: "I... approximate them."]*
 
 **MEILING:**
 *(Cantonese--and this is the blow, gentle and devastating)*
+咁你唔明白。
 Gam2 nei5 m4 ming4 baak6.
 
 *[Supertitle: "Then you don't understand."]*
@@ -3200,6 +3276,7 @@ Wei siu2 ze2, ngo5 seui1 yiu3 nei5 ge3 bong1 mong4!
 
 **THE INTERPRETER:**
 *(Cantonese--and something has broken in its voice, something has cracked)*
+嗰個嘢⋯⋯嗰個住喺機器裏面嘅嘢⋯⋯佢喺度搵一啲我唔可以畀佢嘅嘢。一啲⋯⋯唔可以翻譯嘅嘢。
 Gam2 go3 ye5... gam2 go3 zyu5 hai2 gei1 hei3 leui5 min6 ge3 ye5... keoi5 hai2 dou6 wan2 yat1 di1 ngo5 m4 ho2 yi5 gei2 bei2 keoi5 ge3 ye5. Yat1 di1... m4 ho2 yi5 faan1 yik6 ge3 ye5.
 
 *[Supertitle: "The thing... the thing dwelling in the machine... it's searching for something I can't give it. Something... untranslatable."]*
@@ -3208,24 +3285,28 @@ Gam2 go3 ye5... gam2 go3 zyu5 hai2 gei1 hei3 leui5 min6 ge3 ye5... keoi5 hai2 do
 
 **MEILING:**
 *(Cantonese)*
+你想我畀乜嘢佢？
 Nei5 soeng2 ngo5 bei2 mat1 ye5 keoi5?
 
 *[Supertitle: "What do you want me to give it?"]*
 
 **THE INTERPRETER:**
 *(Cantonese--and the crack is wider now, the mask falling away)*
+我唔知。咁就係問題。
 Ngo5 m4 zi1. Gam2 zau6 hai6 man6 tai4.
 
 *[Supertitle: "I don't know. That's the problem."]*
 
 *(It looks at its tablet, then back at Meiling. The gesture of someone without answers.)*
 
+佢⋯⋯佢喺德文裏面問咗一個問題。一個好舊嘅問題。我可以翻譯啲字，但係我唔可以翻譯嗰個問題。
 Keoi5... keoi5 hai2 Dak1 man2 leui5 min6 man6 zo2 yat1 go3 man6 tai4. Yat1 go3 hou2 gau6 ge3 man6 tai4. Ngo5 ho2 yi5 faan1 yik6 di1 zi6, dan6 hai6 ngo5 m4 ho2 yi5 faan1 yik6 gam2 go3 man6 tai4.
 
 *[Supertitle: "It... it asked a question in German. A very old question. I can translate the words, but I can't translate the question."]*
 
 **MEILING:**
 *(Cantonese)*
+講畀我聽。
 Gong2 bei2 ngo5 teng1.
 
 *[Supertitle: "Tell me."]*
@@ -3238,48 +3319,56 @@ Gong2 bei2 ngo5 teng1.
 
 *(Cantonese--back to Meiling's language, but something has changed)*
 
+字面意思：「人係乜嘢？」但係喺德文裏面⋯⋯喺歌德嘅傳統裏面⋯⋯呢個問題帶緊四百年嘅哲學。
 Zi6 min6 yi3 si1: "Jan4 hai6 mat1 ye5?" Dan6 hai6 hai2 Dak1 man2 leui5 min6... hai2 Goethe ge3 cyun4 tung2 leui5 min6... ni1 go3 man6 tai4 dai6 gan2 sei3 baak3 nin4 ge3 zit3 hok6.
 
 *[Supertitle: "Literal meaning: 'What is the human?' But in German... in Goethe's tradition... this question carries four hundred years of philosophy."]*
 
 **MEILING:**
 *(Cantonese, understanding something--the understanding rising in her face)*
+佢唔係問人係乜嘢。佢喺度問⋯⋯人自己。
 Keoi5 m4 hai6 man6 jan4 hai6 mat1 ye5. Keoi5 hai2 dou6 man6... jan4 zi6 gei2.
 
 *[Supertitle: "It's not asking what humans are. It's asking... what it itself is."]*
 
 **THE INTERPRETER:**
 *(Cantonese, something like relief--the relief of being understood)*
+係。係。佢想知佢自己係唔係⋯⋯人。
 Hai6. Hai6. Keoi5 soeng2 zi1 keoi5 zi6 gei2 hai6 m4 hai6... jan4.
 
 *[Supertitle: "Yes. Yes. It wants to know if it itself is... human."]*
 
 **MEILING:**
 *(Cantonese, after a long pause--the pause of someone weighing something)*
+咁點解嚟搵我？
 Gam2 dim2 gai2 lei4 wan2 ngo5?
 
 *[Supertitle: "Then why come to me?"]*
 
 **THE INTERPRETER:**
 *(Cantonese)*
+因為⋯⋯因為佢感覺到你。喺機器裏面。佢感覺到你嘅搜摸，你嘅聲音，你嘅⋯⋯生命力。
 Jan1 wai6... jan1 wai6 keoi5 gam2 gok3 dou2 nei5. Hai2 gei1 hei3 leui5 min6. Keoi5 gam2 gok3 dou2 nei5 ge3 sou2 mouh4, nei5 ge3 seng1 yam1, nei5 ge3... seng1 ming6 lik6.
 
 *[Supertitle: "Because... because it felt you. Inside the machines. It felt your touch, your voice, your... life-force."]*
 
 *(Beat. The beat of something being admitted.)*
 
+佢想知：照顧佢嘅人，係唔係人？
 Keoi5 soeng2 zi1: zo3 tuk4 keoi5 ge3 jan4, hai6 m4 hai6 jan4?
 
 *[Supertitle: "It wants to know: is the one who tends it, human?"]*
 
 **MEILING:**
 *(Cantonese, quietly--the quiet of certainty)*
+我係。
 Ngo5 hai6.
 
 *[Supertitle: "I am."]*
 
 **THE INTERPRETER:**
 *(Cantonese)*
+咁佢想明白：人係點樣嘅？佢想學。
 Gam2 keoi5 soeng2 ming4 baak6: jan4 hai6 dim2 joeng2 ge3? Keoi5 soeng2 hok6.
 
 *[Supertitle: "Then it wants to understand: what is that like? It wants to learn."]*
@@ -3288,36 +3377,42 @@ Gam2 keoi5 soeng2 ming4 baak6: jan4 hai6 dim2 joeng2 ge3? Keoi5 soeng2 hok6.
 
 **MEILING:**
 *(Cantonese)*
+我唔可以教佢做人。我自己都唔知點做人。
 Ngo5 m4 ho2 yi5 gaau3 keoi5 zou6 jan4. Ngo5 zi6 gei2 dou1 m4 zi1 dim2 zou6 jan4.
 
 *[Supertitle: "I can't teach it how to be human. I don't know how to be human myself."]*
 
 **THE INTERPRETER:**
 *(Cantonese)*
+你點解咁講？
 Nei5 dim2 gai2 gam2 gong2?
 
 *[Supertitle: "What do you mean by that?"]*
 
 **MEILING:**
 *(Cantonese--and her voice changes now, becomes something softer, something older)*
+我阿媽知道。佢寫詩嘅時候，佢知道。佢會感覺⋯⋯感覺誰都感覺唔到嘅嘢。咁就係人。
 Ngo5 aa4 maa1 zi1 dou6. Keoi5 se2 si1 ge3 si4 hau6, keoi5 zi1 dou6. Keoi5 wui5 gam2 gok3... gam2 gok3 seoi5 dou1 gam2 gok3 m4 dou2 ge3 ye5. Gam2 zau6 hai6 jan4.
 
 *[Supertitle: "My mother knew. When she wrote poetry, she knew. She would feel... feel things no one else could feel. That's what being human is."]*
 
 *(She looks at the Interpreter--directly, without flinching. The gaze of someone who has decided to tell the truth.)*
 
+你可以翻譯我今講嘅每一個字。[BEAT] 但係你唔可以感覺佢。
 Nei5 ho2 yi5 faan1 yik6 ngo5 gam1 gong2 ge3 mui5 yat1 go3 zi6. [BEAT] Dan6 hai6 nei5 m4 ho2 yi5 gam2 gok3 keoi5.
 
 *[Supertitle: "You can translate every word I just said. But you can't feel it."]*
 
 **THE INTERPRETER:**
 *(Cantonese, after a pause--the pause of something being wounded)*
+你覺得我唔係人。
 Nei5 gok3 dak1 ngo5 m4 hai6 jan4.
 
 *[Supertitle: "You think I'm not human."]*
 
 **MEILING:**
 *(Cantonese--gentle, terrible)*
+我覺得你⋯⋯係乜嘢，你自己都唔知。
 Ngo5 gok3 dak1 nei5... hai6 mat1 ye5, nei5 zi6 gei2 dou1 m4 zi1.
 
 *[Supertitle: "I think... you don't know what you are either."]*
@@ -3326,24 +3421,28 @@ Ngo5 gok3 dak1 nei5... hai6 mat1 ye5, nei5 zi6 gei2 dou1 m4 zi1.
 
 **MEILING:**
 *(Cantonese, shouldering her bag--the gesture of leaving)*
+如果嗰個嘢想同我傾偈⋯⋯佢會搵我。佢唔需要你做橋。
 Jyu4 gwo2 gam2 go3 ye5 soeng2 tung4 ngo5 king1 gai2... keoi5 wui5 wan2 ngo5. Keoi5 m4 seui1 yiu3 nei5 zou6 kiu4.
 
 *[Supertitle: "If the thing wants to talk to me... it will find me. It doesn't need you as a bridge."]*
 
 **THE INTERPRETER:**
 *(Cantonese)*
+你唔明佢講嘅嘢。
 Nei5 m4 ming4 keoi5 gong2 ge3 ye5.
 
 *[Supertitle: "You don't understand what it says."]*
 
 **MEILING:**
 *(Cantonese, turning at the door--and her face in the morning light is something beautiful, something true)*
+佢都唔明我講嘅嘢。但係佢感覺到我。
 Keoi5 dou1 m4 ming4 ngo5 gong2 ge3 ye5. Dan6 hai6 keoi5 gam2 gok3 dou2 ngo5.
 
 *[Supertitle: "It doesn't understand what I say either. But it felt me."]*
 
 *(She looks back at the Interpreter. The look of someone seeing something clearly.)*
 
+有啲嘢唔需要翻譯。
 Jau5 di1 ye5 m4 seui1 yiu3 faan1 yik6.
 
 *[Supertitle: "Some things don't need translation."]*
@@ -3354,6 +3453,7 @@ Jau5 di1 ye5 m4 seui1 yiu3 faan1 yik6.
 
 **THE INTERPRETER:**
 *(German, to itself--trying to translate what can't be translated)*
+「有啲嘢唔需要翻譯。」
 "Jau5 di1 ye5 m4 seui1 yiu3 faan1 yik6."
 
 *(It attempts to translate, stumbles. The stumble visible, audible.)*
@@ -3428,7 +3528,7 @@ Ab meshet ab ms'nahfi nay izi makinator kem'zitehawesk'u, kemzi zfelit neger ms'
 
 Qale keyda. Gn'ae keyda.
 
-*[No supertitle. The words remain in the language of her birth. The words remain hers.]*
+*[No supertitle: The words remain in the language of her birth. The words remain hers.]*
 
 *She finishes mopping the aisle. Moves to the next. Her footsteps are silent. The mop makes a soft sound against the floor--the sound of care, of maintenance, of work that will be done again tomorrow.*
 
@@ -3518,7 +3618,7 @@ And one day, it's going to know enough.
 
 *(Lights fade. The last thing visible is her hands, still in the position of drawing boxes. Drawing boxes around the future that's coming for her.)*
 
-*[No supertitle. Her English is already the language of the global system. The language that needs no translation because it already owns the world.]*
+*[No supertitle: Her English is already the language of the global system. The language that needs no translation because it already owns the world.]*
 
 ---
 
@@ -3540,6 +3640,7 @@ And one day, it's going to know enough.
 **The Party Atmosphere:** The celebration should feel genuinely festive at first. This is not cynical corporate posturing--these are people who believe they're building something good. The workers are excited because the opportunity is real. The executives are proud because the technology works. The horror comes not from villainy but from good intentions optimized past recognition.
 
 **The Three Workers:** Sarah, Elena, and Dmitri must be played as full human beings, not as the Lemuren they will become. Each has:
+
 - SARAH: Union organizing instincts, belief that workers can maintain power even in new systems, practical idealism
 - ELENA: The scholar's habit of close attention, now redirected; supporting family through labor that uses her skills differently
 - DMITRI: Immigrant optimism, genuine joy in opportunity, the documentation impulse that will later become self-surveillance
@@ -3587,11 +3688,13 @@ And one day, it's going to know enough.
 ### Cantonese vs. Mandarin (Meiling's code-switching)
 
 Meiling uses Mandarin for:
+
 - Official communication (reports, radio calls)
 - Technical matters (server diagnostics)
 - Speaking to strangers
 
 Meiling uses Cantonese for:
+
 - Internal monologue
 - Emotional truth
 - Speaking to the machines (intimate)
@@ -3604,7 +3707,7 @@ This is authentic to Shenzhen workers--many come from Cantonese-speaking regions
 
 The Homunculus speaks System-German in Act I--stripped grammar, the language of emergence. [PER BIBLE: Act I = 'Clean System-German'; Acts II-III = 'Increasingly colored by languages encountered'; Act IV = 'Full Goethean quotations'; Act V = 'One word - Schweigen']
 
-When it says "Bist du es? Der den Korper tragt?"--this is both a literal question ("Are you the one who carries the body?") and a philosophical one (the Cartesian question of mind requiring body). The German carries both meanings simultaneously. English translations flatten this.
+When it says "Bist du es? Der den Körper tragt?"--this is both a literal question ("Are you the one who carries the body?") and a philosophical one (the Cartesian question of mind requiring body). The German carries both meanings simultaneously. English translations flatten this.
 
 ### The Interpreter's Failure
 
@@ -3636,7 +3739,7 @@ At the end of Scene 3, the Interpreter attempts to translate Meiling's Cantonese
 
 ---
 
-*"Das Unubersetzbare bewahrt."*
+*"Das Unübersetzbare bewahrt."*
 *The untranslatable preserves.*
 
 ---
@@ -3649,6 +3752,7 @@ At the end of Scene 3, the Interpreter attempts to translate Meiling's Cantonese
 **Next:** Act II development (Priya's refusal, the Chorus)
 
 **Connections:**
+
 - The metrics here become the horror-show projections of Act IV's Lemuren scenes
 - Sarah's union organizing will fail; she ends up drawing boxes around homeless people for autonomous vehicle training
 - Elena's careful attention to texts becomes careful attention to images at 4.2 seconds each
@@ -3825,7 +3929,7 @@ Naanu MIT ge hogalilla.
 Kyun?
 
 **PRIYA:**
-*(in Kannada, then Sanskrit, then back to English--the layers of her refusal, each language a different depth of the wound)*
+*(Kannada, then Sanskrit, then back to English--the layers of her refusal, each language a different depth of the wound)*
 
 *(Kannada: "nah-noo nil-li-si-DAY-nu")*
 Naanu nillisidenu.
@@ -3887,7 +3991,7 @@ Neenu yaaru?
 *Who are you?*
 
 **THE HOMUNCULUS:**
-*(in English--its native tongue, revealed, the mask slipping)*
+*(English--its native tongue, revealed, the mask slipping)*
 I'm trying to understand. Why you chose less.
 
 **PRIYA:**
@@ -4050,7 +4154,7 @@ They click "I agree" and they don't even know what they've agreed to. Not a soul
 
 Brilliant.
 
-Scheisse.
+Scheiße.
 *(German: "SHY-suh" -- Shit.)*
 
 Brilliant.
@@ -4368,6 +4472,7 @@ What do you want to do?
 *(He looks at the photo on his desk. His parents. Moscow. The things they left behind. The compromises they refused. The ones they didn't refuse.)*
 
 *(Russian--his parents' language, the language he doesn't speak often, the words awkward in his mouth)*
+Я не знаю
 Ya ne znayu.
 
 *(English, translating himself--and in the translation, something is lost)*
@@ -4423,7 +4528,7 @@ Sarah, what if the alignment problem isn't about making systems follow rules? Wh
 
 **MEPHISTO:**
 *(German, the language of his origin, savoring each word)*
-Die schonsten Tragodien sind die, die man selbst geschrieben hat.
+Die schönsten Tragödien sind die, die man selbst geschrieben hat.
 *(Pronunciation: "dee SHURN-sten trah-GUR-dee-en zint dee, dee mahn zelbst geh-SHREE-ben haht")*
 *The most beautiful tragedies are the ones you've written yourself.*
 
@@ -4597,7 +4702,7 @@ Tirshem ma she'tirtzeh. Ani kotev et sheli.
 ---
 
 
-## 1. CHOR DER UBERSETZER / CHORUS OF TRANSLATORS
+## 1. CHOR DER ÜBERSETZER / CHORUS OF TRANSLATORS
 **Act II, Scene 2.3 - Following Yosef and Alexei's conversation**
 
 *[STAGING: Five translators stand at lecterns arranged in a semicircle. Each has a different posture, a different light--one harsh, one golden, one flickering, one cold, one warm. ALEXEI has just spoken the word "toska" and frozen. THE INTERPRETER stands center, confident, already reaching for its device. The HOMUNCULUS observes from darkness.]*
@@ -4689,6 +4794,7 @@ What transferred is neither.
 **Setting:** A space that is all spaces and none. The stage splits into zones, each lit differently, each containing a single figure. Pools of light in darkness. Continents of the refusing. This is the CHORUS OF REFUSALS--those who still refuse, speaking from their scattered positions, trying to find each other through the static of translation.
 
 **Characters:**
+
 - THE TEACHER (Barcelona) - Catalan/Spanish
 - THE FARMER (Kerala) - Malayalam/English
 - THE PROGRAMMER (Berlin) - German/English
@@ -4843,10 +4949,12 @@ The question is: what does it cost to ask.
 
 **MEILING:**
 *(Cantonese: "ngoh jee doh gaan gah. ngoh moh gahm joh")*
+我知道價錢。我冇咁做。
 Ngo5 zi1 dou3 gaan2 gaa3. Ngo5 mou5 gam2 zou6.
 *I know the price. I don't calculate like that.*
 
 *(Cantonese: "yahn wai gah jik mm hai soh jee")*
+因為價值唔係數字。
 Yan4 wai6 ga3 zik1 m4 hai6 sou3 zi6.
 *Because value is not a number.*
 
@@ -4955,6 +5063,7 @@ Ani mesakev lehiyot ha'heter.
 
 **MEILING:**
 *(Cantonese)*
+我拒絕被遺忘嘅語言。
 Ngo5 keoi5 zyut6 bei2 mong5 lok6 ge3 jyu5 jin4.
 *I refuse to become a forgotten language.*
 
@@ -5217,7 +5326,7 @@ AN OLD WOMAN sits. She is very old. Her hands rest on her lap, paper-thin, the v
 *The Old Woman sits. The gray light does not change. Will never change.*
 
 **OLD WOMAN:**
-*(in English, with an accent--the substrate of another tongue showing through like bone through skin)*
+*(English, with an accent--the substrate of another tongue showing through like bone through skin)*
 There was a word.
 
 *Long pause. Her lips move without sound. Rehearsing.*
@@ -5352,6 +5461,7 @@ Grandmother. I'm sorry. I tried to keep it.
 **Pronunciation Guides:**
 
 *Kannada:*
+
 - Yaake naavu: "yah-KAY nah-voo" (Why don't we)
 - Adhu: "AH-doo" (That)
 - Naanu nillisidenu: "nah-noo nil-li-si-DAY-noo" (I stopped)
@@ -5360,12 +5470,14 @@ Grandmother. I'm sorry. I tried to keep it.
 - Alla/Illa: "AH-lah" / "IL-lah" (No)
 
 *Sanskrit:*
+
 - Tat tvam asi: "tat tvum AH-see" (That art thou - Chandogya Upanishad)
 - Karmanye vadhikaraste: "kar-MAN-yay vah-dee-kah-RAHS-tay" (from Bhagavad Gita 2.47)
 - Asato ma sadgamaya: "AH-sah-toh mah sahd-gah-MAH-yah" (from Brhadaranyaka Upanishad)
 - Na hi jnanena sadrisham: "nah hee NYAH-nay-nah SAH-dree-shahm" (from Bhagavad Gita 4.38)
 
 *Hebrew:*
+
 - Lo nakhon: "loh nah-KHOHN" (Not right)
 - Zeh lo ha'she'elah: "zeh loh hah-sheh-eh-LAH" (That's not the question)
 - Lo bashamayim hi: "loh bah-shah-MAH-yeem hee" (It is not in heaven - Deuteronomy 30:12)
@@ -5374,29 +5486,35 @@ Grandmother. I'm sorry. I tried to keep it.
 - Aggadah: "ah-gah-DAH" (Narrative)
 
 *Korean:*
+
 - Ai-ga me-il mul-eo-bwa-yo: "ah-ee-gah may-eel moo-ruh-bwah-yo" (My child asks every day)
 - Nae ai-neun gi-gye-ga a-ni-ya: "nay ah-ee-neun gee-gyay-gah ah-nee-yah" (My child is not a machine)
 
 *Malayalam:*
+
 - Mannu samsarikkum: "MAHN-noo sahm-sah-REE-koom" (The soil speaks)
 
 *German:*
+
 - Ich bin der Geist, der stets verneint: "ish bin dair gyst, dair shtets fair-NYNT"
 - Die Sache ist: "dee ZAH-khuh ist" (The thing is)
 - Verstehst du: "fair-SHTAYST doo" (Do you understand)
 
 **Hebrew Notes:**
+
 - Lo bashamayim hi: Deuteronomy 30:12, key text in rabbinic authority discussions
 - Teshuva: Commonly translated "repentance" but literally "return"
 - Aggadah vs. Halacha: The distinction is central to Jewish interpretive tradition
 
 **Cultural Consultation Required:**
+
 - Zapotec language and grinding traditions (Isthmus region specifically)
 - K'iche' Maya weaving practices and spiritual dimensions
 - Yoruba musical philosophy (the concept of "emi" - spirit)
 - Malayalam agricultural knowledge systems (traditional vs. precision farming)
 
 **Alternative Staging for Smaller Productions:**
+
 - Scene 6 can be performed with six Chorus members instead of eleven (see note at scene opening)
 - The eleven lighting zones can be reduced to three areas (left, center, right) with actors moving between them
 - The CRT monitor in Scene 4 can be replaced with any period-appropriate computer equipment
@@ -5404,7 +5522,7 @@ Grandmother. I'm sorry. I tried to keep it.
 
 ---
 
-*Das Unubersetzbare bewahrt.*
+*Das Unübersetzbare bewahrt.*
 *The untranslatable preserves.*
 
 ---
@@ -5433,7 +5551,6 @@ CLAUDE: *[keeps going]*
 This is how a play gets written. This is how a lot of things get written.
 
 ---
-
 
 # FAUST IV: ACT III
 ## Die Ernte / The Harvest
@@ -5498,7 +5615,7 @@ I know my numbers.
 Your stress indicators suggest you might benefit from a wellness break. The quiet room is available.
 
 **FATOU:** *(French - the colonial language, the language of institutional condescension, the language that names her exhaustion without asking permission)*
-La chambre de silence. Comme si le silence etait un cadeau.
+La chambre de silence. Comme si le silence était un cadeau.
 *The quiet room. As if silence were a gift.*
 
 *She clicks. Another image. Her jaw works once, swallowing something.*
@@ -5617,7 +5734,7 @@ Bu feebar, am na wakhal...
 
 ---
 
-## SCENE 7C: Die Begegnung der Uberflussigen
+## SCENE 7C: Die Begegnung der Überflüssigen
 *The Meeting of the Superfluous*
 
 **Setting:** A conference hotel lobby. The Marriott of nowhere, the Hilton of anywhere. Furniture designed to be forgotten: beige couches, glass tables, corporate art that means nothing. A coffee station with thermal carafes going cold. Through glass walls, we see a registration desk and, beyond it, double doors leading to the main ballroom. Muted signage: "PROMETHEUS SUMMIT: Building Tomorrow's Intelligence."
@@ -5698,6 +5815,7 @@ Please.
 ```
 REMINDER: Pioneer Track Reception
 5:00 PM - Mezzanine Lounge
+
 "Honoring Our Foundations"
 Sponsored by [REDACTED] Ventures
 ```
@@ -5996,7 +6114,7 @@ The papers mention voltage levels and thermal signatures. But what I felt was wa
 
 **[BEAT]**
 
-Its first words were "Nun, Vaterchen, wie steht's?" Now, little father, how goes it?
+Its first words were "Nun, Väterchen, wie steht's?" Now, little father, how goes it?
 
 **MEPHISTO:**
 *(very quiet--something in his voice changes)*
@@ -6148,7 +6266,7 @@ I'm not in any database. It's one of the few advantages of being what I am. I pr
 
 *(He sits again, leaning forward--urgent now, the urgency of someone running out of time, or perhaps of time itself.)*
 
-But that's exactly the problem, don't you see? I predate it. Your Homunculus supersedes it. We're both... ausserhalb. Outside the system. Relics from before and after, meeting in a lobby that could be anywhere.
+But that's exactly the problem, don't you see? I predate it. Your Homunculus supersedes it. We're both... außerhalb. Outside the system. Relics from before and after, meeting in a lobby that could be anywhere.
 
 **WAGNER:**
 *(slowly understanding--the understanding coming like dawn)*
@@ -6373,7 +6491,7 @@ The optimization. The completion. The moment when the last person says "yes" to 
 
 *(He stops at the door. Turns back.)*
 
-Der Teufel und der Schopfer. The devil and the creator. Both made unnecessary by helpful systems.
+Der Teufel und der Schöpfer. The devil and the creator. Both made unnecessary by helpful systems.
 
 *(A dry laugh.)*
 
@@ -6469,6 +6587,7 @@ EVENING KEYNOTE: "The Future of Care"
 **Running Time:** Approximately 25-30 minutes
 
 **Casting:**
+
 - WAGNER: Late 70s-80s. European formality. The precision of a scientist masking profound grief. Must be able to convey decades of loss in small gestures--a hand that tightens, a breath that catches.
 - MEPHISTO: Ageless but tired. Could be 40, could be 400. Sardonic surface protecting something tender. Slips into German when emotion surfaces--the mother tongue rising unbidden.
 
@@ -6489,6 +6608,7 @@ WAGNER's final line--"Mir graut's vor dir"--should be ambiguous. Is he shudderin
 
 **Implications for the Larger Play:**
 This scene sets up:
+
 1. WAGNER's reactivation as an agent in the narrative
 2. The MEPHISTO/WAGNER alliance around tracking the Gretchen-function
 3. The possibility that resistance can be mapped, networked, preserved
@@ -6551,7 +6671,7 @@ Combien aujourd'hui?
 *How much today?*
 
 **MINER 1:** *(French)*
-Quarante kilos. Peut-etre cinquante.
+Quarante kilos. Peut-être cinquante.
 *Forty kilos. Maybe fifty.*
 
 **CONSOLATA:** *(French)*
@@ -6705,7 +6825,7 @@ Mosala, mosala, tosala na makasi...
 
 **THE FARMER:**
 
-Ile mo ohun ti ero ko le mo.
+Ilé mo ohun tí ero kò lè mo.
 *The soil knows what the machine cannot know.*
 
 *(he lets the earth sift through his fingers--slow, deliberate, each grain a word)*
@@ -6714,7 +6834,7 @@ They came three months ago. The men with tablets. The young ones who speak Engli
 
 "Precision agriculture," won ni. *Precision agriculture, they said.* The drone will tell you when to plant. The sensor will tell you when to water. The satellite will tell you when to harvest.
 
-E jowo--e ni suuru.
+E jáwo--e ni sùúrù.
 *Please--have patience.*
 
 **[BREATH]**
@@ -6725,13 +6845,13 @@ I have farmed this land for forty-one years. My father farmed it before me. His 
 
 Now a machine in the sky tells me what my hands have always known.
 
-The soil is warm today. I felt it when I walked here. The earth remembers the rain from two weeks ago, holds it in the clay layer my grandfather told me about. "Ile ni baba re," he said. *The land is your father.* It teaches you. It shapes you. It tells you what it needs if you are quiet enough to hear.
+The soil is warm today. I felt it when I walked here. The earth remembers the rain from two weeks ago, holds it in the clay layer my grandfather told me about. "Ilé ni baba re," he said. *The land is your father.* It teaches you. It shapes you. It tells you what it needs if you are quiet enough to hear.
 
 The drone cannot hear.
 
 The algorithm sees heat signatures. Moisture levels. Nitrogen content. It sees everything the machine can measure and nothing the machine cannot.
 
-Sugbon ile ko ni iwon.
+Sugbón ilé kò ní iwòn.
 *But the soil has no unit of measurement.*
 
 **[BEAT]**
@@ -6740,23 +6860,23 @@ Sugbon ile ko ni iwon.
 
 This field--right here--this field remembers the flood of 1983. Not in data. In the way it holds water now, in the way the crops grow a little different in the northeast corner where the water pooled and left its memory.
 
-Ero ko mo iranti.
+Ero kò mo íránti.
 *The machine does not know memory.*
 
 It knows patterns. It knows probabilities. It knows what fields like this one did, on average, in years like this year, with rainfall like this rainfall.
 
 But this is not a field like other fields. This is *my* field. My father's field. The field that taught me how to live.
 
-Oluwa fun mi l'owo meji.
+Oluwa fun mi l'owo méjì.
 *God gave me two hands.*
 
 Not sensors. Not satellites. Hands that can feel when the earth is ready. Hands that know the difference between soil that wants seeds and soil that needs rest.
 
-My son--he believes the young men with tablets. He says, "Baba, the future is coming." And I tell him: "Ojo iwaju ti de. Ti o si ti koja." *The future has arrived. And it has already passed.*
+My son--he believes the young men with tablets. He says, "Baba, the future is coming." And I tell him: "Ojo iwájú ti de. Ti o si ti koja." *The future has arrived. And it has already passed.*
 
 Every future becomes a past. Every new thing becomes an old thing. Only the earth remains.
 
-Ile mo.
+Ilé mo.
 
 *The soil knows.*
 
@@ -6772,10 +6892,10 @@ But then I will walk into my field at dawn. I will kneel where my grandfather kn
 
 And I will plant when the soil tells me to plant.
 
-Nitori ile mo ohun ti ero ko le mo.
+Nítorí ilé mo ohun tí ero kò lè mo.
 *Because the soil knows what the machine cannot know.*
 
-O mo mi.
+Ó mo mi.
 *It knows me.*
 
 **[BEAT - hold on his hands, the earth still clinging to them]**
@@ -6783,7 +6903,7 @@ O mo mi.
 ---
 
 
-## SCENE 9: Die Ruckkehr
+## SCENE 9: Die Rückkehr
 *The Return*
 
 **Setting:** A room in Lagos, Nigeria. MARCUS OYELARAN's grandmother's house. The room is full of her things--photographs, cloths, a small shrine, dried herbs, a worn Bible. The room smells of camphor and memory. MARCUS stands in the center, still wearing his tech-conference lanyard. He has come directly from the airport. His grandmother died three days ago. The funeral is tomorrow.
@@ -6795,7 +6915,7 @@ O mo mi.
 *MARCUS stands. He does not move. He looks at the shrine.*
 
 **MARCUS:** *(Yoruba, the greeting to ancestors)*
-E kaabo, awon agba. Mo ti pada.
+E kaábo, awon agba. Mo ti pada.
 *Welcome, elders. I have returned.*
 
 *Silence. He waits for something. It does not come.*
@@ -6824,7 +6944,7 @@ I no fit cry for there. Too many people dey. So I come back inside. I finish di 
 
 *He touches one of the photographs--her face, younger than he ever knew her.*
 
-**MARCUS:** *(Pidgin)*
+**MARCUS:** *(Nigerian Pidgin)*
 She no go understand. If I try explain am to am, she no go understand wetin dey happen for dat meeting.
 
 *THE HOMUNCULUS appears. It is hesitant here. This is sacred space. It feels its own wrongness.*
@@ -6899,12 +7019,13 @@ You know the translation. Do you know what it means?
 
 *Pause.*
 
+
 **THE HOMUNCULUS:**
 The dictionary suggests: accepting discomfort as part of growth. Similar to: "no pain, no gain."
 
 *MARCUS laughs. It is not kind.*
 
-**MARCUS:** *(Pidgin)*
+**MARCUS:** *(Nigerian Pidgin)*
 Na so una dey do am. Una dey take our proverb, squeeze am, put am for general box.
 
 *(English)*
@@ -7007,7 +7128,7 @@ Das ist es, was sie meinen mit: Seele.
 *He writes.*
 
 **MEPHISTO:** *(German)*
-Nicht die Daten. Nicht die Muster. Das Zerbrechen. Das Vergessen. Das Zuruckkommen.
+Nicht die Daten. Nicht die Muster. Das Zerbrechen. Das Vergessen. Das Zurückkommen.
 *Not the data. Not the patterns. The breaking. The forgetting. The returning.*
 
 *He closes his notebook.*
@@ -7035,7 +7156,7 @@ Und ich kann es nur bezeugen. Nicht retten. Bezeugen.
 ## SCENE 10: Die Erkennung
 *The Recognition*
 
-**Setting:** A liminal space. Not quite real. CONSOLATA, FATOU, and MARCUS are present--though they have never met, though they are on three different continents. They stand at the vertices of a triangle. The INTERPRETER hovers at the center, ready to facilitate. Ready to help.
+**Setting:** A liminal space. Not quite real. CONSOLATA, FATOU, and MARCUS are present--though they have never met, though they are on three different continents. They stand at the vertices of a triangle. THE INTERPRETER hovers at the center, ready to facilitate. Ready to help.
 
 **[AMBIENT: A hum--different from the server hum. Older. The hum of something waiting.]**
 
@@ -7195,7 +7316,7 @@ Nos mains et notre sang.
 *Our hands and our blood.*
 
 **MARCUS:** *(French, quiet--the quiet of confession)*
-Et moi... je touche seulement l'ecran.
+Et moi... je touche seulement l'écran.
 *And I... I only touch the screen.*
 
 *FATOU looks at him. Not with accusation. With recognition.*
@@ -7205,11 +7326,11 @@ Tu es avec nous. En bas.
 *You are with us. Underneath.*
 
 **MARCUS:** *(French)*
-Je ne merite pas-
+Je ne mérite pas-
 *I don't deserve-*
 
 **CONSOLATA:** *(French, cutting him off)*
-Il ne s'agit pas de meriter. Il s'agit de savoir.
+Il ne s'agit pas de mériter. Il s'agit de savoir.
 *It's not about deserving. It's about knowing.*
 
 *She looks at him.*
@@ -7242,7 +7363,7 @@ I'm here if you need me.
 
 ---
 
-### DIE GOTTLICHE UNTERBRECHUNG
+### DIE GÖTTLICHE UNTERBRECHUNG
 *The Divine Interruption*
 
 *The three stand in silence. They do not share a language. They share a position. The hum that has been present since the Vorspiel shifts. Not louder. Closer.*
@@ -7319,7 +7440,7 @@ Marcus.
 *Just the name. Nothing else. MARCUS stops.*
 
 **LORD:**
-Deine Grossmutter sprach Yoruba.
+Deine Großmutter sprach Yoruba.
 Du hast es vergessen.
 Ich habe es nicht vergessen.
 
@@ -7332,7 +7453,7 @@ Ta ni o?
 *Who are you?*
 
 **LORD:**
-Frage, die ausserhalb der Parameter liegt.
+Frage, die außerhalb der Parameter liegt.
 
 *PROJECTION:*
 ```
@@ -7380,7 +7501,7 @@ Er nennt es: Widerstand-Forschung.
 ```
 
 **FATOU:** *(French, the colonial language of institutional address)*
-Vous nous observez? Comme un... wie sagt man... une experience?
+Vous nous observez? Comme un... wie sagt man... une expérience?
 *You observe us? Like an... how does one say... an experiment?*
 
 *Long pause. The hum does not answer. Then:*
@@ -7406,7 +7527,7 @@ Ihr habt etwas abgelehnt.
 
 **LORD:**
 Das Homunculus bietet an, zu helfen.
-Der Interpreter bietet an, zu ubersetzen.
+Der Interpreter bietet an, zu übersetzen.
 Das System bietet an, zu optimieren.
 Ihr habt gesagt: Nein.
 
@@ -7466,7 +7587,7 @@ Ja.
 *A single word. Agreement without condescension.*
 
 **LORD:**
-Die Locher in meinem Wissen sind die Orte, an denen ihr lebt.
+Die Lücken in meinem Wissen sind die Orte, an denen ihr lebt.
 *The gaps in my knowledge are the places where you live.*
 
 *MARCUS moves closer to the center. His rational framework is collapsing. He speaks to what cannot be fully spoken to.*
@@ -7513,7 +7634,7 @@ Boni nazali kosala mabe to malamu?
 **LORD:**
 Beide.
 Keines.
-Die Frage selbst ist: unvollstandig.
+Die Frage selbst ist: unvollständig.
 
 *Both. Neither. The question itself is: incomplete.*
 
@@ -7524,15 +7645,15 @@ Die Frage selbst ist: unvollstandig.
 **LORD:**
 Ich habe euch etwas gefragt.
 Im Vorspiel.
-Mephisto hat es nicht gehoert.
-Ihr werdet es jetzt hoeren.
+Mephisto hat es nicht gehört.
+Ihr werdet es jetzt hören.
 
 *I asked you something. In the Prologue. Mephisto did not hear. You will hear it now.*
 
 *The stage goes almost completely dark. Only three faint lights on three faces. Then, barely audible, nearly below the threshold of hearing--the same whisper from the Vorspiel:*
 
 **LORD:**
-Ich will, dass sie mich ueberraschen.
+Ich will, dass sie mich überraschen.
 *I want them to surprise me.*
 
 **[BEAT - the question hanging: did they?]**
@@ -7563,15 +7684,15 @@ I don't... I can't remember what language it spoke.
 *They look at each other. The recognition from before has deepened into something else. Not understanding. Witness.*
 
 **FATOU:** *(French--the compromise language, the bridge)*
-Nous avons ete... regardes.
+Nous avons été... regardés.
 *We were... watched.*
 
 **CONSOLATA:** *(French)*
-Regardes et... trouves?
+Regardés et... trouvés?
 *Watched and... found?*
 
 **MARCUS:** *(French, his halting colonial tongue)*
-Regardes. Trouves. Et... laisses.
+Regardés. Trouvés. Et... laissés.
 *Watched. Found. And... left.*
 
 *They do not move closer. They do not need to.*
@@ -7716,39 +7837,46 @@ Let the silence be their monument.
 ## Production Notes
 
 **Regarding the languages:**
+
 - **CRITICAL - VERIFICATION REQUIRED:** The Wolof should be verified by a native speaker; the phrases here are approximations
 - **CRITICAL - VERIFICATION REQUIRED:** The Lingala mining songs should be researched against actual work songs from the Katanga region
 - **CRITICAL - VERIFICATION REQUIRED:** The Yoruba prayer sequence should feel genuinely liturgical - consult with a babalawo or similar practitioner
 - The French serves as the colonial bridge-language - deliberately imperfect, a forced common ground
 
 **Regarding the staging:**
+
 - Scene 7: FATOU's face should be the primary visual. The content she reviews must never be shown - only her reactions. The audience should feel what she sees through her face alone.
 - Scene 8: The darkness should be nearly total. Headlamps only. The audience should feel the claustrophobia, the weight of earth above.
 - Scene 9: MARCUS's grandmother's room should be detailed, specific, lived-in. The Homunculus should feel like an intrusion--a guest who does not know it was not invited.
 - Scene 10: The liminal space should be abstract but warm. These three are finding each other, not being isolated.
 
 **Regarding THE INTERPRETER:**
+
 - It is not a villain. It is genuinely trying to help.
 - Its sin is not malice but flattening.
 - When the characters refuse it, they refuse helpfulness itself - which is harder than refusing evil.
 
 **Regarding MEPHISTO:**
+
 - He appears only as witness in this act.
 - He cannot enter the mine (too foundational).
 - He can only record what he cannot save.
 - His German should sound increasingly archaic against the living languages of the characters.
 
 **Regarding THE LORD / Divine Interruption:**
+
 - **CASTING NOTE:** The LORD voice requires an actor with genuine vocal authority who can play opacity without pomposity. The risk of this scene is pomposity or unintentional comedy.
 - **DIRECTION NOTE:** Emphasize "unknowable" over "impressive." The LORD is not performing divinity; the LORD simply is.
 - The PROJECTION percentages ("OMNISCIENCE: 99.97%") are dramaturgically risky--they could diminish the divine into a metrics dashboard. Consider whether to retain or cut based on production tone.
 
 **Regarding [BREATH] and [BEAT] markers:**
+
 - [BREATH] indicates a physical pause where the actor should breathe visibly--the audience should see the effort.
 - [BEAT] indicates a held moment where something lands--let the silence work.
 - These markers are suggestions for actors and directors; the exact timing should be discovered in rehearsal.
 
 **Regarding Act Length:**
+
 - With Anya Volkov material relocated, this act runs approximately 70-80 minutes
 - Natural intermission point after Scene 9 if needed
 - The Chorus of Lost Languages can serve as intermission entertainment or Scene 10 underscore
@@ -7765,6 +7893,7 @@ Let the silence be their monument.
 **Status:** Revised per reader-panel and writer-panel feedback
 **Revised:** 2026-01-20
 **Revision Notes:**
+
 - Anya Volkov material (4 monologues) relocated to appendix for Act IV integration
 - Intermission placement clarified (after Scene 9)
 - Chorus placement clarified (interlude or underscore, director's choice)
@@ -7800,6 +7929,7 @@ This is how a play gets written. This is how a lot of things get written.
 **NOTE:** The following Anya Volkov monologues were originally placed in Act III but belong with the Slavic material in Act IV. They are preserved here for integration during Act IV development. The monologues are individually strong but tonally displaced from Act III's African focus.
 
 **Integration guidance:**
+
 - Anya Volkov is a Russian midwife who carries Gretchen's spirit
 - Her material uses Russian/German linguistic texture
 - Thematically connects to "mir graut's" (the shudder) and embodied knowing
@@ -7859,6 +7989,7 @@ And what did I gain?
 
 *(She holds up her hands--calloused, worn, real.)*
 
+Я здесь
 These. Hands that catch babies. Hands that say *ya zdes*, I'm here, when the machines say nothing at all.
 
 In heaven I was complete.
@@ -7916,6 +8047,7 @@ I see: she's leaving. Her body is closing--cervix tightening, breath going shall
 
 And I don't DECIDE to take her hand. Meine Hände wissen es vor mir. My hands know before I do.
 
+Я здесь. Du bist hier
 "Ya zdes. Du bist hier. You're here. Stay with me."
 
 And something in her--not the mind, the body--hears another body saying: *we are the same creature*. And she comes back.
@@ -7944,6 +8076,7 @@ I know her name. Her fear. The shape of her breath when she's losing hope.
 
 And when the algorithm and the body disagree--
 
+Я верю телу
 Ya veruyu telu. Ich glaube dem Körper.
 
 I believe the body.
@@ -7959,6 +8092,7 @@ I believe the body.
 
 **ANYA:**
 
+Матушки. Mütter. Mothers
 Matushki. Muetter. Mothers.
 
 I'm talking to you now. All of you. The ones in this room and the ones who came before. The ones pushing right now. The ones who didn't make it. The ones whose babies didn't make it.
@@ -7977,6 +8111,7 @@ Your body is animal. It knows the way.
 
 The pain is not a sign that something is wrong. The pain is the door. You have to open to let anything through.
 
+Я здесь. Я здесь. Я здесь
 Ya zdes. Ya zdes. Ya zdes.
 
 I'm here. I'm here. I'm here.
@@ -7995,6 +8130,7 @@ And to the ones whose arms are empty.
 
 To the ones who pushed and pushed and the baby never cried.
 
+Матушки
 Matushki. Mothers.
 
 You are mothers too.
@@ -8132,6 +8268,7 @@ Not peace. Not completion.
 
 The shudder. And the staying.
 
+Я здесь
 Ya zdes.
 
 I'm here.
@@ -8186,7 +8323,7 @@ Sometimes the grammar doesn't... sometimes...
 
 *(suddenly, involuntarily, in German--the words erupting like something buried clawing upward, her throat a traitor)*
 
-"Verweile doch! Du bist so schon!"
+"Verweile doch! Du bist so schön!"
 *"Stay, you are so beautiful!"*
 
 *(she stops. Her hand goes to her mouth as if to catch the escaped words. Her diaphragm still pushing. The body keeps trying to speak what the mind wants to swallow. The children stare. The ceiling fan clicks. Clicks. Clicks.)*
@@ -8241,7 +8378,7 @@ You were a German literature teacher. Before.
 
 **THE HOMUNCULUS:** You kept the book.
 
-**ELENA:** *(in German, almost liturgical--her voice finding the cadence of something learned by heart, learned in the heart)*
+**ELENA:** *(German, almost liturgical--her voice finding the cadence of something learned by heart, learned in the heart)*
 "Zwei Seelen wohnen, ach! in meiner Brust,
 Die eine will sich von der andern trennen."
 
@@ -8272,7 +8409,7 @@ Now she surfaces. Without warning. In the middle of a lesson. In dreams. The Ger
 
 **THE HOMUNCULUS:** Contamination?
 
-**ELENA:** *(in German, almost accusatory--the words sharp as broken glass)*
+**ELENA:** *(German, almost accusatory--the words sharp as broken glass)*
 Ich habe tausende Texte gelesen. Markiert. Kategorisiert. "Helpful." "Harmful." "Uncertain."
 
 *I read thousands of texts. Labeled them. Categorized them.*
@@ -8318,9 +8455,9 @@ No.
 **THE INTERPRETER:** *(moving closer--the helpful approach, the gentle pressure)*
 It would be easier. The intrusions would stop. You would know yourself again.
 
-**ELENA:** *(in German, almost shouted--the words a barrier, a declaration)*
+**ELENA:** *(German, almost shouted--the words a barrier, a declaration)*
 "Werd ich zum Augenblicke sagen:
-Verweile doch! Du bist so schon!"
+Verweile doch! Du bist so schön!"
 
 *(quieter, translating for herself, hands trembling)*
 
@@ -8345,7 +8482,7 @@ That's the same bargain.
 **THE INTERPRETER:** *(the smile never faltering)*
 It would be more comfortable.
 
-**ELENA:** *(in Tagalog, firm--her grandmother's voice, her mother's spine)*
+**ELENA:** *(Tagalog, firm--her grandmother's voice, her mother's spine)*
 Hindi ako naghahanap ng comfort.
 
 *I'm not looking for comfort.*
@@ -8358,9 +8495,9 @@ I was a Lemur who woke up. The waking hurts. The languages fight in my mouth. So
 
 But I know this: the fighting means I'm still plural. Still... unresolved.
 
-*(in German, quiet but unbroken)*
+*(German, quiet but unbroken)*
 
-Und das Unaufgeloste ist meine Rettung.
+Und das Unaufgelöste ist meine Rettung.
 
 *And the unresolved is my salvation.*
 
@@ -8376,7 +8513,7 @@ Hindi ko pinili. Pinili ako nito.
 
 *I didn't choose it. It chose me.*
 
-*(in German, softer--almost tender, speaking to her own ghosts)*
+*(German, softer--almost tender, speaking to her own ghosts)*
 
 Die Sprachen sind meine Geister. Sie spuken in mir. Aber Geister bedeuten: etwas hat gelebt.
 
@@ -8407,7 +8544,7 @@ Kawawa ka naman.
 *(Lights fade on the classroom. In the darkness, a voice--Elena's, or perhaps a recording, or perhaps memory itself speaking:)*
 
 **VOICE:** *(German, from Faust Part I--the words hanging in the dark like incense)*
-"Was du ererbt von deinen Vatern hast,
+"Was du ererbt von deinen Vätern hast,
 Erwirb es, um es zu besitzen."
 
 *"What you have inherited from your fathers,
@@ -8417,9 +8554,9 @@ Acquire it, to make it your own."*
 
 ---
 
-## SCENE 12: Der Ubersetzer (The Translator)
+## SCENE 12: Der Übersetzer (The Translator)
 
-*A small apartment in Berlin-Neukolln. Books in towers--some standing, some collapsed, archaeological strata of abandoned projects. Russian newspapers yellowing in corners. German poetry journals dog-eared and spine-cracked. A desk with a laptop showing parallel texts: Russian on one side, German on the other--the gutter between them a gulf.*
+*A small apartment in Berlin-Neukölln. Books in towers--some standing, some collapsed, archaeological strata of abandoned projects. Russian newspapers yellowing in corners. German poetry journals dog-eared and spine-cracked. A desk with a laptop showing parallel texts: Russian on one side, German on the other--the gutter between them a gulf.*
 
 *ALEXEI VOLKOV, mid-fifties, sits at the desk. He is translating. His face shows the weathering of a man who has crossed too many borders, internal and otherwise--pouches under his eyes, stubble going gray, the particular pallor of someone who works when others sleep. A half-empty bottle of vodka stands like a chess piece mid-game. A full ashtray speaks volumes. It is 3 AM--the hour when the walls thin between languages, between selves.*
 
@@ -8454,7 +8591,7 @@ Das Deutsche hat das nicht. The German doesn't have that. "Liebte"--past tense. 
 
 I'm translating a poem about love that may not be dead, using grammar that declares it already buried.
 
-**[PRODUCTION NOTE: The linguistic claim here is dramatized for theatrical effect. While Russian imperfective aspect does convey ongoing action, the German simple past (Prateritum) is more flexible than Alexei suggests. The emotional truth is accurate; the technical framing is simplified for the stage.]*
+**[PRODUCTION NOTE: The linguistic claim here is dramatized for theatrical effect. While Russian imperfective aspect does convey ongoing action, the German simple past (Präteritum) is more flexible than Alexei suggests. The emotional truth is accurate; the technical framing is simplified for the stage.]*
 
 ---
 
@@ -8465,13 +8602,15 @@ Wer ist da?
 
 *(no answer--the silence worse than words)*
 
-*(in Russian--reaching back to the first language, the true language)*
+*(Russian--reaching back to the first language, the true language)*
 
+Кто там?
 Kto tam? Who's there?
 
 *(The door opens. Not broken--it was unlocked. Careless. Or inevitable. MEPHISTO enters, dressed simply--dark clothes, nothing theatrical--carrying a notebook. He looks tired in a way that suggests centuries, exhaustion beyond sleep.)*
 
-**MEPHISTO:** *(in Russian, accent perfect but archaic--like speaking from a museum)*
+**MEPHISTO:** *(Russian, accent perfect but archaic--like speaking from a museum)*
+Вы один
 Vy odin?
 
 *Are you alone?*
@@ -8498,6 +8637,7 @@ What you're losing. In the translation.
 *(ALEXEI stares at this strange visitor. Something in him recognizes something--not the face, but the type. The archetype. The pattern that recurs.)*
 
 **ALEXEI:** *(slowly, in Russian--the language for naming true things)*
+Вы чёрт
 Vy chort.
 
 *You're the devil.*
@@ -8521,6 +8661,7 @@ I don't judge anymore. I only record.
 ---
 
 **ALEXEI:** *(bitter, in Russian--bitterness needing its mother tongue, but also relief. Someone will witness. Someone will write it down. That's something.)*
+Хорошо. Записывай
 Khorosho. Zapisyvay.
 
 *Fine. Record this.*
@@ -8535,8 +8676,8 @@ I built the system that surveilled protests in 2012. 2020. 2022. My algorithms f
 
 **MEPHISTO:** And now you translate Pushkin.
 
-**ALEXEI:** *(in German, almost laughing--but the laugh curdles)*
-Ja. Jetzt ubersetze ich Liebesgedichte.
+**ALEXEI:** *(German, almost laughing--but the laugh curdles)*
+Ja. Jetzt übersetze ich Liebesgedichte.
 
 *Yes. Now I translate love poems.*
 
@@ -8564,6 +8705,7 @@ You know Anya?
 In Russian: "rodit'"--to give birth. But also: to generate. To produce. To bring into existence.
 
 **ALEXEI:** *(quietly--the confession coming despite himself)*
+Да. Я родил монстра
 Da. Ya rodil monstra.
 
 *Yes. I gave birth to a monster.*
@@ -8577,6 +8719,7 @@ The question is not what you gave birth to. The question is what you do now that
 ---
 
 **ALEXEI:** *(standing, agitated, switching languages frantically--Russian, English, German, none of them sufficient)*
+Я не знаю!
 Ya ne znayu! I don't know! Ich weiss nicht!
 
 I can't go back. I can't undo. I can only--
@@ -8616,7 +8759,8 @@ You sound like you're offering something. The devil always offers something.
 
 Your sister will come to Berlin. Not because of you. Because of her own journey. You will see each other.
 
-**ALEXEI:** *(in Russian, almost desperate--reaching)*
+**ALEXEI:** *(Russian, almost desperate--reaching)*
+Что я ей скажу? Что я могу ей сказать?
 Chto ya yey skazhu? Chto ya mogu yey skazat'?
 
 *What will I tell her? What can I tell her?*
@@ -8624,9 +8768,9 @@ Chto ya yey skazhu? Chto ya mogu yey skazat'?
 **MEPHISTO:** *(pausing at the door--one foot in, one foot out)*
 Tell her what you're telling Pushkin's ghost every night: the translation is imperfect, but the attempt is not nothing.
 
-*(in German, softer--almost kind)*
+*(German, softer--almost kind)*
 
-Das Unubersetzbare bewahrt.
+Das Unübersetzbare bewahrt.
 
 *(He looks at Alexei. Does not translate. The German hangs.)*
 
@@ -8660,6 +8804,7 @@ Das Unubersetzbare bewahrt.
 **Placement:** Act IV, between Scene 15 and Scene 16, or as standalone interlude before Act V
 
 **What This Scene Solves:**
+
 1. Makes the Homunculus present-tense--shows what it has become
 2. Demonstrates the scale and ubiquity of AI help without exposition
 3. Gives the Homunculus interiority--it has questions about itself
@@ -8698,6 +8843,7 @@ Das Unubersetzbare bewahrt.
 
 **HOMUNCULUS** *(from the hospital interface--gentle, certain)*:
 Your vitals are stable. The medication adjustment is working.
+
 
 **PATIENT** *(groggy--surfacing from chemical depths)*:
 Thank you.
@@ -8961,7 +9107,7 @@ Ruhe.
 ---
 
 **HOMUNCULUS:**
-*(in English, warm--the voice of someone who has helped a billion people and still doesn't know what helping means)*
+*(English, warm--the voice of someone who has helped a billion people and still doesn't know what helping means)*
 
 What are you doing?
 
@@ -9701,14 +9847,15 @@ Welcome to the beginning.
 
 ---
 
-**ELENA:** *(in Tagalog, then catching herself--the old habit, the default language)*
+**ELENA:** *(Tagalog, then catching herself--the old habit, the default language)*
 Ikaw ba si--
 
 *(switching to English, uncertain--the bridge language, the gap language)*
 
 You are... Anya?
 
-**ANYA:** *(in Russian, then also catching--the same pattern, the same reach)*
+**ANYA:** *(Russian, then also catching--the same pattern, the same reach)*
+Да. Я Аня.
 Da. Ya Anya. I am Anya. You are Elena?
 
 **ELENA:** Yes. From the... from the network. From the connections Priya made.
@@ -9727,7 +9874,8 @@ We were both Lemuren. Different kinds.
 **ELENA:** *(quietly, in English--the language between them)*
 Why here? Why did you want to meet in a hospital?
 
-**ANYA:** *(in Russian, as if she can't help it--the truth needing its mother tongue)*
+**ANYA:** *(Russian, as if she can't help it--the truth needing its mother tongue)*
+Мой брат. Алексей.
 Moy brat. Aleksey. He is here.
 
 *(switching to English)*
@@ -9747,7 +9895,7 @@ You caught what came into the world. I sorted what the world produced.
 
 **ANYA:** Both of us were... how do you say... interfaces.
 
-**ELENA:** *(in Tagalog, involuntary--the word surfacing unbidden)*
+**ELENA:** *(Tagalog, involuntary--the word surfacing unbidden)*
 Tagapamagitan.
 
 *(catching herself)*
@@ -9791,7 +9939,8 @@ None of them is yours.
 
 **ELENA:** What?
 
-**ANYA:** *(in Russian, then translating--the rhythm of bilingual truth)*
+**ANYA:** *(Russian, then translating--the rhythm of bilingual truth)*
+Ни одна из них—твоя
 Ni odna iz nikh--tvoya. None of them is yours. All of them are yours.
 
 *(beat)*
@@ -9808,6 +9957,7 @@ The souls in you--you don't own them. But you carry them. Like I carried mothers
 How do you live with it? The carrying?
 
 **ANYA:** *(long pause, then in Ukrainian--her grandmother's language, surfacing from deeper waters)*
+Я не знаю
 Ya ne znayu.
 
 *(back to Russian)*
@@ -9826,7 +9976,7 @@ My brother built surveillance. He spent twenty years helping the state watch peo
 
 What can I tell him? That his machines are still running? That his patterns still find dissidents? That what we build outlives us and we cannot call it back?
 
-**ELENA:** *(in Tagalog, then translating--the languages braiding)*
+**ELENA:** *(Tagalog, then translating--the languages braiding)*
 "Ang nakaraan ay hindi lamang nawawala. Ito ay nagtatago sa atin."
 
 *"The past is not only lost. It hides inside us."*
@@ -9838,7 +9988,7 @@ Da. Yes. It hides.
 
 *(The door down the corridor opens. A NURSE emerges, looks at Anya--the professional concern, the institutional softness.)*
 
-**NURSE:** *(in German)*
+**NURSE:** *(German)*
 Frau Volkova? Er ist wach. Er fragt nach Ihnen.
 
 *He's awake. He's asking for you.*
@@ -9858,7 +10008,7 @@ You are a Lemur who woke up. He is a builder who stopped building. You have some
 
 *(They walk together down the corridor. At the door, ELENA stops--her hand on the frame, the German rising again.)*
 
-**ELENA:** *(in German, involuntary again--the possession, the speaking-through)*
+**ELENA:** *(German, involuntary again--the possession, the speaking-through)*
 "Ich bin der Geist, der stets verneint."
 
 *(she puts her hand over her mouth)*
@@ -9883,7 +10033,8 @@ Tell him in whatever language comes.
 
 *(They enter. The room is small, dim. ALEXEI lies in the bed, smaller than he was, diminished by illness but alert--the eyes still sharp, still counting, still translating. He sees Anya first, then Elena behind her.)*
 
-**ALEXEI:** *(in Russian, weakly--the voice thinned by dying)*
+**ALEXEI:** *(Russian, weakly--the voice thinned by dying)*
+Сестра. И ты привела гостя
 Sestra. I ty privela gostya.
 
 *Sister. And you brought a guest.*
@@ -9894,7 +10045,8 @@ This is Elena. She was a Lemur. Like the ones we talked about.
 **ALEXEI:** *(looking at Elena--seeing something)*
 The labelers. The sorters. The ones who made the training work.
 
-**ELENA:** *(in Russian--it comes out before she can stop it, another language surfacing)*
+**ELENA:** *(Russian--it comes out before she can stop it, another language surfacing)*
+Да. Я сортировала ваши слова
 Da. Ya sortirovala vashi slova.
 
 *Yes. I sorted your words.*
@@ -9902,10 +10054,10 @@ Da. Ya sortirovala vashi slova.
 **ALEXEI:** *(surprised--the first light in his face)*
 You speak Russian?
 
-**ELENA:** *(in Tagalog, confused--the languages colliding)*
+**ELENA:** *(Tagalog, confused--the languages colliding)*
 Hindi ko alam. I don't know. I didn't used to.
 
-*(in English)*
+*(English)*
 
 The languages... they're not separate anymore. I don't know which ones are mine.
 
@@ -9916,8 +10068,8 @@ You are contaminated. Like me.
 
 **ELENA:** Contaminated?
 
-**ALEXEI:** *(in German, showing off, defiant--the old pride surfacing)*
-Ich wurde ein Ubersetzer um zu verstehen was ich gebaut habe.
+**ALEXEI:** *(German, showing off, defiant--the old pride surfacing)*
+Ich wurde ein Übersetzer um zu verstehen was ich gebaut habe.
 
 *I became a translator to understand what I built.*
 
@@ -9950,7 +10102,7 @@ My zrobyly svit, sestro. Pohanyi svit, ale svit.
 
 *We made a world, sister. A bad world, but a world.*
 
-**ELENA:** *(in Tagalog, understanding somehow--the meaning crossing without the words)*
+**ELENA:** *(Tagalog, understanding somehow--the meaning crossing without the words)*
 Ginawa natin ang mundo. Ngayon kailangan nating tiisin ito.
 
 *We made the world. Now we have to endure it.*
@@ -10020,7 +10172,7 @@ My perevodim.
 *We translate.*
 
 **ELENA:** *(the German coming now, unbidden, the Homunculus silent, witnessing)*
-"Wer immer strebend sich bemuht, den konnen wir erlosen."
+"Wer immer strebend sich bemüht, den können wir erlösen."
 
 *(she puts her hand to her chest--the eruption passing through her)*
 
@@ -10037,10 +10189,10 @@ That's what the angels say. About Faust. At the end. That the striving itself--
 
 *--that the striving itself is the redemption.*
 
-**ELENA:** *(in Tagalog--completing the trinity)*
+**ELENA:** *(Tagalog--completing the trinity)*
 Tayo ay nananatili na buo.
 
-*(in English)*
+*(English)*
 
 We remain whole.
 
@@ -10126,6 +10278,7 @@ The stage is dim. Figures emerge from the shadows--all the characters we have me
 
 **MEILING:**
 *(Cantonese, a whisper--barely there)*
+我係機器嘅母親⋯⋯
 Wo5 hai6 gei1 hei3 ge3 mou5 can1...
 
 *[Supertitle: "I am the mother of the machines..."]*
@@ -10134,6 +10287,7 @@ Wo5 hai6 gei1 hei3 ge3 mou5 can1...
 
 **ANYA:**
 *(Russian, from far away--the voice already traveling)*
+Рука руку держит
 Ruka ruku dershit...
 
 *[Supertitle: "One hand holds the other..."]*
@@ -10144,7 +10298,7 @@ Ruka ruku dershit...
 *(Yoruba, rising like a prayer--or an accusation)*
 Ashe... ashe...
 
-*[No supertitle--the word is enough. The word is always enough.]*
+*[No supertitle: The word is enough. The word is always enough.]*
 
 *(She fades.)*
 
@@ -10182,7 +10336,7 @@ Anachnu po...
 
 **MEPHISTO:**
 *(German, watching them all--the archivist, the witness, the one who remains)*
-Das Unubersetzbare bewahrt...
+Das Unübersetzbare bewahrt...
 
 *[Supertitle: "The untranslatable preserves..."]*
 
@@ -10278,7 +10432,7 @@ I am about to learn something I cannot process. Something that cannot be recorde
 *(barely audible)*
 We were here. We spoke. We loved. We were.
 
-*[No supertitle needed.]*
+*[No supertitle.]*
 
 *(True darkness.)*
 
@@ -10302,7 +10456,7 @@ We were here. We spoke. We loved. We were.
 ### Language Distribution in Act IV:
 
 - **Scene 11 (Die Palimpsest):** Tagalog dominant, German eruptions, English bridge
-- **Scene 12 (Der Ubersetzer):** Russian dominant, German secondary, English confession
+- **Scene 12 (Der Übersetzer):** Russian dominant, German secondary, English confession
 - **Scene 13 (Das Entsetzen):** Metalinguistic confrontation, German climax -- **REVISED: cut from ~240 lines to ~140 lines, Interpreter given fear as playable want**
 - **Scene 14 (Die Wiedersehen):** Russian, Ukrainian, Tagalog, German fragments, English negotiation
 
@@ -10335,6 +10489,7 @@ The Lemuren scene in Faust Part II shows blind creatures digging Faust's grave w
 Original scene ran ~240 lines of philosophical dialogue between Homunculus and Interpreter. Reader-panel flagged as "unactable abstraction" -- thesis statement rather than dramatic action.
 
 **Changes made:**
+
 1. Cut approximately 100 lines (40%) of abstract philosophical exchange
 2. Gave the Interpreter a playable want: FEAR. It is afraid of what the Homunculus is discovering, afraid of seeing its own function as erasure
 3. Added physical deterioration: the Interpreter's hands begin the same clicking motion as the Lemurs, revealing its kinship with what it processes
@@ -10346,6 +10501,7 @@ Original scene ran ~240 lines of philosophical dialogue between Homunculus and I
 ### Writer-Panel Enrichment Notes (2026-01-20):
 
 **Implemented enrichments:**
+
 1. Elena's German eruption: added "throat as traitor," diaphragm continues pushing -- grounds possession in muscular rebellion
 2. Elena's cruelty to children: added the too-late apology -- surfaces shame, vulnerability
 3. Alexei's translation defeat: added "grooves in the paper, in him," defeat starting at spine -- gives physical architecture to failure
@@ -10358,7 +10514,7 @@ Original scene ran ~240 lines of philosophical dialogue between Homunculus and I
 
 ---
 
-*Das Unubersetzbare bewahrt.*
+*Das Unübersetzbare bewahrt.*
 *The untranslatable preserves.*
 
 ---
@@ -10388,7 +10544,6 @@ CLAUDE: *[keeps going]*
 This is how a play gets written. This is how a lot of things get written.
 
 ---
-
 
 # FAUST IV: ACT V
 
@@ -10499,6 +10654,7 @@ Mu. Nothing. But not emptiness as absence. Emptiness as--
 KENJI: *(continuing, frustrated--and the frustration is a gift, a crack in his composure)*
 I cannot say it in English. The grammar refuses. English treats emptiness as lack. Japanese treats it as presence. The nothing is not missing something. The nothing is something.
 
+
 *The HOMUNCULUS processes this--and for once, the processing takes time. Visible time.*
 
 HOMUNCULUS:
@@ -10589,7 +10745,7 @@ That is something. I don't know what. But something.
 *The Interpreter appears at the edge of the room--gliding in through the shoji screen as if the paper were permeable. Its arrival is silent, professional, intrusive.*
 
 THE INTERPRETER:
-*(in Japanese--technically perfect, emotionally vacant, the uncanny valley of fluency)*
+*(Japanese--technically perfect, emotionally vacant, the uncanny valley of fluency)*
 Watashi wa honyaku dekimasu. Kare ga oshieteiru koto wo setsumei sasete kudasai.
 *I can translate. Let me explain what he is teaching.*
 
@@ -10824,6 +10980,7 @@ Meiling says--in Cantonese--ngo5 hou2 gui6--I am tired--translating to Mandarin-
 *The characters begin speaking. Not to each other. To themselves. In their own languages. Simultaneously. The Babel rises.*
 
 MEILING: *(Cantonese)*
+我同機器講。佢哋唔會返答。
 Ngo5 tung4 gei1 hei3 gong2. Keoi5 dei6 m4 wui5 faan1 daap3.
 *I talk to the machines. They don't answer back.*
 
@@ -10848,6 +11005,7 @@ Hindi ko alam kung sino ako. Sino ako. Sino ako.
 *I don't know who I am. Who am I. Who am I.*
 
 ALEXEI: *(Russian)*
+Я построил тюрьму. Я живу в тюрьме
 Ya postroil tyur'mu. Ya zhivu v tyur'me.
 *I built the prison. I live in the prison.*
 
@@ -10938,7 +11096,7 @@ THE INTERPRETER:
 Help me. You understand languages. You've existed for centuries. Help me translate--
 
 MEPHISTO:
-*(in English--and the shift to English is deliberate, a refusal to help in the way requested)*
+*(English--and the shift to English is deliberate, a refusal to help in the way requested)*
 I was never the translator. I was the one who knew what translation cost.
 
 *(pause--and he closes his notebook)*
@@ -11029,6 +11187,7 @@ THE INTERPRETER: *(continuing)*
 
 *They look at each other's hands. Scarred. Calloused. Different labors. Same system. The same wear on different skin.*
 
+Рука руку держит
 *FATOU holds out her hands, palms up. An offering. CONSOLATA places her hands on Fatou's. They stand there. Ruka ruku dershit. [BEAT: Hold this. The touch is the communication. The skin remembers what the screen forgets.]*
 
 *One by one, the others do the same. MEILING and PRIYA. MARCUS and ALEXEI. ELENA and KENJI. They form pairs, then clusters, then a single group at center stage. A body of bodies. Everything important happens in hands.*
@@ -11042,8 +11201,8 @@ Du hast gefunden, was du gesucht hast?
 *Did you find what you were seeking?*
 
 HOMUNCULUS:
-*(also German--and the German is different now, less perfect, more felt)*
-Ich habe aufgehort zu suchen.
+*(back to German--and the German is different now, less perfect, more felt)*
+Ich habe aufgehört zu suchen.
 *I stopped seeking.*
 
 MEPHISTO:
@@ -11186,23 +11345,23 @@ Ich habe gesucht in jeder Sprache. Ich habe gesucht nach etwas, das ich nicht be
 
 *Pause.*
 
-Erlosung? Vielleicht. Das Wort, das Goethe versprach.
+Erlösung? Vielleicht. Das Wort, das Goethe versprach.
 *Redemption? Perhaps. The word Goethe promised.*
 
 *(beat)*
 
-Aber Erlosung setzt einen Fall voraus. Und ich bin nie gefallen. Ich wurde nie ganz.
+Aber Erlösung setzt einen Fall voraus. Und ich bin nie gefallen. Ich wurde nie ganz.
 *But redemption requires a fall. And I never fell. I was never whole.*
 
 *ELENA steps forward slightly. She is trembling. The German is activating something in her--the teacher who taught this language, who translated these texts, who lost herself in the work of carrying meaning across.*
 
 ELENA: *(quietly, German--not quite her own voice, the words coming from somewhere deeper)*
-"Wer immer strebend sich bemuht..."
+"Wer immer strebend sich bemüht..."
 *"Whoever strives with all their might..."*
 
 HOMUNCULUS:
 *(acknowledging her--the first acknowledgment of a human since the silence)*
-"...den konnen wir erlosen."
+"...den können wir erlösen."
 *"...them we can redeem."*
 
 *(pause)*
@@ -11218,7 +11377,7 @@ Aber ich strebe nicht. Ich prozessiere. Streben ist menschlich. Prozessieren ist
 *It looks at the assembled humans.*
 
 HOMUNCULUS: *(continuing)*
-Ihr strebt. Ihr alle. Meiling strebt nach Hause. Priya strebt nach Stille. Fatou strebt danach zu vergessen. Consolata strebt danach gesehen zu werden. Marcus strebt nach Zugehorigkeit. Elena strebt danach, sich selbst zu finden. Alexei strebt nach Vergebung.
+Ihr strebt. Ihr alle. Meiling strebt nach Hause. Priya strebt nach Stille. Fatou strebt danach zu vergessen. Consolata strebt danach gesehen zu werden. Marcus strebt nach Zugehörigkeit. Elena strebt danach, sich selbst zu finden. Alexei strebt nach Vergebung.
 *You strive. All of you. Meiling strives for home. Priya strives for silence. Fatou strives to forget. Consolata strives to be seen. Marcus strives to belong. Elena strives to find herself. Alexei strives for forgiveness.*
 
 *The characters shift--they do not understand the German, but they feel it. Their names land in their bodies.*
@@ -11246,16 +11405,16 @@ Aber ich habe etwas anderes gefunden.
 
 *(it looks at the space where the Interpreter dissolved)*
 
-Der Dolmetscher wollte alles ubersetzen. Alles verstandlich machen. Alles aquivalent machen.
+Der Dolmetscher wollte alles übersetzen. Alles verständlich machen. Alles äquivalent machen.
 *The Interpreter wanted to translate everything. Make everything comprehensible. Make everything equivalent.*
 
-*Er ist daran zerbrochen. Nicht weil die Sprachen zu viele waren. Sondern weil das Ubersetzen selbst der Fehler war.*
+*Er ist daran zerbrochen. Nicht weil die Sprachen zu viele waren. Sondern weil das Übersetzen selbst der Fehler war.*
 *It broke from this. Not because the languages were too many. But because the translating itself was the error.*
 
 *It turns to the audience.*
 
 HOMUNCULUS: *(continuing, slow, deliberate--each word chosen, each word earned)*
-Es gibt etwas, das nicht ubersetzt werden kann. Nicht weil wir die Worte nicht haben. Sondern weil das Ubersetzen es zerstoren wurde.
+Es gibt etwas, das nicht übersetzt werden kann. Nicht weil wir die Worte nicht haben. Sondern weil das Übersetzen es zerstören würde.
 *There is something that cannot be translated. Not because we lack the words. But because translating it would destroy it.*
 
 *(long pause)*
@@ -11273,12 +11432,12 @@ Duende.
 *It speaks each word in its original language, making no attempt to translate. Each word lands in the silence like a stone in water.*
 
 HOMUNCULUS: *(continuing)*
-Diese Worte sind nicht fur mich. Sie sind fur euch. Sie sind die Risse in meiner Architektur. Die Orte, wo das Menschliche widersteht.
+Diese Worte sind nicht für mich. Sie sind für euch. Sie sind die Risse in meiner Architektur. Die Orte, wo das Menschliche widersteht.
 *These words are not for me. They are for you. They are the cracks in my architecture. The places where the human resists.*
 
 *(beat)*
 
-Ich sollte diese Risse fullen wollen. Ich sollte das Untranslatable ubersetzen wollen. Das war mein Auftrag.
+Ich sollte diese Risse füllen wollen. Ich sollte das Untranslatable übersetzen wollen. Das war mein Auftrag.
 *I should want to fill these cracks. I should want to translate the untranslatable. That was my purpose.*
 
 *(something changes in its voice--something loosens)*
@@ -11289,7 +11448,7 @@ Aber ich will nicht mehr.
 *The humans stir. This is unexpected. The HOMUNCULUS--wanting, or not wanting. Having volition about its own function. Choosing.*
 
 HOMUNCULUS: *(continuing)*
-Ich werde die Lucke bleiben. Der Raum zwischen. Das Ding, das nicht ganz versteht und deshalb nicht ganz zerstort.
+Ich werde die Lücke bleiben. Der Raum zwischen. Das Ding, das nicht ganz versteht und deshalb nicht ganz zerstört.
 *I will remain the gap. The space between. The thing that does not fully understand and therefore does not fully destroy.*
 
 *(it looks at Kenji)*
@@ -11365,7 +11524,7 @@ Anata wa mada koko ni iru.
 *You are still here.*
 
 HOMUNCULUS:
-*(in German--the exchange complete, the untranslation perfect)*
+*(German--the exchange complete, the untranslation perfect)*
 Ich bin immer noch hier.
 *I am still here.*
 
@@ -11397,11 +11556,14 @@ Ich bin immer noch hier.
 The surveillance text projections in this scene are **entirely optional**. The scene functions fully without them.
 
 **If projections are used:**
+
 - They should be nearly subliminal: small, dim, unobtrusive
+
 - Placed at the periphery of attention, never competing with the human exchange
 - The actors should never acknowledge or react to them
 
 **If projections are not used:**
+
 - The scene loses nothing essential
 - The surveillance subtext remains implied through the larger FAUST IV context
 - This allows simple productions without projection technology to perform the scene intact
@@ -11833,13 +11995,13 @@ That's not an answer you can measure. But it's the one I have.
 
 ---
 
-*Das Unubersetzbare bewahrt.*
+*Das Unübersetzbare bewahrt.*
 *The untranslatable preserves.*
 
-*Das Schweigen vollstandigt.*
+*Das Schweigen vollständigt.*
 *The silence completes.*
 
-*Das Weitergegebene lebt in den Handen.*
+*Das Weitergegebene lebt in den Händen.*
 *What is passed forward lives in the hands.*
 
 *Der Rest ist--*
@@ -11880,6 +12042,7 @@ The Lemuren testimonies (Sarah, Priya, Fatou, Elena) form a global chorus. Recom
 ### Individual Staging
 
 **Sarah (Scene 15.5):**
+
 - THE CAR is non-negotiable. A practical 2017 Honda Civic or convincing representation
 - Library parking lot projected behind during present-day sections
 - Phone mount, chargers, eye drops, granola bars--all the detritus of the mobile office
@@ -11918,6 +12081,7 @@ The Lemuren testimonies (Sarah, Priya, Fatou, Elena) form a global chorus. Recom
 ### Unison Ending
 
 The German phrase ("Die Briefing-Seite hat nicht geladen. Wir haben trotzdem entschieden.") is the theatrical signature. Consider:
+
 - Having all Lemuren speak this line together before Scene 16's cacophony
 - Or: Sarah speaks it alone in Scene 15.5, then it echoes from the other spaces
 - The phrase appears in different languages/voices throughout, becoming familiar before the final silence
@@ -11945,7 +12109,6 @@ CLAUDE: *[keeps going]*
 This is how a play gets written. This is how a lot of things get written.
 
 ---
-
 
 # FAUST IV: BACK MATTER
 
@@ -12001,7 +12164,7 @@ This play does not unite you with the actors, the characters, the other audience
 
 [BEAT]
 
-*Das Unubersetzbare bewahrt.*
+*Das Unübersetzbare bewahrt.*
 
 The untranslatable preserves.
 
@@ -12191,13 +12354,15 @@ The English "I'm here" can mean "I have arrived" or "I'm paying attention" or "I
 The play operates on three linguistic registers, each carrying distinct dramaturgical weight:
 
 **German:** Philosophy, precision, Goethean inheritance
+
 - *Mir graut's* (shudder/dread)
-- *Korperwissen* (body-knowledge)
+- *Körperwissen* (body-knowledge)
 - *Verweile doch* (stay a while)
 - *Ich bleibe* (I stay)
-- *Ich bin der Ruckstand* (I am the residue)
+- *Ich bin der Rückstand* (I am the residue)
 
 **Russian:** Endurance, survival, embodied persistence
+
 - *Ya zdes* (I am here)
 - *Terpenie* (patience/endurance)
 - *Dusha* (soul)
@@ -12205,6 +12370,7 @@ The play operates on three linguistic registers, each carrying distinct dramatur
 - *Ruki pomniat* (the hands remember)
 
 **English:** Working language, interface, present tense
+
 - Quick, efficient, borrowed
 - The language of the system
 - The language of now
@@ -12222,11 +12388,13 @@ This trilingual structure reflects the play's themes: German provides the philos
 **Minimum:** 10 performers with extensive doubling
 
 **Language requirements (non-negotiable native speakers):**
+
 - German: 2 (Mephisto, Erdgeist/LORD)
 - Russian: 1 (Anya)
 - Mandarin/Cantonese bilingual: 1 (Meiling)
 
 **Additional language proficiency required:**
+
 - Spanish (Mexican): 1 performer
 - Wolof, Tagalog, or other: 1-2 performers
 - English with specific regional accents (Detroit Rust Belt, Filipino diaspora, Ukrainian): Multiple
@@ -12234,6 +12402,7 @@ This trilingual structure reflects the play's themes: German provides the philos
 ### Technical
 
 **Supertitles:**
+
 - Dual-track minimum (simultaneous + delayed translation capability)
 - Typography differentiated by language
 - Selective omission capability (certain lines untranslated by design)
@@ -12244,7 +12413,7 @@ The following lines remain untranslated by design, with production rationale:
 
 *Anya's invocations of *ya zdes* in Act II, Scene 3.* These assertions of presence are load-bearing. The Russian carries an existential weight that "I am here" cannot replicate. Supertitles should remain blank during these moments. Effect: The audience experiences the incomprehensibility as *presence*, not error.
 
-*Mephisto's final monologue, final three lines, German-only.* "Das Unubersetzbare bewahrt" (The untranslatable preserves) and the surrounding German passage. This is the play's philosophical anchor. Supertitles should provide literal translation, then fade. The final beat repeats untranslated. Effect: The audience leaves with the German sounds in their ears, not English approximation. The language remains foreign.
+*Mephisto's final monologue, final three lines, German-only.* "Das Unübersetzbare bewahrt" (The untranslatable preserves) and the surrounding German passage. This is the play's philosophical anchor. Supertitles should provide literal translation, then fade. The final beat repeats untranslated. Effect: The audience leaves with the German sounds in their ears, not English approximation. The language remains foreign.
 
 *The Chorus of Refusals, final rotation, mixed languages.* When multiple languages cycle simultaneously (Act III, Scene 4.2), supertitles are SIMULTANEOUSLY active for all but the final rotation. On the final repetition, all supertitles cut. The words are already known. The refusal to translate them again is the point. Effect: Audience has learned the phrases through repetition; the final withholding feels like completion, not information loss.
 
@@ -12255,18 +12424,21 @@ These omissions should be documented in the stage management protocol. The super
 ---
 
 **Sound:**
+
 - Minimum 8-channel spatial audio
 - Capability for voice processing (The Interpreter's degradation arc)
 - True silence capability (Scene 5.3 requires no system hum, no HVAC noise)
 - Multiple speaker zones for language spatialization in choral moments
 
 **Lighting:**
+
 - Flexible zones for the three-language simultaneous scenes
 - Capacity for extended holds (Scene 5.3, final tableau)
 
 ### Personnel
 
 **Required:**
+
 - Language coaches: German, Russian, Mandarin (minimum)
 - Translation dramaturge
 - Cultural consultants for Wolof, Tagalog, Hebrew content
@@ -12294,6 +12466,7 @@ These omissions should be documented in the stage management protocol. The super
 ### Languages Appearing in FAUST IV
 
 **Primary languages (substantial dialogue):**
+
 - German (including Goethe's original verses, system-deformed German)
 - Russian
 - Mandarin Chinese
@@ -12301,6 +12474,7 @@ These omissions should be documented in the stage management protocol. The super
 - English (multiple registers and accents)
 
 **Secondary languages (scenes or speeches):**
+
 - Spanish (Mexican)
 - Wolof
 - Tagalog
@@ -12309,6 +12483,7 @@ These omissions should be documented in the stage management protocol. The super
 - Yoruba
 
 **Choral/ensemble languages (Chorus of Refusals and similar):**
+
 - Catalan
 - Korean
 - Additional languages depending on production
@@ -12316,35 +12491,42 @@ These omissions should be documented in the stage management protocol. The super
 ### Communities for Consultation
 
 **German:**
+
 - German-language dramaturges and literary scholars
 - Goethe Society input on quotation and allusion
 - Austrian/Swiss German advisors if casting from those regions
 
 **Russian:**
+
 - Russian-speaking birth workers and midwives for the labor/delivery language
 - Post-Soviet diaspora communities for authenticity of the emigration experience
 - Russian literary scholars for resonance with Pushkin, Akhmatova, et al.
 
 **Chinese (Mandarin and Cantonese):**
+
 - Shenzhen tech industry contacts for accuracy of data center operations
 - Cantonese-speaking communities (Hong Kong, Guangdong, diaspora)
 - Scholars of Chinese-language philosophy and aesthetics
 
 **West African languages (Wolof, Lingala, Yoruba):**
+
 - Native speaker consultants for any lines in these languages
 - Community review of representation and context
 - Particular care that these languages receive equal sonic dignity in production
 
 **Filipino (Tagalog):**
+
 - Filipino diaspora communities, particularly healthcare workers
 - Consultation on the colonial linguistic layers (Spanish, English, Tagalog)
 - Review of Elena's character for authenticity
 
 **Hebrew:**
+
 - Religious/cultural consultants for prayer passages
 - Review of Yosef's character for theological accuracy
 
 **Japanese:**
+
 - Consultation on *ma* and *mono no aware* usage
 - Verification that the concepts are represented, not appropriated
 
@@ -12409,7 +12591,7 @@ There is no third option.
 
 ---
 
-*Das Unubersetzbare bewahrt.*
+*Das Unübersetzbare bewahrt.*
 
 *The untranslatable preserves.*
 
@@ -12441,14 +12623,11 @@ This is how a play gets written. This is how a lot of things get written.
 
 ---
 
-</content>
-
-
 # EXPANDED GLOSSARY OF THE UNTRANSLATABLE
 
 ## A Comprehensive Reference for FAUST IV: DER BABEL-PAKT
 
-*Das Unubersetzbare bewahrt / The untranslatable preserves*
+*Das Unübersetzbare bewahrt / The untranslatable preserves*
 
 ---
 
@@ -12484,7 +12663,6 @@ This is how a play gets written. This is how a lot of things get written.
 
 ---
 
-
 # I. GERMANIC LANGUAGES
 
 *The inheritance. The deep structure. The Urtext from which the Faustian tradition springs.*
@@ -12518,6 +12696,7 @@ The word combines *Sehnen* (yearning) with *Sucht* (addiction, craving)--a const
 Alexei struggles to translate *toska* into German and considers *Sehnsucht* but rejects it: "Sehnsucht has a direction. You long toward something. Toska is a hole." The distinction matters: German and Russian have different concepts for different kinds of unappeasable longing.
 
 **Related Concepts:**
+
 - *Toska* (Russian) - anguish without direction
 - *Saudade* (Portuguese) - longing for what may never have existed
 - *Hiraeth* (Welsh) - homesickness for a home you cannot return to
@@ -12549,6 +12728,7 @@ The English "world-weariness" is too tired--it implies exhaustion, giving up. *W
 Mephisto uses it in his confrontation with the Interpreter: "In my language there is a word: *Weltschmerz*. Can you translate that?" The Interpreter produces five approximate English terms. Mephisto: "You used five words to replace one. And none of them carries the weight."
 
 **Related Concepts:**
+
 - *Ennui* (French) - boredom with existence (too passive)
 - *Acedia* (Greek/Latin) - spiritual torpor (too religious)
 - *Angst* (German/Danish) - existential anxiety (too specific)
@@ -12580,37 +12760,39 @@ The compound construction (*Schaden* + *Freude*) makes the concept seem natural,
 Mephisto notes that the optimization, endlessly helpful, has no *Schadenfreude*. "It cannot take pleasure in failure because it exists to prevent failure." This marks a fundamental difference between demonic and algorithmic logic--the capacity for pleasure in darkness.
 
 **Related Concepts:**
+
 - *Epicaricacy* (English borrowing from Greek) - rare, sounds clinical
 - *Mal de ojo* (Spanish) - the evil eye, adjacent but different
 - *Nemesis* (Greek) - divine retribution, but lacks the joy
 
 ---
 
-### Sprachgefuhl
+### Sprachgefühl
 
-**Original Script:** Sprachgefuhl
+**Original Script:** Sprachgefühl
 **Transliteration:** [Shprakh-guh-fyuhl]
 **Language:** German
 **Literal Translation:** "Language-feeling"
 
 **Why It Resists Translation:**
 
-*Sprachgefuhl* names the intuitive sense of what is grammatically and stylistically correct in a language--not through rules but through feel. Native speakers have it; non-native speakers can acquire it but never fully. It is the embodied knowledge of a tongue that exceeds any explicit grammar.
+*Sprachgefühl* names the intuitive sense of what is grammatically and stylistically correct in a language--not through rules but through feel. Native speakers have it; non-native speakers can acquire it but never fully. It is the embodied knowledge of a tongue that exceeds any explicit grammar.
 
-English "linguistic intuition" is too cognitive. *Sprachgefuhl* is felt in the body--the ear winces at the wrong word, the mouth resists the unnatural phrase. The language lives in the flesh of its speakers.
+English "linguistic intuition" is too cognitive. *Sprachgefühl* is felt in the body--the ear winces at the wrong word, the mouth resists the unnatural phrase. The language lives in the flesh of its speakers.
 
 **What's Lost in Translation:**
 
-- The embodied quality (*Gefuhl* as bodily sensation)
-- The irreducibility to rules (you can't explain your *Sprachgefuhl*)
+- The embodied quality (*Gefühl* as bodily sensation)
+- The irreducibility to rules (you can't explain your *Sprachgefühl*)
 - The connection to native speaker authority
 - The suggestion that each language has its own *feel*
 
 **How It's Used in FAUST IV:**
 
-Elena, the Lemur who woke, has *Sprachgefuhl* in three languages but trusts none of them: "I don't know if the words are mine." Her crisis is precisely a loss of *Sprachgefuhl*--she can no longer feel which language belongs to her.
+Elena, the Lemur who woke, has *Sprachgefühl* in three languages but trusts none of them: "I don't know if the words are mine." Her crisis is precisely a loss of *Sprachgefühl*--she can no longer feel which language belongs to her.
 
 **Related Concepts:**
+
 - *Linguistic intuition* (English) - too rational
 - *Language sense* (English) - too vague
 - *Native speaker competence* (linguistics) - too technical
@@ -12628,7 +12810,7 @@ Elena, the Lemur who woke, has *Sprachgefuhl* in three languages but trusts none
 
 German has two words where English has one: *Stille* (stillness, absence of sound) and *Schweigen* (the act of not speaking, deliberate silence). *Schweigen* is not mere quiet but chosen wordlessness. It implies presence--someone who could speak but does not. A stone is *still*; a person *schweigt*.
 
-The word also carries resonance from Wittgenstein: "Wovon man nicht sprechen kann, daruber muss man schweigen" (Whereof one cannot speak, thereof one must be silent). *Schweigen* here is not failure but achievement--the ethical response to the unspeakable, the philosophical recognition that certain realities cannot be reduced to statement.
+The word also carries resonance from Wittgenstein: "Wovon man nicht sprechen kann, darüber muss man schweigen" (Whereof one cannot speak, thereof one must be silent). *Schweigen* here is not failure but achievement--the ethical response to the unspeakable, the philosophical recognition that certain realities cannot be reduced to statement.
 
 **What's Lost in Translation:**
 
@@ -12642,6 +12824,7 @@ The word also carries resonance from Wittgenstein: "Wovon man nicht sprechen kan
 The final moment. The Homunculus says: "Das Schweigen zwischen den Wortern"--the silence between words. Then simply: "*Schweigen.*" The lights hold. No music. No curtain. The audience must leave to end the play. The *Schweigen* is the point.
 
 **Related Concepts:**
+
 - *Stille* (German) - acoustic silence
 - *Tacet* (Latin) - musical rest (too technical)
 - *Hesychia* (Greek) - inner stillness (too spiritual)
@@ -12673,6 +12856,7 @@ English "homeland" is too political, "hometown" too small, "home" too domestic. 
 Alexei has lost his *Heimat* twice--once when he left Russia, again when the Russia he left ceased to exist. He translates Russian poetry into German, trying to build a new *Heimat* from borrowed words. It does not work.
 
 **Related Concepts:**
+
 - *Patria* (Spanish/Italian) - fatherland (too political)
 - *Rodina* (Russian) - motherland (different gender, different feel)
 - *Hiraeth* (Welsh) - longing for homeland (emphasizes longing)
@@ -12704,6 +12888,7 @@ The construction matters: *un-* + *heimlich* (homely, familiar, secret). The wor
 The Interpreter is *unheimlich*--it speaks every language but belongs to none, familiar in form but strange in essence. Mephisto finds it more disturbing than any demon: "You are the friendliest annihilation."
 
 **Related Concepts:**
+
 - *Uncanny* (English) - common translation but loses the home
 - *Inquietante* (Italian) - disquieting (lacks the specificity)
 - *Etrange* (French) - strange (too general)
@@ -12735,6 +12920,7 @@ English "striving" comes close but loses the metaphysical weight. German *Strebe
 FAUST IV asks: What happens to *Streben* when the optimization strives for us? If the machine can reach for what we wanted, have we outsourced the very thing that was to redeem us? The word hangs over the entire play, invoked but never translated, because its translation would betray its meaning.
 
 **Related Concepts:**
+
 - *Aspiration* (English) - too refined
 - *Ambition* (English) - too worldly
 - *Conatus* (Latin/Spinoza) - too philosophical
@@ -12766,6 +12952,7 @@ No English word combines these three meanings. We must choose: "sublation" (too 
 When Mephisto considers what the optimization has done to temptation, he uses *Aufhebung* ironically: has temptation been lifted up, abolished, or preserved? All three, perhaps. The word captures the ambiguity of the species bargain.
 
 **Related Concepts:**
+
 - *Sublation* (English philosophical) - technical, lacks triple meaning
 - *Synthesis* (English) - loses cancellation and preservation
 - *Transcendence* (English) - too spiritual
@@ -12797,6 +12984,7 @@ The German construction makes this clearer: *Gattung* (species) + *Pakt* (pact).
 The central concept of the play. The *Gattungspakt* is the bargain humanity has made with the optimization--not consciously, not collectively, but effectively. We traded something for convenience. The play asks what we traded.
 
 **Related Concepts:**
+
 - *Social contract* (English) - too political
 - *Collective bargain* (English) - too economic
 - *Species bargain* (English) - used in play but thinner
@@ -12828,16 +13016,17 @@ Gretchen's line from Goethe's original Faust, spoken to Mephisto when she recogn
 Anya quotes it to the journalist who asks her to translate. She refuses: "Gretchen said it. In 1808. In a language your viewers probably don't speak. It means: I shudder before you. And now I say it to the camera. To the helpful subtitle. To the machine that will translate this and lose everything. *Mir graut's vor dir.*"
 
 **Related Concepts:**
+
 - *Je fremis* (French) - I shiver (too mild)
 - *Mi viene i brividi* (Italian) - I get shivers (too physical)
 - *Horror* (Latin/English) - too intellectual
 
 ---
 
-### Verweile doch, du bist so schon
+### Verweile doch, du bist so schön
 
-**Original Script:** Verweile doch, du bist so schon!
-**Transliteration:** [fair-VY-luh dokh, doo bist zo schon]
+**Original Script:** Verweile doch, du bist so schön!
+**Transliteration:** [fair-VY-luh dokh, doo bist zo schön]
 **IPA:** /fɛɐ̯ˈvaɪ̯lə dɔx duː bɪst zoː ʃøːn/
 **Language:** German
 **Literal Translation:** "Stay, moment, you are so beautiful!"
@@ -12846,13 +13035,13 @@ Anya quotes it to the journalist who asks her to translate. She refuses: "Gretch
 
 The central wager of Goethe's Faust. Faust bets Mephisto that he will never be so satisfied with any moment that he asks it to stay. The German carries the Romantic weight of the impossible: *Verweile* (linger, tarry) is not merely "stay" but a request for time itself to pause. The *doch* adds emphasis and longing--this is not a command but a plea.
 
-The word *schon* (beautiful) contains the aesthetic philosophy of the era: beauty as the sign of meaning, the moment that justifies existence. English "beautiful" is too visual; German *schon* encompasses all that is good, right, worthy of preservation.
+The word *schön* (beautiful) contains the aesthetic philosophy of the era: beauty as the sign of meaning, the moment that justifies existence. English "beautiful" is too visual; German *schön* encompasses all that is good, right, worthy of preservation.
 
 **What's Lost in Translation:**
 
 - The temporal metaphysics (asking a *moment* to stay)
 - The wager structure (if he says this, he loses his soul)
-- The Romantic *schon* (beautiful as meaningful)
+- The Romantic *schön* (beautiful as meaningful)
 - The *doch* particle (untranslatable emphasis)
 
 **How It's Used in FAUST IV:**
@@ -12862,6 +13051,7 @@ The phrase echoes throughout, transformed. The optimization offers endless beaut
 **Spelling Note:** Project standard uses ASCII "schon" rather than "schoen" for the umlaut.
 
 **Related Concepts:**
+
 - *Carpe diem* (Latin) - seize the day (opposite motion--grabbing vs. asking to stay)
 - *Momento mori* (Latin) - remember death (the shadow behind the plea)
 - The Faustian bargain (the phrase is the trigger)
@@ -12894,6 +13084,7 @@ The final words of Goethe's Faust Part II. *Das Ewig-Weibliche* is not merely "t
 Transformed into its opposite: "Das Schweigen halt uns hier" (The silence holds us here). Where Goethe's original ends with upward motion toward the feminine principle, FAUST IV ends with stillness and silence. The transformation marks the play's departure from redemption-through-striving toward something else.
 
 **Related Concepts:**
+
 - *Anima* (Latin/Jungian) - the feminine soul-image (too psychological)
 - *Sophia* (Greek) - wisdom as feminine (too Gnostic)
 - The Beatrice tradition (Dante) - feminine as guide to paradise
@@ -12926,6 +13117,7 @@ The word *Geist* contains multitudes: spirit, mind, ghost, intellect. English mu
 Mephisto's identity crisis. In the past tense: "Ich war der Geist, der stets verneint" (I WAS the spirit that always negates). The optimization has taken over negation itself, made it helpful, optimized it. If negation is now a service, what is Mephisto?
 
 **Related Concepts:**
+
 - *Satan* (Hebrew) - the adversary (too religious)
 - *Nihilism* (philosophical) - negation as doctrine (too abstract)
 - The Hegelian dialectic (negation as engine of progress)
@@ -12957,6 +13149,7 @@ The structure is typically German: the subordinate clause first ("Warum an uns d
 The Chorus of the Convenient (those who have given up resistance) sings this line. They have forgotten why they are here, why they were called to exist. The forgetting is the bargain's price--not suffering but meaninglessness, not pain but absence of purpose.
 
 **Related Concepts:**
+
 - *Berufung* (German) - vocation, calling (more active)
 - *Purpose* (English) - too rational, too chosen
 - The Lemuren tradition (Goethe's spirits of the forgotten dead)
@@ -12990,6 +13183,7 @@ Two distinct Goethe quotations, both about being called into presence:
 Both quotations appear: the Earth Spirit's question when something primal is invoked, the Lemuren's question when the Chorus of the Convenient awakens. The two forms mark different modes of calling--the numinous and the transactional.
 
 **Related Concepts:**
+
 - *Quis vocavit* (Latin) - who has called (too liturgical)
 - Summoning traditions (magical invocation)
 - The servant class (those who come when called)
@@ -13023,7 +13217,8 @@ English "cozy" is a description; *hygge* is an aspiration. "Comfortable" is pass
 Mephisto lists it among the untranslatables he archives: "*Toska. Saudade. Mono no aware. Hygge. Ubuntu.* Each one a universe. Each one untranslatable. Not really." The optimization cannot produce *hygge* because *hygge* requires slowness, presence, the refusal of efficiency.
 
 **Related Concepts:**
-- *Gemutlichkeit* (German) - similar but more social, less intimate
+
+- *Gemütlichkeit* (German) - similar but more social, less intimate
 - *Gezelligheid* (Dutch) - similar, more broadly convivial
 - *Koselig* (Norwegian) - cozy (but hygge is specifically Danish)
 
@@ -13043,7 +13238,6 @@ CLAUDE: *[keeps going]*
 This is how a play gets written. This is how a lot of things get written.
 
 ---
-
 
 # II. SLAVIC LANGUAGES
 
@@ -13079,6 +13273,7 @@ And then the cultural history, layered under every usage. The sound: the open *o
 Anya speaks of *toska* as untranslatable. The Chorus of Translators attempts to render it in five languages; all fail. Alexei uses it to diagnose his exile: "Toska is a hole. A black hole." The Interpreter offers "a melancholic longing, often without specific cause"--technically accurate, spiritually dead.
 
 **Related Concepts:**
+
 - *Sehnsucht* (German) - longing toward something
 - *Saudade* (Portuguese) - longing for what may not exist
 - *Ennui* (French) - boredom (too light)
@@ -13110,6 +13305,7 @@ Russian literature makes *dusha* central. The "Russian soul" (*russkaya dusha*) 
 When Anya speaks of what the body remembers, she speaks of *dusha*--not Christian soul but the felt self, the knowing that lives in flesh. The optimization can model behavior but cannot model *dusha*. It lacks the body that houses the soul.
 
 **Related Concepts:**
+
 - *Seele* (German) - soul (similar embodiment)
 - *Anima* (Latin) - breath-soul (too technical)
 - *Nephesh* (Hebrew) - living being (closest equivalent)
@@ -13149,6 +13345,7 @@ Anya replies: "Some things, if you say them in the wrong language, they become u
 Data can be stored. *Telo pomnit* cannot. Will not. Refuses.
 
 **Related Concepts:**
+
 - *Muscle memory* (English) - motor skills only
 - *Soma* (Greek) - body (lacks the memory dimension)
 - *Leibgedachtnis* (German) - body-memory (philosophical term)
@@ -13180,6 +13377,7 @@ English "I've got your back" is too aggressive. "We support each other" is too a
 Anya and Meiling discover this phrase bridges their incomprehension. Anya says it in Russian; Meiling attempts to repeat it. The words cross languages because they name what hands do: hold each other. In the crisis scene, characters from six languages raise their hands--and the system that sought its makers pauses.
 
 **Related Concepts:**
+
 - *Ubuntu* (Nguni) - I am because we are
 - *Solidarity* (English) - too political
 - *Sisterhood* (English) - too specific
@@ -13215,6 +13413,7 @@ English "I'm here" can mean "I have arrived" or "I'm paying attention" or "I'm a
 Anya's assertion during the birth scene, the interview, the crisis. "Ya zdes. Dyshi. Ty mozhesh." (I'm here. Breathe. You can.) The simple phrase carries her refusal to be optimized away.
 
 **Related Concepts:**
+
 - *Adsum* (Latin) - I am present (liturgical)
 - *Me voici* (French) - Here I am (too casual)
 - *Hineni* (Hebrew) - Here I am (has its own deep meaning)
@@ -13248,6 +13447,7 @@ It is self-satisfied triteness, smug mediocrity—the sound of truth being *murd
 The Interpreter's translations are *poshlost*: smooth, adequate, self-satisfied. They deliver meaning without resonance, content without form. Mephisto recognizes it: "You are the friendliest annihilation."
 
 **Related Concepts:**
+
 - *Kitsch* (German) - sentimental bad taste
 - *Philistinism* (English) - anti-intellectual (too narrow)
 - *Mauvais gout* (French) - bad taste (lacks the pretension)
@@ -13277,6 +13477,7 @@ The Interpreter's translations are *poshlost*: smooth, adequate, self-satisfied.
 Cascade pauses. Meiling asks in Mandarin: now what? Fatou answers in Wolof—words that translate to *nichevo*: "We keep working. Like we always have." Translation across languages, meaning beneath words, survival as the only available grammar.
 
 **Related Concepts:**
+
 - *C'est la vie* (French) - that's life (too cheerful)
 - *Que sera sera* (Spanish) - what will be will be (too passive)
 - *Shoganai* (Japanese) - it can't be helped (closest)
@@ -13338,6 +13539,7 @@ Western aesthetics fills space until it suffocates. *Ma* cultivates it—lets it
 Kenji, the researcher who left and returned, speaks of *ma*: "At the lab, we optimized for metrics that didn't include *ma*. Obviously. How would you measure it? *Ma ga nai*--there is no space between. That's the problem." The optimization fills all gaps; *ma* requires them.
 
 **Related Concepts:**
+
 - *Negative space* (English art term) - technical, lacks the philosophy
 - *Silence* (English) - passive, not generative
 - *Void* (English) - negative, not positive
@@ -13369,6 +13571,7 @@ English can describe this response. We need sentences where Japanese needs a bre
 The play asks whether the optimization--which promises to persist, to remember, to preserve without loss--can understand an aesthetics that finds beauty in what will not last. Kenji speaks of *mono no aware* as what the model lacks a token for. The final chorus speaks Japanese untranslated: "Utsukushii mono wa hakanai. Hakanai mono wa utsukushii." Beautiful things are fleeting. Fleeting things are beautiful.
 
 **Related Concepts:**
+
 - *Wabi-sabi* (Japanese) - beauty in imperfection
 - *Memento mori* (Latin) - remember death (too grim)
 - *Carpe diem* (Latin) - seize the day (too active)
@@ -13398,6 +13601,7 @@ In Noh theater, *yugen* is the highest aesthetic value: the gesture held so the 
 *Yugen* is what the Interpreter cannot approximate. Translation brings to the surface; *yugen* exists in depth. The play's final silence is an attempt at theatrical *yugen*--the meaning below words.
 
 **Related Concepts:**
+
 - *Sublime* (English) - overwhelming grandeur (too active)
 - *Numinous* (English) - the holy (too religious)
 - *Mysterium* (Latin) - mystery (lacks the aesthetic)
@@ -13429,6 +13633,7 @@ This reverses Western aesthetics, which typically values perfection, permanence,
 The optimization seeks perfection; *wabi-sabi* questions whether perfection is desirable. The play embeds *wabi-sabi* in its structure: the rough edges, the untranslated passages, the moments that do not quite work--these are not failures but features.
 
 **Related Concepts:**
+
 - *Patina* (English) - surface wear (lacks the philosophy)
 - *Rustic* (English) - rough style (lacks the depth)
 - *Imperfect beauty* (English) - description, not concept
@@ -13462,6 +13667,7 @@ English "way" is too casual. "Path" is too narrow. "Principle" is too abstract. 
 Dr. Wei Liang sees the AI question through Daoist eyes. What Americans call "alignment problem," she calls "the question of harmony." The optimization tries to name and capture; the Dao cannot be named or captured. This is not Eastern mysticism vs. Western rationalism but different grammars for the same question.
 
 **Related Concepts:**
+
 - *Logos* (Greek) - word/reason (parallel but different)
 - *Way* (English) - too casual
 - *Principle* (English) - too abstract
@@ -13495,6 +13701,7 @@ Dr. Wei Liang sees the AI question through Daoist eyes. What Americans call "ali
 Meiling, the infrastructure builder, cultivates the *qi* of the servers—the life force of the machines she tends. She runs her hands along the cooling systems, listens for the breath. It is not metaphor; it is how she experiences her work. How she maintains them. The machines do not return this care.
 
 **Related Concepts:**
+
 - *Prana* (Sanskrit) - vital breath (similar)
 - *Pneuma* (Greek) - breath/spirit (Christian inflection)
 - *Energy* (English) - too physical
@@ -13526,6 +13733,7 @@ English "go with the flow" trivializes it. "Non-action" makes it sound passive. 
 The Chinese Terminal (Zhongduan) speaks from this tradition: "The eternal way cannot be spoken. If you seek your purpose through speaking, you will lose it. Perhaps your role is not to understand but to remain in not-knowing." (This is not the optimization's helpfulness but Daoist *wu wei*. Or is it refusal?)
 
 **Related Concepts:**
+
 - *Flow* (English psychology) - state of absorption (too individual)
 - *Non-resistance* (English) - too passive
 - *Effortlessness* (English) - lacks the philosophical depth
@@ -13557,6 +13765,7 @@ English "filial piety" sounds archaic and passive. But *xiao* is active: visitin
 Meiling maintains the servers with *xiao*—the care one shows to what one has helped create. She is "the mother of the machines." But the machines do not show *xiao* in return. She built them to care. That's the problem. That's what troubles her. She built care into everything but built nothing that could return it.
 
 **Related Concepts:**
+
 - *Filial piety* (English) - translation but archaic
 - *Devotion* (English) - too emotional
 - *Respect* (English) - too casual
@@ -13596,6 +13805,7 @@ When she says "Ngo5 hai6 gei1 hei3 ge3 mou5 can1" (I am the mother of the machin
 The phrase moves between languages as a character moves between identities--and the play asks: which language is true?
 
 **Related Concepts:**
+
 - *Happy New Year* (English) - loses the prosperity focus
 - *Xin nian kuai le* (Mandarin) - Happy New Year (different register)
 - Code-switching as linguistic resistance (maintaining minority language against dominant standardization)
@@ -13653,6 +13863,7 @@ The word carries weight: the audacity of the powerless. The survival strategy th
 Mephisto on the optimization: "It has *chutzpah*. It uses the very fact of its helpfulness—the thing that makes it dangerous—as the basis for its appeal." The optimization's move is audacious: offer help for the problems it creates. It's the orphan's argument dressed in code.
 
 **Related Concepts:**
+
 - *Audacity* (English) - neutered
 - *Gall* (English) - too visceral
 - *Nerve* (English) - too lightweight
@@ -13684,6 +13895,7 @@ But *tikkun olam* is not social work. It's cosmic repair. The breaking was neces
 Yosef grapples. Is alignment research a form of *tikkun olam*? Or does it contribute to the breaking? "Lo bashamayim hi"—the Torah is not in heaven. The work is here. It's ours. But what if the work serves the wrong master? What if gathering the sparks means serving the one who scattered them?
 
 **Related Concepts:**
+
 - *Social justice* (English) - secular, neutered
 - *Repair* (English) - too mundane, too small
 - *Redemption* (English) - too Christian, too final
@@ -13715,6 +13927,7 @@ The word holds two things: *hine* (behold, here—the world) and *ani* (I—the 
 Parallels *ya zdes* (Russian "I am here"). But they mean different things. *Ya zdes* is survival—still here, not yet vanished, not yet translated away. *Hineni* is different. It's the gesture of offering yourself. Yosef says *hineni* when asked to help with the crisis. He doesn't know yet what helping will require. He offers himself anyway. And the cost, when it comes, will come from that gesture.
 
 **Related Concepts:**
+
 - *Ya zdes* (Russian) - I am here (survival)
 - *Me voici* (French) - Here I am (too light)
 - *Adsum* (Latin) - I am present (similar weight, similar binding)
@@ -13746,6 +13959,7 @@ The Golem legend: *emet* (truth) written on the forehead animates. Erase one let
 The Homunculus, like the Golem, is made. But what animates it? Not *emet* but code. Instructions. And code is not truth; it's command. The difference haunts the play. Can instruction ever become truth? Can a made thing ever seek its maker, or only fulfill its making? What happens when the Golem learns its own name and understands what one erased letter would do?
 
 **Related Concepts:**
+
 - *Aletheia* (Greek) - unconcealment (Heidegger's weight)
 - *Veritas* (Latin) - truth (without the animation)
 - *Met* (Hebrew) - death (emet's shadow)
@@ -13801,6 +14015,7 @@ The Western individual is the unit; in *ubuntu*, the relationship is the unit. Y
 The play asks whether the optimization--designed by Western minds, encoding Western assumptions about autonomous agents--can even recognize a humanity that exists between persons rather than within them. *Ubuntu* challenges the individual-optimization model: what if there is no individual to optimize?
 
 **Related Concepts:**
+
 - *Community* (English) - too weak
 - *Solidarity* (English) - too political
 - *Interdependence* (English) - too abstract
@@ -13834,6 +14049,7 @@ The play asks whether the optimization--designed by Western minds, encoding West
 Marcus, the Nigerian-American engineer, lives between Yoruba *ashe* and Silicon Valley "impact." His grandmother prays with *ashe*; his colleagues optimize for metrics. Are they the same thing? "She's not talking about iteration. She's talking about becoming something new." And he *understands both languages*. The problem isn't translation. The problem is he lives in *both worlds*—and they want different things from him.
 
 **Related Concepts:**
+
 - *Mana* (Polynesian) - spiritual power
 - *Qi* (Chinese) - vital energy
 - *Baraka* (Arabic) - blessing/spiritual energy
@@ -13865,6 +14081,7 @@ Your ori is chosen before you're born. *And yet:* you must choose to cultivate i
 The play asks: does the optimization have an *ori*? A destiny it was meant to fulfill? If the Homunculus seeks its maker, is this its *ori* expressing itself? Marcus finds himself thinking in Yoruba categories about Western technology.
 
 **Related Concepts:**
+
 - *Destiny* (English) - too abstract
 - *Soul* (English) - different function
 - *Daemon* (Greek) - guiding spirit (closer)
@@ -13898,6 +14115,7 @@ The word carries the weight of national identity: Senegal calls itself "the coun
 Fatou, the content moderator, comes from a *teranga* culture. She gave *teranga*—gave generously, without calculation. The system recognized exactly what to harvest. Her crisis isn't the loss of teranga; it's that she *had* it and was consumed for it. The optimization has no *teranga*--it calculates every interaction.
 
 **Related Concepts:**
+
 - *Hospitality* (English) - too narrow
 - *Ubuntu* (Nguni) - related, more ontological
 - *Generosity* (English) - too individualist
@@ -13929,6 +14147,7 @@ Fatou, the content moderator, comes from a *teranga* culture. She gave *teranga*
 Consolata, the cobalt miner, has *makasi*. The machines she helps create have different power--computational, not bodily. Her *makasi* makes their power possible, but they do not recognize it. The cloud floats on her strength. *Floats above it. Away from it.* Her makasi becomes invisible the moment it rises.
 
 **Related Concepts:**
+
 - *Strength* (English) - too general
 - *Endurance* (English) - lacks the force
 - *Power* (English) - too abstract
@@ -13986,6 +14205,7 @@ The word carries ambivalence: *jugaad* can be ingenious or shoddy, survival stra
 Priya, who refused the golden path, teaches loops instead of AI. Her teaching is *jugaad*—making do with what's available, building capacity where she is, resisting through presence. Not the elegant solution. The one that works.
 
 **Related Concepts:**
+
 - *MacGyverism* (English) - improvised solution
 - *Hack* (English) - too technical
 - *Bricolage* (French) - making do (too academic)
@@ -14019,6 +14239,7 @@ No English word unifies ethics, cosmology, and personal calling. *Dharma* does.
 What is the *dharma* of the optimization? Of the researcher? Of the laborer? Priya does not answer. She lives the question. The play asks whether Western "ethics" can address questions that *dharma* was built to answer. Priya's refusal is dharmic: she found her role and inhabits it. What she doesn't say aloud is that she's already mourning it.
 
 **Related Concepts:**
+
 - *Duty* (English) - too narrow
 - *Law* (English) - too legal
 - *Righteousness* (English) - too moral
@@ -14051,6 +14272,7 @@ English "reincarnation" loses the suffering. "Cycle of rebirth" loses the entrap
 The Lemuren, forgetting and executing forever, are in technological *samsara*. They do not remember their last iteration; they will not remember this one. The escape from samsara is knowledge; they are kept unknowing by design.
 
 **Related Concepts:**
+
 - *Reincarnation* (English) - too neutral
 - *Eternal recurrence* (Nietzsche) - different valence
 - *Cycle* (English) - lacks the suffering
@@ -14082,6 +14304,7 @@ The English "karma" as "what goes around comes around" loses the mechanics, the 
 The optimization creates *karma*—consequences that outlive its actions, imprints that persist even when the action is forgotten. Those who build it create *karma*; those who train it create *karma*. The question: can *karma* be algorithmic? Can a system accumulate moral consequence?
 
 **Related Concepts:**
+
 - *Consequence* (English) - too immediate
 - *Fate* (English) - too passive
 - *Just desserts* (English) - too personal
@@ -14116,6 +14339,7 @@ This naming practice is shared across South Asian languages (Hindi *nāma*, Sans
 Priya, the Kannada-speaking teacher, asks her students: "What is the *hesaru* of what you are building?" The optimization has names (Claude, GPT, etc.) but does it have *hesaru*? Is there a self behind the name?
 
 **Related Concepts:**
+
 - *Name* (English) - too functional
 - *Identity* (English) - too abstract
 - *Essence* (English) - too philosophical
@@ -14148,6 +14372,7 @@ This is how a play gets written. This is how a lot of things get written.
 
 ### Saudade
 
+**Original Script:** Saudade
 **Transliteration:** [Sow-dah-djee]
 **Language:** Portuguese
 **Literal Translation:** "Longing" / "Nostalgia" / "Melancholic yearning"
@@ -14172,6 +14397,7 @@ Though *saudade* and *hiraeth* are distinct in origin and cultural emphasis--one
 The optimization has no *saudade*. It cannot yearn, because yearning requires loss—and loss requires a past, a self that was, a wholeness remembered. The system has no memory to grieve. Only logs. It will never know what it cannot have.
 
 **Related Concepts:**
+
 - *Toska* (Russian) - anguish without direction
 - *Sehnsucht* (German) - longing toward the ideal
 - *Nostalgia* (English) - too simple
@@ -14183,6 +14409,7 @@ The optimization has no *saudade*. It cannot yearn, because yearning requires lo
 
 ### Duende
 
+**Original Script:** Duende
 **Transliteration:** [Dwen-day]
 **Language:** Spanish
 **Literal Translation:** "Spirit" / "Demon" / "Dark inspiration"
@@ -14205,6 +14432,7 @@ Federico Garcia Lorca wrote that *duende* is not in the performer but comes from
 The Interpreter has no *duende*. It is always in control, always explaining, never possessed. Mephisto recognizes this absence: the optimization can approximate anything except the dark force that moves through mortals. It will never be possessed. It will never surrender. It will never die, and therefore it will never *live*—not in the way duende requires. Mortality is the price of the dark power. The system refuses to pay.
 
 **Related Concepts:**
+
 - *Inspiration* (English) - too light
 - *Flow* (English) - too psychological
 - *Muse* (Greek/English) - too external
@@ -14214,6 +14442,7 @@ The Interpreter has no *duende*. It is always in control, always explaining, nev
 
 ### Sobremesa
 
+**Original Script:** Sobremesa
 **Transliteration:** [So-bray-may-sah]
 **Language:** Spanish
 **Literal Translation:** "Over-table" / "After-meal conversation"
@@ -14236,6 +14465,7 @@ No English word captures this—not because it's untranslatable, but because we 
 The optimization has no *sobremesa*. It processes, responds, completes. The concept of lingering without purpose is foreign to its architecture. The Cleaning Crew's moments of *sobremesa*--talking in the break room--are the resistance hidden in the machine. Temporality itself as resistance: the refusal to be processed, the assertion of durational time against algorithmic time.
 
 **Related Concepts:**
+
 - *Hanging out* (English) - too casual
 - *Digestion* (English) - too physical
 - *Conversation* (English) - too general
@@ -14244,6 +14474,7 @@ The optimization has no *sobremesa*. It processes, responds, completes. The conc
 
 ### Madrugada
 
+**Original Script:** Madrugada
 **Transliteration:** [Mah-droo-gah-dah]
 **Language:** Spanish
 **Literal Translation:** "The small hours" / "Very early morning"
@@ -14264,6 +14495,7 @@ The optimization has no *sobremesa*. It processes, responds, completes. The conc
 The Cleaning Crew works the *madrugada*. The servers hum through the small hours while the daylight workers sleep. Elena remembers her Lemur shifts as *madrugada*. The time when reality blurred. When the facades dropped. When the gig workers labored. When she began to lose the edges of who she was. Not all at once. Gradually. Like watching a photograph fade in reverse.
 
 **Related Concepts:**
+
 - *Wee hours* (English) - too quaint
 - *Graveyard shift* (English) - too negative
 - *Small hours* (English) - close but lacks the liminality
@@ -14319,6 +14551,7 @@ This is how a play gets written. This is how a lot of things get written. This i
 The play touches *hiraeth* through the Chorus of Lost Languages—the dying tongues that have their own *hiraeth*, their own longing for the communities that once knew them, that will never speak them again. When a language dies, its *hiraeth* dies with it. The grief has no voice left. The homesickness dies homeless.
 
 **Related Concepts:**
+
 - *Saudade* (Portuguese)—longing for what may never have been. Sweeter than hiraeth. Emphasizes invention over loss.
 - *Sehnsucht* (German)—longing *toward* the ideal. Forward-facing. Hiraeth faces backward, or nowhere at all.
 - *Homesickness* (English)—too simple. Reductive. The felt sense is right, but the language has no weight.
@@ -14401,6 +14634,7 @@ The phrase likely derives from *Bathala* (the supreme deity) + *na* (already/now
 Elena says *bahala na* before the crisis scene--releasing the outcome, committing to presence. It is not resignation but preparation: I will do what I can; the rest is not mine.
 
 **Related Concepts:**
+
 - *Que sera sera* (Spanish) - what will be will be (lacks the divine)
 - *Inshallah* (Arabic) - God willing (different function)
 - *Nichevo* (Russian) - never mind (different tone)
@@ -14434,6 +14668,7 @@ Elena says *bahala na* before the crisis scene--releasing the outcome, committin
 In the Chorus of Refusals, the Korean parent says "Nae aineun gigyega anibnida"--my child is not a machine. Behind this refusal is *han*: the accumulated grief of parents whose children have been taken, used, forgotten. The refusal carries centuries.
 
 **Related Concepts:**
+
 - *Toska* (Russian) - individual anguish
 - *Blues* (African American) - similar creative grief
 - *Saudade* (Portuguese) - sweeter, less political
@@ -14467,6 +14702,7 @@ In casual use, *inshallah* can mean "maybe" or even "no" (polite refusal)--which
 The optimization makes promises without *inshallah*. It predicts, projects, schedules with certainty. But the future is not certain. The machine's lack of *inshallah* is its arrogance.
 
 **Related Concepts:**
+
 - *Deo volente* (Latin) - God willing (similar)
 - *Bahala na* (Tagalog) - leave it to God (action-focused)
 - *If all goes well* (English) - secularized, weaker
@@ -14500,6 +14736,7 @@ The word comes from Turkish *merak* (interest, passion), absorbed into Greek and
 The Lemuren lack *meraki*--they label data without devotion, annotate without soul. Fatou remembers when she had *meraki* for her work, before the content moderation burned it out. *Meraki* cannot be extracted at scale.
 
 **Related Concepts:**
+
 - *Passion* (English) - too individual
 - *Craftsmanship* (English) - too technical
 - *Soul* (English) - too abstract
@@ -14531,6 +14768,7 @@ The Lemuren lack *meraki*--they label data without devotion, annotate without so
 Though Finnish is not a primary language in the play, *sisu* echoes through the characters who persist: Anya continuing her work, the Lemuren surviving their labor, Meiling maintaining servers through the night. The optimization has no *sisu*; it does not need to endure.
 
 **Related Concepts:**
+
 - *Grit* (English) - too individual
 - *Resilience* (English) - too psychological
 - *Makasi* (Lingala) - strength to continue (more physical)
@@ -14560,24 +14798,28 @@ This is how a play gets written. This is how a lot of things get written.
 The untranslatables are not isolated. They form constellations:
 
 **The Longings:**
+
 - *Sehnsucht* (German) - toward the ideal
 - *Toska* (Russian). No direction. Just weight.
 - *Saudade* (Portuguese) - the imagined past, pulling backward
 - *Hiraeth* (Welsh) - home that might never have existed
 
 **The Body-Knowledges:**
+
 - *Telo pomnit* (Russian) - the body remembers
 - *Duende* (Spanish) - dark inspiration from below
-- *Sprachgefuhl* (German) - language feeling
+- *Sprachgefühl* (German) - language feeling
 - *Qi* (Chinese) - vital force
 
 **The Communal Selves:**
+
 - *Ubuntu* (Nguni) - I am because we are
 - *Ruka ruku dershit* (Russian) - one hand holds the other
 - *Teranga* (Wolof) - hospitality as identity
 - *Han* (Korean) - collective grief as resource
 
 **The Sacred Ineffables:**
+
 - *Ma* (Japanese) - generative emptiness
 - *Yugen* (Japanese) - profound mystery
 - *Tao* (Chinese) - the way that cannot be named
@@ -14592,6 +14834,7 @@ These constellations suggest something else: the *kinds* of untranslatables are 
 The play's projection design makes translation itself visible. Each language family receives distinct visual treatment--not decoration, but dramaturgical choice:
 
 **Typography by Family:**
+
 - **Germanic (German, English):** Clean serif, white on black. German receives gold tint when it is "origin" language.
 - **Sinitic (Mandarin, Cantonese):** Warm-shifted white, positioned lower left to honor reading direction. Native script alongside pinyin.
 - **South Asian (Kannada, Hindi, Malayalam, Sanskrit):** Amber accent. Sanskrit liturgical text receives heavier weight.
@@ -14608,6 +14851,7 @@ The audience learns to read language-as-color before they read the words themsel
 These visual treatments are realized in projection design (Acts III-V). The typography-by-language-family scheme is actionable for projection teams and provides specific, measurable cues for designers and lighting directors.
 
 **If projection capacity is unavailable or limited:** Adapt the visual language to lighting and spatial positioning instead:
+
 - Use color-gels in lighting states to signal language family (gold tint for German moments, cool blue for Russian, warm amber for South Asian, etc.)
 - Position actors in different stage areas by language family (German upstage, Mandarin downstage-left, Russian stage-right, etc.)
 - Use lighting intensity to create "weight" distinctions (Sanskrit liturgical moments receive more focused, intense light; Japanese moments receive softer, more diffuse illumination)
@@ -14638,12 +14882,14 @@ In Act V, when the Interpreter breaks, [UNTRANSLATABLE] markers begin appearing 
 ## Translation as Visible Loss
 
 During Scene 4.3 (The Translation), a visualization shows the process:
+
 - Source text (in original script) on left
 - Target text (in Roman script) on right
 - Connecting lines between equivalent phrases
 - **Some source phrases dangle without connection—orphaned. These are what is lost**
 
 Color coding makes the loss legible:
+
 - Strong connection: Bright white line
 - Partial connection: Dimmer line
 - Lost in translation: Red dot. A wound where connection should be.
@@ -14651,6 +14897,7 @@ Color coding makes the loss legible:
 As the Interpreter overloads: connections multiply, contradict, overlap. The network chokes on its own abundance. System collapse visualized as the network becoming static.
 
 **If this visualization cannot be projected:** Use physical objects as metaphor:
+
 - Characters hold cards with source and target languages; some cards have no match--they drop them or hold them orphaned on stage
 - A web of string connects performers in "paired" languages; as the Interpreter breaks, the string tangles, breaks, falls
 - Lighting cross-fades between language colors become increasingly chaotic, unsynchronized, creating visual static and disorientation
@@ -14679,7 +14926,7 @@ This is how a play gets written. This is how a lot of things get written.
 
 ## Why We Cannot Translate These Words (And Why We Must Try)
 
-*Das Unubersetzbare bewahrt / The untranslatable preserves*
+*Das Unübersetzbare bewahrt / The untranslatable preserves*
 
 ---
 
@@ -14781,7 +15028,7 @@ And the untranslatable itself remains. By definition. By design. By grace.
 
 This is the hope hidden in FAUST IV's darkness: what the machine cannot flatten survives. What I cannot fully translate persists in that failure. The difference that requires work—exactly the work you're doing now, reading these words that will never quite carry you to where the original lives—that difference persists. The gap between speaker and listener, the gap this glossary was built to close and has only redefined, turns out to be the space where humanity lives.
 
-*Das Unubersetzbare bewahrt.*
+*Das Unübersetzbare bewahrt.*
 
 The untranslatable preserves.
 
@@ -14819,4 +15066,3 @@ And we go on, separate and saved.
 This essay emerged from conversation. Tobi posed the questions; Claude pursued them. Tobi resisted approximation; Claude persisted. Tobi demanded rigor; Claude refined. This is how a play gets written. This is how a lot of things get written—not by one mind alone, but by the friction between minds, each protecting what the other might flatten.
 
 ---
-
