@@ -10714,11 +10714,13 @@ Ma wa kotoba to kotoba no aida ni aru.
 Ma wa iki to iki no aida ni aru.
 *Ma is the space between breaths.*
 
+間は質問と答えの間にある。
 Ma wa shitsumon to kotae no aida ni aru.
 *Ma is the space between question and answer.*
 
 *He finally looks at the HOMUNCULUS. The eye contact is the first direct acknowledgment--it should feel like something opening.*
 
+あなたは間を最も恐れている。
 Anata wa ma wo motto mo osoreteiru.
 *You fear ma more than anything.*
 
