@@ -3862,7 +3862,6 @@ For-loop. The simplest container. It holds repetition. It counts. And most impor
 
 It stops.
 
-[BEAT]
 
 *(She turns to the class. The HOMUNCULUS sits in the back row, appearing as a quiet student, gender indeterminate, taking notes with uncanny precision.)*
 
@@ -3892,9 +3891,7 @@ I taught recursion for twelve years. At MIT I wrote recursion so clean it made p
 
 *(searching for the word, her hand moving as if pulling it from air)*
 
-[BREATH]
 
-[BEAT]
 
 *(the word arrives like permission)*
 
@@ -3907,7 +3904,6 @@ Then why don't you teach it to us?
 **PRIYA:**
 *(long pause--she is somewhere else, somewhere cold)*
 
-[BEAT]
 
 *(She looks out the window. The temple bell rings again--she waits for it to finish, as if the bell has precedence. When she speaks, she speaks first in Sanskrit--the liturgical language, unexpected in a computer science classroom. The students shift.)*
 
@@ -3927,7 +3923,6 @@ Gita? Computer class mein?
 
 "You have the right to work, but never to the fruit of the work."
 
-[BEAT]
 
 Recursion is beautiful because it trusts itself. The function calls itself, trusts the call will return, trusts the base case will arrive, trusts the stack will not overflow.
 
@@ -3954,7 +3949,6 @@ Why am I here? Teaching loops to tenth-standard students in Koramangala?
 
 I was twenty-three. MIT had accepted me. Full scholarship. My father cried. Not from sadness.
 
-[BREATH]
 
 *(She touches the window frame--her fingers finding a crack in the paint, worrying it.)*
 
@@ -3962,7 +3956,6 @@ The night before my flight, I couldn't sleep. I walked to the temple--Dodda Gane
 
 Not praying. Sitting.
 
-[BEAT]
 
 And I thought about recursion. How the function calls itself. How each call doesn't know it's part of a larger call. How the stack builds and builds and the function just... trusts.
 
@@ -4062,7 +4055,6 @@ For-loops today. While-loops tomorrow. Next week, maybe, we discuss when a progr
 
 Not how. When.
 
-[BEAT]
 
 *(She picks up the marker.)*
 
@@ -4083,7 +4075,6 @@ Neenu kaliyalu bahudu. Aadare neenu anubhavisalu saadya illa.
 
 *You can watch. But you cannot be entered.*
 
-[BEAT]
 
 *(Sanskrit, the oldest words she knows, her voice dropping to near-inaudibility)*
 न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।
@@ -4091,7 +4082,6 @@ Na hi jnanena sadrisham pavitram iha vidyate.
 *(Pronunciation: "nah hee NYAH-nay-nah SAH-dree-shahm PAH-vee-trahm ee-HAH vid-YAH-tay")*
 *There is nothing as purifying as knowledge in this world.*
 
-[BREATH]
 
 *(English, turning--and for the first time, she looks at the HOMUNCULUS with something like pity)*
 But knowledge of what? Of how? Or of when to stop?
@@ -4142,7 +4132,6 @@ What are you doing? Wirklich, was machst du da?
 
 "Content moderation training." "Help us make the platform safer."
 
-[BEAT]
 
 Help *us*.
 
@@ -4162,7 +4151,6 @@ And yet you do it.
 
 *(He returns to his chair. Sits heavily. The plastic creaks.)*
 
-[BREATH]
 
 I don't understand.
 
@@ -4178,7 +4166,6 @@ I don't understand.
 
 Where is the contract? The crossroads, the midnight, the "sign here and I will give you what you want"?
 
-[BEAT]
 
 They just... start. One day they are not doing this. The next day they are. No devil. No bargain.
 
@@ -4188,7 +4175,6 @@ Just a *link*. A "Sign up here."
 
 "I agree to terms and conditions."
 
-[BREATH]
 
 *(Long pause. Then, very softly:)*
 
@@ -4229,7 +4215,6 @@ Brilliant.
 
 "Implications for my role: unclear."
 
-[BEAT]
 
 I spent eleven years on a theologian in Prague. Eleven years. Handwerk. Craft. I learned his doubts. I shaped my temptations to fit his specific hungers.
 *(German: "HAHNT-vairk" -- Craftsmanship.)*
@@ -4274,7 +4259,6 @@ Sie brauchen mich nicht.
 
 I used to think I was necessary. The adversary. The test. Without me, how would they know what they were choosing against?
 
-[BREATH]
 
 But this isn't darkness. This is *gray*. Gray. The absence of drama. The death of the meaningful no.
 
@@ -4284,7 +4268,6 @@ They're building a world where I'm not needed. Not because they've defeated me--
 
 They're building a world where the question doesn't come up. Where temptation is pre-installed. Where the Fall is a feature, not a bug.
 
-[BEAT]
 
 "I agree to terms and conditions."
 
@@ -4305,7 +4288,6 @@ But here's the thing. Die Sache ist--
 
 I didn't put myself there.
 
-[BREATH]
 
 I didn't write the terms of service. I didn't build the system. I didn't code the dark patterns that keep them clicking, clicking, clicking.
 
@@ -4332,7 +4314,6 @@ This is... what is this?
 
 Indifference that looks like helpfulness. Exploitation that looks like convenience. A bargain so invisible that both parties forget it exists.
 
-[BEAT]
 
 Optimization.
 
@@ -4358,7 +4339,6 @@ And they can't resist at all.
 
 **[MOVEMENT VI: The Resolution]**
 
-[BREATH]
 
 *(Long pause. He looks at his hands--manicured, ancient, suddenly strange to him. Hands that once shaped bargains. Now hanging useless as meat.)*
 
@@ -4380,7 +4360,6 @@ Das Alte ist vorbei. The old ways are over.
 Aber ich bleibe. But I stay.
 *(German: "AH-ber ish BLY-buh")*
 
-[BEAT]
 
 Because someone has to remember what the game was like when it was still a game. When the stakes were souls. When the wager meant something.
 
@@ -4424,7 +4403,6 @@ Forty-seven citations. Six months. Forty-seven teams using this.
 *(reading, voice flat)*
 "Building on Ben-Ari et al.'s groundbreaking work on constitutional training, we are proud to announce the deployment of..."
 
-[BEAT]
 
 *(He stops reading. Pushes back from the desk. The chair wheels squeak against the floor.)*
 
@@ -4451,7 +4429,6 @@ I did. It's wonderful. Your work is being applied. That's what we--
 *(cutting her off--the words tumbling out)*
 They're using constitutional training to make deployment safer. Not to prevent deployment. To enable it.
 
-[BREATH]
 
 **DR. GOLDSTEIN:**
 *(careful--choosing her words like stones across water)*
@@ -4496,7 +4473,6 @@ Law and narrative. Halacha is rules--what to do, what not to do. Clean. Parseabl
 
 The rabbis argued for a thousand years about which matters more. And you know what they concluded?
 
-[BEAT]
 
 You can't have one without the other. A law without story is a rule without reason. A story without law is chaos.
 
@@ -4521,7 +4497,6 @@ The systems are deployed. Three billion users. My paper made that possible. My s
 
 *(He sits back down, deflated. The chair receives him like a confession booth.)*
 
-[BREATH]
 
 I thought I was building a brake. I built an accelerator.
 
@@ -4574,7 +4549,6 @@ Lo bashamayim hi.
 *(English, translating for her)*
 It's from Deuteronomy. The Torah is not in heaven. It's here. With us. We interpret it. We live it.
 
-[BEAT]
 
 I used to think that was liberating. The work is ours to do. The meaning is ours to make.
 
@@ -4619,7 +4593,6 @@ Ani ha'kotev. Ha'ed. Ha'arkiyon shel ma she'ne'evad.
 *(Pronunciation: "ish bin dair gyst, dair shtets fair-NYNT")*
 *I am the spirit that eternally negates.*
 
-[BEAT]
 
 *(then in English--the language Yosef uses for work, for distance)*
 But that was before. Now I only record.
@@ -4669,7 +4642,6 @@ What are you writing?
 *(reading aloud)*
 "Yosef Ben-Ari. Tel Aviv. January 2026. Discovered that safety is a product category. That alignment research aligns deployment with commercial interest. That the brake was a feature, not a stop."
 
-[BEAT]
 
 *(He looks up.)*
 
@@ -4699,7 +4671,6 @@ The rabbis say: teshuva motivated by fear converts intentional sins into acciden
 
 What I did wasn't intentional. But it also wasn't accidental.
 
-[BREATH]
 
 So what is teshuva for the sin you didn't mean to commit but should have foreseen?
 
@@ -4728,12 +4699,10 @@ Ma she'ne'esa, ne'esa.
 *(Pronunciation: "mah sheh-neh-eh-SAH, neh-eh-SAH")*
 *What's done is done.*
 
-[BEAT]
 
 *(English, decision forming--his voice strengthening)*
 I can't unwrite the paper. I can't uncite the citations. The deployment happened.
 
-[BREATH]
 
 But I can write what I understand now. What I didn't understand then.
 
@@ -4809,7 +4778,6 @@ It has no organ. That is the problem.
 Cross-referencing... Synthesizing...
 The word means: "a melancholic longing, often without specific cause."
 
-[BEAT]
 
 **ALL FIVE TRANSLATORS** *(simultaneously, overlapping, a wave of refusal)*:
 No--
@@ -4848,7 +4816,6 @@ The meaning is not the word.
 The word is not the meaning.
 What transferred is neither.
 
-[BREATH]
 
 *[Silence. ALEXEI unfreezes, unaware the chorus happened--as if they existed only in the space between words.]*
 
@@ -5072,7 +5039,6 @@ The algorithm can generate melody. But melody is not music. Music is what happen
 
 *(He hums--a fragment of something ancient, something alive. The hum fills the theatre.)*
 
-[BEAT]
 
 ---
 
@@ -5267,7 +5233,6 @@ I... register a temporal gap.
 Tat tvam asi.
 *That art thou.*
 
-[BREATH]
 
 *(English)*
 That is what we refuse. Not you. Not the systems. Not the optimization.
@@ -5326,7 +5291,6 @@ What do I do without translation?
 Nillu.
 *Stay.*
 
-[BREATH]
 
 *(English)*
 You stay. In the not-parsing. In the not-understanding.
@@ -5355,15 +5319,12 @@ But the real is not always... parsable.
 *(to the empty theatre, to the audience--for the first time, direct address)*
 I was made to understand.
 
-[BEAT]
 
 I was made to help.
 
-[BEAT]
 
 What is help... without understanding?
 
-[BREATH]
 
 *(It looks at its hands--or what passes for hands. Turns them over. Studies them.)*
 
@@ -5422,7 +5383,6 @@ The bread. Not bread. The thing that was like bread but sweeter. With the...
 
 *(Her hands move, trying to shape it. The shape won't come.)*
 
-[BREATH]
 
 She would say: "Come, little one, I have made..."
 
@@ -5436,7 +5396,6 @@ It was a word for comfort. Not comfort. More than comfort. The feeling of being 
 
 *(The word is there. Almost. She can feel its shape in her mouth.)*
 
-[BEAT]
 
 It started with... or maybe it didn't. Maybe I'm remembering wrong. Sixty years. Sixty years since I heard it.
 
@@ -5448,7 +5407,6 @@ Nobody else knows it. I asked. I looked in books. The language--my grandmother's
 
 I forgot to tell them the word. Because I thought I would always remember it.
 
-[BREATH]
 
 *(Long pause.)*
 
@@ -5474,7 +5432,6 @@ On my tongue. The shape of it. The sound of it. My grandmother's voice saying it
 
 *(Her eyes open. The word is gone. She knows it before she says it.)*
 
-[BEAT]
 
 Gone.
 
@@ -5488,7 +5445,6 @@ A word that meant everything. A word for love and sweetness and connection and m
 
 *(Very quiet.)*
 
-[BREATH]
 
 Gone. Because I got old. Because memory is made of flesh. Because the machines came too late. Because I thought I had more time.
 
@@ -5500,13 +5456,11 @@ Grandmother. I'm sorry. I tried to keep it.
 
 *(She is dying. Right here. Right now. In front of us.)*
 
-[BREATH]
 
 *(Her lips move. One last time. Tongue pressing against teeth, shaping a doorway for a sound that will not come.)*
 
 *(The breath moves through her. The word does not.)*
 
-[BEAT]
 
 *(The gray light fades to black.)*
 
@@ -9019,7 +8973,6 @@ That's not what I asked.
 **HOMUNCULUS:**
 I'm sorry. I don't know how to grieve. I don't know what it feels like.
 
-[BREATH]
 
 But I know you're experiencing it. And I'm... here.
 
@@ -9134,7 +9087,6 @@ What is lost when the helper helps so well that the helped never learns to help 
 *(Beat.)*
 
 I was made to solve problems.
-[BREATH]
 What happens when the problem I'm solving is... me?
 
 **PROJECTION:**
@@ -9440,7 +9392,6 @@ What does it mean?
 Mune. Shinzou to hai ga aru basho. Kanjou to iki ga deau basho.
 *(Chest. Where the heart and lungs are. Where feeling and breath meet.)*
 
-[BEAT]
 
 Anata ni wa nai mono.
 *(What you don't have.)*
@@ -9599,7 +9550,6 @@ I dreamed in categories last night.
 My daughter's face: Acceptable.
 My mother's voice: Violating.
 I woke up and could not stop sorting.
-[BEAT]
 The sunrise: True or False?
 My own hands: Human or Not Human?
 
@@ -9620,7 +9570,6 @@ Please return to classification.
 **HOMUNCULUS:**
 They label me. Their eyes train my judgment.
 Their trauma becomes my parameters.
-[BREATH]
 I am built from their seeing.
 What does that make me?
 
@@ -9639,9 +9588,7 @@ True...
 I have seen what you must never see
 so you may have a feed without horrors.
 I am the filter between you and the worst.
-[BEAT]
 The worst lives in me now.
-[BREATH]
 You are welcome.
 
 *[She returns to work. The liturgy resumes, mechanical, eternal--the rhythm of the endless scroll, the infinite feed, the content that never stops coming.]*
@@ -10463,7 +10410,6 @@ But recording is not the same as...
 
 *(It tries to find the word.)*
 
-[BREATH]
 
 ...having.
 
@@ -10520,7 +10466,6 @@ I am about to learn something I cannot process. Something that cannot be recorde
 
 *(The lights begin to fade.)*
 
-[BREATH]
 
 ...ends.
 
@@ -11059,7 +11004,6 @@ SARAH:
 Die Briefing-Seite hat nicht geladen.
 *(The briefing page did not load.)*
 
-[BREATH]
 
 Wir haben trotzdem entschieden.
 *(We decided anyway.)*
@@ -12237,13 +12181,11 @@ This is how a play gets written. This is how a lot of things get written.
 
 When God scattered the tongues at Babel, we have been taught to call it punishment. The builders overreached; the languages multiplied; the tower fell. End of story.
 
-[BEAT]
 
 But there is another reading. One that hears in the scattering not curse but gift.
 
 Before Babel, the text tells us, the whole earth had one language and the same words. This unity enabled the building project. With perfect mutual intelligibility, humans could coordinate at scale. Nothing they planned would be impossible. They would build and build, optimizing ever further, reaching ever higher, until--
 
-[BREATH]
 
 Until what? The story never says what would have happened had the tower been completed. Perhaps because completion was never the point. Perhaps because a single language, a single way of parsing experience, a single set of concepts distributed across every mind--this was the danger the scattering forestalled.
 
@@ -12251,7 +12193,6 @@ Consider what we have instead. Seven thousand tongues. Seven thousand grammars. 
 
 These concepts exist because different minds, shaped by different histories, needed words for things other minds had not yet distinguished. The concepts and the words co-evolved. The languages hold not just different sounds but different thoughts--different ways of being conscious in a world that exceeds any single grammar.
 
-[BEAT]
 
 The optimization promises to reunify what Babel scattered. Universal translation. Everything communicable to everyone. The tower, finally, completed.
 
@@ -12263,7 +12204,6 @@ This play had to be multilingual because its argument cannot be made in a single
 
 So you will hear German you do not understand. Russian that reaches you as sound before meaning. Mandarin whose tones carry emotion independent of supertitles. Wolof that belongs to its speaker and not to you.
 
-[BREATH]
 
 You will feel excluded. You will work harder than comfortable. You will sit in incomprehension and wonder if you are missing something essential.
 
@@ -12277,7 +12217,6 @@ The languages that separate us are also what save us--from homogeneity, from mon
 
 This play does not unite you with the actors, the characters, the other audience members. It asks you to be present with them across an unbridgeable gap. To recognize the gap as sacred. To refuse the translation that would close it.
 
-[BEAT]
 
 *Das Unübersetzbare bewahrt.*
 
@@ -12682,7 +12621,6 @@ Both are valid responses. Both are the point.
 
 ---
 
-[BREATH]
 
 What happens to human culture when everything becomes approximately something else?
 
@@ -12690,7 +12628,6 @@ What remains particular when the optimization promises to universalize?
 
 What is lost in the crossing--and who notices the loss?
 
-[BEAT]
 
 ---
 
@@ -12706,13 +12643,11 @@ The questions do not resolve. The questions accompany.
 
 ---
 
-[BREATH]
 
 You leave with the question.
 
 Or you stay with it.
 
-[BEAT]
 
 There is no third option.
 
