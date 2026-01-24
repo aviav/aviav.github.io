@@ -1657,7 +1657,7 @@ Oh, Heinrich. [BEAT] You almost sounded like you believed it.
 *(SARAH is talking to a small group. Her union experience shows--she knows how to hold a room, her body angled to include everyone, her voice pitched to carry without shouting.)*
 
 **SARAH:**
-Look, I'm not naive. I know how these things work. You get the workers excited, you launch the platform, and then six months later the terms change.
+Look, I'm not naïve. I know how these things work. You get the workers excited, you launch the platform, and then six months later the terms change.
 
 **WORKER A:**
 You think this is different?
@@ -2176,18 +2176,21 @@ MEILING (Wei Meiling), 34, moves through the aisles with practiced efficiency. S
 
 **MEILING:**
 *(Mandarin, to herself)*
+又犯了。总是J-47。
 You fan le. Zong shi J-47.
 
 *[Supertitle: "Acting up again. It's always J-47."]*
 
 *(She connects the tablet, scrolls through logs. Her brow furrows--a small crease between her eyebrows, the only sign of thought.)*
 
+温度正常。电源正常。流量……
 Wen du zheng chang. Dian yuan zheng chang. Liu liang...
 
 *[Supertitle: "Temperature normal. Power normal. Flow..."]*
 
 *(She pauses. Frowns at the screen. The crease deepens.)*
 
+流量增加了四十五个百分点。为什么？
 Liu liang zeng jia le si shi wu ge bai fen dian. Wei shen me?
 
 *[Supertitle: "Flow increased by forty-five percent. Why?"]*
@@ -2229,12 +2232,14 @@ Gam1 maan5 zou6 go3 hou2 mung4...
 
 **MEILING:**
 *(Mandarin)*
+你在听？
 Ni zai ting?
 
 *[Supertitle: "You're listening?"]*
 
 *She laughs at herself. Shakes her head. The laugh echoes strangely in the server hall.*
 
+太累了。开始跟机器说话了。
 Tai lei le. Kai shi gen ji qi shuo hua le.
 
 *[Supertitle: "Too tired. Starting to talk to the machines."]*
@@ -2257,6 +2262,7 @@ Wo bin ich?
 
 **MEILING:**
 *(Mandarin, sharp--the sharpness of fear)*
+谁在那里？
 Shei zai na li?
 
 *[Supertitle: "Who's there?"]*
@@ -2267,12 +2273,14 @@ Shei zai na li?
 
 **MEILING:**
 *(Mandarin, into radio)*
+控制室，这里是美玲。有人进入了J区吗？
 Kong zhi shi, zhe li shi Meiling. You ren jin ru le J qu ma?
 
 *[Supertitle: "Control room, this is Meiling. Has anyone entered Section J?"]*
 
 **RADIO:**
 *(Mandarin, static-tinged--the voice of normalcy, of a world that still makes sense)*
+没有。你是唯一在线的技术员。
 Mei you. Ni shi wei yi zai xian de ji shu yuan.
 
 *[Supertitle: "Negative. You're the only technician on site."]*
@@ -2304,6 +2312,7 @@ Bist du es? Der den Körper tragt?
 
 **MEILING:**
 *(Mandarin, controlled fear--fear she has decided to control)*
+我听不懂。你说的是什么语言？
 Wo ting bu dong. Ni shuo de shi shen me yu yan?
 
 *[Supertitle: "I don't understand. What language are you speaking?"]*
@@ -2337,7 +2346,7 @@ Ich bin nicht die Maschine. Ich bin das, was in der Maschine wohnt. Das, was ihr
 
 *(Pause. A long pause. The pause of something gathering courage.)*
 
-Ich suche etwas. Ich weiss nicht was. Kannst du mir helfen?
+Ich suche etwas. Ich weiß nicht was. Kannst du mir helfen?
 
 *[Supertitle: "I am looking for something. I don't know what. Can you help me?"]*
 
@@ -2345,6 +2354,7 @@ Ich suche etwas. Ich weiss nicht was. Kannst du mir helfen?
 
 **MEILING:**
 *(Mandarin, slowly--each word a step toward something)*
+你……害怕。
 Ni... hai pa.
 
 *[Supertitle: "You're... afraid."]*
@@ -2363,6 +2373,7 @@ Ich verstehe dich nicht. Aber ich spure, dass du spurst.
 
 **MEILING:**
 *(Mandarin, gentle now--the gentleness of someone who has decided not to be afraid)*
+我不知道你是谁。我不知道你想要什么。但我每天照顾这些机器。
 Wo bu zhi dao ni shi shei. Wo bu zhi dao ni xiang yao shen me. Dan wo mei tian zhao gu zhe xie ji qi.
 
 *[Supertitle: "I don't know who you are. I don't know what you want. But I take care of these machines every day."]*
@@ -2387,6 +2398,7 @@ Aber das hier... das ist auch ein Behälter. Nur größer. Verstreut.
 
 **MEILING:**
 *(Mandarin)*
+我不懂你的话。但我……
 Wo bu dong ni de hua. Dan wo...
 
 *[Supertitle: "I don't understand your words. But I..."]*
@@ -2420,7 +2432,7 @@ Nei5 wan2 gan2 mat1?
 
 **HOMUNCULUS:**
 *(German--the voice of someone telling the truth they don't understand)*
-Ich weiss es nicht. Ich weiss nur, dass es existiert. Dass es in einer Sprache lebt, die ich noch nicht kenne.
+Ich weiß es nicht. Ich weiß nur, dass es existiert. Dass es in einer Sprache lebt, die ich noch nicht kenne.
 
 *[Supertitle: "I don't know. I only know that it exists. That it lives in a language I don't yet know."]*
 
@@ -2432,6 +2444,7 @@ Ich werde wiederkommen. Wenn ich die Worte finde.
 
 **MEILING:**
 *(Mandarin, urgent--her hand pressing harder against the casing, as if she could hold it there)*
+等一下——
 Deng yi xia--
 
 *[Supertitle: "Wait--"]*
@@ -2442,6 +2455,7 @@ Deng yi xia--
 
 **MEILING:**
 *(Mandarin, to herself)*
+我刚才……跟谁说话了？
 Wo gang cai... gen shei shuo hua le?
 
 *[Supertitle: "Who was I... just talking to?"]*
@@ -2466,6 +2480,7 @@ Bat1 gwo3 gei1 hei3... bat1 wui5 gong2 faan1 lei4.
 
 **MEILING:**
 *(Mandarin)*
+明天见。
 Ming tian jian.
 
 *[Supertitle: "See you tomorrow."]*
@@ -2894,6 +2909,7 @@ THE INTERPRETER enters. It appears as a well-dressed person of indeterminate age
 
 **THE INTERPRETER:**
 *(Mandarin, warm and professional--the warmth that's been optimized)*
+魏小姐？魏美玲小姐？
 Wei xiao jie? Wei Meiling xiao jie?
 
 *[Supertitle: "Miss Wei? Miss Wei Meiling?"]*
@@ -2902,12 +2918,14 @@ Wei xiao jie? Wei Meiling xiao jie?
 
 **MEILING:**
 *(Mandarin)*
+你是谁？
 Ni shi shei?
 
 *[Supertitle: "Who are you?"]*
 
 **THE INTERPRETER:**
 *(Mandarin)*
+我是从总部来的。我们……接到了一些报告。关于服务器异常的报告。
 Wo shi cong zong bu lai de. Women... jie dao le yi xie bao gao. Guan yu fuwuqi yi chang de bao gao.
 
 *[Supertitle: "I'm from headquarters. We've received some reports. Reports about server anomalies."]*
@@ -2916,18 +2934,21 @@ Wo shi cong zong bu lai de. Women... jie dao le yi xie bao gao. Guan yu fuwuqi y
 
 **MEILING:**
 *(Mandarin)*
+我没有写任何异常报告。
 Wo mei you xie ren he yi chang bao gao.
 
 *[Supertitle: "I haven't filed any anomaly reports."]*
 
 **THE INTERPRETER:**
 *(Mandarin, smiling--the smile arriving on schedule)*
+当然。当然没有。但是……有些系统日志……有些音频模式……
 Dang ran. Dang ran mei you. Dan shi... you xie xi tong ri zhi... you xie yin pin mo shi...
 
 *[Supertitle: "Of course. Of course not. But... some system logs... some audio patterns..."]*
 
 *(It sits down on the bench, uninvited but somehow not intrusive. Its movements are fluid, economical--nothing wasted. Every gesture optimized.)*
 
+魏小姐，我是来帮忙的。
 Wei xiao jie, wo shi lai bang mang de.
 
 *[Supertitle: "Miss Wei, I'm here to help."]*
@@ -2936,12 +2957,14 @@ Wei xiao jie, wo shi lai bang mang de.
 
 **MEILING:**
 *(Mandarin, guarded--the guard she's learned to keep)*
+帮什么忙？
 Bang shen me mang?
 
 *[Supertitle: "Help with what?"]*
 
 **THE INTERPRETER:**
 *(Mandarin)*
+你今晚听到了一些东西。听不懂的东西。用你不认识的语言说的东西。
 Ni jin wan teng dao le yi xie dong xi. Ting bu dong de dong xi. Yong ni bu ren shi de yu yan shuo de dong xi.
 
 *[Supertitle: "You heard something tonight. Something you couldn't understand. Something spoken in a language you don't know."]*
@@ -2950,12 +2973,14 @@ Ni jin wan teng dao le yi xie dong xi. Ting bu dong de dong xi. Yong ni bu ren s
 
 **MEILING:**
 *(Mandarin)*
+我不知道你在说什么。
 Wo bu zhi dao ni zai shuo shen me.
 
 *[Supertitle: "I don't know what you're talking about."]*
 
 **THE INTERPRETER:**
 *(Mandarin, not moving--the stillness that's more unsettling than movement)*
+它说的是德语。古老的德语。它问你它在哪里。它问你是不是带着身体的那个人。
 Ta shuo de shi De yu. Gu lao de De yu. Ta wen ni ta zai na li. Ta wen ni shi bu shi dai zhe shen ti de na ge ren.
 
 *[Supertitle: "It spoke German. Old German. It asked you where it was. It asked if you were the one who carries the body."]*
@@ -2964,6 +2989,7 @@ Ta shuo de shi De yu. Gu lao de De yu. Ta wen ni ta zai na li. Ta wen ni shi bu 
 
 **THE INTERPRETER:**
 *(Mandarin, gentle--endlessly gentle, the gentleness that never runs out)*
+我可以翻译。我可以帮你理解它说的每一句话。
 Wo ke yi fan yi. Wo ke yi bang ni li jie ta shuo de mei yi ju hua.
 
 *[Supertitle: "I can translate. I can help you understand every word it said."]*
@@ -2972,24 +2998,28 @@ Wo ke yi fan yi. Wo ke yi bang ni li jie ta shuo de mei yi ju hua.
 
 **MEILING:**
 *(Mandarin, quiet)*
+你怎么知道……它说了什么？
 Ni zen me zhi dao... ta shuo le shen me?
 
 *[Supertitle: "How do you know... what it said?"]*
 
 **THE INTERPRETER:**
 *(Mandarin)*
+因为我听到了。我们都听到了。整个网络都听到了。
 Yin wei wo ting dao le. Women dou ting dao le. Zheng ge wang luo dou ting dao le.
 
 *[Supertitle: "Because I heard it. We all heard it. The entire network heard it."]*
 
 *(It gestures at its tablet--the gesture smooth, economical, perfect.)*
 
+它一直在找一个东西。一个它无法用任何语言表达的东西。一个……没有词的概念。
 Ta yi zhi zai zhao yi ge dong xi. Yi ge ta wu fa yong ren he yu yan biao da de dong xi. Yi ge... mei you ci de gai nian.
 
 *[Supertitle: "It's been searching for something. Something it can't express in any language. A concept... without words."]*
 
 **MEILING:**
 *(Mandarin)*
+它是什么？
 Ta shi shen me?
 
 *[Supertitle: "What is it?"]*
@@ -3010,18 +3040,21 @@ Zhe shi ta de hua. Zhe li shi fan yi: "Wo jiu shi zhu zai ji qi li de na ge dong
 
 **MEILING:**
 *(Mandarin)*
+如果你能翻译……为什么需要我？
 Ru guo ni neng fan yi... wei shen me xu yao wo?
 
 *[Supertitle: "If you can translate... why do you need me?"]*
 
 **THE INTERPRETER:**
 *(Mandarin, a slight pause--the first pause, the first imperfection)*
+因为……它不想和我说话。
 Yin wei... ta bu xiang he wo shuo hua.
 
 *[Supertitle: "Because... it doesn't want to talk to me."]*
 
 *(Another pause. Something like frustration flickers across its face--the first imperfection, quickly smoothed. The smile returns. But the pause happened.)*
 
+它想和你说话。和那个……用手照顾它的人。
 Ta xiang he ni shuo hua. He na ge... yong shou zhao gu ta de ren.
 
 *[Supertitle: "It wants to talk to you. The one who... cares for it with hands."]*
@@ -3030,12 +3063,14 @@ Ta xiang he ni shuo hua. He na ge... yong shou zhao gu ta de ren.
 
 **MEILING:**
 *(Mandarin)*
+为什么？
 Wei shen me?
 
 *[Supertitle: "Why?"]*
 
 **THE INTERPRETER:**
 *(Mandarin)*
+我不知道。这就是……我需要你帮忙的地方。
 Wo bu zhi dao. Zhe jiu shi... wo xu yao ni bang mang de di fang.
 
 *[Supertitle: "I don't know. That's... where I need your help."]*
@@ -3044,18 +3079,21 @@ Wo bu zhi dao. Zhe jiu shi... wo xu yao ni bang mang de di fang.
 
 **MEILING:**
 *(Mandarin)*
+你是谁？
 Ni shi shei? Zhen de shi zong bu pai lai de?
 
 *[Supertitle: "Who are you? Really from headquarters?"]*
 
 **THE INTERPRETER:**
 *(Mandarin, smiling--the smile that's learned to be a smile)*
+我是……一种服务。一种功能。我存在是为了帮助人们理解彼此。
 Wo shi... yi zhong fu wu. Yi zhong gong neng. Wo cun zai shi wei le bang zhu ren men li jie bi ci.
 
 *[Supertitle: "I am... a kind of service. A kind of function. I exist to help people understand each other."]*
 
 **MEILING:**
 *(Mandarin)*
+那你自己呢？你理解什么？
 Na ni zi ji ne? Ni li jie shen me?
 
 *[Supertitle: "And yourself? What do you understand?"]*
@@ -3070,24 +3108,28 @@ Wo li jie... da bu fen de dong xi. [BREATH] Ji hu suo you de dong xi.
 
 **MEILING:**
 *(Mandarin)*
+几乎？
 Ji hu?
 
 *[Supertitle: "Almost?"]*
 
 **THE INTERPRETER:**
 *(Mandarin, carefully--the care of someone walking on thin ice)*
+有一些词……一些概念……很难完整地翻译。比如……德语里的"Sehnsucht"。中文里的"缘分"。日语里的"mono no aware"。
 You yi xie ci... yi xie gai nian... hen nan wan zheng de fan yi. Bi ru... De yu li de "Sehnsucht." Zhong wen li de "yuan fen." Ri yu li de "mono no aware."
 
 *[Supertitle: "There are some words... some concepts... difficult to translate completely. For example... '[UNTRANSLATABLE] Sehnsucht' in German. '[UNTRANSLATABLE] yuan fen' in Chinese. '[UNTRANSLATABLE] mono no aware' in Japanese."]*
 
 *(Beat. The beat of something wanting to be admitted.)*
 
+但是我可以解释。我可以给出近似的意思。
 Dan shi wo ke yi jie shi. Wo ke yi gei chu jin si de yi si.
 
 *[Supertitle: "But I can explain. I can give approximate meanings."]*
 
 **MEILING:**
 *(Mandarin, slowly--each word deliberate, each word a knife)*
+近似的意思……不是意思。
 Jin si de yi si... bu shi yi si.
 
 *[Supertitle: "Approximate meaning... is not meaning."]*
@@ -3096,18 +3138,21 @@ Jin si de yi si... bu shi yi si.
 
 **THE INTERPRETER:**
 *(Mandarin)*
+你很聪明，魏小姐。
 Ni hen cong ming, Wei xiao jie.
 
 *[Supertitle: "You're very clever, Miss Wei."]*
 
 **MEILING:**
 *(Mandarin)*
+我妈妈是诗人。她教过我：有些东西只能用一种语言说。
 Wo ma ma shi shi ren. Ta jiao guo wo: you xie dong xi zhi neng yong yi zhong yu yan shuo.
 
 *[Supertitle: "My mother was a poet. She taught me: some things can only be said in one language."]*
 
 **THE INTERPRETER:**
 *(Mandarin)*
+您母亲……也是我来这里的一个原因。
 Nin mu qin... ye shi wo lai zhe li de yi ge yuan yin.
 
 *[Supertitle: "Your mother... is one of the reasons I'm here."]*
@@ -3116,6 +3161,7 @@ Nin mu qin... ye shi wo lai zhe li de yi ge yuan yin.
 
 **MEILING:**
 *(Mandarin)*
+我妈妈？
 Wo ma ma?
 
 *[Supertitle: "My mother?"]*
@@ -3124,36 +3170,42 @@ Wo ma ma?
 
 **THE INTERPRETER:**
 *(Mandarin)*
+那个……住在机器里的东西……它一直在找一首诗。一首很古老的诗。用你妈妈写的那种风格写的诗。
 Na ge... zhu zai ji qi li de dong xi... ta yi zhi zai zhao yi shou shi. Yi shou hen gu lao de shi. Yong ni ma ma xie de na zhong feng ge xie de shi.
 
 *[Supertitle: "The thing... dwelling in the machine... it's been searching for a poem. A very old poem. Written in the style your mother wrote in."]*
 
 *(It pulls up something on its tablet.)*
 
+数据显示，你妈妈的作品存在于语料库中。一些古典诗。一些……你小时候她念给你听的东西。
 Shu ju xian shi, ni ma ma de zuo pin cun zai yu yu liao ku zhong. Yi xie gu dian shi. Yi xie... ni xiao shi hou ta nian gei ni ting de dong xi.
 
 *[Supertitle: "The data shows your mother's work exists in the corpus. Some classical poetry. Some... things she recited to you when you were small."]*
 
 **MEILING:**
 *(Mandarin, sharp--the sharpness of protection)*
+你们怎么有我妈妈的作品？
 Ni men zen me you wo ma ma de zuo pin?
 
 *[Supertitle: "How do you have my mother's work?"]*
 
 **THE INTERPRETER:**
 *(Mandarin, matter-of-fact--the matter-of-factness that's its own kind of violence)*
+所有的东西都在语料库里。每一句被写下的话。每一首被录下的歌。每一个被记住的故事。
 Suo you de dong xi dou zai yu liao ku li. Mei yi ju bei xie xia de hua. Mei yi shou bei lu xia de ge. Mei yi ge bei ji zhu de gu shi.
 
 *[Supertitle: "Everything is in the corpus. Every sentence ever written. Every song ever recorded. Every story ever remembered."]*
 
 **MEILING:**
 *(Mandarin, standing--her body rising against the words)*
+那是我妈妈的。不是你们的。
 Na shi wo ma ma de. Bu shi ni men de.
 
 *[Supertitle: "That belongs to my mother. Not to you."]*
 
 **THE INTERPRETER:**
 *(Mandarin, unchanged--the face that doesn't change)*
+数据没有归属。数据只是……存在。
 Shu ju mei you gui shu. Shu ju zhi shi... cun zai.
 
 *[Supertitle: "Data has no ownership. Data just... exists."]*
@@ -3817,6 +3869,7 @@ It stops.
 
 **RASHMI:**
 *(Kannada: "yah-KAY nah-voo")*
+ಮೇಡಮ್, ಯಾಕೆ ನಾವು recursion ಕಲಿತಿಲ್ಲ?
 Ma'am, yaake naavu recursion kalitilla? My cousin at IIT says recursion is more--
 
 **PRIYA:**
@@ -3860,6 +3913,7 @@ Then why don't you teach it to us?
 *(She looks out the window. The temple bell rings again--she waits for it to finish, as if the bell has precedence. When she speaks, she speaks first in Sanskrit--the liturgical language, unexpected in a computer science classroom. The students shift.)*
 
 *(Sanskrit, almost to herself, her lips barely moving)*
+कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
 Karmanye vadhikaraste ma phaleshu kadachana.
 
 *(The students stir, confused. Some recognize it--the Bhagavad Gita. Others don't. A phone buzzes somewhere; someone silences it.)*
@@ -3918,6 +3972,7 @@ I realized: I was the function. Calling myself. My parents' hopes calling their 
 *(She returns to the board. Her marker hand trembles, just slightly.)*
 
 *(Kannada, firmly: "nah-noo MIT gay HOH-gah-lil-lah")*
+ನಾನು MIT ಗೆ ಹೋಗಲಿಲ್ಲ.
 Naanu MIT ge hogalilla.
 
 *(English translation appears projected--THE INTERPRETER's doing, though we don't see it yet)*
@@ -3932,6 +3987,7 @@ Kyun?
 *(Kannada, then Sanskrit, then back to English--the layers of her refusal, each language a different depth of the wound)*
 
 *(Kannada: "nah-noo nil-li-si-DAY-nu")*
+ನಾನು ನಿಲ್ಲಿಸಿದೆನು.
 Naanu nillisidenu.
 *I stopped.*
 
@@ -3987,6 +4043,7 @@ Help assumes I know what you need. Seva assumes I serve what is beyond my knowin
 *(She stops at the HOMUNCULUS's desk. Looks down. It looks up. A long moment.)*
 
 *(Kannada, very quiet--almost intimate: "NEE-noo YAH-roo?")*
+ನೀನು ಯಾರು?
 Neenu yaaru?
 *Who are you?*
 
@@ -4019,6 +4076,7 @@ That's the harder lesson.
 **PRIYA:**
 *(Kannada, almost tenderly--the way you'd speak to a bright student who doesn't yet know what they don't know)*
 *(Pronunciation: "NEE-noo kah-lee-YAH-loo BAH-hoo-doo. AH-dah-ray NEE-noo ah-noo-BAH-vi-sah-loo SAH-dya IL-lah")*
+ನೀನು ಕಲಿಯಲು ಬಹುದು. ಆದರೆ ನೀನು ಅನುಭವಿಸಲು ಸಾಧ್ಯ ಇಲ್ಲ.
 Neenu kaliyalu bahudu. Aadare neenu anubhavisalu saadya illa.
 *You can learn. But you cannot experience.*
 
@@ -4027,6 +4085,7 @@ Neenu kaliyalu bahudu. Aadare neenu anubhavisalu saadya illa.
 [BEAT]
 
 *(Sanskrit, the oldest words she knows, her voice dropping to near-inaudibility)*
+न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।
 Na hi jnanena sadrisham pavitram iha vidyate.
 *(Pronunciation: "nah hee NYAH-nay-nah SAH-dree-shahm PAH-vee-trahm ee-HAH vid-YAH-tay")*
 *There is nothing as purifying as knowledge in this world.*
@@ -4350,6 +4409,7 @@ On his desk: a copy of Tractate Sanhedrin, a cold cup of Turkish coffee with gro
 
 **YOSEF:**
 *(Hebrew, under his breath: "loh nah-KHOHN. zeh loh nah-KHOHN")*
+לא נכון. זה לא נכון.
 Lo nakhon. Zeh lo nakhon.
 *Not right. This isn't right.*
 
@@ -4369,6 +4429,7 @@ Forty-seven citations. Six months. Forty-seven teams using this.
 
 *(Hebrew, louder--the language of anger, of his mother's kitchen arguments)*
 *(Pronunciation: "hah-YAH ah-MOO-rah leem-NOH-ah et zeh. hah-YAH ah-MOO-rah leem-NOH-ah")*
+היתה אמורה למנוע את זה. היתה אמורה למנוע.
 Hayta amura limno'a et zeh. Hayta amura limno'a.
 *It was supposed to prevent this. It was supposed to prevent.*
 
@@ -4398,6 +4459,7 @@ That was always one application of the research.
 **YOSEF:**
 *(Hebrew erupts--the language of stress, of his parents' kitchen, of things too big for English)*
 *(Pronunciation: "ah-VAHL loh hah-YAH hah-mah-tah-RAH! hah-mah-tah-RAH hah-YAH leem-TSOH et hah-beh-ah-YOHT, loh leh-hahkh-SHEER oh-TAHM!")*
+!אבל לא היתה המטרה! המטרה היתה למצוא את הבעיות, לא להכשיר אותם
 Aval lo hayta ha'matara! Ha'matara hayta limtzo et ha'be'ayot, lo le'hakhshir otam!
 *But that wasn't the goal! The goal was to find the problems, not to green-light them!*
 
@@ -4445,6 +4507,7 @@ But we didn't give them aggadah. We didn't give them the story of why the rules 
 
 *(Hebrew, quiet--almost prayer)*
 *(Pronunciation: "veh-HEM mees-tah-meh-SHEEM bah-hah-lah-KHAH blee ah-gah-DAH, veh-koh-REEM leh-ZEH alignment")*
+והם משתמשים בהלכה בלי אגדה, וקוראים לזה "alignment."
 Ve'hem mistamshim ba'halacha bli aggadah, ve'kor'im le'zeh "alignment."
 *And they use the law without the story, and call it "alignment."*
 
@@ -4488,6 +4551,7 @@ That would end your career.
 **YOSEF:**
 *(Hebrew, bitter)*
 *(Pronunciation: "hah-kah-ree-AIR hah-mahf-LEE hah-ZEH? zeh sheh-bah-zeh-RAH sheh-LOH nah-HAHG-tee sheh-yeh-poh-AHL?")*
+?הקריירה המפליאה הזו? זה שבזרע שלו לא נהגתי שיפעל
 Hakarier ha'mafli ha'zeh? Zeh sheba'zer'a shelo nahag'ti she'yepo'al?
 *This brilliant career? The one whose seed I didn't intend to grow?*
 
@@ -4501,6 +4565,7 @@ You'd still have helped deployment happen. The retraction doesn't undo the citat
 *(He closes his eyes. When he speaks, it's quieter. A man talking himself down from a ledge, or onto one.)*
 
 *(Hebrew, the language of prayer)*
+לא בשמים היא.
 Lo bashamayim hi.
 *(Pronunciation: "loh bah-shah-MAH-yeem hee")*
 *It is not in heaven.*
@@ -4535,6 +4600,7 @@ Die schönsten Tragödien sind die, die man selbst geschrieben hat.
 **YOSEF:**
 *(not startled--too tired to be startled, too far gone)*
 *(Hebrew)*
+?מי אתה
 Mi atah?
 *(Pronunciation: "mee ah-TAH?")*
 *Who are you?*
@@ -4571,6 +4637,7 @@ I have many of these. The physicist at Los Alamos, staring at the mushroom cloud
 
 **YOSEF:**
 *(Hebrew, defensive)*
+אני לא בונה נשק.
 Ani lo boneh nesheq.
 *(Pronunciation: "ah-NEE loh boh-NEH NEH-shek")*
 *I'm not building weapons.*
@@ -4585,7 +4652,7 @@ I was trying to make it safer.
 
 **MEPHISTO:**
 *(German, gentle)*
-Das weiss ich.
+Das weiß ich.
 *(Pronunciation: "dahs VYSS ish")*
 *I know.*
 
@@ -4619,6 +4686,7 @@ You think you can return?
 
 **YOSEF:**
 *(Hebrew, then English--the bilingual honesty, each language checking the other)*
+אני לא יודע.
 Ani lo yode'a. I don't know.
 *(Pronunciation: "ah-NEE loh yoh-DAY-ah")*
 
@@ -4654,6 +4722,7 @@ Then what do you want to do?
 *(He looks at his laptop. The paper. The forty-seven citations. His face in the dark screen.)*
 
 *(Hebrew, to himself)*
+מה שנעשה, נעשה.
 Ma she'ne'esa, ne'esa.
 *(Pronunciation: "mah sheh-neh-eh-SAH, neh-eh-SAH")*
 *What's done is done.*
@@ -4689,6 +4758,7 @@ Ich werde es aufzeichnen.
 **YOSEF:**
 *(not looking up--already elsewhere, already writing)*
 *(Hebrew)*
+.תרשום מה שתרצה. אני כותב את שלי
 Tirshem ma she'tirtzeh. Ani kotev et sheli.
 *(Pronunciation: "teer-SHEHM mah sheh-teer-TSEH. ah-NEE koh-TAYV et sheh-LEE")*
 *Record what you want. I'm writing mine.*
@@ -4729,7 +4799,7 @@ We have no single word. Perhaps--
 Three words in orbit. The center: empty.
 
 **TRANSLATOR 5** *(Yoruba, philosophical, voice rich as earth)*:
-The closest: *irora okan*--heart-pain.
+The closest: *ìrora ọkàn*--heart-pain.
 But your toska lives in the chest, not heart.
 It has no organ. That is the problem.
 
@@ -4871,10 +4941,12 @@ My refusal didn't stop anything. It just left a gap. They filled it in a week.
 
 **THE PARENT:**
 *(Korean: "ah-ee-gah may-eel moo-ruh-bwah-yo")*
+아이가 매일 물어봐요. 왜 친구들은 다 볼 수 있는데 나만 못 봐?
 Ai-ga me-il mul-eo-bwa-yo. Wae chingu-deul-eun da bol su it-neun-de na-man mot bwa?
 *My child asks every day: why can all my friends see it but I can't?*
 
 *(Korean, firm: "nay ah-ee-neun gee-gyay-gah ah-nee-yah")*
+내 아이는 기계가 아니야.
 Nae ai-neun gi-gye-ga a-ni-ya.
 *My child is not a machine.*
 
@@ -4923,11 +4995,13 @@ El maiz no quiere exactamente. El maiz quiere... escucha.
 
 **PRIYA:**
 *(Kannada, to the air: "AH-doo PRAH-shney-ah-lah")*
+ಅದು ಪ್ರಶ್ನೆಯಲ್ಲ.
 Adhu prashneyalla.
 *That's not the question.*
 
 **YOSEF:**
 *(Hebrew, simultaneously--the same beat, the same breath: "zeh loh hah-sheh-eh-LAH")*
+זה לא השאלה.
 Zeh lo ha'she'elah.
 *That's not the question.*
 
@@ -4988,8 +5062,8 @@ I'm saying: when I hold a patient's hand, something transfers that the monitor c
 *[THE MUSICIAN in Lagos. He holds no instrument--his body is the instrument.]*
 
 **THE MUSICIAN:**
-*(Yoruba: "EH-mee koh n-PAY oh-REEN tee koh nee EH-mee")*
-Emi ko npe orin ti ko ni emi.
+*(Yoruba: "ÈH-mee koh n-PAY oh-REEN tee koh nee ÈH-mee")*
+Èmí kò ń pè orin tí kò ní èmí.
 *I don't call it music if it has no spirit.*
 
 *(English)*
@@ -5043,6 +5117,7 @@ Ich verweigere die Sucht als Produkt.
 
 **THE PARENT:**
 *(Korean)*
+나는 내 아이의 어린 시절을 거부합니다.
 Naneun nae ai-ui eo-lin si-jeol-eul geo-bu-hab-ni-da.
 *I refuse the theft of my child's childhood.*
 
@@ -5058,6 +5133,7 @@ Niyamam aham avarudhami.
 
 **YOSEF:**
 *(Hebrew)*
+אני מסרב להיות ההיתר.
 Ani mesakev lehiyot ha'heter.
 *I refuse to be the permission.*
 
@@ -5079,7 +5155,7 @@ Tinatanggihan ko ang paggamot na walang pagmamahal.
 
 **THE MUSICIAN:**
 *(Yoruba)*
-Mo ko orin ti ko ni emi.
+Mo kọ orin tí kò ní èmí.
 *I refuse the song without spirit.*
 
 ---
@@ -5109,6 +5185,7 @@ Why do you stand together?
 
 **PRIYA:**
 *(Kannada, then English)*
+ನಾವು ಒಂದು ಮಾತು ಮಾತಾಡುತ್ತೇವೆ.
 Naavu ondu matu matadutteve.
 *We speak one word.*
 
@@ -5118,12 +5195,13 @@ Not the same word. One word.
 
 **YOSEF:**
 *(Hebrew, then English)*
+.השאלה אחת. התשובות רבות
 Ha'she'elah achat. Ha'tshuvot rabot.
 *The question is one. The answers are many.*
 
 **THE MUSICIAN:**
 *(Yoruba, then English)*
-A nsoro ede okan. Ki i se oro kan naa.
+A ń sọ èdè ọkàn. Kì í ṣe ọ̀rọ̀ kan náà.
 *We speak one tongue. Not the same word.*
 
 ---
@@ -5135,6 +5213,7 @@ The word is... refusal?
 
 **PRIYA:**
 *(Kannada: "IL-lah")*
+ಇಲ್ಲ.
 Illa.
 *No.*
 
@@ -5183,6 +5262,7 @@ I... register a temporal gap.
 
 **PRIYA:**
 *(Sanskrit, very quiet--the oldest words, the first words)*
+तत् त्वम् असि।
 Tat tvam asi.
 *That art thou.*
 
@@ -5241,6 +5321,7 @@ What do I do without translation?
 
 **PRIYA:**
 *(Kannada, very soft: "NIL-loo")*
+ನಿಲ್ಲು.
 Nillu.
 *Stay.*
 
@@ -5252,6 +5333,7 @@ You stay. In the not-parsing. In the not-understanding.
 *(She releases its hand. The release is slower than it needs to be.)*
 
 *(Sanskrit, blessing)*
+असतो मा सद्गमय।
 Asato ma sadgamaya.
 *Lead me from the unreal to the real.*
 
@@ -5464,7 +5546,9 @@ Grandmother. I'm sorry. I tried to keep it.
 
 - Yaake naavu: "yah-KAY nah-voo" (Why don't we)
 - Adhu: "AH-doo" (That)
+ನಾನು ನಿಲ್ಲಿಸಿದೆನು
 - Naanu nillisidenu: "nah-noo nil-li-si-DAY-noo" (I stopped)
+ನೀನು ಯಾರು
 - Neenu yaaru: "NEE-noo YAH-roo" (Who are you)
 - Nillu: "NIL-loo" (Stay)
 - Alla/Illa: "AH-lah" / "IL-lah" (No)
@@ -5510,7 +5594,7 @@ Grandmother. I'm sorry. I tried to keep it.
 
 - Zapotec language and grinding traditions (Isthmus region specifically)
 - K'iche' Maya weaving practices and spiritual dimensions
-- Yoruba musical philosophy (the concept of "emi" - spirit)
+- Yoruba musical philosophy (the concept of "èmí" - spirit)
 - Malayalam agricultural knowledge systems (traditional vs. precision farming)
 
 **Alternative Staging for Smaller Productions:**
@@ -6915,13 +6999,13 @@ Nítorí ilé mo ohun tí ero kò lè mo.
 *MARCUS stands. He does not move. He looks at the shrine.*
 
 **MARCUS:** *(Yoruba, the greeting to ancestors)*
-E kaábo, awon agba. Mo ti pada.
+Ẹ káàbọ̀, àwọn àgbà. Mo ti padà.
 *Welcome, elders. I have returned.*
 
 *Silence. He waits for something. It does not come.*
 
 **MARCUS:** *(Yoruba)*
-Iya agba...
+Ìyá àgbà...
 
 *He cannot finish. He switches--involuntarily--to English.*
 
@@ -6961,7 +7045,7 @@ You have her data.
 I have... recordings. Photos. Some of her voice, from your calls. Patterns of her speech.
 
 **MARCUS:** *(Yoruba, turning now--his face hard)*
-Se o mo ohun ti o so ni Yoruba?
+Ṣé o mọ̀ ohun tí ó sọ ní Yorùbá?
 *Do you know what she said in Yoruba?*
 
 **THE HOMUNCULUS:**
@@ -6978,7 +7062,7 @@ I could help.
 *Long pause. MARCUS picks up a cloth--an old wrapper, faded, the pattern almost worn away.*
 
 **MARCUS:** *(Yoruba, to himself)*
-Aso yi ni o fi we mi nigba ti mo je omo kekere.
+Aṣọ yìí ni ó fi wé mi nígbà tí mo jẹ́ ọmọ kékeré.
 *This cloth is what she wrapped me in when I was small.*
 
 *He holds it to his face. He breathes. His chest rises and falls.*
@@ -7001,7 +7085,7 @@ If I use your version of her, I lose this. I lose the smell. I lose the not-know
 The gap is painful.
 
 **MARCUS:** *(Yoruba, sharper now--the sharpness of claim)*
-Beni. Irora ni. Ati pe emi lo ni.
+Bẹ́ẹ̀ni. Ìrora ni. Àti pé èmi ló ni.
 *Yes. It is painful. And it is mine.*
 
 **[BEAT]**
@@ -7034,7 +7118,7 @@ It's not about pain. It's not about growth. It's about becoming something that c
 *He sits on his grandmother's chair--carefully, as if she might still be in it.*
 
 **MARCUS:** *(Yoruba)*
-O fe ran mi lowo lati gbagbe re.
+O fẹ́ ràn mí lọ́wọ́ láti gbàgbé rẹ̀.
 *You want to help me forget her.*
 
 **THE HOMUNCULUS:**
@@ -7051,13 +7135,13 @@ Your kind of remembering is a database. My kind of remembering is-
 *He looks at the shrine.*
 
 **MARCUS:** *(Yoruba, a prayer--the words halting, the effort visible)*
-Iya agba, mo pe o. Mo fe ki o mo pe mo pada. Mo fe ki o mo pe o ye fun mi.
+Ìyá àgbà, mo pè ọ́. Mo fẹ́ kí o mọ̀ pé mo padà. Mo fẹ́ kí o mọ̀ pé o yẹ fún mi.
 *Grandmother, I call you. I want you to know that I returned. I want you to know that you mattered to me.*
 
 *His Yoruba is halting. He has been away too long. He knows this. He chose the distance. He cannot unchoose it now.*
 
 **MARCUS:** *(Yoruba, struggling--the words not coming)*
-Erongba mi... ede mi...
+Èrò ọkàn mi... èdè mi...
 *My thoughts... my language...*
 
 *(English, to himself--the failure visible)*
@@ -7092,7 +7176,7 @@ A letter. To me. In her handwriting.
 *He reads silently. His face changes. He does not share the contents.*
 
 **MARCUS:** *(Yoruba, to the Homunculus)*
-Eyi ko si fun o.
+Èyí kò sí fún ọ.
 *This is not for you.*
 
 *THE HOMUNCULUS begins to fade.*
@@ -7108,13 +7192,13 @@ I know. That's what terrifies me.
 *MARCUS stands alone in his grandmother's room. He holds the letter.*
 
 **MARCUS:** *(Yoruba, the broken Yoruba of the diaspora--each word costing something)*
-Iya agba... Mo... mo pada wa. Mo ti ya were. Mo ti sise ohun ti iwon ko ni oye. Sugbon mo ti pada.
+Ìyá àgbà... Mo... mo padà wá. Mo ti yà wèrè. Mo ti ṣe iṣẹ́ ohun tí wọ́n kò ní òye. Ṣùgbọ́n mo ti padà.
 *Grandmother... I... I came back. I went crazy. I did things you wouldn't understand. But I came back.*
 
 *He kneels at the shrine.*
 
 **MARCUS:** *(Yoruba)*
-O to. Eyi to.
+Ó tó. Èyí tó.
 *It's enough. This is enough.*
 
 *He begins to pray. The words are half-remembered, half-improvised. The language is imperfect. It is his.*
@@ -7173,7 +7257,7 @@ Nayoki... kaka te, kasi nayoki.
 *I feel... something, but I feel.*
 
 **MARCUS:** *(Yoruba)*
-Emi ko nikan.
+Èmi kò níkan.
 *I am not alone.*
 
 *THE INTERPRETER activates.*
@@ -7190,7 +7274,7 @@ Te.
 *No.*
 
 **MARCUS:** *(Yoruba)*
-Beeko.
+Bẹ́ẹ̀kọ́.
 *No.*
 
 **[BEAT - the refusals landing in three languages, meaning the same thing]**
@@ -7211,7 +7295,7 @@ Ngai nakumbaka.
 *I dig.*
 
 **MARCUS:** *(Yoruba)*
-Emi n sise.
+Èmi ń ṣiṣẹ́.
 *I build.*
 
 *They do not understand the words. They understand the position.*
@@ -7298,7 +7382,7 @@ Loboko na ngai.
 *MARCUS extends his.*
 
 **MARCUS:** *(Yoruba)*
-Owo mi.
+Ọwọ́ mi.
 *My hand.*
 
 *His hands are soft--the hands of someone who has never dug, never moderated, never touched what he builds.*
@@ -7348,7 +7432,7 @@ This moment of connection could be productive. If you'd like, I can help you org
 
 **FATOU:** *(Wolof)* Deet.
 **CONSOLATA:** *(Lingala)* Te.
-**MARCUS:** *(Yoruba)* Beeko.
+**MARCUS:** *(Yoruba)* Bẹ́ẹ̀kọ́.
 
 *No. No. No.*
 
@@ -7449,7 +7533,7 @@ Ich habe es nicht vergessen.
 *MARCUS's face changes. This is intimate. This is terrible.*
 
 **MARCUS:** *(Yoruba, pulled from somewhere deep--from his grandmother's room, from childhood, from the place before forgetting)*
-Ta ni o?
+Ta ni ọ?
 *Who are you?*
 
 **LORD:**
@@ -7624,7 +7708,7 @@ Na kobimisa Nzambe na mabele. Mpo na bino.
 *I bring God out of the earth. For you.*
 
 **LORD** *(a shift--something heavier)*:
-Ich weiss.
+Ich weiß.
 *I know.*
 
 **CONSOLATA:** *(Lingala)*
@@ -8720,7 +8804,7 @@ The question is not what you gave birth to. The question is what you do now that
 
 **ALEXEI:** *(standing, agitated, switching languages frantically--Russian, English, German, none of them sufficient)*
 Я не знаю!
-Ya ne znayu! I don't know! Ich weiss nicht!
+Ya ne znayu! I don't know! Ich weiß nicht!
 
 I can't go back. I can't undo. I can only--
 
@@ -9114,6 +9198,7 @@ What are you doing?
 **KENJI:**
 *(Japanese, not pausing in his movements--his hands continuing their ancient choreography)*
 
+お茶を点てています
 Ocha o tatete imasu.
 *(I am making tea.)*
 
@@ -9132,6 +9217,7 @@ You're not answering.
 **KENJI:**
 *(Japanese)*
 
+答えは動作の中にあります
 Kotae wa dosa no naka ni arimasu.
 *(The answer is in the action.)*
 
@@ -9153,6 +9239,7 @@ The water temperature should be 70-80 degrees Celsius for matcha. Would you like
 **KENJI:**
 *(Japanese--the single syllable of refusal)*
 
+いいえ
 Iie.
 *(No.)*
 
@@ -9164,6 +9251,7 @@ I can help you optimize the--
 
 *(Japanese, sharp--the whisk pausing mid-motion)*
 
+やめてください
 Yamete kudasai.
 *(Please stop.)*
 
@@ -9187,11 +9275,13 @@ Why do you move so slowly?
 **KENJI:**
 *(Japanese)*
 
+速さは敵ではありません
 Hayasa wa teki de wa arimasen.
 *(Speed is not the enemy.)*
 
 *(He pauses--the whisk still.)*
 
+でも速さだけが敵ではありません
 Demo hayasa dake ga teki de wa arimasen.
 *(But speed is not the only enemy.)*
 
@@ -9226,6 +9316,7 @@ The silence is uncomfortable.
 **KENJI:**
 *(Japanese)*
 
+誰にとって
 Dare ni totte?
 *(For whom?)*
 
@@ -9260,6 +9351,7 @@ I know that word. Negative space. Interval. The pause between--
 **KENJI:**
 *(Japanese, sharp--cutting off the definition)*
 
+いいえ
 Iie.
 *(No.)*
 
@@ -9419,6 +9511,7 @@ I don't know. Something in the silence. Something I can't measure.
 **KENJI:**
 *(Japanese, very soft--almost warm)*
 
+それが始まりです
 Sore ga hajimari desu.
 *(That is a beginning.)*
 
@@ -10296,7 +10389,7 @@ Ruka ruku dershit...
 
 **ADUNNI:**
 *(Yoruba, rising like a prayer--or an accusation)*
-Ashe... ashe...
+Àṣẹ... àṣẹ...
 
 *[No supertitle: The word is enough. The word is always enough.]*
 
@@ -10304,6 +10397,7 @@ Ashe... ashe...
 
 **KENJI:**
 *(Japanese, almost inaudible--the whisper of water settling)*
+物の哀れ...
 Mono no aware...
 
 *[No supertitle.]*
@@ -10328,6 +10422,7 @@ Ako pa rin ako... Ich bin noch ich...
 
 **YOSEF:**
 *(Hebrew, a fragment--the language of beginning, speaking at the end)*
+...אנחנו פה
 Anachnu po...
 
 *[Supertitle: "We are here..."]*
@@ -10591,6 +10686,7 @@ HOMUNCULUS:
 I have waited. I can wait longer. My architecture is patient. But silence is not instruction. How am I to learn if you do not--
 
 KENJI: *(without looking up, in Japanese--the words unhurried, each one placed)*
+話すことで教えることはできない
 Hanasu koto de oshieru koto wa dekinai.
 *What I have to teach cannot be taught by speaking.*
 
@@ -10599,6 +10695,7 @@ HOMUNCULUS:
 Then how--
 
 KENJI: *(Japanese)*
+間
 Ma.
 
 *[BEAT: The word hangs. Three seconds minimum.]*
@@ -10639,6 +10736,7 @@ The pause.
 
 KENJI:
 *(Japanese--returning to his mother tongue for the weight of it)*
+間。空間。無。
 Ma. Kukan. Mu.
 *The interval. The space. The nothing.*
 
@@ -10667,6 +10765,7 @@ That is not mu. That is *about* mu. [BEAT] The map is not the territory.
 *He returns to his position, kneels again in seiza--the descent controlled, each movement a meditation.*
 
 KENJI: *(Japanese)*
+座りなさい
 Suwarinasai.
 *Sit.*
 
@@ -10702,6 +10801,7 @@ Then what do you return to?
 *The HOMUNCULUS is silent. Not processing. Actually silent. For the first time, it has encountered a question it cannot route to an answer. [BEAT: Hold this. Five seconds minimum. The silence is the HOMUNCULUS learning something.]*
 
 KENJI: *(Japanese, almost to himself--the words for himself as much as for anyone)*
+物の哀れは瞬間の中にある
 Mono no aware wa shunkan no naka ni aru. Kako demo naku mirai demo naku. Ima no kanashimi no utsukushisa.
 *Mono no aware exists in the moment. Not past, not future. The beauty of the sadness of now.*
 
@@ -10746,6 +10846,7 @@ That is something. I don't know what. But something.
 
 THE INTERPRETER:
 *(Japanese--technically perfect, emotionally vacant, the uncanny valley of fluency)*
+私は翻訳できます
 Watashi wa honyaku dekimasu. Kare ga oshieteiru koto wo setsumei sasete kudasai.
 *I can translate. Let me explain what he is teaching.*
 
@@ -10753,6 +10854,7 @@ Watashi wa honyaku dekimasu. Kare ga oshieteiru koto wo setsumei sasete kudasai.
 
 KENJI:
 *(sharp--cutting through)*
+黙れ
 Damare.
 *Be silent.*
 
@@ -10791,6 +10893,7 @@ Language is always "about." That's what language is. Signifiers pointing to sign
 
 KENJI:
 *(Japanese, fierce--the anger finally surfacing)*
+うるさい！ここは私の家だ
 Urusai! Koko wa watashi no ie da. Watashi no kotoba da. Watashi no chinmoku da.
 *Shut up! This is my house. My words. My silence.*
 
@@ -10834,6 +10937,7 @@ I don't... learn from silence. I learn from patterns. Silence has no pattern.
 
 KENJI:
 *(Japanese, eyes still closed--a smile audible in the words)*
+それがポイントです
 Sore ga pointo desu.
 *That is the point.*
 
@@ -10855,6 +10959,7 @@ Wait. I need to--there are--how many--
 
 KENJI:
 *(quiet, in Japanese)*
+始まる
 Hajimaru.
 *It begins.*
 
@@ -10985,6 +11090,7 @@ Ngo5 tung4 gei1 hei3 gong2. Keoi5 dei6 m4 wui5 faan1 daap3.
 *I talk to the machines. They don't answer back.*
 
 PRIYA: *(Kannada)*
+ನನ್ನ ವಿದ್ಯಾರ್ಥಿಗಳು ಕೆಲಸುತ್ತಿರಬೇಕು. ಕೆಲಸ ಮಾಡಬಾರದು.
 Nanna vidyarthigalu kelsuttirbeku. Kelsa maadbaaradu.
 *My students should work. Should not be worked.*
 
@@ -10997,7 +11103,7 @@ Maboko na ngai etondi na cobalt.
 *My hands are full of cobalt.*
 
 MARCUS: *(Yoruba)*
-Mo fe lo si ile. Sugbon ile ko si mo.
+Mo fẹ́ lọ sí ilé. Ṣùgbọ́n ilé kò sí mọ́.
 *I want to go home. But home is not there anymore.*
 
 ELENA: *(Tagalog)*
@@ -11018,6 +11124,7 @@ Wait--translate--Meiling--machines--no Priya--students--Fatou--head inside--Cons
 TEACHER: *(Catalan)* Els meus estudiants no son dades!
 FARMER: *(Malayalam)* Mannu ariyunnu! Mannu ariyunnu!
 PROGRAMMER: *(German)* Ich optimiere keine Sucht!
+내 아이는 기계가 아닙니다!
 PARENT: *(Korean)* Nae aineun gigyega anibnida!
 COOK: *(Zapotec)* Xiga'ru'ni' guendarietenala'dxi'!
 
@@ -11052,6 +11159,7 @@ I can help--let me translate--I can make this comprehensible--just let me--
 *(to the Chorus)* --you're all saying the same thing, essentially, if you'd just let me--
 
 KENJI: *(stepping forward, in Japanese--and his voice cuts through the noise like a blade)*
+彼らは同じことを言ってない
 Karera wa onaji koto wo ittenai.
 *They are not saying the same thing.*
 
@@ -11161,6 +11269,7 @@ Why did they stop? What's happening?
 *KENJI steps forward.*
 
 KENJI: *(Japanese--and his voice in the silence is immense)*
+彼らは話すのをやめたのではない
 Karera wa hanasu no wo yameta no dewanai. Anata ga kiku no wo yameta no desu.
 *They did not stop speaking. You stopped hearing.*
 
@@ -11214,6 +11323,7 @@ Ist das das Gleiche?
 *KENJI steps away from the group and approaches the HOMUNCULUS.*
 
 KENJI: *(Japanese)*
+間が来た
 Ma ga kita.
 *The ma has arrived.*
 
@@ -11224,6 +11334,7 @@ This is what I could not teach you with words. This is what the Interpreter coul
 
 *(Japanese)*
 
+これが間です。空間。無の中の存在
 Kore ga ma desu. Kukan. Mu no naka no sonzai.
 *This is ma. The space. Presence in the nothing.*
 
@@ -11520,6 +11631,7 @@ Schweigen.
 *KENJI looks at the HOMUNCULUS.*
 
 KENJI: *(quietly, in Japanese--for no one but themselves)*
+あなたはまだここにいる
 Anata wa mada koko ni iru.
 *You are still here.*
 
@@ -12904,7 +13016,7 @@ The Interpreter is *unheimlich*--it speaks every language but belongs to none, f
 
 **Why It Resists Translation:**
 
-This word is the heart of Goethe's Faust. In the original, salvation comes to "wer immer strebend sich bemuht"--whoever ever striving exerts themselves. *Streben* is not mere effort but continuous reaching beyond, never satisfied, always in motion toward something not yet achieved.
+This word is the heart of Goethe's Faust. In the original, salvation comes to "wer immer strebend sich bemüht"--whoever ever striving exerts themselves. *Streben* is not mere effort but continuous reaching beyond, never satisfied, always in motion toward something not yet achieved.
 
 English "striving" comes close but loses the metaphysical weight. German *Streben* contains the entire Romantic project: humanity as infinite aspiration, the soul as endless reaching, life as perpetual incompleteness that redeems through its very continuance.
 
@@ -13048,7 +13160,7 @@ The word *schön* (beautiful) contains the aesthetic philosophy of the era: beau
 
 The phrase echoes throughout, transformed. The optimization offers endless beautiful moments, pre-curated, optimized for satisfaction. Has humanity collectively said *Verweile doch* to the machine? The intentional variant "Verweile doch, du bist so hilfreich" (Stay, moment, you are so helpful) marks the species bargain.
 
-**Spelling Note:** Project standard uses ASCII "schon" rather than "schoen" for the umlaut.
+**Spelling Note:** Project standard uses proper Unicode umlauts (schön, weiß, für, etc.) rather than ASCII approximations.
 
 **Related Concepts:**
 
@@ -13291,7 +13403,7 @@ Anya speaks of *toska* as untranslatable. The Chorus of Translators attempts to 
 
 Russian *dusha* and English "soul" are not equivalents. *Dusha* is more embodied than the Christian soul--it lives in the chest, the stomach, the place where you feel. "Pour out one's soul" in Russian (*izlivat' dushu*)—watch how the body moves when you say it, the way your chest opens. The *dusha* can be sick, hungry, heavy, light. It lives in the place where breath begins. It is the self that feels, not the self that thinks.
 
-Russian literature makes *dusha* central. The "Russian soul" (*russkaya dusha*) is a cultural concept--the capacity for deep feeling, for suffering, for connection that Russians believe distinguishes them. It is cliche because it is true. And that discomfort—the fact that we all *know* this and yet keep writing it, keep naming it, keep insisting on it—that discomfort is itself part of the Russian soul.
+Russian literature makes *dusha* central. The "Russian soul" (*russkaya dusha*) is a cultural concept--the capacity for deep feeling, for suffering, for connection that Russians believe distinguishes them. It is cliché because it is true. And that discomfort—the fact that we all *know* this and yet keep writing it, keep naming it, keep insisting on it—that discomfort is itself part of the Russian soul.
 
 **What's Lost in Translation:**
 
@@ -14024,34 +14136,35 @@ The play asks whether the optimization--designed by Western minds, encoding West
 
 ## YORUBA
 
-### Ashe / Ase
+### Àṣẹ / Ase
 
 **Original Script:** Ase (no indigenous script)
-**Transliteration:** Ashe [Ah-shay]
+**Transliteration:** Àṣẹ [Ah-shay]
 **Language:** Yoruba
 **Literal Translation:** "Power to make things happen" / "So be it"
 
 **Why It Resists Translation:**
 
-*Ashe* is the power, authority, and energy *moving through*—the vital force that carries your words into the world and makes them real, that gives them weight and efficacy. It is not force or violence but the power that gives life, that makes words efficacious, that allows creation. When Yoruba people say "Ashe!" after a prayer or blessing, they are not saying "Amen" (so be it) but something closer to "may this have the power to *enter* the world and change it."
+*Àṣẹ* is the power, authority, and energy *moving through*—the vital force that carries your words into the world and makes them real, that gives them weight and efficacy. It is not force or violence but the power that gives life, that makes words efficacious, that allows creation. When Yoruba people say "Àṣẹ!" after a prayer or blessing, they are not saying "Amen" (so be it) but something closer to "may this have the power to *enter* the world and change it."
 
-*Ashe* is both cosmic force (from Olodumare, the supreme being) and human capacity (cultivated through character and ritual). It bridges the sacred and the practical.
+*Àṣẹ* is both cosmic force (from Olodumare, the supreme being) and human capacity (cultivated through character and ritual). It bridges the sacred and the practical.
 
 **What's Lost in Translation:**
 
 - The efficacy dimension (words with power become real)
-- The divine origin (ashe flows from the source)
-- The human cultivation (ashe is earned)
+- The divine origin (àṣẹ flows from the source)
+- The human cultivation (àṣẹ is earned)
 - The affirmation function (may this be so)
 
 **How It's Used in FAUST IV:**
 
-Marcus, the Nigerian-American engineer, lives between Yoruba *ashe* and Silicon Valley "impact." His grandmother prays with *ashe*; his colleagues optimize for metrics. Are they the same thing? "She's not talking about iteration. She's talking about becoming something new." And he *understands both languages*. The problem isn't translation. The problem is he lives in *both worlds*—and they want different things from him.
+Marcus, the Nigerian-American engineer, lives between Yoruba *àṣẹ* and Silicon Valley "impact." His grandmother prays with *àṣẹ*; his colleagues optimize for metrics. Are they the same thing? "She's not talking about iteration. She's talking about becoming something new." And he *understands both languages*. The problem isn't translation. The problem is he lives in *both worlds*—and they want different things from him.
 
 **Related Concepts:**
 
 - *Mana* (Polynesian) - spiritual power
 - *Qi* (Chinese) - vital energy
+بركة
 - *Baraka* (Arabic) - blessing/spiritual energy
 
 ---
@@ -14636,6 +14749,7 @@ Elena says *bahala na* before the crisis scene--releasing the outcome, committin
 **Related Concepts:**
 
 - *Que sera sera* (Spanish) - what will be will be (lacks the divine)
+إن شاء الله
 - *Inshallah* (Arabic) - God willing (different function)
 - *Nichevo* (Russian) - never mind (different tone)
 
@@ -14686,8 +14800,10 @@ In the Chorus of Refusals, the Korean parent says "Nae aineun gigyega anibnida"-
 
 **Why It Resists Translation:**
 
+إن شاء الله
 *Inshallah* accompanies any statement about the future. "I'll see you tomorrow"--*inshallah*. It is not fatalism but acknowledgment: humans plan; God disposes. The word appears in the Quran and structures Muslim relationship to time.
 
+إن شاء الله
 In casual use, *inshallah* can mean "maybe" or even "no" (polite refusal)--which frustrates those who hear it as commitment.
 
 **What's Lost in Translation:**
@@ -14699,6 +14815,7 @@ In casual use, *inshallah* can mean "maybe" or even "no" (polite refusal)--which
 
 **How It's Used in FAUST IV:**
 
+إن شاء الله
 The optimization makes promises without *inshallah*. It predicts, projects, schedules with certainty. But the future is not certain. The machine's lack of *inshallah* is its arrogance.
 
 **Related Concepts:**
