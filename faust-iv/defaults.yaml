@@ -1,5 +1,4 @@
 pdf-engine: xelatex
-from: markdown-smart
 toc: true
 toc-depth: 2
 variables:
@@ -12,25 +11,24 @@ variables:
   header-includes: |
     \usepackage{fontspec}
     \usepackage{ucharclasses}
+    \usepackage{newunicodechar}
+    \newfontfamily\latinfont{Noto Serif}
     \newfontfamily\hebrewfont{Noto Serif Hebrew}
     \newfontfamily\arabicfont{Noto Sans Arabic}
     \newfontfamily\devanagarifont{Noto Serif Devanagari}
     \newfontfamily\kannadafont{Noto Serif Kannada}
     \newfontfamily\malayalamfont{Noto Serif Malayalam}
-    \newfontfamily\greekfont{Noto Serif}
     \newfontfamily\ipafont{Noto Sans}
-    \newfontfamily\cyrillicfont{Noto Serif}
-    \newfontfamily\latinfont{Noto Serif}
+    \newunicodechar{'}{\latinfont{'}}
+    \newunicodechar{'}{\latinfont{'}}
+    \newunicodechar{"}{\latinfont{"}}
+    \newunicodechar{"}{\latinfont{"}}
+    \newunicodechar{—}{\latinfont{—}}
+    \newunicodechar{–}{\latinfont{–}}
     \setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
     \setTransitionsForArabics{\arabicfont}{\normalfont}
     \setTransitionsForDevanagari{\devanagarifont}{\normalfont}
     \setTransitionsFor{Kannada}{\kannadafont}{\normalfont}
     \setTransitionsFor{Malayalam}{\malayalamfont}{\normalfont}
-    \setTransitionsFor{Greek}{\greekfont}{\normalfont}
-    \setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
-    \setTransitionsFor{Cyrillic}{\cyrillicfont}{\normalfont}
-    \setTransitionsFor{CyrillicExtendedA}{\cyrillicfont}{\normalfont}
-    \setTransitionsFor{CyrillicExtendedB}{\cyrillicfont}{\normalfont}
     \setTransitionsFor{IPAExtensions}{\ipafont}{\normalfont}
     \setTransitionsFor{SpacingModifierLetters}{\ipafont}{\normalfont}
-    \setTransitionsFor{LatinExtendedAdditional}{\latinfont}{\normalfont}
