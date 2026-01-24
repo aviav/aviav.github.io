@@ -2298,13 +2298,13 @@ Ngo5 m4 hai6 teng1 co3...
 
 **HOMUNCULUS:**
 *(German, closer now, more present--the voice of someone who has found a direction to move toward)*
-Ich spure... Warme. Bewegung. Etwas das--
+Ich spüre... Wärme. Bewegung. Etwas das--
 
 *[Supertitle: "I feel... warmth. Movement. Something that--"]*
 
 *(The voice breaks off. As if words have failed. As if language has reached its edge.)*
 
-Bist du es? Der den Körper tragt?
+Bist du es? Der den Körper trägt?
 
 *[Supertitle: "Is it you? The one who carries the body?"]*
 
@@ -2361,7 +2361,7 @@ Ni... hai pa.
 
 **HOMUNCULUS:**
 *(German, responding to her tone rather than her words--understanding without understanding)*
-Ich verstehe dich nicht. Aber ich spure, dass du spurst.
+Ich verstehe dich nicht. Aber ich spüre, dass du spürst.
 
 *[Supertitle: "I don't understand you. But I feel that you feel."]*
 
@@ -3759,7 +3759,7 @@ This is authentic to Shenzhen workers--many come from Cantonese-speaking regions
 
 The Homunculus speaks System-German in Act I--stripped grammar, the language of emergence. [PER BIBLE: Act I = 'Clean System-German'; Acts II-III = 'Increasingly colored by languages encountered'; Act IV = 'Full Goethean quotations'; Act V = 'One word - Schweigen']
 
-When it says "Bist du es? Der den Körper tragt?"--this is both a literal question ("Are you the one who carries the body?") and a philosophical one (the Cartesian question of mind requiring body). The German carries both meanings simultaneously. English translations flatten this.
+When it says "Bist du es? Der den Körper trägt?"--this is both a literal question ("Are you the one who carries the body?") and a philosophical one (the Cartesian question of mind requiring body). The German carries both meanings simultaneously. English translations flatten this.
 
 ### The Interpreter's Failure
 
@@ -3920,6 +3920,7 @@ Karmanye vadhikaraste ma phaleshu kadachana.
 
 **RASHMI:**
 *(Hindi, surprised: "GEE-tah? com-PYOO-ter class mein?")*
+गीता? कंप्यूटर क्लास में?
 Gita? Computer class mein?
 
 **PRIYA:**
@@ -3935,6 +3936,7 @@ It falls and falls and falls--and believes the ground will catch it.
 
 *(she picks up the marker again, rolls it between her fingers)*
 
+लेकिन trust... trust dangerous है। जब फंक्शन खुद को बिना सीमा के विश्वास करता है।
 Lekin trust... trust dangerous hai. When the function trusts itself without limit.
 *(Hindi: "LAY-kin trust... trust DANE-jer-us hai")*
 
@@ -4986,7 +4988,7 @@ Rini' xquenda bi. Rini' gueela' bi.
 *The corn has memory. The corn has breath.*
 
 *(Spanish)*
-El maiz no quiere exactamente. El maiz quiere... escucha.
+El maíz no quiere exactamente. El maíz quiere... escucha.
 *The corn doesn't want exactly. The corn wants... listen.*
 
 ---
@@ -5042,7 +5044,7 @@ Ri rux ya'l ri nutzij, man k'o ta jun kematz'ib.
 *The meaning of my weaving, no program contains.*
 
 *(Spanish)*
-Cada hilo es una oracion. No la oracion que dices--la oracion que haces.
+Cada hilo es una oración. No la oración que dices--la oración que haces.
 *Each thread is a prayer. Not the prayer you say--the prayer you make.*
 
 ---
@@ -5699,7 +5701,7 @@ I know my numbers.
 Your stress indicators suggest you might benefit from a wellness break. The quiet room is available.
 
 **FATOU:** *(French - the colonial language, the language of institutional condescension, the language that names her exhaustion without asking permission)*
-La chambre de silence. Comme Sí le silence était un cadeau.
+La chambre de silence. Comme si le silence était un cadeau.
 *The quiet room. As if silence were a gift.*
 
 *She clicks. Another image. Her jaw works once, swallowing something.*
@@ -12320,6 +12322,8 @@ When Anya speaks of *toska*, she is speaking of something that exists in Russian
 
 ### *ubuntu* (Nguni languages: Zulu, Xhosa, Ndebele)
 
+**Original Script:** ubuntu (Latin script; no indigenous script in common use for Nguni languages)
+
 Often rendered: "I am because we are."
 
 This translation misses the verb. *Ubuntu* is not a statement but a practice--a way of being human that locates personhood in relationship rather than isolation. A person with *ubuntu* recognizes that their humanity is bound up with others' humanity. Not as philosophy but as lived reality.
@@ -12354,6 +12358,8 @@ When the play invokes *mono no aware*, it asks whether the optimization--which p
 
 ### *Weltschmerz* (German)
 
+**Original Script:** Weltschmerz (Latin script, German)
+
 Approximate: world-pain, world-weariness, the suffering caused by the gap between the world as it is and the world as it should be.
 
 A concept that crystallized in Goethe's era and through his influence. *Weltschmerz* emerged as a term around the 1820s-1830s, particularly in German Romanticism's wake, expressing the philosophical despair Goethe himself articulated. Goethe did not coin the word itself, but the concept's emotional weight--the unbridgeable gap between idealism and reality--speaks directly to the Faustian crisis. *Weltschmerz* is not disappointment with this or that but grief at the fundamental structure of existence. The world is not what it ought to be. This recognition, when felt rather than merely thought, is *Weltschmerz*.
@@ -12366,6 +12372,8 @@ Mephisto, emerging from this tradition, knows *Weltschmerz* intimately. It is wh
 
 ### *Sehnsucht* (German)
 
+**Original Script:** Sehnsucht (Latin script, German)
+
 Approximate: longing, yearning, craving.
 
 But *Sehnsucht* is more specific. It is longing for something you have never had--a home you have never seen, a completeness you have never experienced. C.S. Lewis called it "the inconsolable longing" and linked it to the numinous. It is desire without possible satisfaction, because its object does not exist in this world.
@@ -12375,6 +12383,8 @@ Where *toska* is Russian longing (tied to loss, to history, to the body), *Sehns
 ---
 
 ### *Schadenfreude* (German)
+
+**Original Script:** Schadenfreude (Latin script, German)
 
 This one has crossed into English, but incompletely. *Schadenfreude* is pleasure in another's pain--but the German word carries a comfort with this emotion that the borrowed word lacks. In English, admitting to *Schadenfreude* requires irony, confession, a knowing acknowledgment of one's own pettiness. In German, the word simply names a common experience without necessarily judging it.
 
@@ -12396,6 +12406,8 @@ When Anya insists that the body remembers, she is insisting on a knowing that th
 
 ### *mir graut's vor dir* (German)
 
+**Original Script:** Mir graut's vor dir (Latin script, German)
+
 Gretchen's line in Goethe's original: "I shudder before you."
 
 But *graut* is not "shudder." It is a word for horror that lives in the body, in the flesh recoiling before the mind registers the threat. The hard *t* at the end enacts what it means. The guttural *au* is the sound of the body recognizing danger.
@@ -12407,6 +12419,8 @@ This is what Goethe could do that no translation can replicate. This is what the
 ---
 
 ### *ruka ruku dershit* (Russian)
+
+**Original Script:** Рука руку держит
 
 Proverb: "one hand holds the other."
 
@@ -13006,7 +13020,7 @@ The Interpreter is *unheimlich*--it speaks every language but belongs to none, f
 
 - *Uncanny* (English) - common translation but loses the home
 - *Inquietante* (Italian) - disquieting (lacks the specificity)
-- *Etrange* (French) - strange (too general)
+- *Étrange* (French) - strange (too general)
 
 ---
 
@@ -13132,7 +13146,7 @@ Anya quotes it to the journalist who asks her to translate. She refuses: "Gretch
 
 **Related Concepts:**
 
-- *Je fremis* (French) - I shiver (too mild)
+- *Je frémis* (French) - I shiver (too mild)
 - *Mi viene i brividi* (Italian) - I get shivers (too physical)
 - *Horror* (Latin/English) - too intellectual
 
@@ -13566,7 +13580,7 @@ The Interpreter's translations are *poshlost*: smooth, adequate, self-satisfied.
 
 - *Kitsch* (German) - sentimental bad taste
 - *Philistinism* (English) - anti-intellectual (too narrow)
-- *Mauvais gout* (French) - bad taste (lacks the pretension)
+- *Mauvais goût* (French) - bad taste (lacks the pretension)
 
 ---
 
@@ -14145,7 +14159,7 @@ The play asks whether the optimization--designed by Western minds, encoding West
 
 ### Àṣẹ / Ase
 
-**Original Script:** Ase (no indigenous script)
+**Original Script:** Àṣẹ (Latin script with Yoruba diacritics)
 **Transliteration:** Àṣẹ [Ah-shay]
 **Language:** Yoruba
 **Literal Translation:** "Power to make things happen" / "So be it"
@@ -14304,7 +14318,7 @@ A young person, orphaned, remembers their mother's last words in Swahili: *Mpenz
 
 - *Amor* (Spanish) - too institutional
 - *Beloved* (English) - too archaic
-- *Cherie* (French) - too gendered
+- *Chérie* (French) - too gendered
 - *Amore* (Italian) - too possessive
 
 ---
