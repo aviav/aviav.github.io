@@ -11,7 +11,6 @@ variables:
   header-includes: |
     \usepackage{fontspec}
     \usepackage{ucharclasses}
-    \usepackage{newunicodechar}
     \newfontfamily\latinfont{Noto Serif}
     \newfontfamily\hebrewfont{Noto Serif Hebrew}
     \newfontfamily\arabicfont{Noto Sans Arabic}
@@ -19,16 +18,18 @@ variables:
     \newfontfamily\kannadafont{Noto Serif Kannada}
     \newfontfamily\malayalamfont{Noto Serif Malayalam}
     \newfontfamily\ipafont{Noto Sans}
-    \newunicodechar{'}{\latinfont{'}}
-    \newunicodechar{'}{\latinfont{'}}
-    \newunicodechar{"}{\latinfont{"}}
-    \newunicodechar{"}{\latinfont{"}}
-    \newunicodechar{—}{\latinfont{—}}
-    \newunicodechar{–}{\latinfont{–}}
+    \setTransitionsFor{GeneralPunctuation}{\latinfont}{\normalfont}
+    \setTransitionsFor{LatinExtendedAdditional}{\latinfont}{\normalfont}
+    \setTransitionsFor{Greek}{\latinfont}{\normalfont}
+    \setTransitionsFor{GreekExtended}{\latinfont}{\normalfont}
+    \setTransitionsFor{Cyrillic}{\latinfont}{\normalfont}
+    \setTransitionsFor{CyrillicSupplement}{\latinfont}{\normalfont}
     \setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
     \setTransitionsForArabics{\arabicfont}{\normalfont}
     \setTransitionsForDevanagari{\devanagarifont}{\normalfont}
     \setTransitionsFor{Kannada}{\kannadafont}{\normalfont}
     \setTransitionsFor{Malayalam}{\malayalamfont}{\normalfont}
     \setTransitionsFor{IPAExtensions}{\ipafont}{\normalfont}
+    \setTransitionsFor{PhoneticExtensions}{\ipafont}{\normalfont}
     \setTransitionsFor{SpacingModifierLetters}{\ipafont}{\normalfont}
+    \setTransitionsFor{CombiningDiacriticalMarks}{\ipafont}{\normalfont}
