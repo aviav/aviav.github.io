@@ -10,10 +10,12 @@ variables:
   toc-title: "Contents"
   header-includes: |
     \usepackage{fontspec}
+    \usepackage{bidi}
+    \TeXXeTstate=1
     \usepackage{ucharclasses}
     \newfontfamily\latinfont{Noto Serif}
-    \newfontfamily\hebrewfont{Noto Serif Hebrew}
-    \newfontfamily\arabicfont{Noto Sans Arabic}
+    \newfontfamily\hebrewfont[Script=Hebrew]{Noto Serif Hebrew}
+    \newfontfamily\arabicfont[Script=Arabic]{Noto Sans Arabic}
     \newfontfamily\devanagarifont{Noto Serif Devanagari}
     \newfontfamily\kannadafont{Noto Serif Kannada}
     \newfontfamily\malayalamfont{Noto Serif Malayalam}
@@ -24,8 +26,8 @@ variables:
     \setTransitionsFor{GreekExtended}{\latinfont}{\normalfont}
     \setTransitionsFor{Cyrillic}{\latinfont}{\normalfont}
     \setTransitionsFor{CyrillicSupplement}{\latinfont}{\normalfont}
-    \setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
-    \setTransitionsForArabics{\arabicfont}{\normalfont}
+    \setTransitionsFor{Hebrew}{\hebrewfont\setRTL}{\setLTR\normalfont}
+    \setTransitionsForArabics{\arabicfont\setRTL}{\setLTR\normalfont}
     \setTransitionsForDevanagari{\devanagarifont}{\normalfont}
     \setTransitionsFor{Kannada}{\kannadafont}{\normalfont}
     \setTransitionsFor{Malayalam}{\malayalamfont}{\normalfont}
