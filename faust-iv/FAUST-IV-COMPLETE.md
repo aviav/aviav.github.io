@@ -3994,6 +3994,7 @@ Naanu nillisidenu.
 *I stopped.*
 
 *(Sanskrit, from the Gita again, her voice dropping to ritual register)*
+योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा।
 Yoga-sthah kuru karmani sangam tyaktva.
 *Established in yoga, perform actions, abandoning attachment.*
 
@@ -4915,6 +4916,7 @@ L'eina no sap que l'Albert escriu malament perque el seu pare va morir el mes pa
 
 **THE FARMER:**
 *(Malayalam: "MAHN-noo sahm-sah-REE-koom. NING-gahl KEHL-koo-moh?")*
+മണ്ണ് സംസാരിക്കും. നിങ്ങൾ കേൾക്കുമോ?
 Mannu samsarikkum. Ningal kelkkumo?
 *The soil speaks. Will you listen?*
 
@@ -10704,9 +10706,11 @@ Ma.
 
 *[BEAT: The word hangs. Three seconds minimum.]*
 
+間は言葉と言葉の間にある。
 Ma wa kotoba to kotoba no aida ni aru.
 *Ma is the space between words.*
 
+間は息と息の間にある。
 Ma wa iki to iki no aida ni aru.
 *Ma is the space between breaths.*
 
@@ -11126,7 +11130,9 @@ Wait--translate--Meiling--machines--no Priya--students--Fatou--head inside--Cons
 *The CHORUS OF REFUSALS enters, speaking over each other--new voices, more languages, the tower rising:*
 
 TEACHER: *(Catalan)* Els meus estudiants no són dades!
-FARMER: *(Malayalam)* Mannu ariyunnu! Mannu ariyunnu!
+FARMER: *(Malayalam)*
+മണ്ണ് അറിയുന്നു! മണ്ണ് അറിയുന്നു!
+Mannu ariyunnu! Mannu ariyunnu!
 PROGRAMMER: *(German)* Ich optimiere keine Sucht!
 내 아이는 기계가 아닙니다!
 PARENT: *(Korean)* Nae aineun gigyega anibnida!
