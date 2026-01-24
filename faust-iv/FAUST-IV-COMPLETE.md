@@ -304,7 +304,6 @@ The scene numbering in FAUST IV is intentionally non-sequential, reflecting the 
 | Scene 12 | IV.2 | Der Übersetzer | The Translator |
 | Scene 15A | IV.opt | Das Verteilte Kind | The Distributed Child |
 | Side D | IV.sd | Kenji & Homunculus | Kenji & Homunculus |
-
 | Chorus 3 | IV.c | Chor der Lemuren | Chorus of Data Laborers |
 | Scene 13 | IV.3 | Das Entsetzen | The Horror |
 | Scene 14 | IV.4 | Das Wiedersehen | The Reunion |
