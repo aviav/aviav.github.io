@@ -13073,7 +13073,7 @@ This is how a play gets written. This is how a lot of things get written.
 
 **Original Script:** Sehnsucht
 **Transliteration:** [Zayn-zookt]
-**IPA:** /ˈzeːnˌzʊxt/
+**IPA:** `\ipa{/ˈzeːnˌzʊxt/}`{=latex}
 **Language:** German
 **Literal Translation:** "Longing-addiction" or "Seek-sickness"
 
@@ -13105,7 +13105,7 @@ Alexei struggles to translate *toska* into German and considers *Sehnsucht* but 
 ### Weltschmerz
 
 **Original Script:** Weltschmerz
-**IPA:** /ˈvɛltˌʃmɛʁts/
+**IPA:** `\ipa{/ˈvɛltˌʃmɛʁts/}`{=latex}
 **Transliteration:** [Velt-shmerts]
 **Language:** German
 **Literal Translation:** "World-pain"
@@ -13138,7 +13138,7 @@ Mephisto uses it in his confrontation with the Interpreter: "In my language ther
 ### Schadenfreude
 
 **Original Script:** Schadenfreude
-**IPA:** /ˈʃaːdn̩ˌfʁɔʏ̯də/
+**IPA:** `\ipa{/ˈʃaːdn̩ˌfʁɔʏ̯də/}`{=latex}
 **Transliteration:** [Shaa-den-froy-duh]
 **Language:** German
 **Literal Translation:** "Damage-joy" or "Harm-happiness"
@@ -13171,7 +13171,7 @@ Mephisto notes that the optimization, endlessly helpful, has no *Schadenfreude*.
 ### Sprachgefühl
 
 **Original Script:** Sprachgefühl
-**IPA:** /ˈʃpʁaːxɡəˌfyːl/
+**IPA:** `\ipa{/ˈʃpʁaːxɡəˌfyːl/}`{=latex}
 **Transliteration:** [Shprakh-guh-fyuhl]
 **Language:** German
 **Literal Translation:** "Language-feeling"
@@ -13204,7 +13204,7 @@ Elena, the Lemur who woke, has *Sprachgefühl* in three languages but trusts non
 ### Schweigen
 
 **Original Script:** Schweigen
-**IPA:** /ˈʃvaɪ̯ɡn̩/
+**IPA:** `\ipa{/ˈʃvaɪ̯ɡn̩/}`{=latex}
 **Transliteration:** [Shvy-gen]
 **Language:** German
 **Literal Translation:** "Silence" / "Keeping silent" / "To be silent"
@@ -13237,7 +13237,7 @@ The final moment. The Homunculus says: "Das Schweigen zwischen den Wortern"--the
 ### Heimat
 
 **Original Script:** Heimat
-**IPA:** /ˈhaɪ̯maːt/
+**IPA:** `\ipa{/ˈhaɪ̯maːt/}`{=latex}
 **Transliteration:** [Hy-mat]
 **Language:** German
 **Literal Translation:** "Homeland" / "Home-place"
@@ -13270,7 +13270,7 @@ Alexei has lost his *Heimat* twice--once when he left Russia, again when the Rus
 ### Unheimlich
 
 **Original Script:** Unheimlich
-**IPA:** /ʊnˈhaɪ̯mlɪç/
+**IPA:** `\ipa{/ʊnˈhaɪ̯mlɪç/}`{=latex}
 **Transliteration:** [Oon-hyme-likh]
 **Language:** German
 **Literal Translation:** "Un-homely" / "Un-*Heimat*-like"
@@ -13303,7 +13303,7 @@ The Interpreter is *unheimlich*--it speaks every language but belongs to none, f
 ### Streben
 
 **Original Script:** Streben
-**IPA:** /ˈʃtʁeːbn̩/
+**IPA:** `\ipa{/ˈʃtʁeːbn̩/}`{=latex}
 **Transliteration:** [Shtray-ben]
 **Language:** German
 **Literal Translation:** "Striving" / "To strive"
@@ -13433,7 +13433,7 @@ Anya quotes it to the journalist who asks her to translate. She refuses: "Gretch
 
 **Original Script:** Verweile doch, du bist so schön!
 **Transliteration:** [fair-VY-luh dokh, doo bist zo schön]
-**IPA:** /fɛɐ̯ˈvaɪ̯lə dɔx duː bɪst zoː ʃøːn/
+**IPA:** `\ipa{/fɛɐ̯ˈvaɪ̯lə dɔx duː bɪst zoː ʃøːn/}`{=latex}
 **Language:** German
 **Literal Translation:** "Stay, moment, you are so beautiful!"
 
@@ -13468,7 +13468,7 @@ The phrase echoes throughout, transformed. The optimization offers endless beaut
 
 **Original Script:** Das Ewig-Weibliche zieht uns hinan
 **Transliteration:** [dahs AY-vikh VYB-lih-khuh tseet oons hee-NAHN]
-**IPA:** /das ˈeːvɪç ˈvaɪ̯plɪçə t͡siːt ʊns hiˈnan/
+**IPA:** `\ipa{/das ˈeːvɪç ˈvaɪ̯plɪçə t͡siːt ʊns hiˈnan/}`{=latex}
 **Language:** German
 **Literal Translation:** "The Eternal Feminine draws us upward"
 
@@ -13501,7 +13501,7 @@ Transformed into its opposite: "Das Schweigen halt uns hier" (The silence holds 
 
 **Original Script:** Ich bin der Geist, der stets verneint
 **Transliteration:** [ikh bin dair gyst, dair shtets fer-NYNT]
-**IPA:** /ɪç bɪn deːɐ̯ gaɪ̯st deːɐ̯ ʃtɛt͡s fɛɐ̯ˈnaɪ̯nt/
+**IPA:** `\ipa{/ɪç bɪn deːɐ̯ gaɪ̯st deːɐ̯ ʃtɛt͡s fɛɐ̯ˈnaɪ̯nt/}`{=latex}
 **Language:** German
 **Literal Translation:** "I am the spirit that always negates"
 
@@ -13657,7 +13657,7 @@ This is how a play gets written. This is how a lot of things get written.
 
 **Original Script:** Тоска
 **Transliteration:** Toska [Toss-kah]
-**IPA:** /tɐˈska/
+**IPA:** `\ipa{/tɐˈska/}`{=latex}
 **Language:** Russian
 **Literal Translation:** "Anguish" / "Longing" / "Melancholy" / (none adequate)
 
@@ -13691,7 +13691,7 @@ Anya speaks of *toska* as untranslatable. The Chorus of Translators attempts to 
 
 **Original Script:** Душа
 **Transliteration:** Dusha [Doo-shah]
-**IPA:** /duˈʂa/
+**IPA:** `\ipa{/duˈʂa/}`{=latex}
 **Language:** Russian
 **Literal Translation:** "Soul"
 
@@ -13724,7 +13724,7 @@ When Anya speaks of what the body remembers, she speaks of *dusha*--not Christia
 
 **Original Script:** Тело помнит
 **Transliteration:** Telo pomnit [Tyeh-lo pom-nit]
-**IPA:** /ˈtʲelə ˈpomnʲɪt/
+**IPA:** `\ipa{/ˈtʲelə ˈpomnʲɪt/}`{=latex}
 **Language:** Russian
 **Literal Translation:** "The body remembers"
 
@@ -13797,7 +13797,7 @@ Anya and Meiling discover this phrase bridges their incomprehension. Anya says i
 
 **Original Script:** Я здесь
 **Transliteration:** Ya zdes [Yah zdess]
-**IPA:** /ja zʲdʲesʲ/
+**IPA:** `\ipa{/ja zʲdʲesʲ/}`{=latex}
 **Language:** Russian
 **Literal Translation:** "I am here"
 
@@ -13834,7 +13834,7 @@ Anya's assertion during the birth scene, the interview, the crisis. "Ya zdes. Dy
 
 **Original Script:** Пошлость
 **Transliteration:** Poshlost [Posh-lost]
-**IPA:** /ˈpoʂləsʲtʲ/
+**IPA:** `\ipa{/ˈpoʂləsʲtʲ/}`{=latex}
 **Language:** Russian
 **Literal Translation:** "Vulgarity" / "Banality" / "Philistinism" (none adequate)
 
@@ -13868,7 +13868,7 @@ The Interpreter's translations are *poshlost*: smooth, adequate, self-satisfied.
 ### Nichevo / Ничего
 
 **Original Script:** Ничего
-**IPA:** /nʲɪtɕɪˈvo/
+**IPA:** `\ipa{/nʲɪtɕɪˈvo/}`{=latex}
 **Transliteration:** Nichevo [Nee-cheh-vo]
 **Language:** Russian
 **Literal Translation:** "Nothing" / "It's nothing" / "Never mind"
@@ -13927,7 +13927,7 @@ And this is how resistance lives inside form: not as rejection but as insistence
 **Original Script:** 間
 
 **Transliteration:** Ma [Mah]
-**IPA:** /ma/
+**IPA:** `\ipa{/ma/}`{=latex}
 **Language:** Japanese
 **Literal Translation:** "Interval" / "Gap" / "Space" / "Pause"
 
@@ -13965,7 +13965,7 @@ Kenji, the researcher who left and returned, speaks of *ma*: "At the lab, we opt
 **Original Script:** 物の哀れ
 
 **Transliteration:** Mono no aware [Moh-noh noh ah-wah-reh]
-**IPA:** /mɔno no aˈwaɾe/
+**IPA:** `\ipa{/mɔno no aˈwaɾe/}`{=latex}
 **Language:** Japanese
 **Literal Translation:** "The pathos of things" / "Sensitivity to ephemera"
 
@@ -14030,7 +14030,7 @@ In Noh theater, *yugen* is the highest aesthetic value: the gesture held so the 
 **Original Script:** 侘寂
 
 **Transliteration:** Wabi-sabi [Wah-bee sah-bee]
-**IPA:** /ˈwabi ˈsabi/
+**IPA:** `\ipa{/ˈwabi ˈsabi/}`{=latex}
 **Language:** Japanese
 **Literal Translation:** "Rustic simplicity" + "the beauty of age and wear"
 
@@ -14267,7 +14267,7 @@ This is how a play gets written. This is how a lot of things get written.
 **Original Script:** `\RL{חוצפה}`{=latex}
 
 **Transliteration:** Chutzpah [Khoots-pah]
-**IPA:** /ˈxutspa/
+**IPA:** `\ipa{/ˈxutspa/}`{=latex}
 **Language:** Hebrew/Yiddish
 **Literal Translation:** "Audacity" / "Gall" / "Shameless boldness"
 
@@ -14301,7 +14301,7 @@ Mephisto on the optimization: "It has *chutzpah*. It uses the very fact of its h
 **Original Script:** `\RL{תיקון עולם}`{=latex}
 
 **Transliteration:** Tikkun olam [Ti-koon oh-lam]
-**IPA:** /tiˈkun oˈlam/
+**IPA:** `\ipa{/tiˈkun oˈlam/}`{=latex}
 **Language:** Hebrew
 **Literal Translation:** "Repair of the world"
 
@@ -14335,7 +14335,7 @@ Yosef grapples. Is alignment research a form of *tikkun olam*? Or does it contri
 **Original Script:** `\RL{הנני}`{=latex}
 
 **Transliteration:** Hineni [Hee-nay-nee]
-**IPA:** /hiˈneni/
+**IPA:** `\ipa{/hiˈneni/}`{=latex}
 **Language:** Hebrew
 **Literal Translation:** "Here I am"
 
@@ -14369,7 +14369,7 @@ Parallels *ya zdes* (Russian "I am here"). But they mean different things. *Ya z
 **Original Script:** `\RL{אמת}`{=latex}
 
 **Transliteration:** Emet [Eh-met]
-**IPA:** /eˈmet/
+**IPA:** `\ipa{/eˈmet/}`{=latex}
 **Language:** Hebrew
 **Literal Translation:** "Truth"
 
@@ -14426,7 +14426,7 @@ This is how a play gets written. This is how a lot of things get written.
 
 **Original Script:** Ubuntu
 **Transliteration:** Ubuntu [Oo-boon-too]
-**IPA:** /ùˈbúntù/
+**IPA:** `\ipa{/ùˈbúntù/}`{=latex}
 **Language:** Zulu/Xhosa/Ndebele (Nguni languages)
 **Literal Translation:** "Humanness" / "Human-ness through others"
 
@@ -14461,7 +14461,7 @@ The play asks whether the optimization--designed by Western minds, encoding West
 
 **Original Script:** Àṣẹ (Latin script with Yoruba diacritics)
 **Transliteration:** Àṣẹ [Ah-shay]
-**IPA:** /àʃɛ́/
+**IPA:** `\ipa{/àʃɛ́/}`{=latex}
 **Language:** Yoruba
 **Literal Translation:** "Power to make things happen" / "So be it"
 
@@ -14529,7 +14529,7 @@ The play asks: does the optimization have an *ori*? A destiny it was meant to fu
 
 **Original Script:** Teranga (no indigenous script)
 **Transliteration:** Teranga [Te-rahn-ga]
-**IPA:** /teˈɾaŋɡa/
+**IPA:** `\ipa{/teˈɾaŋɡa/}`{=latex}
 **Language:** Wolof (Senegal)
 **Literal Translation:** "Hospitality" / "Generosity"
 
@@ -14564,7 +14564,7 @@ Fatou, the content moderator, comes from a *teranga* culture. She gave *teranga*
 
 **Original Script:** Makasi (no indigenous script)
 **Transliteration:** Makasi [Ma-kah-see]
-**IPA:** /maˈkasi/
+**IPA:** `\ipa{/maˈkasi/}`{=latex}
 **Language:** Lingala (Congo)
 **Literal Translation:** "Strength" / "Power" / "Force"
 
@@ -14946,7 +14946,7 @@ This is how a play gets written. This is how a lot of things get written.
 
 **Original Script:** Saudade
 **Transliteration:** [Sow-dah-djee]
-**IPA:** /sɐwˈðaðɨ/
+**IPA:** `\ipa{/sɐwˈðaðɨ/}`{=latex}
 **Language:** Portuguese
 **Literal Translation:** "Longing" / "Nostalgia" / "Melancholic yearning"
 

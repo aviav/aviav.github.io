@@ -21,6 +21,7 @@ variables:
     \newfontfamily\kannadafont[Script=Kannada]{Noto Serif Kannada}
     \newfontfamily\malayalamfont[Script=Malayalam]{Noto Serif Malayalam}
     \newfontfamily\ipafont{Noto Sans}
+    \newcommand{\ipa}[1]{{\ipafont #1}}
     \setTransitionsFor{GeneralPunctuation}{\latinfont}{\normalfont}
     \setTransitionsFor{LatinExtendedAdditional}{\latinfont}{\normalfont}
     \setTransitionsFor{Greek}{\latinfont}{\normalfont}
@@ -33,6 +34,7 @@ variables:
     \setTransitionsForDevanagari{\devanagarifont}{\normalfont}
     \setTransitionsFor{Kannada}{\kannadafont}{\normalfont}
     \setTransitionsFor{Malayalam}{\malayalamfont}{\normalfont}
+    \setTransitionsFor{LatinExtendedB}{\ipafont}{\normalfont}
     \setTransitionsFor{IPAExtensions}{\ipafont}{\normalfont}
     \setTransitionsFor{PhoneticExtensions}{\ipafont}{\normalfont}
     \setTransitionsFor{SpacingModifierLetters}{\ipafont}{\normalfont}
