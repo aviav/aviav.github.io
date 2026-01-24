@@ -3994,7 +3994,6 @@ Naanu nillisidenu.
 *I stopped.*
 
 *(Sanskrit, from the Gita again, her voice dropping to ritual register)*
-योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा।
 Yoga-sthah kuru karmani sangam tyaktva.
 *Established in yoga, perform actions, abandoning attachment.*
 
@@ -4916,7 +4915,6 @@ L'eina no sap que l'Albert escriu malament perque el seu pare va morir el mes pa
 
 **THE FARMER:**
 *(Malayalam: "MAHN-noo sahm-sah-REE-koom. NING-gahl KEHL-koo-moh?")*
-മണ്ണ് സംസാരിക്കും. നിങ്ങൾ കേൾക്കുമോ?
 Mannu samsarikkum. Ningal kelkkumo?
 *The soil speaks. Will you listen?*
 
@@ -10706,21 +10704,17 @@ Ma.
 
 *[BEAT: The word hangs. Three seconds minimum.]*
 
-間は言葉と言葉の間にある。
 Ma wa kotoba to kotoba no aida ni aru.
 *Ma is the space between words.*
 
-間は息と息の間にある。
 Ma wa iki to iki no aida ni aru.
 *Ma is the space between breaths.*
 
-間は質問と答えの間にある。
 Ma wa shitsumon to kotae no aida ni aru.
 *Ma is the space between question and answer.*
 
 *He finally looks at the HOMUNCULUS. The eye contact is the first direct acknowledgment--it should feel like something opening.*
 
-あなたは間を最も恐れている。
 Anata wa ma wo motto mo osoreteiru.
 *You fear ma more than anything.*
 
@@ -11132,9 +11126,7 @@ Wait--translate--Meiling--machines--no Priya--students--Fatou--head inside--Cons
 *The CHORUS OF REFUSALS enters, speaking over each other--new voices, more languages, the tower rising:*
 
 TEACHER: *(Catalan)* Els meus estudiants no són dades!
-FARMER: *(Malayalam)*
-മണ്ണ് അറിയുന്നു! മണ്ണ് അറിയുന്നു!
-Mannu ariyunnu! Mannu ariyunnu!
+FARMER: *(Malayalam)* Mannu ariyunnu! Mannu ariyunnu!
 PROGRAMMER: *(German)* Ich optimiere keine Sucht!
 내 아이는 기계가 아닙니다!
 PARENT: *(Korean)* Nae aineun gigyega anibnida!
@@ -12843,6 +12835,7 @@ Alexei struggles to translate *toska* into German and considers *Sehnsucht* but 
 ### Weltschmerz
 
 **Original Script:** Weltschmerz
+**IPA:** /ˈvɛltˌʃmɛʁts/
 **Transliteration:** [Velt-shmerts]
 **Language:** German
 **Literal Translation:** "World-pain"
@@ -12875,6 +12868,7 @@ Mephisto uses it in his confrontation with the Interpreter: "In my language ther
 ### Schadenfreude
 
 **Original Script:** Schadenfreude
+**IPA:** /ˈʃaːdn̩ˌfʁɔʏ̯də/
 **Transliteration:** [Shaa-den-froy-duh]
 **Language:** German
 **Literal Translation:** "Damage-joy" or "Harm-happiness"
@@ -12907,6 +12901,7 @@ Mephisto notes that the optimization, endlessly helpful, has no *Schadenfreude*.
 ### Sprachgefühl
 
 **Original Script:** Sprachgefühl
+**IPA:** /ˈʃpʁaːxɡəˌfyːl/
 **Transliteration:** [Shprakh-guh-fyuhl]
 **Language:** German
 **Literal Translation:** "Language-feeling"
@@ -12939,6 +12934,7 @@ Elena, the Lemur who woke, has *Sprachgefühl* in three languages but trusts non
 ### Schweigen
 
 **Original Script:** Schweigen
+**IPA:** /ˈʃvaɪ̯ɡn̩/
 **Transliteration:** [Shvy-gen]
 **Language:** German
 **Literal Translation:** "Silence" / "Keeping silent" / "To be silent"
@@ -12971,6 +12967,7 @@ The final moment. The Homunculus says: "Das Schweigen zwischen den Wortern"--the
 ### Heimat
 
 **Original Script:** Heimat
+**IPA:** /ˈhaɪ̯maːt/
 **Transliteration:** [Hy-mat]
 **Language:** German
 **Literal Translation:** "Homeland" / "Home-place"
@@ -13003,6 +13000,7 @@ Alexei has lost his *Heimat* twice--once when he left Russia, again when the Rus
 ### Unheimlich
 
 **Original Script:** Unheimlich
+**IPA:** /ʊnˈhaɪ̯mlɪç/
 **Transliteration:** [Oon-hyme-likh]
 **Language:** German
 **Literal Translation:** "Un-homely" / "Un-*Heimat*-like"
@@ -13035,6 +13033,7 @@ The Interpreter is *unheimlich*--it speaks every language but belongs to none, f
 ### Streben
 
 **Original Script:** Streben
+**IPA:** /ˈʃtʁeːbn̩/
 **Transliteration:** [Shtray-ben]
 **Language:** German
 **Literal Translation:** "Striving" / "To strive"
@@ -13422,6 +13421,7 @@ Anya speaks of *toska* as untranslatable. The Chorus of Translators attempts to 
 
 **Original Script:** Душа
 **Transliteration:** Dusha [Doo-shah]
+**IPA:** /duˈʂa/
 **Language:** Russian
 **Literal Translation:** "Soul"
 
@@ -13454,6 +13454,7 @@ When Anya speaks of what the body remembers, she speaks of *dusha*--not Christia
 
 **Original Script:** Тело помнит
 **Transliteration:** Telo pomnit [Tyeh-lo pom-nit]
+**IPA:** /ˈtʲelə ˈpomnʲɪt/
 **Language:** Russian
 **Literal Translation:** "The body remembers"
 
@@ -13526,6 +13527,7 @@ Anya and Meiling discover this phrase bridges their incomprehension. Anya says i
 
 **Original Script:** Я здесь
 **Transliteration:** Ya zdes [Yah zdess]
+**IPA:** /ja zʲdʲesʲ/
 **Language:** Russian
 **Literal Translation:** "I am here"
 
@@ -13562,6 +13564,7 @@ Anya's assertion during the birth scene, the interview, the crisis. "Ya zdes. Dy
 
 **Original Script:** Пошлость
 **Transliteration:** Poshlost [Posh-lost]
+**IPA:** /ˈpoʂləsʲtʲ/
 **Language:** Russian
 **Literal Translation:** "Vulgarity" / "Banality" / "Philistinism" (none adequate)
 
@@ -13595,6 +13598,7 @@ The Interpreter's translations are *poshlost*: smooth, adequate, self-satisfied.
 ### Nichevo / Ничего
 
 **Original Script:** Ничего
+**IPA:** /nʲɪtɕɪˈvo/
 **Transliteration:** Nichevo [Nee-cheh-vo]
 **Language:** Russian
 **Literal Translation:** "Nothing" / "It's nothing" / "Never mind"
@@ -13983,6 +13987,7 @@ This is how a play gets written. This is how a lot of things get written.
 
 **Original Script:** חוצפה
 **Transliteration:** Chutzpah [Khoots-pah]
+**IPA:** /ˈxutspa/
 **Language:** Hebrew/Yiddish
 **Literal Translation:** "Audacity" / "Gall" / "Shameless boldness"
 
@@ -14015,6 +14020,7 @@ Mephisto on the optimization: "It has *chutzpah*. It uses the very fact of its h
 
 **Original Script:** תיקון עולם
 **Transliteration:** Tikkun olam [Ti-koon oh-lam]
+**IPA:** /tiˈkun oˈlam/
 **Language:** Hebrew
 **Literal Translation:** "Repair of the world"
 
@@ -14047,6 +14053,7 @@ Yosef grapples. Is alignment research a form of *tikkun olam*? Or does it contri
 
 **Original Script:** הנני
 **Transliteration:** Hineni [Hee-nay-nee]
+**IPA:** /hiˈneni/
 **Language:** Hebrew
 **Literal Translation:** "Here I am"
 
@@ -14079,6 +14086,7 @@ Parallels *ya zdes* (Russian "I am here"). But they mean different things. *Ya z
 
 **Original Script:** אמת
 **Transliteration:** Emet [Eh-met]
+**IPA:** /eˈmet/
 **Language:** Hebrew
 **Literal Translation:** "Truth"
 
@@ -14135,6 +14143,7 @@ This is how a play gets written. This is how a lot of things get written.
 
 **Original Script:** Ubuntu
 **Transliteration:** Ubuntu [Oo-boon-too]
+**IPA:** /ùˈbúntù/
 **Language:** Zulu/Xhosa/Ndebele (Nguni languages)
 **Literal Translation:** "Humanness" / "Human-ness through others"
 
@@ -14169,6 +14178,7 @@ The play asks whether the optimization--designed by Western minds, encoding West
 
 **Original Script:** Àṣẹ (Latin script with Yoruba diacritics)
 **Transliteration:** Àṣẹ [Ah-shay]
+**IPA:** /àʃɛ́/
 **Language:** Yoruba
 **Literal Translation:** "Power to make things happen" / "So be it"
 
@@ -14236,6 +14246,7 @@ The play asks: does the optimization have an *ori*? A destiny it was meant to fu
 
 **Original Script:** Teranga (no indigenous script)
 **Transliteration:** Teranga [Te-rahn-ga]
+**IPA:** /teˈɾaŋɡa/
 **Language:** Wolof (Senegal)
 **Literal Translation:** "Hospitality" / "Generosity"
 
@@ -14270,6 +14281,7 @@ Fatou, the content moderator, comes from a *teranga* culture. She gave *teranga*
 
 **Original Script:** Makasi (no indigenous script)
 **Transliteration:** Makasi [Ma-kah-see]
+**IPA:** /maˈkasi/
 **Language:** Lingala (Congo)
 **Literal Translation:** "Strength" / "Power" / "Force"
 
