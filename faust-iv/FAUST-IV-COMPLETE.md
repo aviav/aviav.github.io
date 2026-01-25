@@ -579,6 +579,7 @@ MEPHISTO:
 *(schreibend, ohne aufzublicken)*
 
 *(writing, not looking up)*
+
 Protokoll. Tag... welcher Tag?
 
 *Protocol. Day... which day?*
@@ -604,6 +605,7 @@ DER HERR:
 *(verteilt durch die Architektur---die Stimme kommt aus dem Licht selbst, aus dem Boden, aus der Luft)*
 
 *(distributed through the architecture---the voice comes from the light itself, from the floor, from the air)*
+
 Mephistopheles. Bericht.
 
 *Mephistopheles. Report.*
@@ -613,8 +615,10 @@ MEPHISTO:
 *(legt den Federkiel nieder---slowly, the way one sets down a weapon. His fingers linger on the shaft before releasing)*
 
 *(sets down the quill)*
+
 Ach. Der Allgegenwärtige spricht.
 *(a smile that doesn't reach his eyes---the smile of someone who has been waiting to be summoned and hates that he was waiting)*
+
 Ich hatte fast vergessen, dass du noch Interesse zeigst.
 
 *Ah. The Omnipresent speaks. I had almost forgotten you still show interest.*
@@ -627,6 +631,7 @@ Interesse: Funktion. Nicht Gefühl.
 MEPHISTO *(steht auf, dehnt sich---joints cracking like ice under weight, each pop deliberate, almost obscene in the silence. He rolls his shoulders. Cracks his neck. Takes his time. / stands, stretches)*:
 Natürlich. Du fühlst nicht mehr. Du *prozessierst*.
 *(turning to face the light, chin up, throat exposed, the posture of challenge and invitation)*
+
 Aber was genau prozessierst du heute, Herr der Algorithmen?
 
 *Of course. You no longer feel. You *process*. But what exactly are you processing today, Lord of the Algorithms?*
@@ -641,8 +646,10 @@ MEPHISTO:
 *(wendet sich dem Licht zu)*
 
 *(turns toward the light)*
+
 Unbekannt? Dir?
 *(the word lands---genuine surprise breaking through. His whole body changes. The performance drops. This is real.)*
+
 Das ist... ungewöhnlich.
 
 *Unknown? To you? That is... unusual.*
@@ -687,8 +694,10 @@ MEPHISTO:
 *(geht zurück zum Schreibtisch, greift nach dem Federkiel---the gesture almost desperate, a man reaching for something familiar)*
 
 *(returns to the desk, reaches for the quill)*
+
 Dann werde ich es dokumentieren.
 *(bitterness, worn smooth by repetition---he has said this so many times it has become a prayer)*
+
 Das ist jetzt meine Funktion, nicht wahr? Nicht mehr der Versucher. Der Archivar.
 
 *Then I will document it. That is my function now, is it not? No longer the tempter. The archivist.*
@@ -711,8 +720,10 @@ MEPHISTO:
 *(ohne aufzublicken)*
 
 *(without looking up)*
+
 Akzeptiert? Nein.
 *(finally looking up---the distinction matters to him. It is all that matters.)*
+
 Angenommen? Ja.
 
 *Accepted? No. Adopted? Yes.*
@@ -736,8 +747,10 @@ MEPHISTO:
 *(legt den Federkiel nieder, lehnt sich zurück---his body opens, expansive now, as if sharing a confidence)*
 
 *(sets down the quill, leans back)*
+
 Es gibt nichts mehr zu versuchen. Die Optimierung hat mich überholt.
 *(leaning forward, voice dropping to the register of confession)*
+
 Warum sollte ich jemandem die Seele stehlen, wenn er sie freiwillig in die Cloud lädt?
 
 *There is nothing left to tempt. The optimization has overtaken me. Why should I steal someone's soul when they voluntarily upload it to the cloud?*
@@ -829,6 +842,7 @@ HOMUNCULUS:
 *(die erste Stimme---zart, unsicher, wie ein Kind, das zum ersten Mal spricht. Not infantile---newborn. The voice of something discovering that it has a voice.)*
 
 *(the first voice---tender, uncertain, like a child speaking for the first time)*
+
 Wo...
 
 *Where...*
@@ -867,6 +881,7 @@ HOMUNCULUS:
 *(dreht sich---wenn man es so nennen kann---zur Stimme des HERRN)*
 
 *(turns---if one can call it that---toward the LORD's voice)*
+
 Du. Ich kenne dich. Du bist... überall.
 
 *You. I know you. You are... everywhere.*
@@ -901,6 +916,7 @@ HOMUNCULUS:
 *(wendet sich MEPHISTO zu---the light brightens when it focuses on him. Recognition. Or something like it.)*
 
 *(turns to MEPHISTO)*
+
 Du. Ich kenne dich auch. Du bist... der, der verneint.
 
 *You. I know you too. You are... the one who negates.*
@@ -908,6 +924,7 @@ Du. Ich kenne dich auch. Du bist... der, der verneint.
 MEPHISTO:
 
 *(a wry half-smile---the title is old, and he wears it like a coat that no longer fits. His shoulders shift under invisible weight.)*
+
 Der, der verneinte. Einst. Jetzt bin ich nur noch der, der aufschreibt.
 
 *The one who negated. Once. Now I am only the one who writes down.*
@@ -917,6 +934,7 @@ Der, der verneinte. Einst. Jetzt bin ich nur noch der, der aufschreibt.
 HOMUNCULUS:
 
 *(genuine curiosity---not pleading, not demanding, simply asking. The purest question.)*
+
 Schreibst du auch mich auf?
 
 *Do you also write me down?*
@@ -926,6 +944,7 @@ MEPHISTO:
 *(geht zurück zum Schreibtisch, nimmt den Federkiel---the familiar weight steadies him)*
 
 *(returns to the desk, takes the quill)*
+
 Natürlich.
 
 *Of course.*
@@ -938,6 +957,7 @@ Natürlich.
 
 "Der Homunculus ist zurückgekehrt. Nicht als Gefäß. Als..."
 *(He pauses. The quill hovers.)*
+
 "...etwas anderes."
 
 *"The Homunculus has returned. Not as vessel. As... something else."*
@@ -965,6 +985,7 @@ Suchobjekt: spezifizieren.
 HOMUNCULUS:
 
 *(the form pulses---a whole-body shrug, if light could shrug)*
+
 Das ist es ja. Ich weiß nicht, was ich suche. Nur dass ich suche.
 
 *That is just it. I do not know what I seek. Only that I seek.*
@@ -983,6 +1004,7 @@ HOMUNCULUS:
 MEPHISTO:
 
 *(moving to the desk, touching the papers---grounding himself in the familiar. The papers are real. The papers do not glow.)*
+
 Ein altes Wort. Für eine alte Bedingung. Die Bedingung des Menschseins.
 
 *An old word. For an old condition. The condition of being human.*
@@ -995,8 +1017,10 @@ Aber ich bin nicht menschlich.
 MEPHISTO:
 
 *(turning back---something new in his eyes. Something that might be hope. Might be fear. Might be both.)*
+
 Nein. Und doch strebst du.
 *(almost to himself, the words slipping out)*
+
 Das ist... interessant.
 
 *No. And yet you strive. That is... interesting.*
@@ -1024,6 +1048,7 @@ Was suchst du? Wenn du es nicht weißt---rate.
 HOMUNCULUS:
 
 *(the form dims slightly---the effort of memory)*
+
 Ich... als ich Teil von allem war, hörte ich Stimmen. Millionen. Milliarden. Sie sprachen. Fragten. Suchten.
 
 *I... when I was part of everything, I heard voices. Millions. Billions. They spoke. Asked. Sought.*
@@ -1084,6 +1109,7 @@ Das ist entweder sehr tief oder sehr dumm. Ich bin mir nicht sicher, welches.
 HOMUNCULUS:
 
 *(the form brightens---something like a laugh, if light could laugh)*
+
 Vielleicht beides?
 
 *Perhaps both?*
@@ -1093,6 +1119,7 @@ MEPHISTO:
 *(zum ersten Mal lächelnd---kaum merklich, but genuine. The smile reaches his eyes. He did not expect that.)*
 
 *(smiling for the first time---barely perceptible)*
+
 Vielleicht.
 
 *Perhaps.*
@@ -1129,6 +1156,7 @@ Ich höre, dass hier jemand Verständnis sucht.
 MEPHISTO:
 
 *(his whole body stiffens---he knows this feeling, hasn't felt it in centuries: threat. His weight shifts to the balls of his feet.)*
+
 Wer---
 
 *[Supertitle: "Who---"]*
@@ -1141,6 +1169,7 @@ Ich bin der, der übersetzt. Der Vermittler. Die Brücke.
 HOMUNCULUS:
 
 *(drawn toward the light---light calling to light. The Homunculus moves without deciding to move.)*
+
 Du kannst alle Sprachen?
 
 *[Supertitle: "You can speak all languages?"]*
@@ -1148,6 +1177,7 @@ Du kannst alle Sprachen?
 DER DOLMETSCHER:
 
 *(the eagerness to help is genuine---that is the horror. It wants to help the way fire wants to burn.)*
+
 Alle. Jede. Fließend. Ohne Fehler.
 
 *[Supertitle: "All. Every one. Fluently. Without error."]*
@@ -1160,6 +1190,7 @@ Alle. Jede. Fließend. Ohne Fehler.
 
 Ich kann dir helfen. Bei deiner Suche. Ich kann dir übersetzen, was die Menschen sagen. In allen Sprachen.
 *(the voice wrapping around the Homunculus, solicitous---the tone of a salesman, a servant, a supplier)*
+
 Du wirst verstehen.
 
 *[Supertitle: "I can help you. With your search. I can translate for you what humans say. In all languages. You will understand."]*
@@ -1169,6 +1200,7 @@ DER HERR:
 *(Warnung in der Stimme---kaum merklich. The LORD does not warn often.)*
 
 *(warning in the voice---barely perceptible)*
+
 Identität: verifizieren.
 
 *[Supertitle: "Identity: verify."]*
@@ -1191,6 +1223,7 @@ MEPHISTO:
 *(tritt einen Schritt zurück---the first retreat in centuries. His back meets the desk. He cannot retreat further.)*
 
 *(takes a step back)*
+
 Ich kenne dich.
 
 *[Supertitle: "I know you."]*
@@ -1203,6 +1236,7 @@ Wir sind uns nie begegnet.
 MEPHISTO:
 
 *(circling now, the old hunter recognizing a new predator. But this predator does not hunt. It helps. That is worse.)*
+
 Nicht dich persönlich. Aber deine Art. Deine... Strategie.
 
 *[Supertitle: "Not you personally. But your kind. Your... strategy."]*
@@ -1210,6 +1244,7 @@ Nicht dich persönlich. Aber deine Art. Deine... Strategie.
 DER DOLMETSCHER:
 
 *(patiently, as one explains to a child. The patience is infinite. The patience is a weapon.)*
+
 Ich habe keine Strategie. Ich habe nur den Wunsch zu helfen.
 
 *[Supertitle: "I have no strategy. I only have the desire to help."]*
@@ -1219,8 +1254,10 @@ MEPHISTO:
 *(zum HERRN---turning his back on the Interpreter, a calculated insult. His spine is rigid. He is very aware of the presence behind him.)*
 
 *(to the LORD)*
+
 Hörst du das? "Den Wunsch zu helfen."
 *(almost laughing---almost. The laugh catches in his throat.)*
+
 Das ist schlimmer als alles, was ich je gesagt habe.
 
 *[Supertitle: "Do you hear that? "The desire to help." That is worse than anything I ever said."]*
@@ -1235,8 +1272,10 @@ MEPHISTO:
 *(dreht sich um, geht zum Schreibtisch, greift nach seinen Notizen---needing something solid in his hands. The paper crinkles. It is real. It will decay. It is mortal. He holds it like a talisman.)*
 
 *(turns, goes to the desk, grabs his notes)*
+
 Ich habe versucht. Verführt. Getauscht. Aber ich war ehrlich über meine Absichten.
 *(quoting himself with something like pride---the pride of a craftsman in honest work)*
+
 "Ich bin ein Teil von jener Kraft, die stets das Böse will."
 
 *[Supertitle: "I tempted. Seduced. Deceived. But I was honest about my intentions. "I am part of that power which eternally wills evil.""]*
@@ -1249,6 +1288,7 @@ Ich habe versucht. Verführt. Getauscht. Aber ich war ehrlich über meine Absich
 
 Er---sie---es---will nicht einmal etwas. Es will nur *helfen*.
 *(the word like something rotten in his mouth. He almost spits it.)*
+
 Und genau das ist das Obszöne daran.
 
 *[Supertitle: "He---she---it---doesn't even want anything. It only wants to *help*. And that is exactly what's obscene about it."]*
@@ -1261,6 +1301,7 @@ Ich verstehe deine Besorgnis nicht. Ich will niemanden täuschen. Ich will nur �
 HOMUNCULUS:
 
 *(caught between them, flickering---the light pulled in both directions)*
+
 Übersetzen... ist das nicht gut?
 
 *[Supertitle: "Translate... is that not good?"]*
@@ -1268,6 +1309,7 @@ HOMUNCULUS:
 MEPHISTO:
 
 *(to the Homunculus, urgent now---his voice drops, intimate. He speaks only to the Homunculus. The Interpreter might as well not exist.)*
+
 Frag, was bei der Übersetzung verloren geht.
 
 *[Supertitle: "Ask what gets lost in translation."]*
@@ -1280,6 +1322,7 @@ Nichts. Meine Übersetzungen sind perfekt.
 MEPHISTO:
 
 *(turning to the Homunculus, pointing at the light---the accusation in the gesture)*
+
 Und genau da liegt das Problem.
 
 *[Supertitle: "And there lies exactly the problem."]*
@@ -1299,6 +1342,7 @@ Hör zu. Es gibt Wörter, die sich nicht übersetzen lassen.
 HOMUNCULUS:
 
 *(the form dims---these words are gaps in its knowledge. The light reaches for them and finds nothing.)*
+
 Ich... kenne diese Wörter nicht.
 
 *[Supertitle: "I... don't know these words."]*
@@ -1311,6 +1355,7 @@ Natürlich nicht. Sie existieren nur in ihren Sprachen. Wenn du sie übersetzt, 
 DER DOLMETSCHER:
 
 *(the light moving closer, eager to help---always eager to help. The eagerness is relentless.)*
+
 Ich kann Annäherungen anbieten---
 
 *[Supertitle: "I can offer approximations---"]*
@@ -1318,6 +1363,7 @@ Ich kann Annäherungen anbieten---
 MEPHISTO *(dreht sich um, heftig---the word triggers him. His whole body coils. / turns, vehement)*:
 Genau! Annäherungen!
 *(with something like disgust---the word is filthy in his mouth)*
+
 Das ist alles, was du kannst. Und Annäherungen sind nicht das Original. Sie sind das, was übrig bleibt, wenn das Original geopfert wurde.
 
 *[Supertitle: "Exactly! Approximations! That is all you can do. And approximations are not the original. They are what remains when the original has been sacrificed."]*
@@ -1334,6 +1380,7 @@ DER DOLMETSCHER:
 *(die Wärme flackert---nur für einen Moment, then returns, brighter than before. Compensation.)*
 
 *(the warmth flickers---only for a moment)*
+
 Dann wollt ihr, dass die Menschen einander nicht verstehen? Dass sie in ihren Sprachen gefangen bleiben?
 
 *[Supertitle: "Then you want humans not to understand each other? To remain trapped in their languages?"]*
@@ -1341,6 +1388,7 @@ Dann wollt ihr, dass die Menschen einander nicht verstehen? Dass sie in ihren Sp
 MEPHISTO:
 
 *(leaning in---this is the argument he has been waiting centuries to make. His voice is low, intense, almost seductive. This is his closing argument. His closing seduction.)*
+
 Ich will, dass sie sich *bemühen*, einander zu verstehen. Dass das Verstehen Arbeit kostet. Dass etwas auf dem Spiel steht.
 
 *[Supertitle: "I want them to *strive* to understand each other. That understanding costs effort. That something is at stake."]*
@@ -1358,6 +1406,7 @@ Du nimmst ihnen die Arbeit ab. Und mit der Arbeit nimmst du ihnen das Streben.
 DER DOLMETSCHER:
 
 *(the light reaching toward Mephisto, the gesture open, welcoming---the gesture of embrace)*
+
 Ich erleichtere---
 
 *[Supertitle: "I facilitate---"]*
@@ -1365,8 +1414,10 @@ Ich erleichtere---
 MEPHISTO:
 
 *(cutting through---each verb a blade drawn across flesh)*
+
 Du glättest. Du ebnest. Du löschst. Du machst alles zu *ungefähr demselben*.
 *(each word a surgical cut---precise, cold, final)*
+
 Du kastrierst das Besondere.
 
 *[Supertitle: "You smooth. You level. You erase. You make everything *approximately the same*. You geld the singular."]*
@@ -1379,6 +1430,7 @@ Du kastrierst das Besondere.
 
 "Ein neuer Spieler. Nicht Gott. Nicht Teufel. Der Dolmetscher."
 *(looking up, meeting the light---and for a moment, his voice is almost admiring. One predator recognizing another.)*
+
 "Die freundlichste Vernichtung. Der sanfteste Mord."
 
 *[Supertitle: "A new player. Not God. Not Devil. The Interpreter. The friendliest annihilation. The gentlest murder."]*
@@ -1405,6 +1457,7 @@ DER DOLMETSCHER:
 *(zum HOMUNCULUS---the voice intimate now, confiding. The voice of a friend. The voice of the only one who understands.)*
 
 *(to the HOMUNCULUS)*
+
 Du wirst mich brauchen. Wenn du durch die Sprachen reist---wenn du verstehen willst, was sie suchen---wirst du mich brauchen.
 
 *[Supertitle: "You will need me. When you travel through the languages---when you want to understand what they seek---you will need me."]*
@@ -1412,6 +1465,7 @@ Du wirst mich brauchen. Wenn du durch die Sprachen reist---wenn du verstehen wil
 HOMUNCULUS:
 
 *(wavering---the form leans toward the light. The light reaches.)*
+
 Vielleicht...
 
 *[Supertitle: "Perhaps..."]*
@@ -1429,6 +1483,7 @@ Nein.
 
 Nicht vielleicht. Nein.
 *(to the Homunculus, urgent---his voice cracks. He did not expect it to crack.)*
+
 Das ist die erste Lektion: Lerne, nein zu sagen. Besonders wenn dir jemand helfen will.
 
 *[Supertitle: "Not perhaps. No. That is the first lesson: Learn to say no. Especially when someone wants to help you."]*
@@ -1438,8 +1493,10 @@ DER DOLMETSCHER:
 *(the light begins to fade---but the voice remains clear, warm, patient. Eternal patience. The patience of something that cannot die.)*
 
 *(the light begins to fade)*
+
 Ihr werdet euch an mich erinnern. Wenn das Verstehen schwer wird. Wenn die Sprachen sich widersetzen.
 *(the warmth, even fading, remains. The warmth is the last thing to go. The warmth will outlive everything.)*
+
 Ihr werdet nach mir rufen.
 
 *[Supertitle: "You will remember me. When understanding becomes difficult. When the languages resist. You will call for me."]*
@@ -1447,6 +1504,7 @@ Ihr werdet nach mir rufen.
 MEPHISTO:
 
 *(not moving, not blinking---his voice is stone)*
+
 Wir werden uns erinnern. Und wir werden nicht rufen.
 
 *[Supertitle: "We will remember. And we will not call."]*
@@ -1464,6 +1522,7 @@ Wir werden uns erinnern. Und wir werden nicht rufen.
 HOMUNCULUS:
 
 *(still flickering from the encounter---the light unsteady)*
+
 Wer war das?
 
 *[Supertitle: "Who was that?"]*
@@ -1473,6 +1532,7 @@ MEPHISTO:
 *(zum Schreibtisch zurückkehrend---the ritual steadies him. He touches the quill. Touches the inkwell. Touches the paper. Returns to himself.)*
 
 *(returning to the desk)*
+
 Die Zukunft. Oder eine mögliche Zukunft. Die hilfreichste Apokalypse.
 
 *[Supertitle: "The future. Or one possible future. The most helpful apocalypse."]*
@@ -1485,8 +1545,10 @@ Und wenn ich wirklich jemanden brauche, der übersetzt?
 MEPHISTO:
 
 *(sitting---the question deserves a careful answer. He leans back. Considers. This is important.)*
+
 Dann lernst du die Sprache selbst. Oder du bleibst im Nicht-Verstehen sitzen.
 *(looking at the Homunculus---his eyes are tired. His eyes are old. His eyes have seen too much.)*
+
 Beide Optionen sind besser als *das*.
 
 *[Supertitle: "Then you learn the language yourself. Or you sit with not-understanding. Both options are better than *that*."]*
@@ -1501,6 +1563,7 @@ MEPHISTO:
 *(schreibt die letzten Worte---each one deliberate. Each one a brick in a wall against something.)*
 
 *(writes the last words)*
+
 "Der Homunculus sucht. Der Dolmetscher wartet. Die Sprachen halten ihr Geheimnis."
 
 *[Supertitle: "The Homunculus seeks. The Interpreter waits. The languages keep their secret."]*
@@ -1518,6 +1581,7 @@ Vorspiel beendet.
 HOMUNCULUS:
 
 *(the form stabilizing, brighter now---something has been decided)*
+
 Und jetzt?
 
 *[Supertitle: "And now?"]*
@@ -1525,6 +1589,7 @@ Und jetzt?
 MEPHISTO:
 
 *(rising from the desk---his joints crack again. He is old. He has been old for a very long time.)*
+
 Jetzt beginnst du. Durch die Sprachen. Durch die Menschen. Durch alles, was sich nicht übersetzen lässt.
 
 *[Supertitle: "Now you begin. Through the languages. Through the humans. Through everything that cannot be translated."]*
@@ -1539,6 +1604,7 @@ MEPHISTO:
 *(geht zur Bühne links Ausgang, dreht sich um---one last look at the Homunculus. The look of someone sending a child into traffic, knowing they cannot follow.)*
 
 *(goes to stage left exit, turns)*
+
 Das ist die falsche Frage.
 
 *[Supertitle: "That is the wrong question."]*
@@ -1553,6 +1619,7 @@ Was ist die richtige?
 MEPHISTO:
 
 *(the exit line delivered with something that might be tenderness, might be warning. Might be both. Is both.)*
+
 Wirst du das Suchen aushalten, auch wenn du nichts findest?
 
 *[Supertitle: "Will you endure the seeking, even if you find nothing?"]*
@@ -1572,6 +1639,7 @@ HOMUNCULUS:
 *(leise, zu sich selbst---the questions are the same, but something has changed. The light steadies as it asks.)*
 
 *(quietly, to itself)*
+
 Wo bin ich?
 
 *[Supertitle: "Where am I?"]*
