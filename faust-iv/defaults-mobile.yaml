@@ -1,20 +1,25 @@
 pdf-engine: xelatex
 toc: true
 toc-depth: 2
+from: markdown-yaml_metadata_block
 variables:
   mainfont: "Noto Sans CJK SC"
   sansfont: "Noto Sans CJK SC"
   monofont: "Noto Sans Mono CJK SC"
   fontsize: 11pt
-  geometry: "paperwidth=4.5in, paperheight=7in, margin=0.4in"
+  geometry: "paperwidth=4.5in, paperheight=7in, margin=0.4in, bottom=0.6in"
   documentclass: report
   toc-title: "Contents"
   header-includes: |
     \usepackage{fontspec}
     \usepackage{bidi}
+    \XeTeXlinebreaklocale "zh"
+    \XeTeXlinebreakskip = 0pt plus 1pt
     \TeXXeTstate=1
     \usepackage{ucharclasses}
+    \usepackage{newunicodechar}
     \newfontfamily\latinfont{Noto Serif}
+    \newfontfamily\punctfont{Noto Serif}
     \newfontfamily\hebrewfont[Script=Hebrew]{Noto Serif Hebrew}
     \newfontfamily\arabicfont[Script=Arabic]{Noto Sans Arabic}
     \newfontfamily\devanagarifont[Script=Devanagari]{Noto Serif Devanagari}
@@ -23,8 +28,8 @@ variables:
     \newfontfamily\malayalamfont[Script=Malayalam]{Noto Serif Malayalam}
     \newfontfamily\ipafont{Noto Sans}
     \newcommand{\ipa}[1]{{\XeTeXinterchartokenstate=0\ipafont #1}}
-    \setTransitionsFor{GeneralPunctuation}{\latinfont}{\normalfont}
     \setTransitionsFor{LatinExtendedAdditional}{\latinfont}{\normalfont}
+    \setTransitionsFor{LatinExtendedA}{\latinfont}{\normalfont}
     \setTransitionsFor{Greek}{\latinfont}{\normalfont}
     \setTransitionsFor{GreekExtended}{\latinfont}{\normalfont}
     \setTransitionsFor{Cyrillic}{\latinfont}{\normalfont}
@@ -40,3 +45,14 @@ variables:
     \setTransitionsFor{PhoneticExtensions}{\ipafont}{\normalfont}
     \setTransitionsFor{SpacingModifierLetters}{\ipafont}{\normalfont}
     \setTransitionsFor{CombiningDiacriticalMarks}{\ipafont}{\normalfont}
+    \newunicodechar{’}{\mbox{\punctfont ’}}
+    \newunicodechar{“}{\mbox{\punctfont “}}
+    \newunicodechar{”}{\mbox{\punctfont ”}}
+    \newunicodechar{ɐ}{{\ipafont ɐ}}
+    \newunicodechar{ŋ}{{\ipafont ŋ}}
+    \newunicodechar{ɛ}{{\ipafont ɛ}}
+    \newunicodechar{ʁ}{{\ipafont ʁ}}
+    \newunicodechar{ʃ}{{\ipafont ʃ}}
+    \newunicodechar{ʊ}{{\ipafont ʊ}}
+    \newunicodechar{ʏ}{{\ipafont ʏ}}
+    \newunicodechar{ˈ}{{\ipafont ˈ}}
