@@ -26,6 +26,7 @@ variables:
     \newcommand{\danda}{{\devanagarifont।}}
     \newfontfamily\kannadafont[Script=Kannada]{Noto Serif Kannada}
     \newfontfamily\malayalamfont[Script=Malayalam]{Noto Serif Malayalam}
+    \newfontfamily\armenianfont[Script=Armenian]{Noto Serif Armenian}
     \newfontfamily\ipafont{Noto Sans}
     \newcommand{\ipa}[1]{{\XeTeXinterchartokenstate=0\ipafont #1}}
     \setTransitionsFor{LatinExtendedAdditional}{\latinfont}{\normalfont}
@@ -40,6 +41,7 @@ variables:
     \setTransitionsForDevanagari{\devanagarifont}{\normalfont}
     \setTransitionsFor{Kannada}{\kannadafont}{\normalfont}
     \setTransitionsFor{Malayalam}{\malayalamfont}{\normalfont}
+    \setTransitionsFor{Armenian}{\armenianfont}{\normalfont}
     \setTransitionsFor{LatinExtendedB}{\ipafont}{\normalfont}
     \setTransitionsFor{IPAExtensions}{\ipafont}{\normalfont}
     \setTransitionsFor{PhoneticExtensions}{\ipafont}{\normalfont}
